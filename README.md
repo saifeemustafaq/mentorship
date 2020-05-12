@@ -12,6 +12,7 @@ This repository is made to record the experiences and things learned by the ment
 
 # Useful Links 🔗
 * [Markdown](https://www.markdownguide.org/basic-syntax/)
+* [YouTube link to the Cohort-1 | Episode 1](https://youtu.be/mpzewUWKmr4)
 
 ---
 
