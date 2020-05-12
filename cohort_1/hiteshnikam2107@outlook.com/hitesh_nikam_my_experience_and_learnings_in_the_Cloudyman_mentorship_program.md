@@ -1,7 +1,7 @@
 > # This blog is part of the **[Cloudyman Mentorship Program](https://t.co/78sRvCvYiO?amp=1)** under the mentorship of *[Mustafa Saifee](https://www.linkedin.com/in/saifeemustafaq/)*
 
 ## Date: May 12, 2020
-> Today I learned about Cloud Computing.
+> Today I learned about Cloud Computing and using github.
 
 # 1.What is *cloud computing*?
 
@@ -12,7 +12,7 @@
 
 # 3.What is github and benefits of github?
 #### GitHub is an open-source repository hosting service, sort of like a cloud for code. It hosts your source code projects in a variety of different programming languages and keeps track of the various changes made to every iteration. The service is able to do this by using git, a revision control system that runs in the command line interface.
-####Advantages of using Github:
+#### Advantages of using Github:
 
 •GitHub provides developers and researchers with a dynamic and collaborative environment, often referred to as a social coding platform, that supports peer review, commenting, and discussion.
 
