@@ -2,3 +2,7 @@
 
 ## Date: May 12, 2020
 Today I learned:
+ what is cloud computing?
+ concept of markdown language
+ what is github and benefits of github
+ Importance of technical documentation 
