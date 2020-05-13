@@ -11,7 +11,7 @@
 5. what are markup and markdown language?
 6. what is a centralized system?
 
-# What is *cloud computing*?
+# Basic definition of *Cloud computing* 
 #### Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet (“the cloud”) to offer faster innovation, flexible resources, and economies of scale. You typically pay only for cloud services you use, helping lower your operating costs, run your infrastructure more efficiently and scale as your business needs change.
 
 
