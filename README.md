@@ -54,6 +54,8 @@ This repository is made to record the experiences and things learned by the ment
   - Automatic Software Updates
   - Competitive Edge
   - Sustainability 
+  
+- [ ] Disaster Recovery
 
 - [ ] What is Capital expenditure (CapEx) versus operational expenditure (OpEx)
 
