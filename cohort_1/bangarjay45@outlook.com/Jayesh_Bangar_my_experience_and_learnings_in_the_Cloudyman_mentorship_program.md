@@ -1,7 +1,8 @@
 > # This blog is part of the **[Cloudyman Mentorship Program](https://t.co/78sRvCvYiO?amp=1)** under the mentorship of *[Mustafa Saifee](https://www.linkedin.com/in/saifeemustafaq/)*
 
 ### Date: May 12, 2020
->Today I learned:
+> Today I learned:
+
 1.What is *Cloud Computing*? Why is it essential?
 2.What is *Scalability* in Cloud Computing?
 3.What is Markdown Language?
