@@ -41,6 +41,18 @@ This repository is made to record the experiences and things learned by the ment
 - [ ] What is Cloud Computing
 
 - [ ] Benefits of cloud computing
+  - Cost Savings
+  - Security
+  - Flexibility
+  - Mobility
+  - Insight
+  - Increased Collaboration
+  - Quality Control
+  - Disaster Recovery
+  - Loss Prevention
+  - Automatic Software Updates
+  - Competitive Edge
+  - Sustainability 
 
 - [ ] What is Capital expenditure (CapEx) versus operational expenditure (OpEx)
 
