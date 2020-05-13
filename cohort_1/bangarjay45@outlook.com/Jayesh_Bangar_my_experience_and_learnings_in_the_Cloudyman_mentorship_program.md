@@ -9,7 +9,6 @@
 3. What is Markdown Language?
 4. What is *GitHub*? Why should i use it?
 
-
 # What is *Cloud Computing*? Why is it essential?
 - #### Cloud Computing allows users to use applications without installation, hence increasing the computing efficiency and processing speed.
 - #### It is done by centralizing data storage, the processing and bandwidth.
