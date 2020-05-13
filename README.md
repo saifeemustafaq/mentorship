@@ -39,7 +39,7 @@ This repository is made to record the experiences and things learned by the ment
 ---
 
 - [ ] What is Cloud Computing
-  - #### [Link 1](https://azure.microsoft.com/en-in/overview/what-is-cloud-computing/) || [Link 2](https://aws.amazon.com/what-is-cloud-computing/) || [Link 3](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-from-public-and-private-cloud-to-software-as-a/)
+  - #### || *[Link 1](https://azure.microsoft.com/en-in/overview/what-is-cloud-computing/)* || *[Link 2](https://aws.amazon.com/what-is-cloud-computing/)* || *[Link 3](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-from-public-and-private-cloud-to-software-as-a/)* ||
 
 - [ ] Benefits of cloud computing
   - Cost Savings
