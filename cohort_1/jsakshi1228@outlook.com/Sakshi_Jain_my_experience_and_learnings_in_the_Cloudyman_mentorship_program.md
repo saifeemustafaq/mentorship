@@ -2,6 +2,7 @@
 
 ## Date: May 12, 2020
 
+> ### Today I learned:-
 > 1. _Breif introduction of Cloud computing_
 > 2. _Why do we use Cloud computing?_
 > 3. _What is the basic concept of GitHub?_
