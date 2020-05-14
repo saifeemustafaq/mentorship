@@ -27,3 +27,5 @@
 
 # 5.Importance of technical documentation .
 #### Importance of technical documentation Documentation help ensure consent and expectations. Having reliable documentation is crucial in helping users figure out how to use a product as well as aiding writers and developers in creating work of consistent and high quality. Also if you are working on something currently and meanwhile you forget one or the other thing then you can always have a quick look at your documentation and recall evrything. Technical documentation is an asset for your organization, for the simple reason that it enables employees to access information without chasing their managers.
+## Date: May 13, 2020
+> Today I learned about the benefits of cloud computing.
