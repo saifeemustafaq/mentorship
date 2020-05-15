@@ -10,3 +10,4 @@
 - Microsoft Azure
 - Google Cloud Platform
 
+LinkedIn Profile - https://www.linkedin.com/in/vipul-joshi-24aa7490
