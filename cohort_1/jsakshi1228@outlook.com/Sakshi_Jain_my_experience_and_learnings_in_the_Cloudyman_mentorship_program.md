@@ -73,5 +73,11 @@ GitHub lets you (and others) work together on projects. It allows you to share y
     * Consider when we request a site to ahe web server, and it loads for us that site. Then we are Web client and server who is providing the data is working as a centralised system for a all the web clients. 
 
 
+## Date: May 13, 2020
 
+> ### Today I learned 
+> About the benefits of cloud computing 
+
+# _Benefits of Cloud computing_
+* There are lots of benefits of using cloud computing. It is very user friendly and makes easier to store and access data on any system around the globe.
 
