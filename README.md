@@ -32,6 +32,8 @@ This repository is made to record the experiences and things learned by the ment
 
 - [ ] Download Grammarly for Desktop from here **[Grammarly](https://download-editor.grammarly.com/windows/GrammarlySetup.exe)** and signup on it.
 
+- [ ] Create an account on **[LinkedIn](https://linkedin.com/)** if not already done.
+
 ---
 
 > # Blog - Content
