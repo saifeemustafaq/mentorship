@@ -8,5 +8,16 @@
 
 ### What is **Internet of Things**(Iot)?
 - Internet of Things, is a system of internet connected computing devices, mechanical and digital machines or objects that have the ability to transfer data over a private network, resulting in reduced human efforts and a number of other advantages.
+- Thanks to some brilliant minds, computer chips and wireless networks, we can turn anything(possibly) into a part of IoT.
+- With Arduino, different sensors and motors, we can add some *digital intelligence* to dumb things, also enabling them to communicate, collect data or work for us without involving humans; the possibilities are endless.
 - A intresting example of IoT device is **Amazon Echo** and many other smart speakers. It makes easier for people to play music, sounds amazing right!!
-- Another example is Smart Home Lights. With a simple touch or Voice command, network connection, Smart led lights can be turned On/Off with just a single tap on your mobile device.
+- Another example is Smart Home Lights. With a simple touch or Voice command, network connection, Smart led lights can be turned On/Off or their colour could be changed.
+- IoT platform grants the user to control the IoT devices safely, whereever you are.
+
+### Why is IoT so important?
+- let's start with a simple example:
+  - Say you're a manager in a big pharmaceutical industry and the responsibility of monitoring the **temp.** of a given drug rests on your shoulders.
+  - The **Gov** has decided the threshold limit values of the drug, such that the **temp.** should not strictly exceed these limits, else your company might face a big loss.
+  - A smart **Arduino and sensor** would make it easier for you to continuously monitor these temperatures as it would alert you by sending a pop-up messsage on your device if the temperature is about to exceed the set limits.
+  - Also **Self-driving Cars, Smart cities..** just to name a few.
+- Many Organisations use different approach with the help of IoT to operate more efficiently, to improve, monitor or to change decision making.
