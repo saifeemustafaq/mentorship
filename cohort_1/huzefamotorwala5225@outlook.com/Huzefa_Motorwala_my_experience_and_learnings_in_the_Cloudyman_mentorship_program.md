@@ -26,4 +26,11 @@
 
 > # Benefits of cloud computing
 - ## COST SAVING
-  - #### ***For example***  if I start my own company and hire 10 high-end designers and provide them with high tech computers, then, first of all, it will require a vast investment and secondly, I'm not sure if the designers are best at their job, so it's kind of huge risk. so, what I will do is provide my designers with mid-ranged computers and then I will install a virtual machine in the computers with specifications that can help my designers so what I did is that I took processing power from a cloud vendor on rent as I do not have a high-end processor so that is how I saved my money  
+  - #### ***For example***  if I start my own company and hire 10 high-end designers and provide them with high tech computers, then, first of all, it will require a vast investment and secondly, I'm not sure if the designers are best at their job, so it's kind of huge risk. so, what I will do is provide my designers with mid-ranged computers and then I will install a virtual machine in the computers with specifications that can help my designers so what I did is that I took processing power from a cloud vendor on rent as I do not have a high-end processor so that is how I saved my money    
+- - -
+- ## Security
+  - #### ***For example*** if I want security for my computers I will configure the firewall so that nobody hacks into my system secondly I cant request internet company to provide me with a direct connection from their headquarters which is neither possible nor feasible, so what will I do is that I'll call my cloud vendor from whom I have bought the virtual machine to provide me with security and they will bear all the responsibilities so that's how the cloud helps ensure security
+- - -
+- ## Flexibility
+  - #### ***For example*** if I have a presentation in my company and the presentation is stored in my laptop and let's say someone else takes my laptop so what I will do is I will go to my presentation room and open some other laptop and connect it using the IP address provided by my cloud vendor and I recover my presentation and that's how cloud computing ensures flexibility
+  
