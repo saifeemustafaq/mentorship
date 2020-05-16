@@ -1,7 +1,10 @@
-# benefits of cloud
-  - # # cost savings 
-   - In the IT companies buy the many of computers for their employ,but the designer or developer required  high specification pc's but it may high cost of it.
-   - for thus situation company buy virtual machine on cloud .
-   - It may save the cost of pc's buy for designer's.
-  - # # security 
-    -
+#benefits of cloud
+  - cost saving
+   - In the IT companies buy the computers,but in company designer or developer want high specification computers.
+   - it may costly for company, for that situation companies buy the virtual machine in cloud.
+   - this virtual machine are server.
+   - it reduce the cost of high specification computers.
+  
+ - security 
+  - 
+
