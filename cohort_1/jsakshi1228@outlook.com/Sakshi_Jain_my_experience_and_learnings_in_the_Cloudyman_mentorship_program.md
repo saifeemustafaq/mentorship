@@ -80,4 +80,18 @@ GitHub lets you (and others) work together on projects. It allows you to share y
 
 # _Benefits of Cloud computing_
 * There are lots of benefits of using cloud computing. It is very user friendly and makes easier to store and access data on any system around the globe.
-
+<br> Following are the benefits of cloud computing are:-
+  * Cost Savings
+  * Security
+  * Agility 
+  * Elasticity 
+  * Flexibility
+  * Mobility
+  * Insight
+  * Increased-Collaboration
+  * Quality Control
+  * Disaster Recovery
+  * Loss Prevention
+  * Automatic Software Updates
+  * Competitive Edge
+  * Sustainability
