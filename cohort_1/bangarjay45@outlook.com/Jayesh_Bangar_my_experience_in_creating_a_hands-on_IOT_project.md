@@ -1,4 +1,4 @@
-#### Thursday, 14 May
+### Thursday, 14 May
 > Topics discussed:
  1. What is Internet of Things(Iot)?
  2. Why is IoT so important?
@@ -21,3 +21,21 @@
   - A smart **Arduino and sensor** would make it easier for you to continuously monitor these temperatures as it would alert you by sending a pop-up messsage on your device if the temperature is about to exceed the set limits.
   - Also **Self-driving Cars, Smart cities..** just to name a few.
 - Many Organisations use different approach with the help of IoT to operate more efficiently, to improve, monitor or to change decision making.
+
+### Benifits of having Iot devices around us!
+- **Productivity improvement:** Monitoring and control of the different processes improves the different operations that increase productivity and efficiency
+- **Predictive analysis:** IoT’s new technologies make it possible to examine recurring patterns and predicts irregularities.
+- **Rapid response:** The data makes it possible to monitor the systems in place, in real time and even remotely, giving the company a strategic advantage in monitoring market developments.
+- **Reduction of human errors:** Artificial intelligence in IoT makes it possible to reduce human errors due to work load or repetitive tasks.
+- **Saves time and money**
+- **Enhances productivity**
+- **Encourages new techniques and business modals**
+- **IoT** is big and getting bigger, and the benifits are countless, depending on perticular implementation, improving efficiency wherever it is utilised.
+
+
+
+
+
+
+
+
