@@ -8,3 +8,8 @@ Today I learned:
 ## Date: May 14, 2020
 Today I Learned:
 1. Some benefits of cloud computing, such as Scalability, Business continuity, Collaboration efficiency, Flexibility of work practices, Access to automatic updates, and many more such advantages. 
+## Date: May 15, 2020
+Today I Learned:
+1. The world before Cloud Computing, the losses and time consuming task, which are now became easier with the help of the Cloud technology.
+2. The various Cloud providers, such as Public, Private and Hybrid, deployment models.  
+3. The development of Cloud since AWS (Amazon Web Services).
