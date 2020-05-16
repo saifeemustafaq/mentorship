@@ -41,3 +41,13 @@ Cloud computing allows your employees to be more flexible – both in and out of
 
 # Mobility :
 Cloud computing allows mobile access to corporate data via smartphones and devices, which is a great way to ensure that no one is ever left out of the loop. Staff with busy schedules, or who live a long way away from the corporate office, can use this feature to keep instantly up-to-date with clients and coworkers.
+
+# Increased collaboration :
+
+We live in a global world, usually, companies have offices in different cities, countries, continents and here they face to collaboration problem. How to deliver information fast and safe at any time? With the cloud, it is not a problem anymore. Your teams can access, edit and shared documents, from anywhere, they’re able to do more together and do it better. Cloud-based workflow and file sharing apps help them make updates in real time and gives them full visibility of their collaborations.  Also, it improves employees work-life, they can work from home and access all needed information.
+
+# Automatic software updates:
+Cloud providers usually provide a cloud service model known as Software as a Service (SaaS). One of the benefits of this model is that it ensures that software vendors take care of regular software and security updates on behalf of the users. Thus, users don’t have to worry about routine software maintenance practices which enables them to concentrate more on their core businesses.
+
+
+
