@@ -31,7 +31,30 @@
 - It grants various features, thus simplifying the process of working in a team.
 - Members can work on files/projects and easily merge their changes in the master branch of the project.
 
+> Features of **Github**
+ 1. Repository.
+ 2. Star.
+ 3. Watch.
+ 4. Forking.
+ 5. Pull request and Merge.
+ 
+ ### Repositories:
+- A repository is like a folder for your project.
+- Your project's repository contains all of your project's files and stores each file's history. 
+- You can also discuss and manage your project's work within the repository. 
 
+ ### Forking:
+ - Forking is copying a repository from one user’s account to another. 
+ - This enables you to take a project that you don’t have write access to and modify it under your own account. 
 
+ ### Star:
+ - People can star other repositories as bookmarks so they can follow what's going on with the repo later.
+ 
+ ### Watch:
+ - You can watch a repository to receive notifications for new pull requests and changes that are created.
+ 
+ ### Pull request and Merge:
+ - If you want to make any changes, you can send a notification called a “pull request” to the original owner of the repository.
+ - That user can then, merge the changes in the original repository.
 
 
