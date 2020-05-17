@@ -7,18 +7,18 @@
 #### run your infrastructure more efficiently and scale as your business needs change.
 
 # *Benifits*
- #### - Cost Savings
- #### - Security
- #### - Flexibility
- #### - Mobility
- #### - Insight
- #### - Increased Collaboration
- #### - Quality Control
- #### - Disaster Recovery
- #### - Loss Prevention
- #### - Automatic Software Updates
- #### - Competitive Edge
- #### - Sustainability
+#### - Cost Savings
+#### - Security
+#### - Flexibility
+#### - Mobility
+#### - Insight
+#### - Increased Collaboration
+#### - Quality Control
+#### - Disaster Recovery
+#### - Loss Prevention
+#### - Automatic Software Updates
+#### - Competitive Edge
+#### - Sustainability
 
 # *Disaster Recovery In Cloud Computing*
 ##### Cloud disaster recovery is a service that enables the backup and recovery of remote machines on a cloud-based platform.
