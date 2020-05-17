@@ -81,17 +81,33 @@ GitHub lets you (and others) work together on projects. It allows you to share y
 # _Benefits of Cloud computing_
 * There are lots of benefits of using cloud computing. It is very user friendly and makes easier to store and access data on any system around the globe.
 <br> Following are the benefits of cloud computing are:-
-  * Cost Savings
-  * Security
-  * Agility 
-  * Elasticity 
-  * Flexibility
-  * Mobility
-  * Insight
-  * Increased-Collaboration
-  * Quality Control
-  * Disaster Recovery
-  * Loss Prevention
-  * Automatic Software Updates
-  * Competitive Edge
-  * Sustainability
+  * Cost Savings :
+    * Cloud Computing is a cost saving technology. If you don't want to utilize all the 
+resources of PCs then no need to purchase all the amount will be saved in your pocket. That cost can be used in other infrastructure developing.
+  * Security :
+    * Cloud Computing provides you full security. It takes full responsibility of issues related to security. 
+
+  * Agility :
+    * The cloud gives you easy access to a broad range of technologies so that you can build and innovate anything that you can imagine.
+  * Elasticity : 
+    * It provides you dynamic deployememt and collasping of computing resources. You can also increase or decrease your services as per required to your IT infastructure.
+  * Flexibility :
+    * It offers employees to be more flexible in work practices. For example, you have the ability to access data from home,workplace, on holiday.
+  * Mobility :
+    * Cloud computing provides you a benifit of mobility, you can use it from anywhere and take it anywhere.
+    
+  * Insight :
+
+    * Cloud computing gives a close insight to your work.
+  * Increased-Collaboration :
+    * Cloud computing collaborates all services for you. It provides you all at one place. 
+  * Quality Control :
+    * Cloud computing provides you a quality services and also check for quality of your systems. It also updates you on new technologies upgrade.
+  * Disaster Recovery :
+    * It provides full guarantee of disaster recovery and takes care of your system. It keeps all your data safe without threat of loss due to power cutout, disaster,etc. And keeps your system on and up-to-date.
+  * Loss Prevention :
+    * Cloud computing minimizes all your losses. It may be in terms of cost, data and time.
+  * Automatic Software Updates : 
+    *  It keeps all your software up-to-dates and notifes on new upgrades. 
+  * Scalability :
+    *  Cloud computing provides you scalability thus offers you more time, saving, power, versatility and storage.
