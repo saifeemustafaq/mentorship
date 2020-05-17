@@ -56,5 +56,22 @@
  ### Pull request and Merge:
  - If you want to make any changes, you can send a notification called a “pull request” to the original owner of the repository.
  - That user can then, merge the changes in the original repository.
+ 
+ 
+ 
+ ### Date: May 17, 2020
+ 
+ > Today I learned:-
+  1. Disaster recovery in Cloud Computing.
+  2. Capital Expenditure(CapEx) and Operational Expenditure(OpEx).
+  
+ ### Disaster recovery in Cloud Computing
+ 
+ - Data is the most valuable asset. Its loss can result in massive damage to your business, even the loss of reputation.
+ - It is hard to predict when a disaster will occur and how serious its impact will be.
+ - Cloud disaster recovery stores the system data on a remote cloud-based platform.
+ - With disaster recovery in cloud computing, you get access to cloud storage, which can be used as a secondary recovery site.
+ - You can always have a backup copy, even if one of the cloud data centers fails.
+ - State-of-the-art network infrastructure of the cloud provider ensures that there are'nt any issues or errors. 
 
 
