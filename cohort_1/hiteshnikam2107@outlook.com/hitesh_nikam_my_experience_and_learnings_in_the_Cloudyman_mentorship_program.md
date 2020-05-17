@@ -29,3 +29,61 @@
 #### Importance of technical documentation Documentation help ensure consent and expectations. Having reliable documentation is crucial in helping users figure out how to use a product as well as aiding writers and developers in creating work of consistent and high quality. Also if you are working on something currently and meanwhile you forget one or the other thing then you can always have a quick look at your documentation and recall evrything. Technical documentation is an asset for your organization, for the simple reason that it enables employees to access information without chasing their managers.
 ## Date: May 13, 2020
 > Today I learned about the benefits of cloud computing.
+# Benefits of cloud computing :
+- Cost Savings
+- Security
+- Flexibility
+- Mobility
+- Insight
+- Increased Collaboration
+- Quality Control
+- Disaster Recovery
+- Loss Prevention
+- Automatic Software Updates
+- Competitive Edge
+- Sustainability
+ ## Date: May 15, 2020
+ 
+ > Features of **Github**
+ - Repository.
+ - Star.
+- Watch.
+- Forking.
+-  Pull request and Merge.
+ 
+ ### Repository:
+- A repository is like a folder for your project.
+- Your project's repository contains all of your project's files and stores each file's history. 
+- You can also discuss and manage your project's work within the repository. 
+
+### Star:
+ - People can star other repositories as bookmarks so they can follow what's going on with the repositories later.
+### Watch:
+ - You can watch a repository to receive notifications for new pull requests and changes that are created.
+### Forking:
+ - Forking is copying a repository from one user’s account to another. 
+ - This enables you to take a project that you don’t have write access to and modify it under your own account. 
+
+### Pull request and Merge:
+ - If you want to make any changes, you can send a notification called a “pull request” to the original owner of the repository.
+ - That user can then, merge the changes in the original repository.
+ 
+## Date: May 17, 2020
+ > Today I learned:-
+  ## 1. Disaster recovery in Cloud Computing.
+  ## 2. Capital Expenditure(CapEx) and Operational Expenditure(OpEx).
+  
+ # Disaster recovery in Cloud Computing:
+ Cloud disaster recovery is a service that enables the backup and recovery of remote machines on a cloud-based platform.
+Cloud disaster recovery (cloud DR) is a combination of strategies and services intended to back up data, applications and other resources to public cloud or dedicated service providers. When disaster occurs, the affected data, applications and other resources can be restored to the local data center or a cloud provider and resume normal operation for the enterprise.
+
+#  Capital Expenditure(CapEx) and Operational Expenditure(OpEx).
+
+## Capital Expenditure(CapEx) :
+CapEx is often used to undertake new projects or investments by the firm. Making capital expenditures on fixed assets can include everything from repairing a roof to building, to purchasing a piece of equipment, to building a brand new factory. This type of financial outlay is also made by companies to maintain or increase the scope of their operations.
+
+##  Operational Expenditure(OpEx):
+Operational expenditure consists of those expenses that a business incurs to run smoothly every single day. They are the costs that a business incurs while in the process of turning its inventory into an end product. Hence, depreciation of fixed assets that are used in the production process is considered OpEx expenditure. OpEx is also known as an operating expenditure, revenue expenditure or an operating expense.
+
+
+
