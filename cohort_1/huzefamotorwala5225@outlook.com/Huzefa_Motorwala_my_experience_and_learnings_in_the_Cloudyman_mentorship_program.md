@@ -33,4 +33,25 @@
 - - -
 - ## Flexibility
   - #### ***For example*** if I have a presentation in my company and the presentation is stored in my laptop and let's say someone else takes my laptop so what I will do is I will go to my presentation room and open some other laptop and connect it using the IP address provided by my cloud vendor and I recover my presentation and that's how cloud computing ensures flexibility
+- - -
+- ## Mobility
+  - #### ***For example*** if I work on all of my projects in the virtual machine then I do not have to worry about carrying my stuff to everywhere I go rather I just have to remember my IP address provided by my cloud vendor and I can access any of my projects anytime and anywhere. So this is mobility
+- - -
+- ## Insight
+  - #### ***For example*** if I am ill and can't go to work but my work is quite important so I will request my colleague to work on my behalf by providing hin the IP address of my virtual machine so when he connects the IP he gets an insight of what I have been working on. So insight basically means to gain something essential or knowledge about a person or a thing.
+- - -
+- ## Increased Collaboration
+  - #### Now after my colleague have an insight into my project he can tell me about any progress or any faults and error regarding my project and collaborate with me in ongoing as well as future projects and all the members can work simultaneously 
+- - -
+- ## Quality Control
+  - #### I am not working on my project alone I have 3-4 members alongside me who work under my guidance so I am the admin and the Quality control is under my hands and I can easily log in and see which user is working and what he is working on
+- - - 
+- ## Disaster recovery 
+  - #### ***For example*** if I am working on a project and some disaster occurs so because of the virtual machine my project does not get vanished rather as soon as I enter my IP address my project appears as it is. 
+  - #### It is hard to predict when a disaster will occur and how serious its impact will be. However, what you can control is the way you respond to a disaster and how successfully your organization will recover from it,
+  - #### The primary goal of disaster recovery is to minimize the overall impact of a disaster on business performance. Disaster recovery in cloud computing can do just that. In case of disaster, critical workloads can be failed over to a Data Recovery site in order to resume business operations. As soon as your production data center gets restored, you can fail back from the cloud and restore your infrastructure and its components to their original state. As a result, business downtime is reduced and service disruption is minimized.
+- - -
+- ## Loss prevention 
+  - #### it’s simply a strategy for ensuring the sensitive and protected information does not leave the company network.
+     
   
