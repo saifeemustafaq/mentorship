@@ -32,6 +32,8 @@
 - **Encourages new techniques and business modals**
 - **IoT** is big and getting bigger, and the benifits are countless, depending on perticular implementation, improving efficiency wherever it is utilised.
 
+![5379966-screen-shot-2017-05-23-at-20512-pm](https://user-images.githubusercontent.com/65165798/82146980-42a0a100-986a-11ea-9ff8-108a6e18906e.png)
+
 
 
 
