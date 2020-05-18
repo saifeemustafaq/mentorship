@@ -111,3 +111,30 @@ resources of PCs then no need to purchase all the amount will be saved in your p
     *  It keeps all your software up-to-dates and notifes on new upgrades. 
   * Scalability :
     *  Cloud computing provides you scalability thus offers you more time, saving, power, versatility and storage.
+
+## Date: May 14, 2020
+> ### Today I learned:
+> 1. _What is LinkedIn?_
+> 2. _Why do we use LinkedIn?_
+> 3. _What features does LinkedIn provides?_
+
+# _1. What is LinkedIn?_
+* LinkedIn is an American business and employment-oriented online service that operates via websites and mobile apps. LinkedIn is a social network specifically designed for career and business professionals to connect. Unlike other social networks in which you might become "friends" with anyone and everyone, LinkedIn is about building strategic relationships.
+# _2. Why do we use LinkedIn?_
+* LinkedIn is mainly used for professional networking, including employers posting jobs and job seekers posting their CVs. We use LinkedIn as it allows us (both workers and employers) to create profiles and "connections" to each other in an online social network which may represent real-world professional relationships. We can invite anyone (whether an existing member or not) to become a connection. On linkedIn we can get any posts related to jobs and jobs placement. Here we can also apply for internships and jobs. 
+# _3. What features does LinkedIn provides?_
+* LinkedIn provides following features:-
+  * _1. Creating your profile_
+  * _2. Connect with anyone(friends/ professionals)_
+  * _3. Share CV's/ Resumes_
+  * _4. Apply for job_ 
+  * _5. Blogging Interface_
+  * _6. LinkedIn Scheduler/ Calendar_ 
+  * _7. Boolean Search_ 
+  * _8. Messaging Window_
+  * _9. Post or share content_
+  * _10. Reply Privately_
+  * _11. Content Analytics_
+  * _12. Search alert for recruiters_
+  * _13. Mobile Responsive_
+  * _14. Notification_ 
