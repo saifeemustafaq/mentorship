@@ -53,5 +53,11 @@
 - - -
 - ## Loss prevention 
   - #### it’s simply a strategy for ensuring the sensitive and protected information does not leave the company network.
+- - -
+- ## Automatic Software Upadate
+  - #### ***For example*** if a software update arrives and you update your smartphone it swithes off and your work vanishes also after an update your smartphone tends to be slower but in cloud computing it will automatically update the software without any repercussion
+- - -
+- ## Competitive Edge
+  - #### Companies who have deployed cloud broadly are gaining competitive advantage over their rivals that have not yet deployed cloud. These pacesetters are re-inventing customer relationships, using analytics extensively to derive insights from big data, sharing data seamlessly, and making data-driven and evidence-based decisions. Most importantly, pacesetters are growing revenue and gross profit faster than other organizations.The ability to analyze big data in cloud systems creates competitive advantage from cloud computing through access and affordability of complex software for small and medium sized enterprises.   
      
   
