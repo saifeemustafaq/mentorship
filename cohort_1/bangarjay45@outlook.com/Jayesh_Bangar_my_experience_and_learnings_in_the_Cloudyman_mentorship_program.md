@@ -59,13 +59,13 @@
  
  
  
- ### Date: May 17, 2020
+### Date: May 17, 2020
  
  > Today I learned:-
   1. Disaster recovery in Cloud Computing.
   2. Capital Expenditure(CapEx) and Operational Expenditure(OpEx).
   
- ### Disaster recovery in Cloud Computing
+### Disaster recovery in Cloud Computing
  
  - Data is the most valuable asset. Its loss can result in massive damage to your business, even the loss of reputation.
  - It is hard to predict when a disaster will occur and how serious its impact will be.
@@ -73,5 +73,48 @@
  - With disaster recovery in cloud computing, you get access to cloud storage, which can be used as a secondary recovery site.
  - You can always have a backup copy, even if one of the cloud data centers fails.
  - State-of-the-art network infrastructure of the cloud provider ensures that there are'nt any issues or errors. 
+
+### Capital Expenditure(CapEx) and Operational Expenditure(OpEx)
+
+ - **Understanding CapEx:**
+ 1. Capital expenditures are Equipments or services that are bought to improve or support a company's performance in the future.
+    example: A Production house buys Camera's, photostudios, shooting equipments. This becomes the capital expenditure spent by the Production house.
+ 2. The expenses made should profit the company in the future. 
+ 3. The expenses become fixed assests and the value depreciates with time.
+ 4. There's only little guarantee that the investment activities brings sucess to the company in its useful life period.
+ 5. Capital expenditures (CAPEX) are a company's major, long-term investments.
+  
+  
+ - **Understanding OpEx:**
+ 1. Operating expenses are the costs a company incurs for running their day-to-day operations.
+ 2. These are examples of operating expenses: Rent and utilities.
+ 3. The goal of any company is to maximize profits in near future as compared to CapEx.
+ 4. If the company is unsure of it's future, it won't risk a hefty amount of debt upon itself and the company will choose to rent a piece of equipment instead of purchasing .
+ 
+ ### CLOUD COMPUTING – CAPEX VS. OPEX
+ - Cloud service providers allows companies to use a “pay as they go” or OpEx model, which allows companies to use the Virtual Machines as per their requirement and the security of cloud.
+ - There is potential cost benefits throughout the year.
+ - Rather than just buying the complete hardware and paying for the network, the consumers would have the right resources in the form of **virtual machines** at the right time, without overspending.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
