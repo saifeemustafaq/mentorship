@@ -49,5 +49,20 @@ We live in a global world, usually, companies have offices in different cities, 
 # Automatic software updates:
 Cloud providers usually provide a cloud service model known as Software as a Service (SaaS). One of the benefits of this model is that it ensures that software vendors take care of regular software and security updates on behalf of the users. Thus, users don’t have to worry about routine software maintenance practices which enables them to concentrate more on their core businesses.
 
+# Disaster recovery in Cloud Computing:
 
+Cloud disaster recovery is a service that enables the backup and recovery of remote machines on a cloud-based platform. Cloud disaster recovery (cloud DR) is a combination of strategies and services intended to back up data, applications and other resources to public cloud or dedicated service providers. When disaster occurs, the affected data, applications and other resources can be restored to the local data center or a cloud provider and resume normal operation for the enterprise.
+
+# Competitive edge :
+
+Competitive Advantage from Cloud Computing are realized in unexpected areas including advanced customer relationships driven by big data analytics, precise business decision making from cloud decision support systems, and enhanced business collaborations.
+The improvements in competitive advantage from cloud computing collaboration systems originate from rapid exchange of decision capable information to those who consume decision information. The sharing of decision information in a cloud platform from any information format and type, enables a higher level of business collaboration and value through decision accuracy, speed, and analysis.
+
+# Sustainability : 
+Cloud services make a positive contribution to sustainability: The cloud encourages important clean-tech applications like smart grids and it also encourages consumers to use virtual services such as video streaming to replace resource-heavy physical products. The cloud also draws resources to where they are used most efficiently and its jobs tend to be cleaner and safer than those of more traditional industries
+ ## benefits of sustainability:
+- Reduces energy use
+- Decrease greenhouse gases (GHG) emissions
+- Dematerialization
+- Data center efficiency
 
