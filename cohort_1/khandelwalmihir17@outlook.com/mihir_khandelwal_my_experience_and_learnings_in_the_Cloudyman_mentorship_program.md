@@ -17,3 +17,11 @@ Today I Learned:
 Today I Learned:
 1. How to use and work with LinkedIn? Created my account in LinkedIn and updated my profile.
 2. Learned disaster management in Cloud Computing.
+## Date: May 19, 2020
+Today I Learned:
+1. How to make the LinkedIn profile better for future jobs, and how to connect with people.
+2. Completed an internship with Internshala, and had a best experience first time by work from home.
+3. About Cloud computing, three categories,
+- Software as a service (SaaS) is a software distribution model in which a third-party provider hosts applications and makes them available to customers over the Internet.
+- Platform as a service (PaaS) is a cloud computing model in which a third-party provider delivers hardware and software tools usually those needed for application development to users over the internet.
+- Infrastructure as a service (IaaS) is a form of cloud computing that provides virtualized computing resources over the internet.
