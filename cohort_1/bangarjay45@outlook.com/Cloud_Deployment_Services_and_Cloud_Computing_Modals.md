@@ -18,6 +18,8 @@
 - He has to then deploy the platfrom he'll need and also the software's he needs.
 - It provides better flexibility as the hardware resources can be tailored according to your needs.
 - This cloud computing service model is ideal for large organizations capable of building and managing their platforms(operating systems).
+- [Amazon Web Servies](https://aws.amazon.com/), [Microsoft Azure](https://azure.microsoft.com/en-us/) are some providers that provide good **IaaS** service.
+
 
 ## PaaS (Platform as a Service):
 - PaaS (Platform as a Service) is a service that looks for the infrastructure and the platform that the consumer wants.
@@ -25,13 +27,16 @@
 - The organisation has to deploy the softwares on the VM by themselves.
 - One can Master the installation and development of software applications with the help of PaaS.
 - There is no need to manage the platform or hardware.
-
+- [Google app engine](https://cloud.google.com/appengine/) (Google Cloud) and [Amazon Web Servies](https://aws.amazon.com/) are some providers that provide good **PaaS** service.
+ 
+ 
 ## SaaS (Software as a Service):
 - Software as a Service (SaaS) is requires no installation of any softwares or deployment of any platforms. 
 - Consumers are free from the infrastructure and software installation or software maintenance.
 - Automatic updates of the softwares is a advantage.
 - It makes easier for testing of new softwares.
-
+- [Microsoft Azure](https://azure.microsoft.com/en-us/), [Salesforce](https://www.salesforce.com/in) and [Oracle](https://www.oracle.com/index.html) are some providers that provide good **SaaS** service.
+ 
 ![New](https://user-images.githubusercontent.com/65165798/82246526-7bbc3c80-9962-11ea-9919-dad56575aa57.png)
 
 
