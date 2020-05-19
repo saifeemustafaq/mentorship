@@ -31,7 +31,7 @@
 - It grants various features, thus simplifying the process of working in a team.
 - Members can work on files/projects and easily merge their changes in the master branch of the project.
 
-> Features of **Github**
+> # Features of **Github**
  1. Repository.
  2. Star.
  3. Watch.
@@ -74,7 +74,7 @@
  - You can always have a backup copy, even if one of the cloud data centers fails.
  - State-of-the-art network infrastructure of the cloud provider ensures that there are'nt any issues or errors. 
 
-### Capital Expenditure(CapEx) and Operational Expenditure(OpEx)
+> ### Capital Expenditure(CapEx) and Operational Expenditure(OpEx)
 
  - **Understanding CapEx:**
  1. Capital expenditures are Equipments or services that are bought to improve or support a company's performance in the future.
