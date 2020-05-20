@@ -65,3 +65,11 @@
   - #### An operating expense (OPEX) is an expense required for the day-to-day functioning of a business. In contrast, a capital expense (CAPEX) is an expense a business incurs to create a benefit in the future. Operating expenses and capital expenses are treated quite differently for accounting and tax purposes.
   - #### ***For example*** if you invest in a new building or a new type of machinery, then this would be considered Capex
   - #### ***For example*** Expenses incurred in operating the firm's core line of business are operating expenses. Employee wages, inventory handling costs, and expenditures for office supplies are operating expenses.
+- - -
+> # What are the Cloud deployment models
+  - > ### 1. Public Cloud
+    - #### The name speaks for itself: public clouds are available to the general public, and data are created and stored on third-party servers.
+  - > ### 2. Private Cloud
+    - #### There is little to no difference between a public and a private model from the technical point of view, as their architectures are very similar. However, opposed to a public cloud that is available to the general public, only one specific company owns a private one. That is why it is also called an internal or corporate.
+  - > ### 3. Community Cloud
+    - #### A community deployment model largely resembles a private one; the only difference is the set of users. While a private type implies that only one company owns the server, in the case of a community one, several organizations with similar backgrounds share the infrastructure and related resources.
