@@ -138,3 +138,37 @@ resources of PCs then no need to purchase all the amount will be saved in your p
   * _12. Search alert for recruiters_
   * _13. Mobile Responsive_
   * _14. Notification_ 
+## Date: May 15, 2020
+> ### Today I learned:
+> _What things you should not forget to include in your LikedIn profile?_
+# What things you should not forget to include in your LikedIn profile?
+* Your LinkedIn Profile is like your professional profile. It should be up to date and include all that which is important for the recruiters to know about you. Your profile should be like this, that one should get impressed by just seeing your profile.
+  *  _Profile photo:_
+     * Good profile photo with appropriate dimensions and corectly viewable.
+  *  _Objective line:_
+     * Perfect objective line mentioning your objectives clearly.
+  *  _Education and certifications:_
+     * All details realated to your education and certifications must be included.
+  *  _Skills:_ 
+     * Skills related to work should be included.
+  *  _Interests:_ 
+     * Relavant interests should be there in your profile.
+  *  _Work Experience:_ 
+     * Your past and recent work experience must be included.
+  *  _Accomplishments:_ 
+     * Your major accomplisments should be there.
+  *  _Results ad Promotions:_
+     * Highlight your results and promotions properly.
+  *  _Recommendations:_
+     * Recommedations from your friends and know people on likedin should be there for etter.
+  *  _Profile Summary:_
+     * Short 2- 3 sentence profile summary should be included. 
+  *  _Community involvement and volunteer work:_
+     * Social work, community involvemet and volunteer work can be inclded for good impression. 
+  *  _Cotact details:_
+     * Your contact details, website and address should added for easy connect.
+  *  _CV/Resume:_
+     * You can include your CV/Resume to apply for job.
+  
+  
+  
