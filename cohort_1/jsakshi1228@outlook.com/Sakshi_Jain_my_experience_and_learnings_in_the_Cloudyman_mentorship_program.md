@@ -169,6 +169,13 @@ resources of PCs then no need to purchase all the amount will be saved in your p
      * Your contact details, website and address should added for easy connect.
   *  _CV/Resume:_
      * You can include your CV/Resume to apply for job.
-  
-  
-  
+## Date May 16 2020
+> ### Today I learned:-
+> ### _Cloud Disaster Recovery system._
+> * 1. _What is Cloud disaster recovery system?_ 
+> * 2. _One example on how Cloud disaster recovery system works._
+# _What is Cloud disaster recovery system?_ 
+*  Cloud disaster recovery is a service that enables the backup and recovery of remote machines on a cloud-based platform.
+<br> Cloud disaster recovery typically provides similar services as an on-premises or company-maintained off-premises disaster recovery plan (DRP) facility, but in an economical, efficient and provider-managed platform. 
+Disaster recovery helps in restoring applications, data, and hardware quickly for business continuity. Disaster Recovery Plan (DRP) is a documented, structured approach with instructions to recover disrupted systems and networks and it helps organizations to run business as close to normal as possible.
+# _One example on how Cloud disaster recovery system works._
