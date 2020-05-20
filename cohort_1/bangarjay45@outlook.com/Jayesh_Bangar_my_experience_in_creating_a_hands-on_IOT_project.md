@@ -34,6 +34,21 @@
 
 ![5379966-screen-shot-2017-05-23-at-20512-pm](https://user-images.githubusercontent.com/65165798/82146980-42a0a100-986a-11ea-9ff8-108a6e18906e.png)
 
+> ## About BOLT IOT:
+- [Bolt IoT](https://www.boltiot.com/) is a paid Internet of Things platform for budding developers.
+- Excellent online video training for those who want to start with IoT and Machine Learning because it teaches you to build projects from the basics.
+- The training makes you job hiring ready since it teaches fundamentals of IOT and ML and offers you a certificate upon completion.
+
+### Features of Bolt IoT:-
+
+1. A Wifi microcontroller 
+2. Remote Configuration
+3. Code Editor
+4. Smartphone App
+5. Notification(SMS & E-Mail)
+6. Visualisation & Analysis
+7. Remote Control and monnitoring
+ 
 
 
 
