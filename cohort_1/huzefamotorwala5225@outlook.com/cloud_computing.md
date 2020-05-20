@@ -56,3 +56,8 @@
 - ## Competitive Edge
   - #### Companies who have deployed cloud broadly are gaining competitive advantage over their rivals that have not yet deployed cloud. These pacesetters are re-inventing customer relationships, using analytics extensively to derive insights from big data, sharing data seamlessly, and making data-driven and evidence-based decisions. Most importantly, pacesetters are growing revenue and gross profit faster than other organizations.The ability to analyze big data in cloud systems creates competitive advantage from cloud computing through access and affordability of complex software for small and medium sized enterprises. 
      
+- - -
+> # What is Capital expenditure (CapEx) versus operational expenditure (OpEx)?
+  - #### An operating expense (OPEX) is an expense required for the day-to-day functioning of a business. In contrast, a capital expense (CAPEX) is an expense a business incurs to create a benefit in the future. Operating expenses and capital expenses are treated quite differently for accounting and tax purposes.
+  - #### ***For example*** if you invest in a new building or a new type of machinery, then this would be considered Capex
+  - #### ***For example*** Expenses incurred in operating the firm's core line of business are operating expenses. Employee wages, inventory handling costs, and expenditures for office supplies are operating expenses.
