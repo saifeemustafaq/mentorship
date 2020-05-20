@@ -39,11 +39,14 @@
  
 ![New](https://user-images.githubusercontent.com/65165798/82246526-7bbc3c80-9962-11ea-9919-dad56575aa57.png)
 
+
 > # Cloud Computing Deployment Models.
 - Cloud deployment models show how the cloud services are provided to users. 
 - The four deployment models in Cloud Computing are Private, Public, Hybrid and Community Cloud.
 
-# Private Modal.
+# Public 
+.
+
 - The cloud infrastructure is provisioned for open use by the **general public**.
 - It may be bought, managed, and operated by anyone or even a business organisation.
 - Anyone with the right hardware configuration and resources can operate a public cloud.
@@ -59,22 +62,28 @@ The main advantages of using a public cloud are:
 ### Public Cloud – Cons
 1. Security concerns, that deal with sensitive data.
 
+## Takeaway.
+- The biggest public cloud service providers are Amazon Web Services, Microsoft Azure etc.
+- It‘s ideal for small and medium businesses, especially ones with fluctuating or growing demands.
 
 
+# Private Model.
 
+- Public Cloud had security concerns. This issue is solved in Private Cloud.
+- Private Cloud is privately used by a single organization, and not open to the public.
+- It may be owned, managed, and operated by the organization, or the employee's.
+- Example, a large Health insurance company needs a lot of computing resources, for many different parts of the company.
+  They need to store and access coustomer data which is sensitive, but public cloud won't provide good security over their data.
+- It is a cloud used by a company itself – rather than its customers.
 
+### Private Cloud – Pros
+- Control over how a cloud is setup and run.
+- Control over privacy and security practices.
+- Control over the location of data.
 
+### Private Cloud – Cons
+- Much higher setup and maintenance costs.
+- Less scalability.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Takeaway.
+The biggest disadvantage is the extra cost. Even at a big company, a private cloud is going to be much smaller than a public cloud. This means there will likely be shortage of backups of data in case of a disaster or attack. And, less room for scaling up in case of usage spikes.
