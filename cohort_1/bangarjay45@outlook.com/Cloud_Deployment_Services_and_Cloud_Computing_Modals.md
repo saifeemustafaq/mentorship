@@ -39,6 +39,37 @@
  
 ![New](https://user-images.githubusercontent.com/65165798/82246526-7bbc3c80-9962-11ea-9919-dad56575aa57.png)
 
+> # Cloud Computing Deployment Models.
+- Cloud deployment models show how the cloud services are provided to users. 
+- The four deployment models in Cloud Computing are Private, Public, Hybrid and Community Cloud.
+
+# Private Modal.
+- The cloud infrastructure is provisioned for open use by the **general public**.
+- It may be bought, managed, and operated by anyone or even a business organisation.
+- Anyone with the right hardware configuration and resources can operate a public cloud.
+- Just set up your servers and start renting out storage and processing power.
+
+### Public Cloud – Pros
+The main advantages of using a public cloud are:
+1. Low price (sometimes even free)
+2. Scalable
+3. It is Location independent.
+4. And, you would only pay for what you actually use.
+
+### Public Cloud – Cons
+1. Security concerns, that deal with sensitive data.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
