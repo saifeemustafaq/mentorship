@@ -36,8 +36,6 @@ This model incorporates the best of both private and public clouds, but each can
 
 - Enables the virtualization of administrative tasks, freeing up time for other work.
 
-
-
 - #### example of IaaS (Infrastructure as a Service) providers:
  - amazon web services
  - Microsoft Azure
@@ -62,7 +60,7 @@ This model incorporates the best of both private and public clouds, but each can
 - Microsoft Azure
 
 ## SaaS (Software as a Service):
--  SaaS vendors provide users with software and applications via a subscription model.
+- SaaS vendors provide users with software and applications via a subscription model.
 - Users do not have to manage, install or upgrade software; SaaS providers manage this.
 
 - Data is secure in the cloud; equipment failure does not result in loss of data.
