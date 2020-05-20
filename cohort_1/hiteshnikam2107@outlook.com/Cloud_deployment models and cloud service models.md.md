@@ -27,12 +27,16 @@ This model incorporates the best of both private and public clouds, but each can
 
 ## IaaS (Infrastructure as a Service):
 - Infrastructure is the actual hardware of any machine.
-- IaaS (Infrastructure as a Service) only deals with the infrastructure that should be provided.
-- Rest everything will be checked by the consumer.
-- If someone opts for IaaS, he will be provided with the necessary Hardware specifications he demanded. 
-- He has to then deploy the platfrom he'll need and also the software's he needs.
-- It provides better flexibility as the hardware resources can be tailored according to your needs.
-- This cloud computing service model is ideal for large organizations capable of building and managing their platforms(operating systems).
+- Instead of purchasing hardware outright, users pay for IaaS on demand.
+- Infrastructure is scalable depending on processing and storage needs.
+
+- Saves enterprises the costs of buying and maintaining their own hardware.
+
+- Because data is on the cloud, there can be no single point of failure.
+
+- Enables the virtualization of administrative tasks, freeing up time for other work.
+
+
 
 - #### example of IaaS (Infrastructure as a Service) providers:
  - amazon web services
@@ -40,10 +44,17 @@ This model incorporates the best of both private and public clouds, but each can
  
 ## PaaS (Platform as a Service):
 - PaaS (Platform as a Service) is a service that looks for the infrastructure and the platform that the consumer wants.
+
 - Only thing that the consumer has to look for is the software he needs.
-- The organisation has to deploy the softwares on the VM by themselves.
-- One can Master the installation and development of software applications with the help of PaaS.
-- There is no need to manage the platform or hardware.
+
+-  PaaS provides a platform with tools to test, develop and host applications in the same environment.
+
+- Enables organizations to focus on development without having to worry about underlying infrastructure.
+
+ - Providers manage security, operating systems, server software and backups.
+
+ - Facilitates collaborative work even if teams work remotely.
+
 
 #### example of PaaS (Platform as a Service) providers:
 
@@ -51,13 +62,15 @@ This model incorporates the best of both private and public clouds, but each can
 - Microsoft Azure
 
 ## SaaS (Software as a Service):
-- Software as a Service (SaaS) is requires no installation of any softwares or deployment of any platforms. 
-- Consumers are free from the infrastructure and software installation or software maintenance.
-- Automatic updates of the softwares is a advantage.
-- It makes easier for testing of new softwares.
+-  SaaS vendors provide users with software and applications via a subscription model.
+- Users do not have to manage, install or upgrade software; SaaS providers manage this.
 
+- Data is secure in the cloud; equipment failure does not result in loss of data.
+
+- Use of resources can be scaled depending on service needs.
+
+- Applications are accessible from almost any internet-connected device, from virtually anywhere in the world.
 #### example of  SaaS (Software as a Service) providers:
-
 - Microsoft Azure 
 - Oracle
 
