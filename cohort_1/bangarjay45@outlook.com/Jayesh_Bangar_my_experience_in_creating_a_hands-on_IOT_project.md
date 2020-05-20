@@ -49,8 +49,19 @@
 6. Visualisation & Analysis
 7. Remote Control and monnitoring
  
+> ### Light Monitoring for Plants using Bolt.
 
+- Bolt IoT Platform starter kit is used in this project that consisted of Bolt IoT Bolt WiFi Module Light Dependent Resistor(LDR) and Resistor 10k .
+- Story;
+  - Plants require sunlight for their healthy growth.
+  - However, we may not be able to keep a track of it or What if we are not sure if our plants are getting enough sunlight.
+  - IOT would help us in this situation.
+- In this project, I built a system so that i could monitor the light anywhere and send the data to Bolt Cloud.  
+- I also plotted a line graph which indicated what intensity of light the sensor picked at any point of time.
+- This plant light monitor is also available by [Xiaomi](https://www.amazon.com/HHCC-Xiaomi-Plant-Flower-Monitor/dp/B06X9V2FKJ), but as a curious person, I made it at home.
 
+  
+  
 
 
 
