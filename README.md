@@ -27,6 +27,16 @@ Cohort 1 Videos:
 
 ---
 
+# Certifications:
+- ### [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+- ### [Exam AZ-900: Microsoft Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900)
+- ### [Google Cloud Platform Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer)
+
+# Where to Study from? (FREE)
+- [Azure Fundamentals Learning Path](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)
+- [AWS Certification Training](https://www.aws.training/)
+- [Google Docs](https://cloud.google.com/docs)
+
 > # **Task**
 
 ---
