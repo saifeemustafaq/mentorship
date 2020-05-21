@@ -20,10 +20,11 @@ This repository is made to record the experiences and things learned by the ment
 
 ---
 
-Cohort 1 Videos:
+[Cohort 1 Videos](https://www.youtube.com/playlist?list=PLGINtfHapAMtoFjWbDxFbjVUmmyEioBwO):
 - [Episode - 1](https://youtu.be/mpzewUWKmr4)
 - [Episode - 2](https://youtu.be/LheB2BmJ07I)
 - [Episode - 3](https://youtu.be/XNDpZis7UVg)
+- [Episode - 4](https://youtu.be/K3KNcPLzR3I)
 
 ---
 
