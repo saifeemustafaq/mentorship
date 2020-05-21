@@ -44,8 +44,7 @@
 - Cloud deployment models show how the cloud services are provided to users. 
 - The four deployment models in Cloud Computing are Private, Public, Hybrid and Community Cloud.
 
-# Public 
-.
+# Public Cloud.
 
 - The cloud infrastructure is provisioned for open use by the **general public**.
 - It may be bought, managed, and operated by anyone or even a business organisation.
@@ -87,3 +86,28 @@ The main advantages of using a public cloud are:
 
 ## Takeaway.
 The biggest disadvantage is the extra cost. Even at a big company, a private cloud is going to be much smaller than a public cloud. This means there will likely be shortage of backups of data in case of a disaster or attack. And, less room for scaling up in case of usage spikes.
+
+
+# Community Cloud.
+
+- Public clouds are open to everyone, and private clouds are private to a single organization.
+- The cloud infrastructure is created for specific use by a specific community of consumers from organizations that have shared problems or goals.
+-  A community cloud could be built by one organization in an industry, and then rented out to others in the same industry with similar computing and security requirements.
+
+### Community Cloud – Pros
+Community cloud has many of the advantages of both public and private clouds. 
+1. Cloud requirements and security that meet the needs of your industry.
+2. More scalable than private cloud.
+3. Cheaper than private cloud.
+
+### Community Cloud – Cons
+1. A community cloud doesn‘t exist for every community
+
+
+
+
+
+
+
+
+
