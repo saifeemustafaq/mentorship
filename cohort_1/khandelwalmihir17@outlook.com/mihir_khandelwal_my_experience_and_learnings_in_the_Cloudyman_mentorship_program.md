@@ -25,3 +25,6 @@ Today I Learned:
 - Software as a service (SaaS) is a software distribution model in which a third-party provider hosts applications and makes them available to customers over the Internet.
 - Platform as a service (PaaS) is a cloud computing model in which a third-party provider delivers hardware and software tools usually those needed for application development to users over the internet.
 - Infrastructure as a service (IaaS) is a form of cloud computing that provides virtualized computing resources over the internet.
+## Date: May 21, 2020
+1. Today I got much information about the exams and certifications courses for Cloud Computing.
+2. I have revised my last notes of C and C++ to be in tune with those languages.
