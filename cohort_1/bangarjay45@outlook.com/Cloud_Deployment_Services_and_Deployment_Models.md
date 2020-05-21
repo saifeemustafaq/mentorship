@@ -1,9 +1,9 @@
 ### Tuesday, 19 May 
 
 > Cloud Deployment Services
- 1. IaaS (Infrastructure as a Service)
- 2. PaaS (Platform as a Service)
- 3. SaaS (Software as a Service)
+ 1. **IaaS (Infrastructure as a Service)**
+ 2. **PaaS (Platform as a Service)**
+ 3. **SaaS (Software as a Service)**
  
 - Any Virtual machine comprises of three things, i.e. infrastructure(the actual hardware), the platform( the operating system) which will work on the infrastructure and the software which will work on the hardware and the operating system
 - A user has to sort his requirements according to these three categories.
@@ -66,7 +66,7 @@ The main advantages of using a public cloud are:
 - It‘s ideal for small and medium businesses, especially ones with fluctuating or growing demands.
 
 
-# Private Model.
+# Private Cloud.
 
 - Public Cloud had security concerns. This issue is solved in Private Cloud.
 - Private Cloud is privately used by a single organization, and not open to the public.
@@ -104,6 +104,18 @@ Community cloud has many of the advantages of both public and private clouds.
 1. A community cloud doesn‘t exist for every community
 
 
+# Hybrid Cloud
+
+- Hybrid cloud is a cloud environment that is a mix of private cloud and public cloud services 
+- Establishing a hybrid cloud requires the availability of A public infrastructure as a service (IaaS) platform, and the construction of a private cloud, either on premises or through a hosted private cloud provider.
+
+## Pros
+1. Hybrid cloud computing enables an companies to deploy an on-premises private cloud to host sensitive or critical workloads, and use a third-party public cloud provider to host less-critical information.
+
+## Cons
+1. The construction and maintenance of the private cloud requires substantial expertise from local IT staff and cloud architects.
+
+![Top-Priority-of-Cloud-Deployment-Models-for-Enterprises](https://user-images.githubusercontent.com/65165798/82580485-cc26da80-9bac-11ea-86e5-078fd263c6e0.png)
 
 
 
