@@ -69,4 +69,14 @@
     - #### There is little to no difference between a public and a private model from the technical point of view, as their architectures are very similar. However, opposed to a public cloud that is available to the general public, only one specific company owns a private one. That is why it is also called an internal or corporate.
   - > ### 3. Community Cloud
     - #### A community deployment model largely resembles a private one; the only difference is the set of users. While a private type implies that only one company owns the server, in the case of a community one, several organizations with similar backgrounds share the infrastructure and related resources.
-
+- - - 
+> # Types of cloud services
+  ## ***Cloud computing*** services fall into 4 categories: ***infrastructure as a service (IaaS)***, ***platform as a service (PaaS)***, ***software as a service (SaaS)*** and ***FaaS (functions as a service)***. These are sometimes called the cloud computing stack, because they build on top of one another.
+  - > ### Infrastructure-as-a-service (IaaS)
+    - #### This service allows you to rent IT infrastructures like servers or virtual machine on a pay-as-you-go basis.
+  - > ### Platform as a service (PaaS)
+    - #### This service allows you to  to supply an on-demand environment for developing, testing, delivering and managing software applications. It is designed to quickly create web or mobile apps, without worrying about setting up or managing the underlying infrastructure of servers, storage, network and databases needed for development.
+  - > ### Software as a service (SaaS)
+    - #### This service helps you to deliver software applications over the Internet as per the demand and on a subscription basis. SaaS helps you host and manage the software application and underlying infrastructure and handle any maintenance (software upgrades and security patching).
+  - > ### Functions as a service (Faas) 
+    - #### This service helps you to upload the blocks of code having specific functionality and set them in such a way that it gets triggered when a certain event occurs 
