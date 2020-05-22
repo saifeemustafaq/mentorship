@@ -84,6 +84,19 @@ CapEx is often used to undertake new projects or investments by the firm. Making
 
 ##  Operational Expenditure(OpEx):
 Operational expenditure consists of those expenses that a business incurs to run smoothly every single day. They are the costs that a business incurs while in the process of turning its inventory into an end product. Hence, depreciation of fixed assets that are used in the production process is considered OpEx expenditure. OpEx is also known as an operating expenditure, revenue expenditure or an operating expense.
+## Date: May 19, 2020
+## Cloud deployment models :
+### Cloud deployment models indicate how the cloud services are made available to users. The four deployment models associated with cloud.
+### It is a cloud-based infrastructure used by stand-alone organizations. It offers greater control over security. The data is backed up by a firewall and internally, and can be hosted internally or externally. Private clouds are perfect for organizations that have high-security requirements, high management demands, and availability requirements.
 
+- ### Private Cloud
+- ### Public Cloud
+- ### Community Cloud
+- ### Hybrid Cloud
+
+##  Cloud Deployment Services :
+- ###  IaaS (Infrastructure as a Service)
+- ###  PaaS (Platform as a Service)
+- ###  SaaS (Software as a Service)
 
 
