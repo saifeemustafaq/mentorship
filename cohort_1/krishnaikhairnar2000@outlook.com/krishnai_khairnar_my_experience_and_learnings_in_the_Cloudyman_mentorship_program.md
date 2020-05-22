@@ -17,7 +17,7 @@
 # _2. What are the uses of Cloud Computing?_
 * The basic that cloud computing has provided to the computer users is that it allows them access to the same kinds of applications through the internet. Users can store their data and important files virtually and can  always carry them with themselves wherever they goes and can access whenever they need.
 
-# _3. What is the basic concept of GitHub?_ 
+# _3. What is the basic concept of GitHub?_
 * GitHub flow is a lightweight, branch-based workflow that supports teams and projects where deployments are made regularly. GitHub is a Git repository hosting service, but it adds many of its own features. While Git is a command line tool, GitHub provides a Web-based graphical interface. It also provides access control and several collaboration features, such as a wikis and basic task management tools for every project.
 
 # _4. What is Markdown Language?_
