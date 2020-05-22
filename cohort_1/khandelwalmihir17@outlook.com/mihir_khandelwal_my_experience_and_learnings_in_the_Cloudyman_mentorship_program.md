@@ -28,3 +28,7 @@ Today I Learned:
 ## Date: May 21, 2020
 1. Today I got much information about the exams and certifications courses for Cloud Computing.
 2. I have revised my last notes of C and C++ to be in tune with those languages.
+## Date: May 22, 2020
+1. I have got an information, about an exams for Cloud Computing such as AZ900 and AWS Cloud Practitioner.
+2. Also I am learning basics of Cloud Computing on Coursera.
+3. Learning about Google Cloud.
