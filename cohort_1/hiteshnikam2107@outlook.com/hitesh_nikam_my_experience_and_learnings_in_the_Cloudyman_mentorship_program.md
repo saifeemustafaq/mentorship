@@ -99,4 +99,34 @@ Operational expenditure consists of those expenses that a business incurs to run
 - ###  PaaS (Platform as a Service)
 - ###  SaaS (Software as a Service)
 
+## Date: May 20, 2020
+> Today I learn about AWS((Amazon Web Services):
+# AWS (Amazon Web Services):
+ 
+- ### AWS, a subordinate of Amazon, is a platform that offers comprehensive, on demand, secure cloud services to individuals and organizations to build, enhance and promote business applications.
+
+- ### Amazon Web Services cloud provides an extensive package of very useful services which, when collaborate and work with each other, produce highly dynamic applications.
+## Benefits of using AWS :
+- ## Zero CapEx
+Many people tend to believe that AWS or any other cloud-based solution are only for the riches. However, the reality is completely opposite. We see AWS as playing field leveler enabling start-ups to leverage high-end technologies and infrastructure needs with ZERO CapEx. 
+
+- ## No-Commitment :
+Whether you require a server for hosting a small website, a Content Delivery Network (CDN) for heavy traffic sites, reliable & scalable email service, data warehousing service,  or Hadoop cluster for your BigData needs, AWS offers everything with absolutely no-commitment at all, not even a month. All server-backed services are charged on hourly basis, so as soon as you terminate/stop a server, you won’t be billed from next hour.
+ - ##  Get Rid of Negotiations :
+ Surely price negotiations is not an expertise area for many (atleast me) and neither we like spending our time & energy doing that even if we have the skills. AWS is highly focused on reducing infrastructure cost for their customers.
+ -  ## Procurement:
+ Procuring a new server might take time between several hours to 8-10 days depending upon whether your infrastructure is on-premise, co-located or if you are associated with a hosting provider. Similar time is needed to procure software licenses as well. However, AWS enables you to spin-up new servers within few minutes with no need to buy separate licenses for many operating systems & softwares.
+ - ## Pay Per Use
+ Think of infinite space for your backup & archival needs, ability to launch new servers, up-scale or downscale a server, CDN integration, transcoding media files, unlimited bandwidth and many more highly scalable services or features available to you while you pay based on your actual usage only.
+ - ##  Security:
+ AWS has build world class, highly secure infrastructure, both physically and over the internet.
+ - ## Flexibility:
+ Forget about guess-work or scientific analysis to identify your infrastructure needs. You can leverage auto-scaling to build a self-managing infrastructure aligned closely to the actual need based on traffic/resources utilization. Amazon Machine Images (AMIs) enable you to spin-up clones in multiple regions for different environments within few minutes, eliminating the need to repeat the set-up steps every time.
+ - ## Global Leader :
+ Amazon has global presence with 10 regions, 36 availability zones and more than 50 edge locations. Few months ago, Gartner positioned AWS in Leaders Quadrant of the new Magic Quadrant for Cloud Infrastructure as a Service. Gartner also mentioned that AWS has more than five times the compute capacity in use than the aggregate total of rest 14 service providers placed in the same Magic Quadrant.
+
+
+
+
+
 
