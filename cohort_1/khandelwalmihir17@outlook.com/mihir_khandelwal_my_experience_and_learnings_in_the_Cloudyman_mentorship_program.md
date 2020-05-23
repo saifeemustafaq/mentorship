@@ -32,3 +32,12 @@ Today I Learned:
 1. I have got an information, about an exams for Cloud Computing such as AZ900 and AWS Cloud Practitioner.
 2. Also I am learning basics of Cloud Computing on Coursera.
 3. Learning about Google Cloud.
+## Date: May 23, 2020
+1. I have got to learn more in advanced about github, it's ever increasing new features. 
+2. Learned about Cloud characteristics:
+- Client-server model.
+- Computer bureau.
+- Grid,Utility and Fog computing. 
+- Mainframe computer.
+- Peer to peer. 
+3. Also got more information about the Cloud exams like AZ900. 
