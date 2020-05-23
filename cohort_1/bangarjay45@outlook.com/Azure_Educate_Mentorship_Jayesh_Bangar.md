@@ -42,21 +42,42 @@
 
 ### Storage. 
 - This category of services provides scalable cloud storage for structured and unstructured data. It also supports big data projects, persistent storage and archival storage.
+
 ### Analytics.
 - These services provide distributed analytics and storage, as well as features for real-time analytics, big data analytics, machine learning (ML), internet of things (IoT) etc.
 
 ### Media and content delivery network (CDN).
 - These CDN services include on-demand streaming, digital rights protection, encoding and media playback and indexing. Ex. Netflix.
 
+### Internet of things.
+- These services help users capture, monitor and analyze IoT data from sensors and other devices. 
+- Services include notifications, analytics, monitoring and support for coding and execution, etc.
 
+### Development. 
+- These services help application developers share code, test applications and track potential issues.
+- Azure supports a range of application programming languages, including JavaScript, Python, .NET and Node.js. 
 
-The platform is frequently used for backup and disaster recovery.
-its use cases are extremely diverse.
-Running virtual machines or containers in the cloud is one of the most popular uses for Microsoft Azure
-Azure is also commonly used as a platform for hosting databases in the cloud.
-Azure supports open source technologies, so you can use the tools and technologies you prefer. 
-Run virtually any application using your data source, with your operating system, on your device. 
-Azure is the only consistent hybrid cloud, has more regions than any cloud provider, delivers.
+### Security. 
+- These products provide capabilities to identify and respond to cloud security threats etc.
+
+### Artificial intelligence (AI) and machine learning.
+- This is a wide range of services that a developer can use to infuse artificial intelligence, machine learning and cognitive computing capabilities into applications and data sets.
+
+### Management 
+- These services provide a range of backup, recovery, compliance, automation, scheduling and monitoring tools that can help a cloud administrator manage an Azure deployment.
+
+### Blockchain.
+- The Azure Blockchain Service allows you to join a blockchain consortium or to create your own and many more functionalties.
+
+### What do most people use Azure for:
+
+- The platform is frequently used for backup and disaster recovery.
+- Its use cases are extremely diverse.
+- Running virtual machines or containers in the cloud is one of the most popular uses for Microsoft Azure
+- Azure is also commonly used as a platform for hosting databases in the cloud.
+- Azure supports open source technologies, so you can use the tools and technologies you prefer. 
+- Run virtually any application using your data source, with your operating system, on your device. 
+- Azure is the only consistent hybrid cloud, has more regions than any cloud provider, delivers.
 
 
 
