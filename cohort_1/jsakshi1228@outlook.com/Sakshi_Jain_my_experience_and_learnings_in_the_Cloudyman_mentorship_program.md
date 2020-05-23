@@ -172,10 +172,16 @@ resources of PCs then no need to purchase all the amount will be saved in your p
 ## Date May 16 2020
 > ### Today I learned:-
 > ### _Cloud Disaster Recovery system._
-> * 1. _What is Cloud disaster recovery system?_ 
-> * 2. _One example on how Cloud disaster recovery system works._
+> 1. _What is Cloud disaster recovery system?_ 
+> 2. _One example on how Cloud disaster recovery system works._
 # _What is Cloud disaster recovery system?_ 
 *  Cloud disaster recovery is a service that enables the backup and recovery of remote machines on a cloud-based platform.
 <br> Cloud disaster recovery typically provides similar services as an on-premises or company-maintained off-premises disaster recovery plan (DRP) facility, but in an economical, efficient and provider-managed platform. 
 Disaster recovery helps in restoring applications, data, and hardware quickly for business continuity. Disaster Recovery Plan (DRP) is a documented, structured approach with instructions to recover disrupted systems and networks and it helps organizations to run business as close to normal as possible.
 # _One example on how Cloud disaster recovery system works._
+* Example:-
+  * Consider, if you are working on a very important project of your company containing a lot of data, trained tools and data obtained after months of surveys. And imagine suddenly while working you lost all your data due to natural disasters, pandemic, cyber attacks, or even planned upgrades/maintenance that require shutting down production infrastructures. It will be a huge loss to you and your company and then you have to work again to obtain these data. Sometimes this data can be so important and confidential that its lost is not bearable. 
+  * In such situation, imagine if you have a service that can have a backup of all the data you have worked on and can provide you back all your data! 
+  * Yes this backup can be obtained by _disaster recovery system of cloud computing._
+* If we do disaster recovery on our own it requires constant maintenance and support on our part. In this case, data protection and disaster recovery are performed manually, which can be a time-consuming and resource-intensive process.
+* On the other hand, Disaster recovery in cloud computing entails storing critical data and applications in cloud storage and failing over to a secondary site in case of a disaster. Cloud computing services are provided on a pay-as-you-go basis and can be accessed from anywhere and at any time. Backup and disaster recovery in cloud computing can be automated, requiring minimum input on our part.
