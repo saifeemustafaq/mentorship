@@ -28,6 +28,26 @@
 - These plans vary in terms of scope and price.
 
 
+> ## Azure products and services:
+- Microsoft sorts Azure cloud services into nearly two dozen categories, including:
+
+### Compute.
+- These services enable a user to deploy and manage VMs, as well as support remote application access. 
+
+### Mobile.
+- These products help developers build cloud applications for mobile devices, providing notification services, support for back-end tasks, tools for building application program interfaces (APIs). 
+
+### Web. 
+- These services support the development and deployment of web applications. They also offer features many exciting features for notification and reporting, etc.
+
+### Storage. 
+- This category of services provides scalable cloud storage for structured and unstructured data. It also supports big data projects, persistent storage and archival storage.
+### Analytics.
+- These services provide distributed analytics and storage, as well as features for real-time analytics, big data analytics, machine learning (ML), internet of things (IoT) etc.
+
+### Media and content delivery network (CDN).
+- These CDN services include on-demand streaming, digital rights protection, encoding and media playback and indexing. Ex. Netflix.
+
 
 
 The platform is frequently used for backup and disaster recovery.
