@@ -23,3 +23,32 @@
   3. When you create your virtual machine, you create a virtual hard disk. So, everything on that machine can crash, but if it does, it won’t affect the host machine.
   4. There are security benefits to running virtual machines. For example, if you need to run an application of not promising security, you can run it in a guest operating system. So, if the application causes damage, then it won't affect the host.
   5. It is cheaper because virtualization doesn’t require actual hardware components to be used or installed, IT infrastructures find it to be a cheaper system to implement.
+
+
+> # What are **Containers:**
+- Containers provide a consistent, isolated execution environment for applications.
+- They are similar to VM's but they don't require a guest OS.
+- It is a isolated test environment where all the execution of the application is done.
+- The result is the application runs quickly and reliably.
+  - Ex. Docker is a leading platform for **containers** as it is efficient, lightweight approach to application deployment.
+  - It allows different components of the application to be deployed independently into different containers. 
+![docker](https://user-images.githubusercontent.com/65165798/82722093-2032db80-9ce1-11ea-9701-569697db6d8f.png)
+  
+### benefits of containers:
+- A container may be only tens of megabytes in size, whereas a virtual machine with its own entire operating system may be several gigabytes in size. 
+- Because of this, a single server can host far more containers than virtual machines.
+- It saves us time as bootloading is faster.
+- Rather than run an entire complex application inside a single container, the application can be split in to modules .
+- This makes it easier for the developers to manage the applications.
+
+
+
+
+
+
+
+
+
+
+
+
