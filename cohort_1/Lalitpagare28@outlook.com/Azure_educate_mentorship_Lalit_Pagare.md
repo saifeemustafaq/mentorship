@@ -85,3 +85,87 @@ In addition, the platform is frequently used for backup and disaster recovery. M
 
    - Intune.
            Microsoft Intune can be used to enroll user devices, thereby making it possible to push security policies and mobile apps to those devices. Mobile apps can be deployed either to groups of users or to a collection of devices. Intune also provides tools for tracking which apps are being used. A remote wipe feature allows the organization's data to be securely removed from devices without removing a user's mobile apps in the process.
+
+
+# Benifits of microsoft azure?
+
+Microsoft Azure is the fastest growing Cloud Infrastructure Platform on the planet today.
+
+Sure, AWS stills dwarfs all the other major Cloud providers including Microsoft Azure but I think Azure has stronger Hybrid Cloud capability and operates in 19 regions across the world (and it’s the only one with capability in China). Plus Azure (and the Microsoft Cloud in general) is rapidly adopting and adapting the standards of other operating systems and embracing competing software platforms to ensure Azure stays relevant to as many people and companies as possible. So, today you can run a Linux based Android app on Azure. Who would have expected that from the Microsoft of 12 months ago?
+
+So all this capability and power is great for the applications you want to run on Azure - but with one caveat. All this functionality means a huge amount of choice, flexibility and options when it comes to managing business-critical software to high performance standards. For example, if you're managing ERP systems on Microsoft Azure you need to make the right infrastructure choices, to know what you're doing, and trust in the knowledge and experience of the people around you to do the same. Can you do that?
+
+By the way, the analysts like Azure as well. Azure is the only major cloud platform ranked by Gartner as an industry leader for both infrastructure-as-a-service (IaaS) and platform-as-a-service (PaaS).
+
+Below are 15 Microsoft Azure Benefits:
+
+  ## - Azure Business Benefits
+
+     - Ability to Scale on Demand 
+          It can be hard to predict how your business will grow, or if and when you will require extra resources for           short term 'bursts' of traffic or transaction volume. Increased growth or other demands often demands               running applications with high load, or additional applications that most traditional hosting models                 cannot handle.
+
+          So it's a big advantage that Azure was built to scale alongside your business. One way Azure does this is           by loading your applications as a cluster that allocates a web application to a specific set of processes.           The result is that all of your applications are not forced to run off a single server and you will thus             never run out of server capacity. As a bonus, Azure can even be managed to auto scale based on load or               schedule.
+
+     - Flexibility 
+          In the quickly evolving technology sector you need a hosting solution that can quickly evolve as your               needs change. Azure is simple to adapt and offers a host of application building blocks and services that           will allow you to customise the cloud as needed.
+
+    - Cost Competitive
+          With Microsoft’s huge customer base, they have been able to pass volume discounts on to their customers.             And it's a good bet that Azure costs will go down as the competition heats up with AWS and Google.                   Additionally, Azure works off a pay-as-you-go model, which reduces the upfront costs to small businesses             and those that sign a contract can receive an additional enterprise discount. If you are worried about               price increases, you can be assured they have pledged to maintain their AWS-comparable pricing for the               general public.
+
+    - Customer support 
+          Azure infrastructure is now in 19 regions across the globe, with multiple data center regions in the US,             Europe, China, Asia and the Pacific. They provide support plans in English and Japanese and offer support plans in many more languages.
+
+Hybrid Capability
+Unlike AWS’s cloud only approach, Windows Azure provides you with the ability to create hybrid environments, allowing you to leverage your on-premise resources and the benefits of the cloud without costly workarounds. With Azure you can also build hybrid applications.
+
+Azure Data Benefits
+
+Big Data insights
+Microsoft Azure HDinsight service brings an Apache Hadoop solution to the cloud. While that might sound like complicated at first, the service is powerful, allowing you to handle and analyse any amount of data at a time. Additionally it integrates with Excel allowing you to visualise your data in new ways to help you uncover business insights to help you succeed. There are more and more options for BI being added regularly as the demand increases.
+
+Simple and Reliable Data Storage
+Azure allows you to store any type of data, whether it is file data, structured data sets or queries in a reliable and fast environment and share it across VMs using the industry standard SMB 2.1 protocol. It’s easy to manage using an import/export feature to move data as desired.
+
+Keeping your Data Secure
+Azure was built based on the the Microsoft Security Development Lifecycle, a cutting edge approach for developing the most secure code based on proven technology and tested around the globe.
+
+Backups you can rely on
+Azure backs up 6 copies of your data across two separate Azure data centers, which means they can guarantee 99.9% availability of backups. Azure Site Recovery is very powerful, we use it here at SaaSplaza - we use the service for our partners and customers, we haven't had to 'use' it if you know what I mean :)
+
+Integrative Data Solution
+Azure seamlessly integrates data across the full line of Microsoft SaaS and PaaS offerings. This includes the Azure package such as Visual Studio, Active Directory, System Center and PowerShell, as well as Microsoft software such as Office 365 and Microsoft Dynamics solutions, Dynamics ERP (including NAV on Azure) and more. This allows you to do more with your ERP, CRM and other business data in a scalable environment that is faster and more reliable.
+
+Not a Microsoft user? Azure’s BizTalk services provides application integration solutions for SAP, Oracle EBS and a constantly growing list of technology providers.
+
+Azure Management Benefits
+
+Automation
+Azure Automation allows you to automate tasks in your Azure environment. By creating workflows called “runbooks”, you can eliminate the time spent on monitoring and maintaining the resources in your cloud environment, lowering overhead costs and allowing you to focus on value added business work.
+
+API Management 
+If you create and run a variety of APIs, Azure API management allows you to publish APIs to your market (employees, customers) securely and at scale.
+
+"Set it and forget it" scheduling
+Microsoft Azure allows you to create jobs on simple or complex recurring schedules. If you have recurring actions such as cleaning up logs, application maintenance or pulling data from an API or feed, Azure’s scheduler can automate those tasks for you at a scheduled time. Additionally, Azure gives you the ability to create actions that call HTTP or HTTPS endpoints or post messages to a storage queue for long running or offline jobs.
+
+Ability to Run Virtual Machines
+With Azure you can deploy premium virtual machines in minutes including Linux and Windows servers. Attach premium storage to your virtual machine and begin running 32 TB and achieve 50,000 IOPS (input/output operations per second).
+
+Developer Collaboration and Options
+Azure comes with Visual Studio Online and Application Insights, which provides enhanced collaboration between your dev teams in an integrative environment. Additionally, Azure provides the option to create new applications in ASP, ASP.net, PHP, Python, or Node.js, so you are not limited to Visual Studio if you so choose.
+
+Bringing it Home
+
+If you’ve read through to the end of this post, you’re serious about moving your business to the cloud. I hope you’ve got a nice overview now on some of the best features the Microsoft Azure ecosystem has to offer. As mentioned, Azure continues to grow rapidly, adding support for various features, applications and different technology platforms, seemingly on a weekly basis. So if you're going to "Go Cloud", Azure should definitely be part of the picture! 
+
+Azure CloudSCAN
+
+Start, accelerate and optimize your Microsoft Cloud journey for futureproof business results
+
+Considering to move to Azure, but uncertain where or how to start your cloud journey? Or have you started with cloud, but you are encountering problems? SaaSplaza is the leading global expert in cloud and mission critical applications on Azure. We specialize in making cloud technology work for you. The SaaSplaza CloudSCAN is an obligation free assessment that will provide essential perspectives and shape your migration onto Azure. 
+
+
+
+
+
+
