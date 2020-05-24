@@ -34,21 +34,22 @@
   - It allows different components of the application to be deployed independently into different containers. 
 ![docker](https://user-images.githubusercontent.com/65165798/82722093-2032db80-9ce1-11ea-9701-569697db6d8f.png)
   
-### benefits of containers:
+### Benefits of containers:
 - A container may be only tens of megabytes in size, whereas a virtual machine with its own entire operating system may be several gigabytes in size. 
 - Because of this, a single server can host far more containers than virtual machines.
 - It saves us time as bootloading is faster.
 - Rather than run an entire complex application inside a single container, the application can be split in to modules .
 - This makes it easier for the developers to manage the applications.
 
+> # **Serverless Computing**:
 
+- Serverless computing means the servers executes code that developers write using only the exact amount of compute resources needed to complete the task, no more, no less.
+- You can execute your code without worrying about the infrastructure or management of the servers. That’s serverless.
 
+## Pros of serverless:
+- It allows you to pay the service providerws to manage servers, databases and even application logic that you might otherwise manage yourself.
+- Serverless programs have architectures that are inherently scalable
 
-
-
-
-
-
-
-
-
+### Note
+- Amazon Web Services is largely credited with starting the serverless market hype in 2014 when the company introduced Lambda, its serverless computing product.
+- Note that although called serverless, physical servers are still used but developers do not need to be aware of them.
