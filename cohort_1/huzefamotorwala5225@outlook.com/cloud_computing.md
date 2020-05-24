@@ -86,3 +86,7 @@
 > # What is a region pair?
   - #### region pair consist of two region within the same geography
     - #### An Azure Region Pair is a relationship between 2 Azure Regions within the same geographic region for disaster recovery purposes.
+> ## Cloud uptime 
+  - #### Cloud uptime is the amount of time that a cloud service hosted by a cloud provider is accessible to end users.
+> ## Cloud downtime
+  - #### Cloud downtime is the amount of time that a cloud service hosted by a cloud provider are unavailable to end users
