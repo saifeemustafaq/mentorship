@@ -41,3 +41,5 @@ Today I Learned:
 - Mainframe computer.
 - Peer to peer. 
 3. Also got more information about the Cloud exams like AZ900. 
+## Date: May 24, 2020
+1. Started an online course on Google Digital Garage, of Digital Marketing.
