@@ -84,3 +84,11 @@
     - #### This service helps you to deliver software applications over the Internet as per the demand and on a subscription basis. SaaS helps you host and manage the software application and underlying infrastructure and handle any maintenance (software upgrades and security patching).
   - > ### Functions as a service (Faas) 
     - #### This service helps you to upload the blocks of code having specific functionality and set them in such a way that it gets triggered when a certain event occurs 
+> # Region and Availability zones
+  - #### regions are the geographical location where the public cloud service provider's data centers reside
+  - #### Availability zones are isolated location within the data center region from where public cloud service originate and operate
+> # What is a region pair?
+  - #### region pair consist of two region within the same geography
+    - #### An Azure Region Pair is a relationship between 2 Azure Regions within the same geographic region for disaster recovery purposes.
+    
+    
