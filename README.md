@@ -28,6 +28,13 @@ This repository is made to record the experiences and things learned by the ment
 
 ---
 
+[Cohort 2 Videos](https://www.youtube.com/playlist?list=PLGINtfHapAMtoFjWbDxFbjVUmmyEioBwO)
+- [Episode - 1]()
+- [Episode - 2]()
+- [Episode - 3]()
+- [Episode - 4]()
+---
+
 # Certifications:
 - ### [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 - ### [Exam AZ-900: Microsoft Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900)
