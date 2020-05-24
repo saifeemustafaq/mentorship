@@ -35,6 +35,12 @@ This repository is made to record the experiences and things learned by the ment
 - [Episode - 4]()
 ---
 
+GitHub workshops for SVKM Students
+[Information Technology Engineering](https://youtu.be/LntVJbPy6S8)
+[Computer Engineering]()
+
+---
+
 # Certifications:
 - ### [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 - ### [Exam AZ-900: Microsoft Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900)
