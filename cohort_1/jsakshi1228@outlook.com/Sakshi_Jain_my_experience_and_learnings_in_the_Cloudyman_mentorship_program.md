@@ -185,3 +185,56 @@ Disaster recovery helps in restoring applications, data, and hardware quickly fo
   * Yes this backup can be obtained by _disaster recovery system of cloud computing._
 * If we do disaster recovery on our own it requires constant maintenance and support on our part. In this case, data protection and disaster recovery are performed manually, which can be a time-consuming and resource-intensive process.
 * On the other hand, Disaster recovery in cloud computing entails storing critical data and applications in cloud storage and failing over to a secondary site in case of a disaster. Cloud computing services are provided on a pay-as-you-go basis and can be accessed from anywhere and at any time. Backup and disaster recovery in cloud computing can be automated, requiring minimum input on our part.
+
+## Date: May 17, 2020
+
+> ### Today I learned:-
+> 1. _What is Capital expenditure (CapEx)?_
+> 2. _What is Operational expenditure (OpEx)_
+> 3. _Capital expenditure (CapEx) versus operational expenditure (OpEx)_
+# _1. What is Capital expenditure (CapEx)?_
+* Capital expenditures (CapEx) refer to funds that are used by a company for the purchase, improvement, or maintenance of long-term assets to improve the efficiency or capacity of the company. Long-term assets are usually physical, fixed and non-consumable assets such as property, equipment, or infrastructure, and that have a useful life of more than one accounting period.
+<br> Capital expenditures include _the purchase of items such as new equipment, machinery, land, plant, buildings or warehouses, furniture and fixtures, business vehicles, software, or intangible assets such as a patent or license._
+* ## Types of Capital expenditure (CapEx):
+     There are two types of expenditure-
+     * Expenses for the maintenance of levels of operation present within the company and 
+     * Expenses that will enable an increase in future growth.
+* ## Included in capital expenditures are amounts spent on:
+     * acquiring fixed, and in some cases, intangible assets
+     * repairing an existing asset so as to improve its useful life
+     * upgrading an existing asset if it results in a superior fixture
+     * preparing an asset to be used in business
+     * restoring property or adapting it to a new or different use
+     * starting or acquiring a new business
+# _2. What is Operational expenditure (OpEx)_
+* An operational expenditure (Opex) is the money a company spends on an ongoing, day-to-day basis in order to run a business or system. Depending upon the industry, these expenses can range from the ink used to print documents to the wages paid to employees.
+<br> In brief, "operating expenses" include most expenditures for operating the firm's usual line of busines—expenditures that are not capital spending. Operating expenses do not result in capital assets. Instead, they serve entirely for—not surprisingly—"operating" the business. Accountants calculate "profits" by subtracting the period's expenses from the period's incoming revenues.
+Operating expenses include:
+
+* ## Operating expenses include:
+
+  * accounting expenses
+  * license fees
+  * maintenance and repairs, such as snow removal, trash removal, janitorial service, pest control, and lawn care
+  * advertising
+  * office expenses
+  * supplies
+  * attorney fees and legal fees
+  * utilities, such as telephone
+  * insurance
+  * property management
+  * travel and vehicle expenses
+  * leasing commissions
+  * salary and wages
+# _3. Capital expenditure (CapEx) versus operational expenditure (OpEx)_
+### The key differences between both are:-
+
+- [ ] Funds that fall under capital expenditures are for major purchases that will be used in the future. The life of these purchases extends beyond the current accounting period in which they were purchased. Because these costs can be recovered only over time through depreciation, companies usually prepare a capital expense budget apart from OPEX.
+
+- [ ] Operating expenses represent the day-to-day expenses necessary to run a business. Because these are short-term costs that are used up in the same accounting period in which they were purchased, it makes sense for them to have a separate budget.
+
+- [ ] CapEx cannot be fully deducted in the period when they were incurred. Tangible assets are depreciated and intangible assets are amortized over time. On the other hand. Operating expenses are fully deducted in the accounting period during which they were incurred.
+
+- [ ] Money spent on inventory falls under capex. While the money spent turning inventory into throughput is opex.
+
+- [ ] CapEx costs incurred for buying the income producing property.	OpEx costs associated with the operation and maintenance of an income producing property.
