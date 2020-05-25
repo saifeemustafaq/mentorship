@@ -20,7 +20,7 @@ This repository is made to record the experiences and things learned by the ment
 
 ---
 
-[Cohort 1 Videos](https://www.youtube.com/playlist?list=PLGINtfHapAMtoFjWbDxFbjVUmmyEioBwO):
+[Cohort 1 Videos](https://www.youtube.com/playlist?list=PLSHJhVQ0UMGSbescNwtiiUgr_JzfuGEbL):
 - [Episode - 1](https://youtu.be/mpzewUWKmr4)
 - [Episode - 2](https://youtu.be/LheB2BmJ07I)
 - [Episode - 3](https://youtu.be/XNDpZis7UVg)
@@ -28,7 +28,7 @@ This repository is made to record the experiences and things learned by the ment
 
 ---
 
-[Cohort 2 Videos](https://www.youtube.com/playlist?list=PLGINtfHapAMtoFjWbDxFbjVUmmyEioBwO)
+[Cohort 2 Videos](https://www.youtube.com/playlist?list=PLSHJhVQ0UMGTKw3Js-IGDOBuL96WNWmoC)
 - [Episode - 1](https://youtu.be/IeU9qko1_9Q)
 - [Episode - 2]()
 - [Episode - 3]()
