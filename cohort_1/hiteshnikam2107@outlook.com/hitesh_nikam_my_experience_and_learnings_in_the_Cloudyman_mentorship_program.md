@@ -125,8 +125,42 @@ Whether you require a server for hosting a small website, a Content Delivery Net
  - ## Global Leader :
  Amazon has global presence with 10 regions, 36 availability zones and more than 50 edge locations. Few months ago, Gartner positioned AWS in Leaders Quadrant of the new Magic Quadrant for Cloud Infrastructure as a Service. Gartner also mentioned that AWS has more than five times the compute capacity in use than the aggregate total of rest 14 service providers placed in the same Magic Quadrant.
 
+## Date: May 21, 2020
+> Today I learn about Microsoft azure.
+# Microsoft Azure :
 
+- Microsoft Azure, formerly known as Windows Azure, is Microsoft's public cloud computing platform. It provides a range of cloud services, including compute, analytics, storage and networking. Users can pick and choose from these services to develop and scale new applications, or run existing applications in the public cloud.
+- Microsoft charges for Azure on a pay-as-you-go basis, meaning subscribers receive a bill each month that only charges them for the specific resources they have used.
 
+# Working of microsoft azure :
+- Once customers subscribe to Azure, they have access to all the services included in the Azure portal. Subscribers can use these services to create cloud-based resources, such as virtual machines (VM) and databases.
+- In addition to the services that Microsoft offers through the Azure portal, a number of third-party vendors also make software directly available through Azure. The cost billed for third-party applications varies widely but may involve paying a subscription fee for the application, plus a usage fee for the infrastructure used to host the application.
+
+## List of Top Azure Services
+
+ - Azure DevOps
+ - Virtual Machines
+ - Azure Cosmos DB
+ - Azure Active Directory
+ - API Management
+ - Azure Content Delivery Network
+ - Azure Backup
+ - Logic Apps
+     
+  ## list of bebefits of microsoft azure :   
+   - Apps management
+   - Flexibility
+   - Agility
+   - Compliance
+   - Storage
+   - Security
+   - Analytics Support
+   - Unified Delivery Plan
+ 
+ 
+ 
+ 
+ 
 
 
 
