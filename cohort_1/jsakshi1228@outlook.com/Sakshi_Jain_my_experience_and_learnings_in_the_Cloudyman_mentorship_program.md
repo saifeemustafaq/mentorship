@@ -292,4 +292,35 @@ It is particularly suited for organizations that work on joint projects. In that
        - [ ] Reasonable price
      * Disadvantages:- 
        - [ ] The hybrid deployment model only makes sense if companies can split their data into mission-critical and non-sensitive.
-   
+  
+## Date: May 19, 2020
+
+> ### Today I learned:- 
+> 1. _What is Cloud services?_
+> 2. _What are the different types of cloud services?_ 
+# _1. What is Cloud service?_
+* Cloud service is any service made available to users on demand through the Internet from a cloud computing provider's servers as opposed to being provided from a company's own on-premises servers. Cloud services are designed to provide easy, scalable access to applications, resources and services, and are fully managed by a cloud services provider.
+They are provided on demand and you have to pay only for the services you require. Thus, cloud services are dynamic and can be scale as per the requirement of users. As the cloud service provider supplies all necessary hardware and software components, so the company didn't need to take care of it, and appoint any staff to manage it. 
+- [ ] Example of cloud services include:- 
+      * Data storage 
+      * Backup solutions 
+      * Email services 
+      * Hosting 
+      * Database handling and processing 
+      * Technical support 
+# _2. What are the different types of cloud services?_ 
+* Cloud computing services falls under three broad categories they are:-
+  * _1. Infrastructure as a service (IaaS)_ 
+  * _2. Platform as a service (PaaS)_
+  * _3. Software as a service (SaaS)_
+<br> Let's know more about them 
+### 1. Infrastructure as a service (IaaS)
+* IaaS provides the basic building block for cloud IT. It gives access to networking, computer (virtual or dedicated) and data storage space. It is a pay-as-you-go service 
+### 2. Platform as a service 
+* PaaS removes the need to manage underlying infrastructure (usually hardware and software systems). It allows to focus on the deployment and management of your applications. This helps you be more efficient as you don’t need to worry about resource procurement, capacity planning, software maintenance, patching, or any of the other undifferentiated heavy systems involved.  
+It is designed to make it easier for developers to quickly create web or mobile apps, without thinking about setting up or managing the underlying infrastructure of servers, storage, network and databases needed for development.
+### 3. Software as a service (SaaS)
+* SaaS supplies you a complete product that is run and managed by the service provider. Mostly, people referring to SaaS are referring to end-user applications (such as web-based email). With a SaaS offering, you don’t have to care about the service is maintanance or how the underlying infrastructure is managed. You can just focus on the usage of particular software. 
+With SaaS, cloud providers host and manage the software application and underlying infrastructure and handle any maintenance, like software upgrades and security patching.
+<br> One other part of cloud service is Serverless computing- Like PaaS, serverless computing focuses on building app functionality without spending time continually managing the servers and infrastructure required to do so. The setup, capacity planning and server management for you is done by the service provider. Serverless architectures are highly scalable and event-driven, u can use a specific function only when a specific function or trigger occurs using different allocated resourses.
+
