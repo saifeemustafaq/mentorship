@@ -236,5 +236,60 @@ Operating expenses include:
 - [ ] CapEx cannot be fully deducted in the period when they were incurred. Tangible assets are depreciated and intangible assets are amortized over time. On the other hand. Operating expenses are fully deducted in the accounting period during which they were incurred.
 
 - [ ] Money spent on inventory falls under capex. While the money spent turning inventory into throughput is opex.
-
 - [ ] CapEx costs incurred for buying the income producing property.	OpEx costs associated with the operation and maintenance of an income producing property.
+
+## Date: May 18, 2020
+
+> ### Today I learned:-
+> 1. _What is Cloud deployment model?
+> 2. _What are the different types of Cloud deployment models?_
+# _1. What is Cloud deployment model?_
+* A cloud deployment model represents a specific type of cloud environment, primarily distinguished by ownership, size, and access.
+<br>  It is a configuration of environment parameters such as the accessibility and proprietorship of the deployment infrastructure and storage size. It means that deployment types vary depending on who controls the infrastructure and where it resides.
+# _2. What are the different types of Cloud deployment models?_
+* Depending upon the infrastructure, storage, and accessibility, there are 4 different types of cloud deployment models. They are:-
+* ## 1. Public Cloud
+     * As the name speaks for itself: public clouds are available to the general public, and data are created and stored on third-party servers. 
+The Server infrastructure belongs to service providers that manage them and administer pool resources, which is why there is no need for user companies to buy and maintain their hardware.
+The Provider companies offer resources as a service both free of charge or on a pay-per-use basis via the Internet connection. Users can scale resources as per there need.
+     * _Advantages:-_ 
+        - [ ] Hassle-free infrastructure management
+        - [ ] High scalability
+        - [ ] Reduced costs
+        - [ ] 24/7 uptime
+     * _Disadvantages:-_
+        - [ ] Compromised reliability
+        - [ ] Data security and privacy give rise to concern. 
+        - [ ] The lack of a bespoke service. 
+* ## 2. Private cloud
+     * Only one organization uses this deployment model to run its workloads, and the server can be hosted externally or on the premises of the user company
+There is little to no difference between a public and a private model from the technical point of view, as their architectures are very similar.
+A private model is especially suitable for companies that seek to safeguard their mission-critical operations or for businesses with changing requirements.
+     * Advantages:-
+       - [ ] Bespoke and flexible development
+       - [ ] High security, privacy and reliability
+       - [ ] High scalability
+     * Disadvantages:- 
+       - [ ] Costly 
+       - [ ] Requires considerable expenses on hardware, software and staff training.
+* ## 3. Community cloud
+     * In the case of a community one, several organizations with similar backgrounds share the infrastructure and related resources.
+If the organizations have uniform security, privacy and performance requirements, this multi-tenant data center architecture helps companies achieve their business-specific objectives.
+It is particularly suited for organizations that work on joint projects. In that case, a centralized cloud facilitates project development, management and implementation. Also, the costs are shared across all users.
+     * Advantages:- 
+       - [ ] Cost reduction
+       - [ ] Improved security, privacy and reliability
+       - [ ] Ease of data sharing and collaboration
+     * Disadvantages:- 
+       - [ ] High cost if compared to a public deployment model
+       - [ ] Sharing of fixed storage and bandwidth capacity
+* ## 4. Hybrid cloud 
+     *  A hybrid cloud encompasses the best features of the above-mentioned deployment models — public, private and community ones. It allows companies to mix and match the facets of all three types that best suit their requirements.
+
+     * Advantages:- 
+       - [ ] Improved security and privacy
+       - [ ] Enhanced scalability and flexibility
+       - [ ] Reasonable price
+     * Disadvantages:- 
+       - [ ] The hybrid deployment model only makes sense if companies can split their data into mission-critical and non-sensitive.
+   
