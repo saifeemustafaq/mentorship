@@ -71,20 +71,13 @@
 
 
 ## Benefits of paired regions
-1. Physical isolation
-Each Azure region within a pair is located at least 300 miles apart. This helps in isolation of the pairs so that the regional disaster affects only one region within that pair.
+1. Physical isolation: Each Azure region within a pair is located at least 300 miles apart. This helps in isolation of the pairs so that the regional disaster affects only one region within that pair.
 
-2. Platform-provided replication
-There are some services within Microsoft Azure such as Geo-Redundant Storage that provides automatic replication to the paired region.
+2. Platform-provided replication: There are some services within Microsoft Azure such as Geo-Redundant Storage that provides automatic replication to the paired region.
 
-3. Region recovery order
-For maximum disaster recovery, one region out of every pair is prioritized for recovery Out of every pair, the recovery of one region is prioritized.
+3. Region recovery order: For maximum disaster recovery, one region out of every pair is prioritized for recovery Out of every pair, the recovery of one region is prioritized.
 
-4. Data residency
-A region resides within the same geography for the data residency requirements for tax and judiciary purposes.
-
-5. Sequential updates
-To minimize the downtime, the paired regions are sequentially updated.
+5. Sequential updates: To minimize the downtime, the paired regions are sequentially updated.
 
 
 
