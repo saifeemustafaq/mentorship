@@ -29,7 +29,7 @@ This repository is made to record the experiences and things learned by the ment
 ---
 
 [Cohort 2 Videos](https://www.youtube.com/playlist?list=PLGINtfHapAMtoFjWbDxFbjVUmmyEioBwO)
-- [Episode - 1]()
+- [Episode - 1](https://youtu.be/IeU9qko1_9Q)
 - [Episode - 2]()
 - [Episode - 3]()
 - [Episode - 4]()
