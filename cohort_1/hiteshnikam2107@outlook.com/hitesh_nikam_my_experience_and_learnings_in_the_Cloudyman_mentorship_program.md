@@ -135,7 +135,6 @@ Whether you require a server for hosting a small website, a Content Delivery Net
 # Working of microsoft azure :
 - Once customers subscribe to Azure, they have access to all the services included in the Azure portal. Subscribers can use these services to create cloud-based resources, such as virtual machines (VM) and databases.
 - In addition to the services that Microsoft offers through the Azure portal, a number of third-party vendors also make software directly available through Azure. The cost billed for third-party applications varies widely but may involve paying a subscription fee for the application, plus a usage fee for the infrastructure used to host the application.
-
 ## List of Top Azure Services
 
  - Azure DevOps
@@ -156,9 +155,14 @@ Whether you require a server for hosting a small website, a Content Delivery Net
    - Security
    - Analytics Support
    - Unified Delivery Plan
- 
- 
- 
+ ## Date: May 23, 2020
+ # cloud region :
+## The simplest explanation is that a “cloud region” describes the actual, real-life geographic location where your public cloud resources are located.
+
+# Why are regions important?
+- ### Regions allow you to locate your cloud resources close to your customers, both internal or external. The closer your customers are to the region where your cloud resources are located, the faster and better their experience will be. For example, if your customers are located in Germany, it makes sense to choose a European region for your cloud region, even if your office is in Delaware.
+- ### Regions are also commonly used as part of disaster recovery (DR) strategy. While many public cloud users depend on the reliability and redundancy of inter-region resources for DR, some use multiple regions to achieve the same result. Sometimes this is required for regulatory or compliance reasons, but sometimes it’s simply company policy.
+
  
  
 
