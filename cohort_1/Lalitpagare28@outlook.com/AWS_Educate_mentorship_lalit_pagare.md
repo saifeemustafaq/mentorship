@@ -74,7 +74,31 @@ AWS has built an infrastructure based on lessons learned from over sixteen years
 Amazon continues to benefit its customers by enhancing their infrastructure capabilities.
 Nowadays, Amazon has become a global web platform that serves millions of customers, and AWS has been evolved since 2006, serving hundreds of thousands of customers worldwide.
 
+# disadvantage of AWS 
 
-# need of aws?
-- 
+  
+
+These are the limitations of Amazon Web Services:
+
+   ## - i. Limitations OF Amazon EC2
+
+                AWS sets default limits on resources which vary from region to region. These resources consist of                   images, volumes, and snapshots. You can launch the limited number of instance per area. It also                     provides limited information for the resources managed by Amazon EC2and Amazon VPC console. However,                 you can request to increase the limit 
+
+  ## - ii. Security Limitations
+
+                  As security is one of the main features so AWS limits some of its features which cannot be changed                   at all are-
+
+        ### - EC-2 classic- Maximum of 500 per instance and each Security Group can have a maximum of 100                                       permissions.
+        ### - EC2-VPC- Up to 100 security groups per VPC.
+
+  ## - iii. Technical Support Fee
+
+              AWS charges you for immediate support and you can opt for any packages among 3 which are-
+
+          - Developer
+          - Business
+          - Enterprise
+
+
+             AWS does have general cloud computing issues when you move to a cloud such as a downtime, limited                    control, and backup protection. However, these flaws can be overcome after some time. This makes them                the temporary issue.
 
