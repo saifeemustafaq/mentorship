@@ -17,3 +17,7 @@ Security Development Lifecycle (SDL) is an industry leading security process on 
 - 3)Microsoft offers Virtual Network (VNET) that offers users ability to create isolated networks as well as subnets, route tables, private IP address ranges and network gateways.
 
 - 4)Microsoft’s pricing is also pay-as-you-go, but they charge per minute, which provides a more exact pricing model. Azure also offers short term commitments with the option between pre-paid or monthly charges.
+
+#  Azure vs AWS vs GCP vs Oracle Cloud
+
+![Difference](https://github.com/VipulJoshi1/index/blob/master/image_36e323e4-9713-48ef-9271-915f8e0392e020200525_191739.jpg)
