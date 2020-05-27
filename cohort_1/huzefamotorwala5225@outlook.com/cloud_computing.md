@@ -114,3 +114,16 @@
 > # Serverless Computing  
   #### Serverless computing is an execution model for the cloud in which a cloud provider dynamically allocates—and then charges the user for—only the compute resources and storage needed to execute a particular piece of code
   #### Serverless enables you to build modern applications with increased agility and lower total cost of ownership. Building serverless applications means that your developers can focus on their core product instead of worrying about managing and operating servers or runtimes, either in the cloud or on-premises.
+- - - 
+> # Benefits of using storage in Cloud
+  - #### Companies and individuals using cloud-based services are more likely to cut back on operating costs than those who still use in-house hosting solutions or external hard drives
+  - #### You can access all files, folder, photos, and videos in the cloud from anywhere in the world. Of course, provided you have the necessary credentials and internet access.
+  - #### One of the greatest advantages of using cloud storage is that you’ll always have a backup solution in case something goes wrong
+  - #### Most cloud storage providers tend to add extra layers of security protocols. They do this in order to prevent your files and folders from either ending up in the wrong hands or from being lost.
+> # Latency
+  #### latency is basically the amount of delay (or time) it takes to send information from one point to the next.
+  #### latency in cloud computing is the delay between a client request and a cloud service provider’s response.
+> # Load Balancers
+  #### Cloud load balancing is the process of distributing workloads and computing resources in a cloud computing environment. Load balancing allows enterprises to manage application or workload demands by allocating resources among multiple computers, networks or servers.
+  #### Load balancing in cloud computing is the process in which workloads and computing resources are distributed across more than one servers
+  #### Load balancing helps in maintaining system firmness, performance and protection against system failures.
