@@ -162,9 +162,35 @@ Whether you require a server for hosting a small website, a Content Delivery Net
 # Why are regions important?
 - ### Regions allow you to locate your cloud resources close to your customers, both internal or external. The closer your customers are to the region where your cloud resources are located, the faster and better their experience will be. For example, if your customers are located in Germany, it makes sense to choose a European region for your cloud region, even if your office is in Delaware.
 - ### Regions are also commonly used as part of disaster recovery (DR) strategy. While many public cloud users depend on the reliability and redundancy of inter-region resources for DR, some use multiple regions to achieve the same result. Sometimes this is required for regulatory or compliance reasons, but sometimes it’s simply company policy.
+## Date: May 24, 2020
+ ## What is Azure Region Pairs?
 
- 
- 
+- #### Each Azure region is paired with another region within the same geography, and this makes a regional pair except for Brazil South, which is paired with a region outside its geography.
 
+- #### Among these regional pairs or Azure Region Pairs, only one paired region is updated at a time. The Azure Region pairs offer multiple benefits. These regional pairs are always located greater than 300 miles apart. These Azure Region pairs are directly connected and are far enough alone to be isolated from regional disasters so that the disaster affects only one region.
+ - ## Why pairing?
+
+- #### Suppose, if one of the regions were to experience a disaster, then the services of the primary region will automatically failovers to the secondary region of that regional pair. For example— East Asia region’s pair is Southeast Asia.
+
+- #### These Azure Regions are paired together, within the same geographic regions, for retrieving our data even after the experience of disaster, and also for the Business Continuity and Disaster Recovery (BCDR) purpose.
+
+## Benefits of paired regions
+### 1. Physical isolation
+
+- Each Azure region within a pair is located at least 300 miles apart. This helps in isolation of the pairs so that the regional disaster affects only one region within that pair.
+
+### 2. Platform-provided replication
+
+- There are some services within Microsoft Azure such as Geo-Redundant Storage that provides automatic replication to the paired region.
+
+### 3. Region recovery order
+
+- For maximum disaster recovery, one region out of every pair is prioritized for recovery Out of every pair, the recovery of one region is prioritized.
+### 4. Data residency
+
+- A region resides within the same geography for the data residency requirements for tax and judiciary purposes.
+### 5. Sequential updates
+
+- To minimize the downtime, the paired regions are sequentially updated.
 
 
