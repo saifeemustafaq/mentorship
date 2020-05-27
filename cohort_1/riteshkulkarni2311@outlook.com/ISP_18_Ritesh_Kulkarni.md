@@ -1,3 +1,6 @@
 - > #  Date 26 May 2020
 - >  ## - Today I am selected in ISP_18 (Internshala Student Partner) Program. 
 - > - Tommorrow I will give more information about ISP_18 Program.
+- > #  Date 27 May 2020
+- > # Internshala:
+- > # - internshala is an online learning and Internship Platform in which we can do internships from our home . It is good platform for to do  online training and projects .
