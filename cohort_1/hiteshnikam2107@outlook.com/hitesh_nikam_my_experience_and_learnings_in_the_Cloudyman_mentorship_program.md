@@ -192,5 +192,7 @@ Whether you require a server for hosting a small website, a Content Delivery Net
 ### 5. Sequential updates
 
 - To minimize the downtime, the paired regions are sequentially updated.
-
-
+## Date: May 25, 2020
+#  Fault domain :
+####  Two events Unplanned Hardware maintenance Event and Unexpected Downtime comes under the fault domain.
+ #### A fault domain is factually a rack of the servers which consumes mostly subsystem like network, power, cooling, etc. When you put VMs on an Availability Set, then to protect VMs from failure, Azure spread them on fault domain and update domain.
