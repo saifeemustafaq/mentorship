@@ -45,3 +45,5 @@ Today I Learned:
 1. Started an online course on Google Digital Garage, of Digital Marketing.
 ## Date: May 25, 2020
 1. Started to develop an website using html as a part of our college mini project.
+## Date: May 26, 2020
+1. Selected for the ISP program of Internshala from my college, and from my training and responsibilities start for the next 70 days. 
