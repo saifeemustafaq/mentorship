@@ -148,13 +148,31 @@
 
 #### Hence, Online cloud storage and backup is beneficial for all types of businesses.
 
+> ## Scaling in Cloud Computing:
 
+1. Scaling is the ability of a  company or organisation to handle increasing or decreasing demands in a capable manner, so that the coustomers or the company itself don't face any issue because of the fluctuating demands.
+2. Thus, scalability is a planned level of capacity that can grow or shrink as needed.
+3. There are 3 ways to **Scale in cloud.**
 
+## 1st] Vertical Scaling(Up scaling):
+- With Cloud computing, you can add or subtract resources, like storage or processing power.
+- You can take a example of a Multi-level parking lot.
+- There's almost countless space, that vehicles can occupy anytime. Mostly there's alot of space available as the place is almost never completely occupied, as long as the capacity is not exceeded. 
+- Similarly changes can be made in your Vm as per the need.
+- This is **Vertical Scaling**
 
+## 2nd] Horizontal Scaling(Out Scaling):
+- Horizontal scaling refers to adding more **servers** to your network, rather than simply adding resources like with vertical scaling.
+- This method take more time and is more complex, but it allows you to connect servers together.
+- You can also handle traffic efficiently and execute complex workloads.
 
+## 3rd] Diagonal Scaling(Mixed Scaling):
+- When we combine Horizontalal and Vertical Scalinng together, We get Diagonal Scaling.
+- It is the most efficient infrastructure scaling. 
+- It is simply increasing the resources of our existing servers untill it reaches it's limit.
+- Then we can add more servers to our infrastructure and continue with our process.
 
-
-
-
-
-
+### Takeaway:
+- We experience great amount of flexibility that saves both money and time for a business.
+- Cloud computing uses a pay-as-you-go model. 
+- This on-demand nature is what makes the cloud so easy and intresting.
