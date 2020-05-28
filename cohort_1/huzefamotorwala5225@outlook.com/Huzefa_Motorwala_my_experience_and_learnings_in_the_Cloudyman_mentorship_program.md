@@ -1,6 +1,7 @@
 > # This blog is part of the **[Cloudyman Mentorship Program](https://t.co/78sRvCvYiO?amp=1)** under the mentorship of *[Mustafa Saifee](https://www.linkedin.com/in/saifeemustafaq/)*
 
 ## Date: May 12, 2020
+
 ## Today I learned:
 > # what is cloud computing? 
    #### cloud computing is basically storing and accessing data and programs over the Internet instead of your computer's hard drive and you can deploy your application in multiple physical locations with just a few clicks
@@ -90,5 +91,4 @@
 > # What is a region pair?
   - #### region pair consist of two region within the same geography
     - #### An Azure Region Pair is a relationship between 2 Azure Regions within the same geographic region for disaster recovery purposes.
-    
-    
+
