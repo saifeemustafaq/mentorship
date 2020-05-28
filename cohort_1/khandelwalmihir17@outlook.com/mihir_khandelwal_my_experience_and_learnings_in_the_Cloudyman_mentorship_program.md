@@ -47,3 +47,6 @@ Today I Learned:
 1. Started to develop an website using html as a part of our college mini project.
 ## Date: May 26, 2020
 1. Selected for the ISP program of Internshala from my college, and from my training and responsibilities start for the next 70 days. 
+## Date: May 28, 2020
+1. Completed an target of 5 participants in ISP program on Internshala. 
+2. The task was really awesome, and also received great rewards. 

@@ -1,6 +1,7 @@
 > # This blog is part of the **[Cloudyman Mentorship Program](https://t.co/78sRvCvYiO?amp=1)** under the mentorship of *[Mustafa Saifee](https://www.linkedin.com/in/saifeemustafaq/)*
 
 ## Date: May 12, 2020
+
 ## Today I learned:
 > # what is cloud computing? 
    #### cloud computing is basically storing and accessing data and programs over the Internet instead of your computer's hard drive and you can deploy your application in multiple physical locations with just a few clicks
@@ -90,7 +91,9 @@
 > # What is a region pair?
   - #### region pair consist of two region within the same geography
     - #### An Azure Region Pair is a relationship between 2 Azure Regions within the same geographic region for disaster recovery purposes.
-- - -    
+
+---
+
 > ## Cloud uptime 
   - #### Cloud uptime is the amount of time that a cloud service hosted by a cloud provider is accessible to end users.
 > ## Cloud downtime
@@ -99,4 +102,3 @@
   #### A service-level agreement (SLA) defines the level of service you expect from a vendor. Usually, SLAs are between companies and external suppliers, but they may also be between two departments within a company.
   ####  service-level agreement (SLA) is a contract between a service provider and its customers that documents what services the provider will offer and defines the service standards the provider is obligated to meet.
   #### ***For example*** If I buy an AC from the dealer he will offer me his services like free maintenance for a certain period and replacement policy in case of any damage as well as defines me the standards company should meet      
-    
