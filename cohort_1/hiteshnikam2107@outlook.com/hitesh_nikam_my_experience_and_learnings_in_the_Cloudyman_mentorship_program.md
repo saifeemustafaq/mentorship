@@ -196,3 +196,24 @@ Whether you require a server for hosting a small website, a Content Delivery Net
 #  Fault domain :
 ####  Two events Unplanned Hardware maintenance Event and Unexpected Downtime comes under the fault domain.
  #### A fault domain is factually a rack of the servers which consumes mostly subsystem like network, power, cooling, etc. When you put VMs on an Availability Set, then to protect VMs from failure, Azure spread them on fault domain and update domain.
+ 
+ 
+## Date: May 26, 2020 
+ ## Service Level Agreements (SLA)
+- Some of the web hosting companies offer a Service Level Agreement. It states the guaranteed level of availability. If the web host doesn’t deliver that uptime level, you will be entitled to refunds or hosting credits.
+ 
+ ## Cloud uptime :
+- #### Cloud uptime is the amount of time that a cloud service hosted by a cloud provider is accessible to end users.
+-  When negotiating cloud uptime in a cloud storage service-level agreement (cloud storage SLA), organizations  evaluate the following items: 
+   -  How fast will the system work when it is up and running? (This is also known as a response time warranty.)
+   - What is the guaranteed uptime percentage? 
+   - What timeframe is the vendor using for its uptime guarantee? (Some providers may base their uptime on an annual basis instead of a monthly one.
+- ## Understanding Downtime :
+ - Downtime is generally viewed as any time that a system or service is not working. Companies do everything they can to 
+  maximize uptime. 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,6 +1,7 @@
 > # This blog is part of the **[Cloudyman Mentorship Program](https://t.co/78sRvCvYiO?amp=1)** under the mentorship of *[Mustafa Saifee](https://www.linkedin.com/in/saifeemustafaq/)*
 
 ## Date: May 12, 2020
+
 ## Today I learned:
 > # what is cloud computing? 
    #### cloud computing is basically storing and accessing data and programs over the Internet instead of your computer's hard drive and you can deploy your application in multiple physical locations with just a few clicks
@@ -90,6 +91,7 @@
 > # What is a region pair?
   - #### region pair consist of two region within the same geography
     - #### An Azure Region Pair is a relationship between 2 Azure Regions within the same geographic region for disaster recovery purposes.
+
 > # Scaling
   - #### Cloud scaling is the process of adding or removing cloud computing resources as you need them.
   - #### Cloud Vertical Scaling refers to adding more CPU, memory, or I/O resources to an existing server, or replacing one server with a more powerful server
@@ -103,3 +105,13 @@
   - #### Virtual machines provide similar functionality to physical machines, but they do not run directly on the hardware. Instead, a software layer exists between the hardware and the virtual machine. The software that manages one or more VMs is called a ***"hypervisor"*** and the VMs are called ***"guests"*** or virtualized instances. Each guest can interact with the hardware, but the hypervisor controls them. The hypervisor can start up and shut down virtual machines and also allocate a specific amount of system resources to each one.
   - #### You can create a virtual machine using virtualization software. Examples include Microsoft Hyper-V Manager, VMware Workstation Pro, and Parallels Desktop. These applications allow you to run multiple VMs on a single computer. For example, Parallels Desktop for Mac allows you to run Windows, Linux, and macOS virtual machines on your Mac.    
     
+---
+
+> ## Cloud uptime 
+  - #### Cloud uptime is the amount of time that a cloud service hosted by a cloud provider is accessible to end users.
+> ## Cloud downtime
+  - #### Cloud downtime is the amount of time that a cloud service hosted by a cloud provider are unavailable to end users    
+> # What is Service Level Agreement(SLA)
+  #### A service-level agreement (SLA) defines the level of service you expect from a vendor. Usually, SLAs are between companies and external suppliers, but they may also be between two departments within a company.
+  ####  service-level agreement (SLA) is a contract between a service provider and its customers that documents what services the provider will offer and defines the service standards the provider is obligated to meet.
+  #### ***For example*** If I buy an AC from the dealer he will offer me his services like free maintenance for a certain period and replacement policy in case of any damage as well as defines me the standards company should meet      

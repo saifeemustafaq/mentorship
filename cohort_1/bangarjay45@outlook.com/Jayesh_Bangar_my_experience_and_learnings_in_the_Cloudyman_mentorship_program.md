@@ -176,3 +176,53 @@
 - We experience great amount of flexibility that saves both money and time for a business.
 - Cloud computing uses a pay-as-you-go model. 
 - This on-demand nature is what makes the cloud so easy and intresting.
+
+
+## What is **Latency in Cloud Computing?**
+
+- Cloud service latency is the delay of time between a client request and a cloud service provider’s response.
+- Let's take a example:
+  - Imagine you went to a restaurant and order something. 
+  - There's a time delay in preparing the dish, and serving it to your table.
+  - This is Latency.
+  - Also, Buffering delays of online video streaming is Latency. 
+- We as a Client request some service or something to the Cloud provider and in return the provider fulfills our request.
+- Latency greatly affects how usable and enjoyable devices and communication requests are.
+- We as customers certainly wish our Client reqests get solved within no time.
+- It is the time it takes for a signal to travel from one point to another in networking. 
+
+
+## Load balancing in Cloud Computing:
+
+- Cloud load balancing is defined as the method of splitting workloads and computing properties in a cloud computing.
+- It helps companies to manage workload demands or application demands by distributing resources among numerous computers, networks or servers.
+- The traffic on the internet grows rapidly, hence, the workload on the server grows fast which leads to the overloading of servers in various Organisations.
+- There are two methords to overcome the problem of overloading on the servers-
+- First is a single-server solution in which the server is upgraded to a higher performance server.
+- But the new server may also be overloaded soon, demanding another upgrade. 
+- Also the upgrading process is arduous and expensive.
+- Second is a multiple-server solution in which a scalable service system on a cluster of servers is built. 
+- It is more cost effective as well as more scalable to build a server cluster system for network services.
+
+## Importance of Load Balancing
+
+1. **Better Performance:**
+- Load balancing techniques are less expensive and easy to implement as compared to its other options available.
+- Organizations can work on their client's applications much more faster and deliver better performance at relatively lower costs.
+
+2. **Maintain Website Traffic:**
+- Cloud Balancing provides scalability to control website traffic. 
+- With the help of effective load balancers, you can easily manage high-end user traffic with the servers and network devices.
+- Cloud balancing plays a crucial role for e-commerce websites like Amazon and Flipkart, who are dealing with millions of visitors every single second. 
+- Load balancers help them distribute and manage workloads at the time of promotional and sale offers.
+
+3. **Handle Sudden Traffic Burst:**
+- Load balancers have this ability to handle any sudden traffic received at a particular time.
+- For example, a College or University website can shut down during result declaration due to too many requests arrivals at the same time.
+- If they are using load balancers they do not have to worry about any amount of traffic burst. 
+- No matter how big is the traffic, load balancers equally divide entire website load into different servers for maximum results in a minimum response time.
+
+4. **Flexibility:**
+- The main objective of using a load balancer is to protect the website from a sudden shutdown.
+- When the workload is distributed among a number of servers, even if one of them fails, the load could be shifted to another one.
+- This shows scalability, flexibility and the handling ability of traffic.
