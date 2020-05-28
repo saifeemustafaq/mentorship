@@ -92,6 +92,19 @@
   - #### region pair consist of two region within the same geography
     - #### An Azure Region Pair is a relationship between 2 Azure Regions within the same geographic region for disaster recovery purposes.
 
+> # Scaling
+  - #### Cloud scaling is the process of adding or removing cloud computing resources as you need them.
+  - #### Cloud Vertical Scaling refers to adding more CPU, memory, or I/O resources to an existing server, or replacing one server with a more powerful server
+  - #### Horizontal scaling is slightly more complex. When scaling your systems horizontally, you generally add more servers to spread the load across multiple machines.    
+- - -
+
+> # ***Virtual Machine***
+  - #### A virtual machine (or "VM") is an emulated computer system created using software. It uses physical system resources, such as the CPU, RAM, and disk storage, but is isolated from other software on the computer. It can easily be created, modified, or destroyed without affecting the host computer.
+  - #### Virtual machines (VMs) are software-based computers that run inside of other computers.
+  - #### Virtual machines allow you to run an operating system in an app window on your desktop that behaves like a full, separate computer. You can use them play around with different operating systems, run software your main operating system can't, and try out apps in a safe, sandboxed environment
+  - #### Virtual machines provide similar functionality to physical machines, but they do not run directly on the hardware. Instead, a software layer exists between the hardware and the virtual machine. The software that manages one or more VMs is called a ***"hypervisor"*** and the VMs are called ***"guests"*** or virtualized instances. Each guest can interact with the hardware, but the hypervisor controls them. The hypervisor can start up and shut down virtual machines and also allocate a specific amount of system resources to each one.
+  - #### You can create a virtual machine using virtualization software. Examples include Microsoft Hyper-V Manager, VMware Workstation Pro, and Parallels Desktop. These applications allow you to run multiple VMs on a single computer. For example, Parallels Desktop for Mac allows you to run Windows, Linux, and macOS virtual machines on your Mac.    
+    
 ---
 
 > ## Cloud uptime 
