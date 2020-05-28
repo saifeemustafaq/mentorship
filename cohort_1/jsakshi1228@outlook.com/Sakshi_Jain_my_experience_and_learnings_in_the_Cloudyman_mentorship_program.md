@@ -333,7 +333,7 @@ With SaaS, cloud providers host and manage the software application and underlyi
 # _1. What is a region?_
 * Regions are geographic locations in which public cloud service providers' data centers reside. 
 A region consists of a set of data centers deployed within a latency-defined perimeter and connected through a dedicated low-latency network. This ensures that services within a region offer the best possible performance and security.
-# _2. What is an Availability Zone?
+# _2. What is an Availability Zone?_
 * The Availability zones (AZs) are isolated locations within data center regions from which public cloud services originate and operate. Businesses choose one or multiple worldwide availability zones for their services depending on business needs.
   * We can select availability zones for our businesses because of many reasons, including compliance and proximity to end customers. 
   * Cloud administrators can also choose to replicate services across multiple availability zones to decrease latency or protect resources. 
@@ -353,3 +353,27 @@ __1. Amazon Web Services (AWS) operates regions in the United States, South Amer
 __2. Microsoft Azure assembles availability sets -- VMs linked together for continuous operability -- into regions that are grouped into six geographies: United States, Europe, Asia Pacific, Japan, Brazil and Australia. Azure customers choose between Locally Redundant Storage, in which data is stored locally in the end users' primary region, or Geo Redundant Storage where data is stored more than 250 miles away from the primary region, but in the same geography.__
 
 __3. Google Cloud Platform gathers data centers in regions comprised of zones. Google operates regions of data centers in central United States, Western Europe and East Asia.__
+
+## Date: May 21, 2020
+
+> ### Today I learned:-
+> # Fault Domains
+* As every coin has to sides. Just like that technology too offers so many advantages and good things but also comes with a bitter truth that is a hardware requires maintanance and hardware failures.
+* Failover enables multiple servers to work together to provide high availability – or put another way, to provide node fault tolerance. But now businesses demand ever-greater availability from their infrastructure. To achieve cloud-like uptime, even highly unlikely occurrences such as chassis failures, rack outages, or natural disasters must be protected against. Thus we need a system with chassis, rack, and site fault tolerance as well.
+
+### A fault domain is a set of hardware components that share a single point of failure. 
+* To be fault tolerant to a certain level, you need multiple fault domains at that level. 
+* So to be rack fault tolerant, your servers and your data must be distributed across multiple racks.
+* The Fault domains define the group of virtual machines that share a common power source and network switch.
+* Each fault domain contains some racks and each rack contains virtual machine.
+* Each of these Fault domain shares a power supply and a network switch.
+* For example, if there is a failure in the fault domain then all the resources in the fault domain become unavailable.
+ Therefore, you should place your vms such a way that each fault domain get one web server, one database server and like that.
+### Benefits
+  - [ ] It can be used in Storage Spaces, including Storage Spaces Direct, uses fault domains to maximize data safety.
+  - [ ] It can be used Health Service to provide more helpful alerts.
+  - [ ] It can be used Stretch clustering for storage affinity. 
+  
+### Levels of fault domains
+  - [ ] There are four levels of fault domains site, rack, chassis, and node.
+    
