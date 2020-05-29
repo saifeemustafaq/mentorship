@@ -364,6 +364,8 @@ __3. Google Cloud Platform gathers data centers in regions comprised of zones. G
 ### A fault domain is a set of hardware components that share a single point of failure. 
 * To be fault tolerant to a certain level, you need multiple fault domains at that level. 
 * So to be rack fault tolerant, your servers and your data must be distributed across multiple racks.
+* Two events Unplanned Hardware maintenance Event and Unexpected Downtime comes under the fault domain.
+* Suppose we put two VM into availability set, then it set up VMs to two different racks so that if the network, power, etc. failed,       then only one rack will be affected.
 * The Fault domains define the group of virtual machines that share a common power source and network switch.
 * Each fault domain contains some racks and each rack contains virtual machine.
 * Each of these Fault domain shares a power supply and a network switch.
@@ -375,5 +377,47 @@ __3. Google Cloud Platform gathers data centers in regions comprised of zones. G
   - [ ] It can be used Stretch clustering for storage affinity. 
   
 ### Levels of fault domains
-  - [ ] There are four levels of fault domains site, rack, chassis, and node.
-    
+  There are four levels of fault domains 
+  - [ ] site
+  - [ ] rack
+  - [ ] chassis
+  - [ ] node.
+ 
+## Date: May 22, 2020
+
+> ### Today I learned:-
+> 1. _Service-Level Agreements_
+> 2. _Up-time_
+> 3. _Down-time_
+# Service-Level Agreements
+### A Service Level Agreement (SLA) is the bond for performance negotiated between the cloud services provider and the client.
+* Particular aspects of the service – quality, availability, responsibilities – are agreed between the service provider and the service user.
+* Primarily, in cloud computing all Service Level Agreements were used to negotiated between a client and the service consumer. Nowadays, with the initiation of large utility cloud computing providers, most of them are standardized until a client becomes a large consumer of cloud services.
+* If a cloud service provider fails to meet the stated targets of minimums then the provider has to pay the penalty to the cloud service consumer as per the agreement. Thus, Service Level Agreements are like insurance policies in which the corporation has to pay as per the agreements if any crises occurs.
+## Service Level Agreement are defined at different levels which are:- 
+  * __Customer-based SLA__
+    * It is an agreement with an individual customer group, covering all the services they use. 
+    * Example, an SLA between a supplier (IT service provider) and the finance department of a large organization for the services such as finance system, payroll system, billing system, procurement/purchase system, etc.
+  * __Service-based SLA__
+    * It is an agreement for all customers using the services being delivered by the service provider.
+    * Example, An email system for the entire organization. There are chances of difficulties arising in this type of SLA as level of the services being offered may vary for different customers.
+  * __Multilevel SLA__
+    * In this level SLA is split into the more different levels, each addressing different set of customers for the same services, in the same SLA.
+    * __Corporate-level SLA:__ It covers all the generic service level management (often abbreviated as SLM) issues appropriate to every customer throughout the organization. 
+    * __Customer-level SLA:__ It covers all SLM issues relevant to the particular customer group, regardless of the services being used.
+    * __Service-level SLA:__ It covers all SLM issue relevant to the specific services, in relation to this specific customer group.
+## Service Level Agreement usually specifies these parameters:-
+   * Type of service to be provided
+   * Availability of the Service (uptime)
+   * Latency or the response time
+   * Service components reliability
+   * Each party accountability
+   * Response and issue resolution time-frame
+   * Repercussions for service provider not meeting its commitment
+   * Warranties
+
+## Example, of how these SLA's are provided by Microsoft Azure:- 
+__Windows Azure SLA –__
+Window Azure has different SLA’s for compute and storage.
+For compute, there is a guarantee that when a client deploys two or more role instances in separate fault and upgrade domains, client’s internet facing roles will have external connectivity minimum 99.95% of the time. 
+Moreover, all of the role instances of the client are monitored and there is guarantee of detection 99.9% of the time when a role instance’s process is not runs and initiates properly.
