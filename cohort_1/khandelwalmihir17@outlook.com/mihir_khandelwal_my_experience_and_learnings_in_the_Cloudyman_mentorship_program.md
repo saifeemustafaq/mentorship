@@ -50,3 +50,7 @@ Today I Learned:
 ## Date: May 28, 2020
 1. Completed an target of 5 participants in ISP program on Internshala. 
 2. The task was really awesome, and also received great rewards. 
+## Date: May 29, 2020
+1. The experience of being an ISP for the first time was really memorable.
+2. Learned different Marketting skills and how to convince people. 
+3. Also the guidance from Internshala was awesome. 
