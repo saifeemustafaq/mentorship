@@ -104,9 +104,7 @@
   - #### Virtual machines allow you to run an operating system in an app window on your desktop that behaves like a full, separate computer. You can use them play around with different operating systems, run software your main operating system can't, and try out apps in a safe, sandboxed environment
   - #### Virtual machines provide similar functionality to physical machines, but they do not run directly on the hardware. Instead, a software layer exists between the hardware and the virtual machine. The software that manages one or more VMs is called a ***"hypervisor"*** and the VMs are called ***"guests"*** or virtualized instances. Each guest can interact with the hardware, but the hypervisor controls them. The hypervisor can start up and shut down virtual machines and also allocate a specific amount of system resources to each one.
   - #### You can create a virtual machine using virtualization software. Examples include Microsoft Hyper-V Manager, VMware Workstation Pro, and Parallels Desktop. These applications allow you to run multiple VMs on a single computer. For example, Parallels Desktop for Mac allows you to run Windows, Linux, and macOS virtual machines on your Mac.    
-    
 ---
-
 > ## Cloud uptime 
   - #### Cloud uptime is the amount of time that a cloud service hosted by a cloud provider is accessible to end users.
 > ## Cloud downtime
@@ -114,4 +112,25 @@
 > # What is Service Level Agreement(SLA)
   #### A service-level agreement (SLA) defines the level of service you expect from a vendor. Usually, SLAs are between companies and external suppliers, but they may also be between two departments within a company.
   ####  service-level agreement (SLA) is a contract between a service provider and its customers that documents what services the provider will offer and defines the service standards the provider is obligated to meet.
-  #### ***For example*** If I buy an AC from the dealer he will offer me his services like free maintenance for a certain period and replacement policy in case of any damage as well as defines me the standards company should meet      
+  #### ***For example*** If I buy an AC from the dealer he will offer me his services like free maintenance for a certain period and replacement policy in case of any damage as well as defines me the standards company should meet    
+  
+> # Containers
+  #### Containers in cloud computing are the standard unit of software for packaging code and all related dependencies. Therefore, an application could run quickly as well as effectively in different computing environments. Containers provide a logical packaging mechanism involving abstractions of applications from the actual environments where the applications run.
+  #### ***Virtual machines and containers differ in several ways, but the primary difference is that containers provide a way to virtualize an OS so that multiple workloads can run on a single OS instance. With VMs, the hardware is being virtualized to run multiple OS instances.***
+> # Serverless Computing  
+  #### Serverless computing is an execution model for the cloud in which a cloud provider dynamically allocates—and then charges the user for—only the compute resources and storage needed to execute a particular piece of code
+  #### Serverless enables you to build modern applications with increased agility and lower total cost of ownership. Building serverless applications means that your developers can focus on their core product instead of worrying about managing and operating servers or runtimes, either in the cloud or on-premises.
+- - - 
+> # Benefits of using storage in Cloud
+  - #### Companies and individuals using cloud-based services are more likely to cut back on operating costs than those who still use in-house hosting solutions or external hard drives
+  - #### You can access all files, folder, photos, and videos in the cloud from anywhere in the world. Of course, provided you have the necessary credentials and internet access.
+  - #### One of the greatest advantages of using cloud storage is that you’ll always have a backup solution in case something goes wrong
+  - #### Most cloud storage providers tend to add extra layers of security protocols. They do this in order to prevent your files and folders from either ending up in the wrong hands or from being lost.
+> # Latency
+  #### latency is basically the amount of delay (or time) it takes to send information from one point to the next.
+  #### latency in cloud computing is the delay between a client request and a cloud service provider’s response.
+> # Load Balancers
+  #### Cloud load balancing is the process of distributing workloads and computing resources in a cloud computing environment. Load balancing allows enterprises to manage application or workload demands by allocating resources among multiple computers, networks or servers.
+  #### Load balancing in cloud computing is the process in which workloads and computing resources are distributed across more than one servers
+  #### Load balancing helps in maintaining system firmness, performance and protection against system failures.
+  
