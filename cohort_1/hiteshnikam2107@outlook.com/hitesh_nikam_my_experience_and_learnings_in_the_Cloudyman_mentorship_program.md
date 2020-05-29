@@ -211,9 +211,11 @@ Whether you require a server for hosting a small website, a Content Delivery Net
 - ## Understanding Downtime :
  - Downtime is generally viewed as any time that a system or service is not working. Companies do everything they can to 
   maximize uptime. 
- 
- 
- 
- 
- 
+ ## Date: May 28, 2020 
+#  Scaling in cloud computing :
+ - Scaling is defined as the ability for an IT resource to handle growing or decreasing demands in a capable manner. It is one of the most popular and beneficial features of cloud computing, as businesses can scale up or down to meet demands based on season, projects, growth and more. By implementing cloud scalability, you enable your resources to grow as your traffic or organization grows, and vice versa. There are a few main ways to scale in the cloud.
+ # Vertical Scaling
+- Vertical scaling refers to adding more resources (CPU/RAM/DISK) to your server (database or application server is still remains one) as on demand. Vertical Scaling is most commonly used in applications and products of middle-range as well as small and middle-sized companies.
+# Horizontal scaling :
+- Horizontal scaling refers to adding more servers to your network, rather than simply adding resources like with vertical scaling. This method tends to take more time and is more complex, but it allows you to connect servers together, handle traffic efficiently and execute concurrent workloads. 
  
