@@ -11,7 +11,7 @@
 
 ## My achievements:
 1. Learned certified App Development training at Internshala.
-2. Done baiscs of ML and AI, IoT, Cloud Computing on Coursera with certificates.
+2. Done baiscs of ML and AI, IoT, Cloud Computing, Digital Marketting on Coursera with certificates.
 3. Selected as an ISP from Internshala from IT class.
 4. Done Google course on Marketing and Sales.
 
@@ -25,3 +25,5 @@
 2. C++
 3. HTML and CSS
 4. Phyton(basics)
+
+## LinkedIn [Mihir Khandelwal](https://www.linkedin.com/in/mihirkhandelwal/)
