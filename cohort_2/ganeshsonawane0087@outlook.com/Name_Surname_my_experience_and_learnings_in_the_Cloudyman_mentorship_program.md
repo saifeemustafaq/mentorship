@@ -1,7 +1,6 @@
 > # This blog is part of the **[Cloudyman Mentorship Program](https://t.co/78sRvCvYiO?amp=1)** under the mentorship of *[Mustafa Saifee](https://www.linkedin.com/in/saifeemustafaq/)*
 
-## Date: May 30
-, 2020
+## Date: May 30, 2020
 
 ## what is cloud computing ?
   The technology of distributed dada processing  in which some scalable information resources and capabilities are provided as a service to multiple external  customers through internet  technology 
