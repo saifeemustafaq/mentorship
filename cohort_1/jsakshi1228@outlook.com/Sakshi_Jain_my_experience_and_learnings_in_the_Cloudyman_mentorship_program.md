@@ -386,9 +386,8 @@ __3. Google Cloud Platform gathers data centers in regions comprised of zones. G
 ## Date: May 22, 2020
 
 > ### Today I learned:-
-> 1. _Service-Level Agreements_
-> 2. _Up-time_
-> 3. _Down-time_
+> # _Service-Level Agreements_
+> 
 # Service-Level Agreements
 ### A Service Level Agreement (SLA) is the bond for performance negotiated between the cloud services provider and the client.
 * Particular aspects of the service – quality, availability, responsibilities – are agreed between the service provider and the service user.
@@ -421,3 +420,37 @@ __Windows Azure SLA –__
 Window Azure has different SLA’s for compute and storage.
 For compute, there is a guarantee that when a client deploys two or more role instances in separate fault and upgrade domains, client’s internet facing roles will have external connectivity minimum 99.95% of the time. 
 Moreover, all of the role instances of the client are monitored and there is guarantee of detection 99.9% of the time when a role instance’s process is not runs and initiates properly.
+
+## Date: May 23, 2020
+
+> ### Today I learned:-
+> 1. _Up-time_
+> 2. _Down-time_
+# Up-time
+## Uptime is the amount of time that a cloud service hosted by a cloud provider is accessible to end users.
+## It says when a computer is working or available and is used as measure of the operating system’s stability or reliability. In this time, the machine may be left unattended and it will not crash. 
+## Without knowing uptime, it may be hard to understand a service’s value.
+* Example, when a machine has been operational for three weeks continuously, it can be referred to having a three-week uptime.
+* Cloud hosting gives you almost perfect uptime and great flexibility.
+* An uptime of 99.95% still results in over 4 hours of systems unavailability each year.
+* __While, negotiating cloud uptime in a cloud storage service-level agreement (cloud storage SLA), organizations should evaluate the following items:__
+1. How fast will the system work when it is up and running? 
+2. What is the guaranteed uptime percentage? 
+3. What timeframe is the vendor using for its uptime guarantee? 
+4. Is scheduled maintenance included in the cloud uptime guarantee? 
+5. Does guaranteed uptime require changes to the customer's infrastructure? 
+6. What happens if the service goes down? 
+7. What are the penalties if the cloud provider doesn't meet its cloud uptime requirements? 
+
+# Down-time
+## Downtime or outage duration refers to a period of time that a system fails to provide or perform its primary function. 
+## The reliability, availability, recovery, and unavailability are related concepts.
+## Unavailability is the proportion of a time-span that a system is unavailable or offline. This is usually a result of the system failing to function because of an unplanned event, or because of routine maintenance
+* Downtime analysis (DTA) is an essential part of plant operations management as it provides a powerful tool which enables a better understanding of the underlying issues that affect plant availability and rate loss.
+* DTA enables identification and quantification of lost production capacity by accurately collecting data and measuring actual overall output against theoretical or rated capacity.
+* __Benefits of Downtime analysis are:__
+    * Maximizes return on assets
+    * Reduces unplanned stoppages and production slowdowns
+    * Identifies common equipment failures
+    * Compares existing and past performance
+    * Identifies areas for improvement
