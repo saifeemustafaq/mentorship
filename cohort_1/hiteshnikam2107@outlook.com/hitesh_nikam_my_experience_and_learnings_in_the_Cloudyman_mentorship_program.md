@@ -218,4 +218,20 @@ Whether you require a server for hosting a small website, a Content Delivery Net
 - Vertical scaling refers to adding more resources (CPU/RAM/DISK) to your server (database or application server is still remains one) as on demand. Vertical Scaling is most commonly used in applications and products of middle-range as well as small and middle-sized companies.
 # Horizontal scaling :
 - Horizontal scaling refers to adding more servers to your network, rather than simply adding resources like with vertical scaling. This method tends to take more time and is more complex, but it allows you to connect servers together, handle traffic efficiently and execute concurrent workloads. 
- 
+ Date: May 29, 2020
+# What is a container ?
+- A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another. A Docker container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings.
+- For those coming from virtualized environments, containers are often compared with virtual machines (VMs). You might already be familiar with VMs: a guest operating system such as Linux or Windows runs on top of a host operating system with virtualized access to the underlying hardware. Like virtual machines, containers allow you to package your application together with libraries and other dependencies, providing isolated environments for running your software services. 
+
+## Benefits of containers :
+
+- ### Consistent Environment
+Containers give developers the ability to create predictable environments that are isolated from other applications. Containers can also include software dependencies needed by the application, such as specific versions of programming language runtimes and other software libraries. From the developer’s perspective, all this is guaranteed to be consistent no matter where the application is ultimately deployed. 
+
+- ### Run Anywhere
+Containers are able to run virtually anywhere, greatly easing development and deployment: on Linux, Windows, and Mac operating systems ,on virtual machines or bare metal, on a developer’s machine or in data centers on-premises, and of course, in the public cloud. The widespread popularity of the Docker image format for containers further helps with portability. Wherever you want to run your software, you can use containers. 
+
+- ### Isolation
+Containers virtualize CPU, memory, storage, and network resources at the OS-level, providing developers with a sandboxed view of the OS logically isolated from other applications. 
+
+
