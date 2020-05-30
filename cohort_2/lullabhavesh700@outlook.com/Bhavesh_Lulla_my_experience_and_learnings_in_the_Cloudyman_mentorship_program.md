@@ -56,3 +56,86 @@ The speaker explained how to use github.
  - The growth of the cloud is not being driven by "big business." The growth of the cloud is being driven by consumers buying cloud ready devices that can connect to cloud computing services at work, at home, and on-the-go. 
 
  - The cloud is not "a fad." There are currently 1.2 billion people using Facebook worldwide. That number represents 11% of the world's population. 
+
+# Benifits of Cloud Computing:
+
+ - Cost Saving
+
+ - Security
+
+ - Flexibility
+
+ - Mobility
+
+ - Insight 
+
+ - Increased Collaboration
+
+ - Quality Control
+
+ - Disaster Recovery
+
+ - Loss Prevention
+
+ - Automatic Software Updates 
+
+ - Competitive Edge
+
+ - Sustainability
+
+# Introduction to Github
+
+  Github is a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code. 
+
+# What is Version Control? 
+
+ - Version Control helps developers track and manage changes to a software project's code. As a software project grows, version control becomes essential. Take WordPress... 
+
+ - At this point, WordPress is a pretty big project. If a core developer wanted to work on one specific part of the WordPress codebase, it wouldn't be safe or efficient to have them directly edit the "official" source code. 
+
+ - Instead, version control lets developers safely work through branching and merging. 
+
+ - With branching, a developer duplicates part of the source code (called the repository). The developer can then safely make changes to that part of the code without affecting the rest of the project. 
+
+ - Then, once the developer gets his or her part of the code working properly, he or she can merge that code to make it official. 
+
+ - All of these changes are then tracked and can be reverted if need be. 
+
+# What is Git? 
+
+ - Git is a specific open-source version control system created by Linus Torvalds in 2005.
+
+ - Specifically, Git is distributed version control system, which means that the entire codebase and history is available on every developer's computer, which allows for easy branching and merging. 
+ 
+# Fork in Git
+ 
+ - A fork is a copy of repository. Forking a repository allows you to freely experiment with changes without affecting the original project. 
+
+# Star in Git
+
+ - Starring makes it easy to find a repository or topic again later. You can see all the repositories and topics you have starred by going to your stars page. 
+
+ - Starring a repository also shows appreciation to the repository maintainer for their work. Many of Github's repository rankings depend on the number of stars a repository has. 
+
+# Watch in Git
+
+  By enabling watch in git, notifications will be received by the owner for all the ongoing activities. 
+
+# Pull request in Git
+
+  A pull request is basically asking the person in charge of the branch to include your code. And it also helps that person see exactly what you've changed in the code. Once some changes made, you could submit that code back to a branch by making a pull request. 
+
+# Markdown Language
+
+ - Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lusts are just a few of the things we can do with Markdown. 
+   Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
+
+   Markdown is used in following places:
+
+ - Git
+
+ - Comments in Issues and Pull Requests
+
+ - Files with the .md or.markdown extension
+
+   
