@@ -32,7 +32,7 @@ This repository is made to record the experiences and things learned by the ment
 - [Episode - 1](https://youtu.be/IeU9qko1_9Q)
 - [Episode - 2](https://youtu.be/y1CWESnlMVQ)
 - [Episode - 3](https://youtu.be/Zdhm1nnOp6I)
-- [Episode - 4]()
+- [Episode - 4](https://youtu.be/cD8mdWcIWY8)
 ---
 
 GitHub workshops for SVKM Students
@@ -72,9 +72,13 @@ GitHub workshops for SVKM Students
 ---
 
 - [ ] What is Cloud Computing  
+
+|Microsoft|Amazon|ZDNET|
+|-----|-----|-----|
 | *[Link 1](https://azure.microsoft.com/en-in/overview/what-is-cloud-computing/)* | *[Link 2](https://aws.amazon.com/what-is-cloud-computing/)* | *[Link 3](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-from-public-and-private-cloud-to-software-as-a/)* |
 
-| A | B | C |
+
+
 
 - [ ] Benefits of cloud computing
   - Cost Savings
