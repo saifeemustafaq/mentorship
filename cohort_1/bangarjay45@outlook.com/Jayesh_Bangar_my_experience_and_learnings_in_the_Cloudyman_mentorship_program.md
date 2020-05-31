@@ -226,3 +226,26 @@
 - The main objective of using a load balancer is to protect the website from a sudden shutdown.
 - When the workload is distributed among a number of servers, even if one of them fails, the load could be shifted to another one.
 - This shows scalability, flexibility and the handling ability of traffic.
+
+
+> # **Uptime and Downtime:**
+
+1. A growing challenge for applications is obtaining optimal availability at all times. 
+2. Uptime is a computer industry term for the time during which a computer is operational.
+3. Downtime is the time when it isn't operational. 
+
+## More about Uptime:
+- Uptime is very important for businesses who rely heavily on their websites, or whose customers rely on them.
+- If customers start thinking your business’ website is unreliable, they may stop coming back, resulting in loss of sales. 
+- If Search engines like Google start to fail often, people might think that their website is unreliable, they will stop visiting as well, resulting in poor search engine results.
+- Uptime is measured in terms of a percentile. 
+- For example, one standard for uptime that is a goal of a computer that is operational 99.999 percent of the time.
+- Many cloud hosting companies create aggressive SLAs around their uptime guarantee, whether it’s a 99%, 99.9%, or 100% uptime guarantee. 
+- Having a hosting provider that guarantees uptime is much better than one that doesn’t. 
+- Keep in mind – uptime guarantees do not include scheduled outages or maintenance.
+
+## More about Downtime:
+- Downtime refers to periods of time during which a computer system, server or network is shut off or unavailable for use. 
+- Systems go through periods of downtime for a number  of reasons, including power or hardware failure, system crashes, hacker attacks, system reboots, operating system and/or software updates, lack of network connectivity and more.
+- While some downtime events are planned as part of maintenance schedules ("planned downtime"), in many cases periods of downtime result from unplanned or unexpected events like network outages and hardware failure.
+- Downtime might result in huge losses for big businesses.
