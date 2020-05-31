@@ -71,8 +71,10 @@ GitHub workshops for SVKM Students
 
 ---
 
-- [ ] What is Cloud Computing
-  - #### || *[Link 1](https://azure.microsoft.com/en-in/overview/what-is-cloud-computing/)* || *[Link 2](https://aws.amazon.com/what-is-cloud-computing/)* || *[Link 3](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-from-public-and-private-cloud-to-software-as-a/)* ||
+- [ ] What is Cloud Computing  
+| *[Link 1](https://azure.microsoft.com/en-in/overview/what-is-cloud-computing/)* | *[Link 2](https://aws.amazon.com/what-is-cloud-computing/)* | *[Link 3](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-from-public-and-private-cloud-to-software-as-a/)* |
+
+| A | B | C |
 
 - [ ] Benefits of cloud computing
   - Cost Savings
