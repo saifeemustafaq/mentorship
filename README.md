@@ -14,7 +14,7 @@ This repository is made to record the experiences and things learned by the ment
 * [Markdown](https://www.markdownguide.org/basic-syntax/)
 * [YouTube link to the Cohort-1 | Episode 1](https://youtu.be/mpzewUWKmr4)
 * You can use Emojis to make your content interesting and fun. Get Emojis from [here](https://gist.github.com/rxaviers/7360908) and [here](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c)
-* [Click here](https://aws.amazon.com/what-is-aws/) to know more about [Amazon Web Services - AWS Cloud](https://aws.amazon.com/what-is-aws/)
+* [Click here](http://www.awseducate.com/registration?refid=zs5ydf4K0ZVLu3xgCZ9Mz8gplle7InuG) to know more about [Amazon Web Services - AWS Cloud](http://www.awseducate.com/registration?refid=zs5ydf4K0ZVLu3xgCZ9Mz8gplle7InuG)
 * [Click here](https://azure.microsoft.com/en-in/overview/what-is-azure/) to know more about [Microsoft Azure](https://azure.microsoft.com/en-in/overview/what-is-azure/)
 * [Click here](https://cloud.google.com/) to know more about [Google Cloud Platform - GCP](https://cloud.google.com/)
 
@@ -48,7 +48,7 @@ GitHub workshops for SVKM Students
 
 # Where to Study from? (FREE)
 - [Azure Fundamentals Learning Path](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)
-- [AWS Certification Training](https://www.aws.training/)
+- [AWS Certification Training](http://www.awseducate.com/registration?refid=zs5ydf4K0ZVLu3xgCZ9Mz8gplle7InuG)
 - [Google Docs](https://cloud.google.com/docs)
 
 > # **Task**
