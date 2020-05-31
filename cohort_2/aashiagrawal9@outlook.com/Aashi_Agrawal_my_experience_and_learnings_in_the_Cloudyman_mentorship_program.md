@@ -57,6 +57,56 @@ The speaker intoduced about github
  - **Word processing application:** 
  Writeboard is another online word processing and document editing application. It has a unique feature that multiple users can access the same document using this application, edit that document and save the document after editing, but the document will have different versions. But it doesn't allow importing the word files.  
  
+ ## Date: May 30, 2020  
+ 
+ > #### Today I learned:
+ >
+ >> 1. Introduction To Github 
+ >> 2. How Github Works 
+ >> 3. What's a repository? 
+ >> 4. The Github Flow  
+ 
+ # 1. Introduction to Github: 
+ GitHub is a Git hosting repository that provides developers with tools to ship better code through command line features, issues (threaded discussions), pull requests, code review, or the use of a collection of free and for-purchase apps in the GitHub Marketplace. With collaboration layers like the GitHub flow, a community of 15 million developers, and an ecosystem with hundreds of integrations, GitHub changes the way software is built.  
+ 
+ GitHub for $7.5 billion in June, 2018. GitHub, which is delivered through a software-as-a-service (SaaS) business model, was started in 2008 and was founded on Git, an open source code management system created by Linus Torvalds to make software builds faster.Git is used to store the source code for a project and track the complete history of all changes to that code. It allows developers to collaborate on a project more effectively by providing tools for managing possibly conflicting changes from multiple developers.GitHub allows developers to change, adapt and improve software from its public repositories for free, but it charges for private repositories, offering various paid plans.  
+ 
+ # 2. How Github Works: 
+ GitHub builds collaboration directly into the development process. Work is organized into repositories, where developers can outline requirements or direction and set expectations for team members. Then, using the GitHub flow, developers simply create a branch to work on updates, commit changes to save them, open a pull request to propose and discuss changes, and merge pull requests once everyone is on the same page.  
+ 
+ # 3. What's a repository? 
+ A repository, or Git project, encompasses the entire collection of files and folders associated with a project, along with each file’s revision history. The file history appears as snapshots in time called commits, and the commits exist as a linked-list relationship, and can be organized into multiple lines of development called branches. Because Git is a DVCS, repositories are self-contained units and anyone who owns a copy of the repository can access the entire codebase and its history. Using the command line or other ease-of-use interfaces, a git repository also allows for: interaction with the history, cloning, creating branches, committing, merging, comparing changes across versions of code, and more.  
+ 
+ Working in repositories keeps development projects organized and protected. Developers are encouraged to fix bugs, or create fresh features, without fear of derailing mainline development efforts. Git facilitates this through the use of topic branches: lightweight pointers to commits in history that can be easily created and deprecated when no longer needed.Through platforms like GitHub, Git also provides more opportunities for project transparency and collaboration. Public repositories help teams work together to build the best possible final product.  
+ 
+# 4. The Github Flow: 
+The GitHub flow is a lightweight, branch-based workflow built around core Git commands used by teams around the globe—including ours. 
+The GitHub flow has six steps, each with distinct benefits when implemented:  
+
+> ## Create a branch:  
+>Topic branches created from the canonical deployment branch (usually master) allow teams to contribute to many parallel efforts. Short-lived topic branches, in particular, keep teams focused and results in quick ships.  
+
+> ## Add commits: 
+> Snapshots of development efforts within a branch create safe, revertible points in the project’s history.  
+
+> ## Open a pull request: 
+>Pull requests publicize a project’s ongoing efforts and set the tone for a transparent development process.  
+
+> ## Discuss and review code: 
+>Teams participate in code reviews by commenting, testing, and reviewing open pull requests. Code review is at the core of an open and participatory culture.  
+
+> ## Merge: 
+>Upon clicking merge, GitHub automatically performs the equivalent of a local ‘git merge’ operation. GitHub also keeps the entire branch development history on the merged pull request.  
+
+> ## Deploy: 
+> Teams can choose the best release cycles or incorporate continuous integration tools and operate with the assurance that code on the deployment branch has gone through a robust workflow.
+
+ 
+ 
+ 
+ 
+
+ 
  
  
  
