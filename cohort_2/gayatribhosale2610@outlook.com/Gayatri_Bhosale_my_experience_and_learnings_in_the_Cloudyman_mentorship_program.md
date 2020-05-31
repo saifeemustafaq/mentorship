@@ -30,3 +30,23 @@ Cloud computing has three most common types of cloud services to offer. Dependin
 - Lessen the usage of proprietary operating systems in our daily computing.
 
 - Connection to the cloud can be done whenever we want.
+
+## Date: May 31,2020
+
+## About Virtual Machine
+
+A virtual machine (VM) is a software program or operating system that not only exhibits the behavior of a separate computer, but is also capable of performing tasks such as running applications and programs like a separate computer.Virtual machines are implemented by software emulation methods or hardware virtualization techniques. A lightweight software known as hypervisor allocates the computing resources (RAM, CPU power, memory, storage, etc.) of the server or host to each VM, keeping all of them separate to avoid interference.
+
+## Benefits of Cloud Computing 
+
+### Cost Savings
+Cost saving is the biggest benefit of cloud computing.The services are free from capital expenditure. It helps you to save substantial capital cost as it does not need any physical hardware investments. 
+
+### Security
+Cloud computing offers great security when any sensitive data has been lost. As the data is stored in the system, it can be easily accessed even if something happens to your computer. You can even remotely wipe out data from the lost machines for avoiding it getting in the wrong hands.
+
+### Flexibility
+It offers flexible facility which could be turned off, up or down as per the circumstances of the user. For instance, a promotion of sales is very popular, capacity can be immediately and quickly added to it for the avoidance of losing sales and crashing servers. When those sales are done, the capacity can also be shrunk for the reduction of costs.
+
+### Mobility
+Cloud computing allows mobile access to corporate data via smartphones and devices, which is a great way to ensure that no one is ever left out of the loop. Staff with busy schedules, or who live a long way away from the corporate office, can use this feature to keep instantly up-to-date with clients and coworkers.
