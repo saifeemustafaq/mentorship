@@ -50,12 +50,15 @@
 
 # 5. What is the _basic concept of GitHub?_
 
+
 * GitHub is a Git repository hosting service, but it adds many of its own features. GitHub provides a Web-based graphical interface. It also provides access control and several collaboration features, such as a wikis and basic task management tools for every project. 
 It connects the developers and coders from all over the world with each other to share knowledge and work together.
 
 
 
+
 # 6. How we can _use GitHub_, and what are the _features of GitHub?_
+
 
 * GitHub is a code hosting platform for collaboration and version control.
 GitHub lets you (and others) work together on projects. It allows you to share your code and edit in others code. You can use this essential features provided by GitHub and perform a lot of task.
@@ -76,6 +79,7 @@ GitHub lets you (and others) work together on projects. It allows you to share y
 
 
 
+
 # 7. Importance of _technical documentation_.
 
 * Documentation help ensure consent and expectations. Having reliable documentation is crucial in helping users figure out how to use a product as well as aiding writers and developers in creating work of consistent and high quality. Also if you are working on something currently and meanwhile you forget one or the other thing then you can always have a quick look at your documentation and recall evrything. Technical documentation is an asset for your organization, for the simple reason that it enables employees to access information without chasing their managers.
@@ -84,18 +88,17 @@ GitHub lets you (and others) work together on projects. It allows you to share y
 
 # 8. How to use _GitHub Repository_ and how to _pull request_ any information?
 
-* A repository is like a folder for our project. out project's repository contains all of our project's files and stores each file's revision history. we can also discuss and manage our project's work within the repository.
-
 * _we can restrict who has access to a repository by choosing the repository's visibility_
 
   * Pool Request is it tells owner and others about you have did some changes or added some data in repository and owner has access to approve or disapprove the pool request.
 
 
 
+
 # 9. What is _markdown language?_
 
-* Markup Language is used for annotate text and embed tags.
-For e.g - HTML(Hyper Text Mark-up Language)Whuch is used for web designing.
+* Markup Language is used for annotate text and embed tags.  
+For e.g - HTML(Hyper Text Mark-up Language)Whuch is used for web designing.  
 
 * Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like "#" or "*".
 
