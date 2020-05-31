@@ -11,3 +11,18 @@
 2. Direct Peering.
 3. Carrier Peering.
 4. Dedicated Interconnect.
+# Cloud Storage.
+- It is binary large object storage with multiple classes;
+  - Multi-regional.
+  - Regional.
+  - Nearline.
+  - Coldline.
+- High performance, internet scale, simple adminstration and doesn't require capacity management.
+- Storage files are organized into buckets.
+- Ways to bring data into cloud.
+  - Online Transfer.
+  - Storage Transfer Service.
+  - Transfer Appliance.
+- Cloud Spanner is a horizontal scalable RDBMS, and also managed by RDBMS.
+- Cloud Storage works with other GCP services such as BigQuery, Compute Engine, App Engine and Cloud SQL.
+- Cloud Datastore is a horizontally scalable NoSQL database, which is designed for application backends, supports transactions and includes a free daily quota.
