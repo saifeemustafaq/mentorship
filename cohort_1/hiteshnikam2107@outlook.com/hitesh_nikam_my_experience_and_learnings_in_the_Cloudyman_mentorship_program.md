@@ -234,4 +234,19 @@ Containers are able to run virtually anywhere, greatly easing development and de
 - ### Isolation
 Containers virtualize CPU, memory, storage, and network resources at the OS-level, providing developers with a sandboxed view of the OS logically isolated from other applications. 
 
+## examples of containers :
+## Docker :
+Docker is a set of platform as a service (PaaS) products that uses OS-level virtualization to deliver software in packages called containers. Containers are isolated from one another and bundle their own software, libraries and configuration files they can communicate with each other through well-defined channels. All containers are run by a single operating system kernel and therefore use fewer resources than virtual machines. 
+## Mesos Containerizer
+In 2018, 4 percent of production containers were Mesos. Developed by Apache, Mesos offers quality performance, supporting both Docker and appc image types. OCI support is likely coming, with indications they will follow Docker’s adoption trajectory.
+## containerd :
+containerd is described as “an industry-standard container runtime with an emphasis on simplicity, robustness and portability.” An incubating project of the Cloud Native Computing Foundation, containerd is available as a daemon for Linux or Windows.
+## CoreOS rkt
+In 2018, 12 percent of production containers were rkt (pronounced “Rocket”). Rkt supports two types of images: Docker and appc. A selling point of rkt is its pod-based process that works out of the box with Kubernetes (also referred to as “rktnetes”). In Kubernetes, an rkt container runtime can easily be specified.
+
+
+
+
+
+
 
