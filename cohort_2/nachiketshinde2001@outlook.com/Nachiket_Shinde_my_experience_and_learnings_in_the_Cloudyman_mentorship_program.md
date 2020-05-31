@@ -12,3 +12,17 @@ I first time use GitHub
 - Many companies are have cloud platform by using that platform many companies are growing up with high technology
 - By Using Cloud Technology many simple computer are convert into super computer 
 - In that many work can do as no need any compromise about the project
+-------
+## Date: May 31, 2020
+
+## About Virtual Machines :
+Virtual machines are provided by many companies like Microsofts , Amazon and much more .
+this virtual machines are very benifical for us 
+>### cost saving 
+  In pc or laptops much of the software are not run by the system requirement by using this machines work requirement are complete by at low cost and we can stop or start at any time
+>### security
+  In our pc we can just use an Antivirus for security but it not suffcient 
+  Virtual machines companies are provides more than antivirus security
+ >### Flexibility
+  In that we can anytime stop or start any virtual machines without data loss
+  We can easily launch any machines at any time anywhere.
