@@ -133,4 +133,6 @@
   #### Cloud load balancing is the process of distributing workloads and computing resources in a cloud computing environment. Load balancing allows enterprises to manage application or workload demands by allocating resources among multiple computers, networks or servers.
   #### Load balancing in cloud computing is the process in which workloads and computing resources are distributed across more than one servers
   #### Load balancing helps in maintaining system firmness, performance and protection against system failures.
-  
+- - -
+> # Vnet
+  #### An Azure Virtual Network (VNet) is a representation of your own network in the cloud. It is a logical isolation of the Azure cloud dedicated to your subscription. You can use VNets to provision and manage virtual private networks (VPNs) in Azure and, optionally, link the VNets with other VNets in Azure. Each VNet you create has its own CIDR block and can be linked to other VNets and on-premises networks as long as the CIDR blocks do not overlap. You also have control of DNS server settings for VNets, and segmentation of the VNet into subnets
