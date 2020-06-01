@@ -166,6 +166,16 @@ Considering to move to Azure, but uncertain where or how to start your cloud jou
 
 
 
-
+# Sign up for a free account
+In a web browser, go to https://azure.microsoft.com/free.
+Scroll down through the page to learn more about the benefits and free services available.
+Select Start free.
+Sign in with your Microsoft or GitHub account or create a free Microsoft account.
+On the About you page, select your correct country or region. Enter your first and last name, email address, and phone number. Depending on your country, you might see additional fields, such as a VAT number. Select Next to continue.
+On the Identity verification by phone screen, select your country code, and type the number of a telephone to which you have immediate access.
+You have the option of text or callback to obtain a verification code. Select the relevant button, type the code in the Verification code box, and select Verify code.
+If the verification code is correct, you're asked to enter details of a valid credit card. Enter the card information and select Next.
+The last step is to review the agreement and privacy statement then select Sign up.
+Congratulations! You have successfully set up a free account, and should be on the Azure portal home page.
 
 
