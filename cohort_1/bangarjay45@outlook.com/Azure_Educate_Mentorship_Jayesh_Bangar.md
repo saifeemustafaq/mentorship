@@ -135,5 +135,7 @@
 ### Vnet is further broken down into subnets. 
 #### These are the Advantages VNet offers.
 
+> VNet Overview:
+<img width="343" alt="vnetoverview" src="https://user-images.githubusercontent.com/65165798/83379660-b6f64b00-a3f9-11ea-8add-665d3f21c07d.png">
 
 
