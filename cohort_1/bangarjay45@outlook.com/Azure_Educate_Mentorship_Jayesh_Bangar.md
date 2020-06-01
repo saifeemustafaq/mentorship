@@ -136,6 +136,25 @@
 #### These are the Advantages VNet offers.
 
 > VNet Overview:
+In the following figure, VMs are represented as web servers and database servers. Each set of VMs are assigned to separate subnets in the VNet.
 <img width="343" alt="vnetoverview" src="https://user-images.githubusercontent.com/65165798/83379660-b6f64b00-a3f9-11ea-8add-665d3f21c07d.png">
 
+You can create a VNet before or as you create a VM. You create these resources to support communication with a VM:
 
+- Network interfaces
+- IP addresses
+- Virtual network and subnets
+
+In addition to those basic resources, you should also consider these optional resources:
+
+- Network security groups
+- Load balancers 
+
+
+## Network Interface(NIC):
+A [network interface (NIC)](../articles/virtual-network/virtual-network-network-interface.md) is the interconnection between a VM and a virtual network (VNet). A VM must have at least one NIC, but can have more than one, depending on the size of the VM you create.
+- Network interface is the point of interconnection between a computer and a private or public network.
+- A Network interface is generally a network interface card (NIC), but does not have to have a physical form. 
+- Instead, the network interface can be implemented in software.
+
+You can create a VM with multiple NICs, and add or remove NICs through the lifecycle of a VM. Multiple NICs allow a VM to connect to different subnets and send or receive traffic over the most appropriate interface. VMs with any number of network interfaces can exist in the same availability set, up to the number supported by the VM size. 
