@@ -26,3 +26,11 @@ this virtual machines are very benifical for us
  >### Flexibility
   In that we can anytime stop or start any virtual machines without data loss
   We can easily launch any machines at any time anywhere.
+ >### Mobility
+  The virtual machine it can be easily use by any device from any place at any time
+  virtual machine is handle by easily 
+ >### Insight
+ the virtual machine is can be easy to handle 
+ by the virtual machine data transfer speed is fast the machine can use any an social media as same
+
+
