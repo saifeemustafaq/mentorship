@@ -179,3 +179,87 @@ The last step is to review the agreement and privacy statement then select Sign 
 Congratulations! You have successfully set up a free account, and should be on the Azure portal home page.
 
 
+
+# What is a Virtual Machine?
+It is a computer file typically called as an image which behaves like an actual computer. It is one of the files which contains everything. It runs in windows,Linux etc. This gives you a flexibility that can run multiple machines in a physical computer. Each system can have a different operating system.
+Each of these virtual machines provides its own virtual hardware which includes CPUs, memory, hard drives, network interfaces and other such devices.
+Want to become a Microsoft certified Azure Professional? Check Intellipaat Azure certification course now!
+Watch this Azure Administrator Tutorial
+
+   ## - What is Azure Virtual Machine?
+It is one of the services provided by Azure to create your own instances.
+It can be used for various ways like:
+Development and test
+Applications in the Cloud
+Extended Datacenter
+It is to remember that when you are running Azure vmyou must pay for the compute time on a per- minute basis.
+the pricing of this is based on their size, operating system and any licensed software that has been installed in it.
+In order to avoid corresponding charges when you are not using it, it is to be seen that you change its state to Stopped (Deallocated)
+
+## - Azure Virtual Machine: Workloads
+When you are deciding to move to Azure vm there are two ways in which you can carry out. In this creating Azure Virtual Machine tutorial you’ll be learning these two important ways to move to Azure vm.
+Suitable workloads
+unsuitable workloads
+Suitable Workloads
+It is nothing, but which is highly available service workloads, it could be commercial online stores
+It can also be for periodic workloads such as:
+Marketing campaigns which are seasonal on a website of an organization.
+Annual Sales during festive holidays.
+For unpredicted workloads like startups where they are unaware of their growth.
+It can also be utilized by organization who simply want to offload their infrastructure to the cloud.
+Unsuitable Workloads
+If you want to move your applications to the cloud in which you are not seeing the cost difference it is not suitable
+There are some regulations from the authorities or the local government who decides that you cannot move to the cloud based on their Regulations
+If you have any doubts or queries related to Azure, do post on Azure Community.
+How do I create my first Azure vm?
+There are several ways of creating your Azure Virtual Machine:
+It totally depends on the Environment you are working on for creating Azure vm:
+Azure Portal
+It creates a Virtual Machine Running Windows as the portal
+Templates
+With the help of the Resource Manager Template a Windows Virtual Machine can be created
+Client Disks
+By using C# one can deploy Azure Resources
+REST API’s
+Create or Update a Virtual Machine
+If you want to go back and learn Azure from scratch, here is a blog that will help you: What Is Microsoft Azure?
+What is a Virtual Network?
+This Creating Azure vm tutorial will help you to learn about Azure virtual network in detail,  Azure Virtual network allows the customers to create and manage virtual private network in Azure. The basic purpose of virtual network is to communicate the instances with each other. There is an option to connect different virtual networks together. The Azure virtual network lets you to connect to your on- premise networks. This effectively makes Azure as an extension of your own datacenter. Azure Virtual networks supports ICMP, UDP
+1) Isolation
+Each of these network works independently
+when creating a virtual network, you can divide them into segments.
+You can configure the virtual network to use your own DNA servers.
+2) Internet Communication
+By default, when you are launching any instances in the Azure vm is can access the Internet
+As and when you need you can enable inbound access to specific resources.
+Watch this Azure Active Directory video
+
+
+3) Azure Resource Communication
+Resources which falls under Azure virtual network can communicate with each other using private IP addresses, irrespective of the resources are from different subnets.
+They provide default routing between subnets, on-premise networks OS you don’t have to configure and manage routes.
+4) Virtual Network connectivity
+it can be connected to each other, enabling resources in any virtual network to communicate with resources in any other virtual network.
+Are you preparing for Azure interview? Then here are latest Azure interview questions
+5) On- premise connectivity
+A virtual network can be connected to an on-premises network, enabling resources to communicate between each other
+6) Traffic filtering
+Network Traffic can be filtered from resources in a virtual network by source IP address and port
+7) Routing
+Azure’s routing can be optionally Overridden by default through configuring with your own routes or by propagating BGP routes through network gateway.
+
+Azure Virtual Network: DHCP (Dynamic Host Configuration)
+Get certified from top Azure course in NewYork Now!
+Azure uses Dynamic Host Configuration Protocol services to allocate Ip addresses from the ranges you assign to virtual network. Each IP address lease has an infinite duration. This creating Azure vm tutorial will you a clear picture of Dynamic Host Configuration  in Azure Virtual Network.
+To avoid IP address changes regardless of the state of the Azure vm,, you can configure a static private IP address from the range of Ipv4 addresses associated with the virtual network.
+Azure Virtual Network: Subnet
+Azure virtual network consists of one or more Subnets
+Subnets divide your virtual network into smaller IP ranges so that the resources organized within these subnets can be separated logically.
+Each subnet contains range of IP addresses that constitute a subset of the virtual network space.
+Azure Virtual Network: RoutingIt is nothing but how your default traffic gets routed.
+It automatically created a route table for each subnet within the Azure virtual network and adds system default routes to the table. You can Override few System routes with custom routes and add additional custom routes to route table.
+Network Security Groups
+It is nothing but the firewall which limits the network traffic at a virtual machine level. It contains a list of security rules that allow or deny inbound or outbound network traffic based on source or destination IP addresses, port and protocol.
+In case if applied to the Subnet, security rules are applied to all resources in the subnet.
+
+
