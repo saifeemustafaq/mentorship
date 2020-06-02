@@ -127,7 +127,7 @@ The speaker explained how to use github.
 
 # Markdown Language
 
- - Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lusts are just a few of the things we can do with Markdown. 
+   Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lusts are just a few of the things we can do with Markdown. 
    Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
 
    Markdown is used in following places:
@@ -138,4 +138,52 @@ The speaker explained how to use github.
 
  - Files with the .md or.markdown extension
 
+## Date: June 1,2020
+ 
+> Today I learned:
+ 
+   Disaster Recovery
+ 
+   CapEx and OpEx 
+
+# Disaster Recovery in Cloud Computing
+
+ - Data is the most valuable asset. Its loss can result in massive damage to your business, even the loss of reputation. 
+
+ - It is hard to predict when a disaster will occur and how serious its impact will be. 
+
+ - Cloud disaster recovery stores the system data on a remote cloud-based platform. 
+
+ - With disaster recovery in cloud computing, you get access to cloud storage, which can be used as a secondary recovery site. 
+
+ - You can always have a backup copy, even if one of the cloud data centers fails. 
+
+ - State-of-the-art network infrastructure of the cloud provider ensures that there are'nt any issues or errors. 
+
+# Capital Expenditure (CapEx) and Operational Expenditure (OpEx) 
+
+- Understanding CapEx:
+
+1. Capital Expenditures are equipments or services that are bought to improve or support a company's performance in the future. For example: A production house buys camera's, photostudios, shooting equipments. This becomes the capital expenditure spent by the production house. 
+
+2. The expenses made should profit the company in the future. 
+
+3. The expenses become fixed assets and the value depreciates with time. 
+
+4. There's only little guarantee that the investment activities brings success to the company in its useful life period. 
+
+5. Capital Expenditures (CapEx) are a company's major, longterm investments.
+
+- Understanding OpEx:
+
+1.Operating expenses are the costs of a company incurs for running day-to-day operations. 
+
+2.These are examples of operating expenses: rent and utilities. 
+
+3.The goal of any company is to maximize profits in near future as compare to CapEx. 
+
+4.If the company is unsure of it's future, it won't risk a hefty amount of debt upon itself and the company will choose to rent a piece of equipment instead of purchasing. 
+
+
+ 
    
