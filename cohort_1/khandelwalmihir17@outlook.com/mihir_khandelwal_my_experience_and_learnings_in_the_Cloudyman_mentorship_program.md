@@ -54,3 +54,6 @@ Today I Learned:
 1. The experience of being an ISP for the first time was really memorable.
 2. Learned different Marketting skills and how to convince people. 
 3. Also the guidance from Internshala was awesome. 
+## Date: June 1, 2020
+1. Started Google Cloud basics course on Coursera.
+2. Learned a lot till now about Google Cloud and how to work with it.
