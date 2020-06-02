@@ -32,5 +32,16 @@ this virtual machines are very benifical for us
  >### Insight
  the virtual machine is can be easy to handle 
  by the virtual machine data transfer speed is fast the machine can use any an social media as same
-
+ >### Quality Control
+ In that the first thing is included the service 
+ the service is best then the user are increases
+ in virtual machine quality control is main purpose 
+ >### Disaster Recovery
+ In the our life day by day many disasters are comes
+ in that our running laptop are shunt down at any time due to our cutoff.
+ by using virtual machine our all work done on cloud platform
+ by that service using no data lost occured or any time we can use the last work .
+ 
+ 
+ 
 
