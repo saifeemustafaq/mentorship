@@ -454,3 +454,27 @@ Moreover, all of the role instances of the client are monitored and there is gua
     * Identifies common equipment failures
     * Compares existing and past performance
     * Identifies areas for improvement
+## Date: May 24, 2020
+
+> ### Today I learned:-
+> # _Scaling in Cloud Computing_
+## The process of adding and removing Cloud computing resources is called as Cloud Scaling.
+## Cloud infastructure and platform are typically priced according to utility model means pay for what you use. Thus, you can scale your resources as per you required them and decrease the amount to pay. 
+## This resources can scale up and down very quickly.
+## For example, if you take very small amount of resources in the starting of your services. Thev you can increase them as per your utility or requirement increases.
+* Following are the common types of Cloud Scaling models:-
+  * Vertical Scaling-
+    * Vertical scaling refers to adding more resources (CPU/RAM/DISK) to your server (database or application server is still remains one) as on demand. Vertical Scaling is most commonly used in applications and products of middle-range as well as small and middle-sized companies. One of the most common examples of Virtual Scaling is to buy an expensive hardware and use it as a Virtual Machine hypervisor (VMWare ESX).
+    * Vertical Scaling usually means upgrade of server hardware.
+  * Horizontal Scaling- 
+    * Horizontal Scaling is a must use technology – whenever a high availability of (server) services are required
+    * Scaling horizontally involves adding more processing units or phyiscal machines to your server or database. It involves growing the number of nodes in the cluster, reducing the responsibilities of each member node by spreading the key space wider and providing additional end-points for client connections. Horizontal Scaling has been historically much more used for high level of computing and for application and services.
+  * Auto Scaling- 
+    * Scaling that is done automatically using API is called as Auto Scaling. 
+    * For example, a bank scales itself horizontally for the settlement process as per the trades it is processing.
+  * Side-by-side Scaling-
+    * Side-by-side Scaling is the process adding instances for different purposes on demand.
+    * For example, a firm that adds development and test instances of a services as required by a project.
+  * Gloal Scaling-
+    * Gloal Scaling is scaling a service to run in different Geographical locations.
+    * For example, a content delivery network that delivers videos from dozens of geographically seperated locations.
