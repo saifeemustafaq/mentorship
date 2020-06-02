@@ -218,7 +218,7 @@ Whether you require a server for hosting a small website, a Content Delivery Net
 - Vertical scaling refers to adding more resources (CPU/RAM/DISK) to your server (database or application server is still remains one) as on demand. Vertical Scaling is most commonly used in applications and products of middle-range as well as small and middle-sized companies.
 # Horizontal scaling :
 - Horizontal scaling refers to adding more servers to your network, rather than simply adding resources like with vertical scaling. This method tends to take more time and is more complex, but it allows you to connect servers together, handle traffic efficiently and execute concurrent workloads. 
- Date: May 29, 2020
+## Date: May 29, 2020
 # What is a container ?
 - A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another. A Docker container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings.
 - For those coming from virtualized environments, containers are often compared with virtual machines (VMs). You might already be familiar with VMs: a guest operating system such as Linux or Windows runs on top of a host operating system with virtualized access to the underlying hardware. Like virtual machines, containers allow you to package your application together with libraries and other dependencies, providing isolated environments for running your software services. 
@@ -243,6 +243,18 @@ In 2018, 4 percent of production containers were Mesos. Developed by Apache, Mes
 containerd is described as “an industry-standard container runtime with an emphasis on simplicity, robustness and portability.” An incubating project of the Cloud Native Computing Foundation, containerd is available as a daemon for Linux or Windows.
 ## CoreOS rkt
 In 2018, 12 percent of production containers were rkt (pronounced “Rocket”). Rkt supports two types of images: Docker and appc. A selling point of rkt is its pod-based process that works out of the box with Kubernetes (also referred to as “rktnetes”). In Kubernetes, an rkt container runtime can easily be specified.
+## Date: June 1, 2020
+# What is serverless computing?
+
+- Serverless computing is a method of providing backend services on an as-used basis. A Serverless architecture allows users to write and deploy code without the hassle of worrying about the underlying infrastructure. A company that gets backend services from a serverless vendor is charged based on their computation and do not have to reserve and pay for a fixed amount of bandwidth or number of servers, as the service is auto-scaling. Note that although called serverless, physical servers are still used but developers do not need to be aware of them.
+- In the early days of the web, anyone who wanted to build a web application had to own the physical hardware required to run a server, which is a cumbersome and expensive undertaking.
+
+- Then came the cloud, where fixed numbers of servers or amounts of server space could be rented remotely. Developers and companies who rent these fixed units of server space generally over-purchase to ensure that a spike in traffic or activity wouldn’t exceed their monthly limits and break their applications. This meant that much of the server space that was paid for usually went to waste. Cloud vendors have introduced auto-scaling models to address the issue, but even with auto-scaling an unwanted spike in activity, such as a DDoS Attack, could end up being very expensive.
+
+## Cost benefit of serverless : 
+- Serverless computing allows developers to purchase backend services on a flexible ‘pay-as-you-go’ basis, meaning that developers only have to pay for the services they use. This is like switching from a cell phone data plan with a monthly fixed limit, to one that only charges for each byte of data that actually gets used.
+
+- The term ‘serverless’ is somewhat misleading, as there are still servers providing these backend services, but all of the server space and infrastructure concerns are handled by the vendor. Serverless means that the developers can do their work without having to worry about servers at all.
 
 
 
