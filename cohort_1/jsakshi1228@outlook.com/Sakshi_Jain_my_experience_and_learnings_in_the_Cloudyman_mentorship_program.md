@@ -478,3 +478,29 @@ Moreover, all of the role instances of the client are monitored and there is gua
   * Gloal Scaling-
     * Gloal Scaling is scaling a service to run in different Geographical locations.
     * For example, a content delivery network that delivers videos from dozens of geographically seperated locations.
+## Date: May 25, 2020
+
+> ### Today I learned:-
+> # Virtual Machine
+> > 1. What is virtual Machine?
+> > 2. Why Virtual Machines? 
+> > 3. How does it works?
+> > 4. What are the different types of Virtual machine? 
+> > 5. How to set up a Virtual Machine?
+> > 6. Example.
+> > 7. Advantages of Virtual Machines.
+# 1. What is a Virtual Machine?
+* ## A Virtual machine (VM) is a virtual environment that functions as a virtual computer system with its own CPU, memory, network interface, and storage, created on a physical hardware system (located anywhere off- or on-premises).
+* ## It is known as a guest, is created within a computing environment, called a host. Multiple virtual machines can exist in one host at one time.
+* ## They are software computers that provide the same functionality as physical computers. Just like physical computers, they run applications and an operating system. However, virtual machines are computer files that run on a physical computer and behave like a physical computer. In other words, virtual machines behave as separate computer systems.
+* A virtual machine is a computer file, typically called an image, it behaves like an actual computer. This machines runs in a window, much like any other program, giving the end user the same experience on a virtual machine as they would have on the host operating system itself. 
+* For example, the virtual machine is sandboxed from the rest of the system, meaning that the software inside a virtual machine can’t escape or tamper with the computer itself. This produces an ideal environment for testing other operating systems including beta releases, accessing virus-infected data, creating operating system backups, and running software or applications on operating systems they weren’t originally intended for.
+
+# 2. Why Virtual Machines? 
+* ## Virtual machines are created to perform specific tasks that are risky to perform in a host environment, such as accessing virus-infected data and testing operating systems. Since the virtual machine is sandboxed from the rest of the system, the software inside the virtual machine cannot tamper with the host computer.
+* ## Virtual machines can also be used for other purposes such as server virtualization.
+# 3. How does it works?
+# 4. What are the different types of Virtual machine? 
+# 5. How to set up a Virtual Machine?
+# 6. Example.
+# 7. Advantages of Virtual Machines.
