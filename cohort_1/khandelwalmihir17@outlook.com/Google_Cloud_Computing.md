@@ -42,3 +42,15 @@
   - Managing services on-premises and in the cloud.
   - Monitoring systems and services.
   - Migrating applications from VMs into your clusters.
+# Google App Engine.
+- The App Engine standard environment helps to easily deploy our applications, autoscale workloads, free daily quota, and usage based pricing.
+- In it the SDK is used development, testind , and deployment.
+- It requires specific versions of Java, Phyton, PHP, and Go are supported.
+- Sandbox constraints has:-
+  - No writing to local files.
+  - All requests time out at 60 seconds.
+  - Limits on third-party software.
+- App Engine has very flexible environment with no sandbox constraints, can access App Engine resources and build and deploy apps. It also has standard environment. 
+- A platform for making APIs available to your customers and partners is called apigee. It also has analytics, monetization, and a developer portal.
+- A Cloud Endpoints helps you to create and maintain APIs.
+- 
