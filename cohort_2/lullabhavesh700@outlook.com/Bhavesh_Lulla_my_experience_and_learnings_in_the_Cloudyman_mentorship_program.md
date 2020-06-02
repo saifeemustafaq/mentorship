@@ -176,13 +176,149 @@ The speaker explained how to use github.
 
 - Understanding OpEx:
 
-1.Operating expenses are the costs of a company incurs for running day-to-day operations. 
+1. Operating expenses are the costs of a company incurs for running day-to-day operations. 
 
-2.These are examples of operating expenses: rent and utilities. 
+2. These are examples of operating expenses: rent and utilities. 
 
-3.The goal of any company is to maximize profits in near future as compare to CapEx. 
+3. The goal of any company is to maximize profits in near future as compare to CapEx. 
 
-4.If the company is unsure of it's future, it won't risk a hefty amount of debt upon itself and the company will choose to rent a piece of equipment instead of purchasing. 
+4. If the company is unsure of it's future, it won't risk a hefty amount of debt upon itself and the company will choose to rent a piece of equipment instead of purchasing. 
+
+# Cloud Computing- CapEx VS OpEx
+
+ - Cloud service providers allows companies to use a "pay as they go" or OpEx model, which allows companies to use the virtual machines as per their requirement and the security of cloud. 
+
+ - There is potential cost benefits throughout the year. 
+
+ - Rather than just buying the complete hardware and paying for the network, the consumers would have the right resources in the form of virtual machines at the right time, without overspending. 
+
+># Cloud Storage:
+
+ - Cloud services have become the most suitable option for storing data online digitally. 
+
+ - In the earlier times, most of the companies used to depend on their private servers fir storing their growing collection of data and online files; but today storing data online on cloud servers is the next big thing as it allows unlimited storage. 
+
+ - The best thing about storing all the data in the cloud is that it ensures affordability and the data can be easily accessed from anywhere in the world. 
+
+# Benefits of online data storage in the cloud:
+
+### Usability and Accessibility
+
+ - Users can easily upload the files in the cloud storage. 
+
+ - It is easy to save all the files and data in the cloud, no technical knowledge is required for this purpose. 
+
+ - The stored files can be easily accessed from anywhere in the world with just a few clicks and an internet connection. 
+
+### Disaster Recovery
+
+ - It is recommended for every business to have a backup plan in case of any emergency. 
+
+ - After all, losing important business data can cause huge losses to any business. 
+
+ - Cloud storage is the perfect backup plan for businesses. It creates a backup of the files stored. 
+
+ - These files are stored at a remote location and they can be retrieved and accessed at any time. 
+
+### Security
+
+ - Business owners can be sure that once the data is stored in the cloud, it is safe. 
+
+ - The best thing about using cloud storage is that server data is distributed across many servers and the data stored in the cloud is protected against any type of the hardware failure. 
+
+ - Cloud servers also provide automated backups in order to make sure that your data is safe. 
+
+### Cost Saving
+
+ - Businesses and organizations can reduce annual operating costs by utilizing cloud storage. 
+
+ - Affordability can be ensured if data is stored online in the cloud. 
+
+ - Users can ensure additional cost saving because internal power and resources are not required separately for storing the data. 
+
+### Easy Sharing
+
+ - Data stored in cloud storage can be easily shared with clients and colleagues in an easy and secure way. 
+
+### Automation
+
+ - With cloud storage technology, the tedious task of data backups is simplified through automation. 
+
+ - You simply have to select what you want to backup and when you want to backup and your cloud environment will take care of the rest. 
+
+### Collaboration
+
+ - A cloud environment enables multiple people to access, edit and colloborate on a single file or document. 
+
+ - People can access the cloud environment from anywhere in the world and colloborate in real-time. 
+
+### Scalable Service
+
+ - Cloud hosting makes sure that you only pay for the resources that you actually use. 
+
+ - You can scale your cloud hosting environment whenever required and you can also defines the attributes of scaling the cloud. 
+
+ - This ensures more flexibility and a large storage space. 
+
+### Convenience
+
+ - Even if you store data on transportable devices like external hard drives or flash drives, some kind of manual intervention and physical handling is required. 
+
+ - The data that is stored in a cloud is backed up online and it can be accessed from anywhere. 
+
+#### Hence, online cloud storage and backup is beneficial for all types of businesses. 
+
+># Scaling in Cloud Computing:
+
+1. Scaling is the ability of a company or organization to handle increasing or decreasing demands in a capable manner, so that the customers or the company itself don't face any issue because of the fluctuating demands. 
+
+2. Thus, scalability is a planned level of capacity that can grow or shrink as needed. 
+
+3. There are three ways to scale in cloud. 
+
+1] Vertical Scaling (Up Scaling) :
+
+ - With cloud computing, you can add or subtract resources like storage or processing power. 
+
+ - You can take a example of a Multi-level parking lot. 
+
+ - There's almost countless space, that vehicles can occupy anytime. Mostly there's alot of space available as the place is almost never completely occupied, as long as the capacity is not exceeded. 
+
+ - Similarly changes can be made in your Vm as per the need. 
+
+ - This is Vertical Scaling. 
+
+2] Horizontal Scaling (Out Scaling):
+
+ - Horizontal scaling refers to adding more servers to your network, rather than simply adding resources like with vertical scaling. 
+
+ - This method take more time and is more complex, but it allows you to connect servers together. 
+
+ - You can also handle traffic efficiently and execute complex workloads. 
+
+3] Diagonal Scaling (Mixed Scaling):
+
+ - When we combine horizontal and vertical scaling together, we get diagonal scaling. 
+
+ - It is the most efficient infrastructure scaling. 
+
+ - It is simply increasing the resources of our existing servers until it reaches its limit. 
+
+ - Then we can add more servers to our infrastructure and continue with our process. 
+
+## Takeaway:
+
+ - We experience great amount of flexibility that saves both money and time for a business. 
+
+ - Cloud computing uses a pay-as-you-go model. 
+
+ - This on-demand nature is what makes the cloud so easy and interesting. 
+
+
+
+
+
+
 
 
  
