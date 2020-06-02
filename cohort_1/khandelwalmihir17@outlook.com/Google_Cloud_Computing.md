@@ -26,3 +26,19 @@
 - Cloud Spanner is a horizontal scalable RDBMS, and also managed by RDBMS.
 - Cloud Storage works with other GCP services such as BigQuery, Compute Engine, App Engine and Cloud SQL.
 - Cloud Datastore is a horizontally scalable NoSQL database, which is designed for application backends, supports transactions and includes a free daily quota.
+# Containers in the Cloud.
+- Containers offer a logical packaging mechanism in which applications can be abstracted from the environment in which they actually run.
+- Like virtual machines, containers allow you to package your application together with libraries and other dependencies, providing isolated environments for running your software services. 
+- GKE On-Prem is the turn-key production-grade Kubernetes. Here marketplace applications are available to all clusters.
+- Google Cloud Platform ans On-Prem Data Center are both linked by GCP marketplace, to reduce time loss, to access the same repository, and many more.
+- Features of Kubernetes are as follows.
+  - Check Automated rollouts and roll backs.
+  - Check Service health monitoring.
+  - Check Automatic scaling of services.
+  - Check Declarative management.
+  - Check Deploy anywhere, including hybrid deployments.
+- Distributed systems housed on-premises are difficult as well as costly to upgrade.
+- Anthos is Google's mordern solution for hybrid and multi-cloud systems by the latest innovations. A rich set of tools is provided for:-
+  - Managing services on-premises and in the cloud.
+  - Monitoring systems and services.
+  - Migrating applications from VMs into your clusters.
