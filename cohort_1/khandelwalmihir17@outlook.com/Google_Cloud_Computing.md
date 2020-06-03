@@ -53,4 +53,16 @@
 - App Engine has very flexible environment with no sandbox constraints, can access App Engine resources and build and deploy apps. It also has standard environment. 
 - A platform for making APIs available to your customers and partners is called apigee. It also has analytics, monetization, and a developer portal.
 - A Cloud Endpoints helps you to create and maintain APIs.
-- 
+# Developing, Deploying and Monitoring in the Cloud.
+- Deployment manager provides repeatable deployments, create a .yaml template describing your environment and use Deployment Manager to create resources.
+- Cloud Functions:-
+  - Create single purpose functions that respond to events without a server or runtime.
+  - It is written in javascript; execute in managed Node.js environment on Google Cloud Platform.
+- Google Cloud Stackdriver performs the following functions and offers the 6 capabilities.
+  - Monotoring.
+  - Logging.
+  - Debugging.
+  - Error Reporting.
+  - Trace.
+  - Profiler(Beta).
+
