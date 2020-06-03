@@ -17,7 +17,7 @@ how to rename file
  * importance cloud computing in **al,iot, machine learning etc.
  
  ## Q1.What is Cloud Computing? Why is it essential?
- ## Q2.What is Scalability in Cloud Computing?
+ ## Q2.What is Scalability in Cloud Computing?
  ## Q3.What is Markdown Language.
  ## Q4.what is github.
  
@@ -214,10 +214,77 @@ The second type of hybrid cloud model also runs most applications and houses dat
 
 -----------------*----------------*--------------------------------------------------------------------*-------------*---------------------------*
 
+# what is a linkedin?
+
+---
+[linkedin login](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fm%2Fsettings%2F)
+---
+
+>LinkedIn (/lɪŋktˈɪn/) is an American business and employment-oriented online service that operates via websites and mobile apps. Launched on May 5, 2003,[6] it is mainly used for professional networking, including employers posting jobs and job seekers posting their CVs. As of 2015, most of the company's revenue came from selling access to information about its members to recruiters and sales professionals.[7] Since December 2016 it has been a wholly owned subsidiary of Microsoft. As of May 2020, LinkedIn had 690+ million registered members in 150 countries. [8]
 
 
- 
+
+- Search Results
+- LinkedIn Corporation
+- Company
+- Description
+
+
+|CEO:|Jeff Weiner (Jun 2009–)|
+|---|---|
+|Founded:| 2002, Mountain View, California, United States|
+|---|---|
+|Headquarters:|Sunnyvale, California, United States|
+|---|---|
+|Founders:|Konstantin Guericke, Reid Hoffman, Jean-Luc Vaillant, Allen Blue, Eric Ly|
+|---|---|
+|Parent organization:|Microsoft Corporation|
+|---|---|
+|Subsidiaries:| LinkedIn Learning, Glint Inc, Connectifier, Drawbridge, Linkedin Singapore Pte. Ltd.,|
+|---|---|
 
 
 
+## How to use Linkedin.
+![](https://www.thebalancesmb.com/thmb/2wm4Xih9BDI_sY8Le4jIZ1vXPiA=/950x0/filters:max_bytes(150000):strip_icc():format(webp)/introduction-to-linkedin-1794572_final-01-8ea57752757f4b3ca4c44a6032dd90fc.png)
+-------
+****Key Points****
+1 .Complete your profile.
+2 .Contact and connect.
+3.Start talking.
+4. Give and receive recommendations and endorsements.
+5 .Use LinkedIn Groups.
+6 .Produce engaging content.
+7 .Find new hires – and new opportunities.
+8. Boost your organization's profile
 
+------
+# Benefits 
+
+- LinkedIn is a valuable resource for career and business professionals to network; obtain resources and support; and build relationships with potential customers, clients, and partners. It's ideal for home-based business owners, freelancers, and telecommuters, as it can help them build their business and career, as well as stay connected to the outside world.
+--------
+-  ****hiring are looking at your profile on LinkedIn****. In fact, if you’re not on LinkedIn, it may lead them to speculate why. For example, are you not Internet savvy? If you’re looking for a job, it’s expected you’ll be on LinkedIn.
+-------
+- ****LinkedIn has extensive job listings.*** If you’re looking for work, you can take advantage of LinkedIn’s job search engine. Many top brands are using LinkedIn as a way to find suitable candidates through job listings, and there are plenty of listings exclusive to LinkedIn.
+------
+- ****Receive (and give) endorsements and testimonials.**** LinkedIn enables your peers to endorse your skills and write up recommendations, and you can do the same for them. People who are searching for networking connections or job candidates will take these recommendations into consideration.
+
+-------
+- ****Make important business connections.**** You get to choose whom to ­connect with on LinkedIn. For example, you can connect with past co-workers, employers, and Fortune 500 executives. You never know who will accept your invitation.
+-------
+###### Join professional groups that include like‐minded people. LinkedIn hosts thousands of online groups, enabling professionals to network within their respective niches.
+--------
+###### Reach out to the people who are viewing your profile. LinkedIn tells you who’s viewing your profile, which opens the door when it comes to meeting new people and making important connections. For example, if someone you’re interested in working with has viewed your profile, you can contact him, saying, “I noticed you viewed my profile. I’d love to chat.”
+-------
+###### Updating an online resume’s is easier than continuously updating a paper resume’s. With LinkedIn, you don’t have to worry about hiring a professional resume’s writer or formatting documents. You just have to click the Edit button and enter your desired information. The formatting is done for you. (However, you still have to worry about spelling and grammar.)
+--------
+###### Establish your expertise by using the LinkedIn content platform. LinkedIn invites users to create content, as well. Posting articles on LinkedIn can help to establish your expertise.
+
+------
+###### Read news from your connections. Your connections post news, tips, and updates, which you can look over to stay current on industry trends and timely topics.
+------
+-  ****Research other businesses.**** A lot of businesses are on LinkedIn. If you’re interested in working with a particular business, you can use LinkedIn to read its business profile, connect with people who work for that business, and more.
+------
+_ ****Introduce others to your books,*** websites, blogs, and more. Your profile has spots where you can list books you authored and links to your blog, website, or other online content. This drives more traffic (and sales) to your interests.
+
+------
