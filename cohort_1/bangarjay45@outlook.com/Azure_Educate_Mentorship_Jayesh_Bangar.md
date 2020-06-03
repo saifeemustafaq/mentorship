@@ -158,3 +158,23 @@ A [network interface (NIC)](../articles/virtual-network/virtual-network-network-
 - Instead, the network interface can be implemented in software.
 
 You can create a VM with multiple NICs, and add or remove NICs through the lifecycle of a VM. Multiple NICs allow a VM to connect to different subnets and send or receive traffic over the most appropriate interface. VMs with any number of network interfaces can exist in the same availability set, up to the number supported by the VM size. 
+
+
+## Subnets
+**subnets:**
+
+1. A subnet is a range of IP addresses in the VNet. 
+2. You can divide a VNet into multiple subnets for organization and security.  
+3. Each NIC in a VM is connected to one subnet in one VNet.
+4. NICs connected to subnets (same or different) within a VNet can communicate with each other without any extra configuration.
+
+When you set up a VNet, you specify the topology, including the available address spaces and subnets. 
+
+If the VNet is to be connected to other VNets or on-premises networks, you must select address ranges that don't overlap. The IP addresses are private and can't be accessed from the Internet.
+ 
+
+By default, there is no security boundary between subnets, so VMs in each of these subnets can talk to one another. However, you can set up Network Security Groups (NSGs), which allow you to control the traffic flow to and from subnets and to and from VMs.
+
+Networks are somewhat beautiful. A subnet is a division of another subnet you can slice into smaller subnets. It’s called subnetting. But there are some rules on Azure.
+
+Before starting the subnet design, we need to think about your future needs. One needs can be to connect VM to on-premises networks. So, you may need to implement an Azure VPN gateway.
