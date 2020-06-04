@@ -41,6 +41,28 @@ this virtual machines are very benifical for us
  in that our running laptop are shunt down at any time due to our cutoff.
  by using virtual machine our all work done on cloud platform
  by that service using no data lost occured or any time we can use the last work .
+ >### Automatic Software update
+  In virtual machine we need to update or use latest version of the software or any device 
+  in hand our mobile also we need latest version of operating system
+  in virtual machine we need up todate for using virtual machine
+  by using cloud server we need the lastest software by using virtual machine we get latest technology of software lauched by  software company
+ -----------
+ >### Disaster Recovery
+  In our real machine we face many problems in day to day life
+  In that many problems we face
+  Light cutoff
+  software problem
+  Pc crash
+  Hardware problem
+  we face all of that in our pc 
+  In virtual machine we get safty of our data by using the machine 
+   that machine we get safty of our data 
+   by virtual machine we get the surty of data 
+     also we get the safty of data 
+     
+   
+ 
+ 
  
  
  
