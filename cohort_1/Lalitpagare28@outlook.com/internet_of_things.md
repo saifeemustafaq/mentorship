@@ -128,3 +128,37 @@ Taking M2M to the next level, IoT is a sensor network of billions of smart devic
 The internet of things is also a natural extension of supervisory control and data acquisition (SCADA), a category of software application programs for process control, the gathering of data in real time from remote locations to control equipment and conditions. SCADA systems include hardware and software components. The hardware gathers and feeds data into a computer that has SCADA software installed, where it is then processed and presented in a timely manner. The evolution of SCADA is such that late-generation SCADA systems developed into first-generation IoT systems.
 
 The concept of the IoT ecosystem, however, didn't really come into its own until the middle of 2010 when, in part, the government of China said it would make IoT a strategic priority in its five-year plan.
+
+
+# cloud computing 
+Technologies are sprawling with additions to them every day. The cloud computing and IoT have become two very closely affiliated future internet technologies with one providing the other a platform for success. 
+
+Let’s understand, what is the internet of things, Internet Cloud Services includes IoT(Internet of Things) which is viewed as those set of technologies which have no clear, single definition. Internet of things simple definition can be that a set of technologies which can be viewed as a use of network-connected devices, which are used in the physical environment for innovation; they may be used to enable a new scenario or add improvements to previous ones.
+
+What Is Meant By Iot?
+
+The Internet of Things (IoT) is a system of interrelated computing devices, mechanical and digital machines, objects, animals or people that are provided with unique identifiers and the ability to transfer data over a network without requiring human-to-human or human-to-computer interaction.
+
+Breaking it down, the internet of things meaning can be as simple as a person with a heart monitor implant or an automobile that has built-in sensors which alert the driver of imminent danger. Any object which is man-made or natural that can be designated an IP address and provided with the ability to transfer data over a network comes under the umbrella of IoT.
+
+IoT has evolved with the greater generation of data. Internet of Things Cloud Service creates excessive communication between inexpensive sensors in the IoT which means even greater connectivity; billions of connected devices and machines will soon join human-users.
+
+
+There is an evident need of internet of things. IoT has practically taken many industries around the world including precision agriculture, healthcare, energy, transportation, building management and the likes. The connectivity options by internet cloud services are increasing by huge amounts for electronic engineers and application developers. Work is being done on products and systems of the IoT which will help in greater development with ease.
+
+Greater connectivity of the devices in itself does not provide the benefits to people, however the devices connected to the network to provide information they gather from the environment is what makes IoT the next step to success. Connectivity provided by cloud services help the devices to provide valuable information by reaching out and acting upon the world. The devices connected are not limited to certain devices which organizations own, but can span from personal devices every individual uses to the big ones through internet cloud services.
+
+
+IoT and cloud computing for Future Internet
+
+The question however remains how will the devices remain interconnected throughout? The answer lies in the connectivity provided by the internet of things cloud service. Greater usage of the iot in cloud has acted as a catalyst for the development and deployment of scalable Internet of Things applications and business models. The cloud computing and IoT have become two very closely affiliated future internet technologies with one providing the other a platform for success. There are numerous benefits which the convergence of IoT and Cloud computing has derived.
+
+Poviding Infrastructure:
+
+Iot in cloud offers public cloud services can easily help the IoT area, by providing third party access to the infrastructure. Hence, the integration can help IoT data or computational components operating over IoT devices.
+
+Increased Scalability: IoT devices need a lot of storage to share information for valuable purposes. Iot in cloud, like the StoneFly Cloud Connect to Microsoft Azure can provide customers with greater space which can increase as per the users demand. Helping to resolve the storage needs of customers.
+
+Increased Performance: The large amounts of data produced by IoT devices need extreme performance to interact and connect with one another. Iot in cloud provides the connectivity which is necessary to share information between the devices and make meaning from it at a fast pace.
+
+Pay-as-you-go: Internet Cloud Computing infrastructures help IoT to give meaning to the greater amount of data generated. Users have no worry of buying greater or less storage. They can easily scale the storage as the data generated increases and pay for the amount of storage they consume with Internet Cloud Computing.
