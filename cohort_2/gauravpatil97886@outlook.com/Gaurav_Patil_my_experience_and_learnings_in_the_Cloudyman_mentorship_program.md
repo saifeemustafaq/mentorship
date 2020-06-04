@@ -288,3 +288,63 @@ The second type of hybrid cloud model also runs most applications and houses dat
 _ ****Introduce others to your books,*** websites, blogs, and more. Your profile has spots where you can list books you authored and links to your blog, website, or other online content. This drives more traffic (and sales) to your interests.
 
 ------
+
+## Qn > What is Capital expenditure (CapEx) versus operational expenditure (OpEx)
+-----
+
+-------
+## Qn > What are the Types of cloud services (hint: IaaS | SaaS | PaaS)
+------
+## Qn > What is a region?
+------
+------
+----
+
+# Qn.What is Capital expenditure (CapEx) versus operational expenditure (OpEx).
+
+#### Ans.>>>>
+- 1. CapEx refers to a Capital expenditure while OpEx refers to an Operational expenditure. Capital expenditure is incurred when a business acquires assets that could be beneficial beyond the current tax year. For instance, it might buy brand new equipment or buildings. Also, it could upgrade an existing asset to boost its value beyond the current tax year. CapEx is also known as a Capital expense.
+
+
+
+- 2. Operational expenditure consists of those expenses that a business incurs to run smoothly every single day. They are the costs that a business incurs while in the process of turning its inventory into an end product. Hence, depreciation of fixed assets that are used in the production process is considered OpEx expenditure. OpEx is also known as an operating expenditure, revenue expenditure or an operating expense.
+
+- 3. Understanding CapEx vs OpEx difference is crucial for any business struggling to optimally utilise finance by making sure that the correct mode is used for capital expenses and other types of expenses. Below you will find a complete guide to Capex vs Opex, explaining the benefits and disadvantages of both, and how to manage them effectively.
+ 
+ # How CapEx and OpEx are Treated in Accounting.
+ 
+  ![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGsGzuHzREgoq5PVGd8dmAxKSMmI8XNqrhRIRloVOGyvOdvufA&usqp=CAU)
+ ---------
+ 
+ 
+ # Qn.What are the Types of cloud services .
+ 
+ #### ans.
+ ###### **IaaS**
+ 
+- Think of IaaS, or Infrastructure as a Service, as the foundation of cloud service. Thus, it is the most important level because it is the base that helps power everything else. IaaS does not include an operating system or any software applications, but serves as the infrastructure that supports these systems and programs.
+
+- IaaS can include virtual computers, storage capacity, virtual networks, firewalls and much more. For example, if you need email service for your business, you might choose to implement IaaS from a cloud service provider that you can use to host and run any email application of your choosing. Infrastructure as a Service lays the groundwork for hosting hardware, software, storage and other applications chosen by the customer.
+
+- Without IaaS, there is nowhere for the resources we'll see in PaaS and SaaS to live.
+
+###### **PaaS**
+
+- Platform as a service (PaaS) or application platform as a service (aPaaS) or platform-based service is a category of cloud computing services that provides a platform allowing customers to develop, run, and manage applications without the complexity of building and maintaining the infrastructure typically associated ...
+ 
+ 
+ ###### **SaaS**
+ 
+ - Software as a service is a software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. It is sometimes referred to as "on-demand software", and was formerly referred to as "software plus services" by Microsoft.
+ --------
+ 
+ # Qn. What is a region?
+ 
+ ##### ans
+- The simplest explanation is that a “cloud region” describes the actual, real-life geographic location where your public cloud resources are located.
+
+- It’s a common misconception that the “cloud” is just that—an intangible, ethereal storage space that exists only as a concept somewhere in the sky. But the cloud is just a prettier name for actual devices that process data. They’re data centers, and those data centers live in places.
+
+- When you choose a cloud provider, you’re also choosing a “region,” which is where your data centers physically exist. However, while providers all define what a region is in a similar way, they differ in implementation.
+
+-------
