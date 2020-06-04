@@ -426,6 +426,100 @@ The speaker explained how to use github.
 
    - You can include your CV/Resume to apply for job. 
 
+## Date: June 05, 2020
+
+>## Today I learned:
+
+ 1. What is Cloud Deployment Model? 
+
+ 2. What are the different types of Cloud deployment models? 
+
+# 1. What is Cloud deployment model? 
+
+ - A cloud deployment model represents a specific type of environment, primarily distinguished by ownership, size, and access. It is a configuration of environment parameters such as the accessibility and proprietorship of the deployment infrastructure and storage size. It means that deployment types vary depending on who controls the infrastructure and where it resides. 
+
+# 2. What are the different types of Cloud deployment models? 
+
+ - Depending upon the infrastructure, storage and accessibility, there are four different types of cloud deployment models. They are:
+
+## 1. Public Cloud
+
+ - As the name speaks for itself: public clouds are available to the general public, and data are created and stored on third-party servers. The server infrastructure belongs to service providers that manage them and administer pool resources, which is why there is no need need for user companies to buy and maintain their hardware. The provider companies offer resources as a service both free of charge or on a pay-per-use basis via internet connection. Users can scale resources as per their need. 
+
+### Advantages:
+
+ • Hassle-free infrastructure management
+
+ • High scalability
+
+ • Reduced costs
+
+ • 24/7 uptime
+
+### Disadvantages:
+
+ • Compromised reliability. 
+
+ • Data security and privacy give rise to concern. 
+
+ • The lack of a bespoke service. 
+
+## 2. Private Cloud
+
+ - Only one organization uses this deployment model to run its workloads, and the server can be hosted externally or on the premises of the user company. There is little to no difference between a public and a private model from the technical point of view, as their architectures are very similar. A private model is especially suitable for companies that seek to safeguard their mission-critical operations or for businesses with changing requirements. 
+
+### Advantages:
+
+ • Bespoke and flexible development
+
+ • High security, privacy and reliability
+
+ • High scalability
+
+### Disadvantages:
+
+ • Costly
+
+ • Requires considerable expenses on hardware, software and staff training. 
+
+## 3. Community Cloud
+
+ - In this case of community one, several organizations with similar backgrounds share the infrastructure and related resources. If the organizations have uniform security, privacy and performance requirements, this multi-tenant data center architecture helps companies achieve their business-specific objectives. It is particularly suited for organizations that work on joint projects. In that case, a centralized cloud facilities project development, management and implementation. Also, the costs are shared across all users. 
+
+### Advantages:
+
+ • Cost reduction
+
+ • Improved security, privacy and reliability
+
+ • Ease of data sharing and collaboration
+
+### Disadvantages:
+
+ • High cost if compared to a public deployment model
+
+ • Sharing of fixed storage and bandwidth capacity
+
+## 4. Hybrid Cloud
+ 
+ - A hybrid cloud encompasses the best features of the above mentioned development models - public, private and community ones. It allows companies to mix and match the facets of all three types that best suit their requirements. 
+
+### Advantages:
+
+ • Improved security and privacy
+
+ • Enhanced scalability and flexibility
+
+ • Reasonable price
+
+### Disadvantages:
+
+ • The hybrid deployment model only makes sense if companies can split their data into mission-critical and non-sensitive. 
+
+
+
+   
+
 
 
 
