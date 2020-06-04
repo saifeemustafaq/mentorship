@@ -492,15 +492,52 @@ Moreover, all of the role instances of the client are monitored and there is gua
 # 1. What is a Virtual Machine?
 * ## A Virtual machine (VM) is a virtual environment that functions as a virtual computer system with its own CPU, memory, network interface, and storage, created on a physical hardware system (located anywhere off- or on-premises).
 * ## It is known as a guest, is created within a computing environment, called a host. Multiple virtual machines can exist in one host at one time.
-* ## They are software computers that provide the same functionality as physical computers. Just like physical computers, they run applications and an operating system. However, virtual machines are computer files that run on a physical computer and behave like a physical computer. In other words, virtual machines behave as separate computer systems.
+* ### They are software computers that provide the same functionality as physical computers. Just like physical computers, they run applications and an operating system. However, virtual machines are computer files that run on a physical computer and behave like a physical computer. In other words, virtual machines behave as separate computer systems.
 * A virtual machine is a computer file, typically called an image, it behaves like an actual computer. This machines runs in a window, much like any other program, giving the end user the same experience on a virtual machine as they would have on the host operating system itself. 
 * For example, the virtual machine is sandboxed from the rest of the system, meaning that the software inside a virtual machine can’t escape or tamper with the computer itself. This produces an ideal environment for testing other operating systems including beta releases, accessing virus-infected data, creating operating system backups, and running software or applications on operating systems they weren’t originally intended for.
 
 # 2. Why Virtual Machines? 
 * ## Virtual machines are created to perform specific tasks that are risky to perform in a host environment, such as accessing virus-infected data and testing operating systems. Since the virtual machine is sandboxed from the rest of the system, the software inside the virtual machine cannot tamper with the host computer.
 * ## Virtual machines can also be used for other purposes such as server virtualization.
-# 3. How does it works?
+# 3. How does it works? 
+* ## The virtualisarion works on software to simulate hardware functionality and create a virtual computer system. 
+* It enables us to run more than one virtual system and multiple operating systems and applications on a single server. This results in benefits include economies of scale, lesser cost and greater efficiency.
+A single VM is completely independent. Multiple VMs on a single computer enables several operating applications to run on just one physical server called as “host.”
+Thin layer of software known as “hypervisor” decouples the virtual machines from the host. Then it dynamically allots resources to each computer as required.
 # 4. What are the different types of Virtual machine? 
+* Different types of Virtual Machine are:-
+  * Server Virtualization:-
+    * In this type of virtualization multiple operating systems to run on a single physical server as a highly efficient virtual machines is called as server virtualization. Its key advantages are:-
+      * Minimize cost 
+      * Greater efficiencies 
+      * Faster working 
+      * Increase applications
+      * High server availability 
+      * Decrease complexity 
+  * Network Virtualization:-
+    * Completely reproducing a physical network, network virtualization allows applications to run on a virtual network as they were running on a physical network — but with greater operational benefits and hardware independencies. It presents logical networking devices and services some of them for examples are:-
+      * Logical port
+      * Switches
+      * Routers 
+      * Firewalls 
+      * Load balancers
+      * VPNs 
+  * Desktop Virtualization:-
+    * Deploying desktops as a managed service enables organisations to respond faster to changing workplace needs and emerging. Virtualized desktops and applications can also be quickly and easily delivered to many organisations such as 
+      * Branch office 
+      * Outsourced 
+      * Offshore employees 
+      * Mobile workers using iPad and Android tablets.
+
+ 
 # 5. How to set up a Virtual Machine?
 # 6. Example.
 # 7. Advantages of Virtual Machines.
+* Virtualization can increase IT agility, flexibility and scalability while creating significant cost savings. Greater workload mobility, increased performance and availability of resources, automated operations – they’re all benefits of virtualization that make IT simpler to manage and less costly to own and operate. Additional benefits include:
+Reduced capital and operating costs.
+  - [ ] Minimized or eliminated downtime.
+  - [ ] Increased IT productivity, efficiency, agility and responsiveness.
+  - [ ] Faster provisioning of applications and resources.
+  - [ ] Greater business continuity and disaster recovery.
+  - [ ] Simplified data center management.
+  - [ ] Availability of a true Software-Defined Data Center..
