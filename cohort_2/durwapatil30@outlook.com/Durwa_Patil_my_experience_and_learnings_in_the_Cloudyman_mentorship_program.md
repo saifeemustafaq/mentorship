@@ -60,3 +60,54 @@ Moving to cloud computing may reduce the cost of managing and maintaining your I
 - you no longer need to pay wages for expert staff
 - your energy consumption costs may be reduced
 - there are fewer time delays.
+
+## Date: June 4, 2020
+
+# What is Microsoft Azure?
+
+##### Ans.
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQMVxxgxROub14kUtodd9vn-cFJb72dBcxHJZocW1cqLzYgD2am&usqp=CAU)
+
+Microsoft Azure, formerly known as Windows Azure, is Microsoft's public cloud computing platform. It provides a range of cloud services, including compute, analytics, storage and networking. Users can pick and choose from these services to develop and scale new applications, or run existing applications in the public cloud.
+
+## Microsoft Azure Has Following Qualities:
+
+- It can deliver and innovate high-quality apps.
+- It can support all major mobile platforms and can provide cross-device experience as well.
+- The user can use and run any stack on either Windows or Linux based and can even use advanced capabilities such as Azure Container Service or Kubernetes cluster.
+
+## Microsoft provides five different customer support options for Azure:
+
+- Basic
+- Developer
+- Standard
+- Professional Direct
+- Premier
+
+## How does Windows Azure work?
+
+##### Ans.
+
+Here in Azure, the operating system which is behind this technology is called Microsoft Azure, which helps in running its fabric layer (a cluster hosted in Microsoft data centers and it is responsible to manage storage and computing process of various applications). Here, Microsoft Fabric controller controls the scalability and reliability features and helps in avoiding the service crash and managing web apps.
+
+### Windows Azure component is responsible to run applications and store data. It contains the following listed five services:
+- Processor Compute
+- Storage
+- Virtual Network
+- CDN
+- Fabric Controller
+
+## Benefits of Azure
+
+Microsoft Azure has provided a platform to the developers through which they can create and deploy an application compatible with many platforms. It lets the organizations perform large-scale computing and perform predictive analysis.
+
+Users can also leverage IoT services through the Azure platform. Azure applications can be operated in the global network. It provides the following benefits:
+
+- Free start and scale as per your need
+- Infrastructure as per need
+- Cloud platform of enterprise level
+- Valuable data insights
+- Encode, Protect, Stream and Ingesting facility for applications
+
+Above listed benefits are not limited even there are many organizational benefits offered by Azure. The organizations can leverage the benefits and optimize their performance.
