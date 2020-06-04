@@ -145,6 +145,42 @@ While there are many progressive advantages to implementing virtual machines, th
 - A virtual machine can be infected with the weaknesses of the host machine. As an example, process isolation is a feature usually employed by operating systems. However, there are bugs that violate it. 
 - A regular computer devoid of virtual machines would then only be affected. But, a computer with a number of virtual machines would then infect each of those “machines” as well. 
 
+## Date: June 3, 2020  
+
+> #### Today I learned  
+>> 1. Introduction to AWS 
+>> 2. Amazon Web Services Cloud Platform  
+
+# 1. Introduction to AWS: 
+Amazon Web Services offers a broad set of global cloud-based products including compute, storage, databases, analytics, networking, mobile, developer tools, management tools, IoT, security, and enterprise applications: on-demand, available in seconds, with pay-as-you-go pricing. From data warehousing to deployment tools, directories to content delivery, over 140 AWS services are available. New services can be provisioned quickly, without the upfront capital expense. This allows enterprises, start-ups, small and medium-sized businesses, and customers in the public sector to access the building blocks they need to respond quickly to changing business requirements.  
+
+In 2006, Amazon Web Services (AWS) began offering IT infrastructure services to businesses as web services—now commonly known as cloud computing. One of the key benefits of cloud computing is the opportunity to replace upfront capital infrastructure expenses with low variable costs that scale with your business. With the cloud, businesses no longer need to plan for and procure servers and other IT infrastructure weeks or months in advance. Instead, they can instantly spin up hundreds or thousands of servers in minutes and deliver results faster.  
+
+Today, AWS provides a highly reliable, scalable, low-cost infrastructure platform in the cloud that powers hundreds of thousands of businesses in 190 countries around the world.  
+
+# 2. Amazon Web Services Cloud Platform: 
+More than 100 services comprise the Amazon Web Services portfolio, including those for compute, databases, infrastructure management, application development and security. These services, by category, include:  
+
+### 1. Availability: 
+- Amazon Web Services provides services from dozens of data centers spread across availability zones (AZs) in regions across the world. An AZ is a location that contains multiple physical data centers.  
+- A business will choose one or multiple availability zones for a variety of reasons, such as compliance and proximity to end customers. For example, an AWS customer can spin up virtual machines (VMs) and replicate data in different AZs to achieve a highly reliable infrastructure that is resistant to failures of individual servers or an entire data center.  
+
+### 2. Storage: 
+- Amazon Simple Storage Service (S3) provides scalable object storage for data backup, collection and analytics. An IT professional stores data and files as S3 objects -- which can range up to 5 gigabytes (GB) -- inside S3 buckets to keep them organized. A business can save money with S3 through its Infrequent Access storage tier or by using Amazon Glacier for long-term cold storage.  
+- A business can also migrate data to the cloud via storage transport devices, such as AWS Snowball and Snowmobile, or use AWS Storage Gateway to enable on-premises apps to access cloud data.  
+
+### 3. Databases, data management: 
+- he Amazon Relational Database Service -- which includes options for Oracle, SQL Server, PostgreSQL, MySQL, MariaDB and a proprietary high-performance database called Amazon Aurora -- provides a relational database management system for AWS users. AWS also offers managed NoSQL databases through Amazon DynamoDB.  
+- An AWS customer can use Amazon ElastiCache and DynamoDB Accelerator as in-memory and real-time data caches for applications. Amazon Redshift offers a data warehouse, which makes it easier for data analysts to perform business intelligence (BI) tasks.  
+
+### 4. Migration, hybrid cloud: 
+- AWS includes various tools and services designed to help users migrate applications, databases, servers and data onto its public cloud. The AWS Migration Hub provides a location to monitor and manage migrations from on premises to the cloud.  
+- Amazon also has partnerships with several technology vendors that ease hybrid cloud deployments. VMware Cloud on AWS brings software-defined data center technology from VMware to the AWS cloud. Red Hat Enterprise Linux for Amazon EC2 is the product of another partnership, extending Red Hat's operating system to the AWS cloud.  
+
+### 5. Networking: 
+- An Amazon Virtual Private Cloud (Amazon VPC) gives an administrator control over a virtual network to use an isolated section of the AWS cloud. AWS automatically provisions new resources within a VPC for extra protection.  
+- Admins can balance network traffic with the Elastic Load Balancing (ELB) service, which includes the Application Load Balancer and Network Load Balancer. AWS also provides a domain name system called Amazon Route 53 that routes end users to applications.
+
 
 
 
