@@ -65,4 +65,10 @@
   - Error Reporting.
   - Trace.
   - Profiler(Beta).
-
+# Big Data and Machine Learning in the Cloud.
+- Google Cloud Big Data services are fully managable and scalable. It includes:-
+1. Cloud Dataproc:- It is managed by Hadoop. Fast, easy, managed way to run Hadoop and Spark/Hive/Pig on GCP. It can create clusters in 90 seconds or less, and can also scale cluster up and down when jobs are running. It is used because it easily migrates on-premises Hadoop jobs on the cloud. 
+2. Cloud Dataflow:- It offers managed data pipelines. It processes data using Compute Engine instances. It has automatic scaling and clusters are sized for you. It is used for ETL(extract/transform/load) pipelines to move, filter, enrich, shape data. Also it is used for Orchestration. Integrates with GCP services like Cloud Storage, Cloud Pub/Sub, BigQuery, and Bigtable.
+3. BigQuery:- It is fully managed daat warehouse. Provides near real-time interactive analysis of massive datasets. Here no cluster maintainence required. It runs on Google's high-performance infrastructure. You only pay for storage and processing used. Automatic discount for long-term data storage.
+4 .Cloud Pub/Sub:- It is scalable, reliable messaging. It includes many-to-many messaging, application components make push/pull subscriptions to topics. It is used for building block for data ingestion in dataflow, IoT, Marketing Analysis, aslo foundation for Dataflow streaming. It also connect applications across Google Cloud Platform. 
+5. Cloud Datalab:- It offers interactive data exploration. It has integrated open source like Jupyter(formely IPhyton), interactive tool for large-scale data exploration, transformation, analysis, and visualization. Easily deploy models to BigQuery. Analyze data in BigQuery, Compute Engine, and Cloud Storage using Python, SQL, and JavaScript.
