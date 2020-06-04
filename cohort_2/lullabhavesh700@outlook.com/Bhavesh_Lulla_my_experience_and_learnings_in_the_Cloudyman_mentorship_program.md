@@ -138,7 +138,7 @@ The speaker explained how to use github.
 
  - Files with the .md or.markdown extension
 
-## Date: June 1,2020
+## Date: June 1, 2020
  
 > Today I learned:
  
@@ -184,13 +184,19 @@ The speaker explained how to use github.
 
 4. If the company is unsure of it's future, it won't risk a hefty amount of debt upon itself and the company will choose to rent a piece of equipment instead of purchasing. 
 
-# Cloud Computing- CapEx VS OpEx
+# Capital expenditure (CapEx) versus Operational expenditure (OpEx) 
 
- - Cloud service providers allows companies to use a "pay as they go" or OpEx model, which allows companies to use the virtual machines as per their requirement and the security of cloud. 
+### The key difference between both are:
 
- - There is potential cost benefits throughout the year. 
+ - Funds that fall under capital expenditures are for major purchases that will be used im the future. The life of these purchases extends beyond the current accounting period in which they were purchased. Because these costs can be recovered only over time through depreciation, companies usually prepare a capital expense budget apart from operational expenditure. 
 
- - Rather than just buying the complete hardware and paying for the network, the consumers would have the right resources in the form of virtual machines at the right time, without overspending. 
+ - Operating expenses represent the day-to-day expenses necessary to run a business. Because these are short-term costs that are used up in the same accounting period in which they were purchased, it makes sense for them to habe a separate budget. 
+
+ - CapEx cannot be fully deducted in the period when they were incurred. Tangible assets are depreciated and intangible assets are amortized over time. On the other hand, operating expenses are fully deducted in the accounting period during which they were incurred. 
+
+ - Money spent on inventory falls under capital expenditure. While the money spent turning inventory into throughout is operational expenditure. 
+
+ - Capital expenditure incurred for buying the income producing property. Operational expenditure costs associated with the operation and maintenance of an income producing property. 
 
 ># Cloud Storage:
 
@@ -276,7 +282,7 @@ The speaker explained how to use github.
 
 3. There are three ways to scale in cloud. 
 
-1] Vertical Scaling (Up Scaling) :
+### 1.Vertical Scaling (Up Scaling) :
 
  - With cloud computing, you can add or subtract resources like storage or processing power. 
 
@@ -288,7 +294,7 @@ The speaker explained how to use github.
 
  - This is Vertical Scaling. 
 
-2] Horizontal Scaling (Out Scaling):
+### 2.Horizontal Scaling (Out Scaling):
 
  - Horizontal scaling refers to adding more servers to your network, rather than simply adding resources like with vertical scaling. 
 
@@ -296,7 +302,7 @@ The speaker explained how to use github.
 
  - You can also handle traffic efficiently and execute complex workloads. 
 
-3] Diagonal Scaling (Mixed Scaling):
+### 3.Diagonal Scaling (Mixed Scaling):
 
  - When we combine horizontal and vertical scaling together, we get diagonal scaling. 
 
@@ -313,6 +319,119 @@ The speaker explained how to use github.
  - Cloud computing uses a pay-as-you-go model. 
 
  - This on-demand nature is what makes the cloud so easy and interesting. 
+
+## Date: June 04, 2020
+
+>## Today I learned:
+
+ 1. What is LinkedIn? 
+
+ 2. Why do we use LinkedIn? 
+
+ 3. What features does LinkedIn provides? 
+
+## 1. What is LinkedIn? 
+
+ - LinkedIn is an American business and employment-oriented online service that operates via websites and mobile apps. LinkedIn is a social network specifically designed for career and business professionals to connect. Unlike other social network in which you might become "friends" with everyone and anyone, LinkedIn is about building strategic relationships. 
+
+## 2.Why do we use LinkedIn? 
+
+ - LinkedIn is mainly used for professional networking, including employers posting jobs and job seekers posting their CVs. We use LinkedIn as it allows us (both workers and employers) to create profile and "connections" to each other in an online social network which may represent real-world professional relationships. We can invite anyone (whether an existing member or not) to become a connection. On linkedIn we can get any posts related to jobs and jobs placement. Here we can also apply for internships and jobs.
+
+## 3.What features does LinkedIn provides? 
+
+- LinkedIn provides following features:-
+
+01.Creating your profile
+
+02.Connect with anyone (friends/professionals) 
+
+03.Share CVs/Resumes
+ 
+04.Apply for job
+
+05.Blogging interface 
+
+06.LinkedIn Scheduler/Calendar
+
+07.Boolean Search
+
+08.Messaging Window
+
+09.Post or Share Content
+
+10.Reply Privately
+
+11.Content Analytics
+
+12.Search alert for recruiters
+
+13.Mobile Responsive
+
+14.Notification
+
+## What things you should not forget to include in your LinkedIn Profile? 
+
+ - Your LinkedIn Profile is like your professional profile. It should be up to date and include all that which is not important for the recruiters to know about you. Your profile should be like this, that one should get impressed by just seeing your profile. 
+
+  1. Profile Photo:
+   
+   - Good profile photo with appropriate dimensions and correctly viewable. 
+
+  2. Objective Line:
+
+   - Perfect objective line mentioning your objectives clearly. 
+
+  3. Education and Certifications:
+
+   - All details related to your education and certifications must be included. 
+
+  4. Skills:
+
+   - Skills related to work should be included. 
+
+  5. Interests:
+
+   - Relevant interests should be there in your profile. 
+
+  6. Work Experience:
+
+   - Your past and recent work experience must be included. 
+
+  7. Accomplishments:
+
+   - Your major accomplishments should be there. 
+
+  8. Results and Promotions:
+
+   - Highlight your results and promotions properly. 
+
+  9. Recommendations:
+
+   - Recommendations from your friends and know people on linkedIn should be there for your etter. 
+
+ 10. Profile Summary:
+
+   - Short 2-3 sentence profile summary should be included. 
+
+ 11. Community involvement and volunteer work:
+
+   - Social work, community involvement and volunteer work can be included for good impression. 
+
+ 12. Contact Details:
+
+   - Your contact details, website and address should added for easy connect. 
+
+ 13. CV/Resume:
+
+   - You can include your CV/Resume to apply for job. 
+
+
+
+
+ 
+
+
 
 
 
