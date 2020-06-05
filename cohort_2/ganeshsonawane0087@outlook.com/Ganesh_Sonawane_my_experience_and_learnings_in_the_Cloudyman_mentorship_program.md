@@ -1,6 +1,6 @@
 > # This blog is part of the **[Cloudyman Mentorship Program](https://t.co/78sRvCvYiO?amp=1)** under the mentorship of *[Mustafa Saifee](https://www.linkedin.com/in/saifeemustafaq/)*
 
-## Date: May 30, 2020
+## Date: June 5, 2020
 
 ## what is cloud computing ?
   The technology of distributed dada processing  in which some scalable information resources and capabilities are provided as a service to multiple external  customers through internet  technology 
@@ -66,3 +66,11 @@
   2. Infrastructure-as-a-Service (LaaS)
   3. Platform-as-a-service (PaaS)
   These three services make up what Rackspace calls the cloud computing Stack , with SaaS on top,PaaS in the middle and LaaS on the bottom 
+
+# what is capex or opex in cloud computing?
+  Cloud computing is accelerating this need based on the shift from capital expense to operating expenses. Capital expenses (CapEx) are for assets with a useful life greater than one year. Operating expenses (OpEx) are incurred in the ordinary course of running the business on a monthly or yearly basis.
+
+## Difference between capex and opex
+   An operating expense (OPEX) is an expense required for the day-to-day functioning of a business. In contrast, a capital expense (CAPEX) is an expense a business incurs to create a benefit in the future CapEx is the standard model of traditional IT procurement, while OpEx is how cloud computing services are procured. The two have very different implications for cost, control and operational flexibility
+   
+
