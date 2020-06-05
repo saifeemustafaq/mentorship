@@ -59,6 +59,18 @@ this virtual machines are very benifical for us
    that machine we get safty of our data 
    by virtual machine we get the surty of data 
      also we get the safty of data 
+    ----
+  ## What is Virtual machine
+  In virtual machine we need just any pc or laptop of not much high performance 
+  just we need a simple computers 
+  in the virtual machine we get an a projector like screen 
+  just we can use this screen on our pc
+  in that we need an a cloud account 
+  goto cloud account we need to only login and we get much type of varity of modes or specific types of super computer details
+  just we select any of them and buy we get and ip address
+  just add this ip in our pc we get a virtual screen for use
+  Its very simple to use .
+  Cloud server are provided by many companies like amazon microsoft
      
    
  
