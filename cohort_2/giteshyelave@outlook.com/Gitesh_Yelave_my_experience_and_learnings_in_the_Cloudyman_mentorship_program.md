@@ -62,3 +62,59 @@ Collaboration in a cloud environment gives your business the ability to communic
 ### Automatic software updates
 
 Access to automatic updates for your IT requirements may be included in your service fee. Depending on your cloud computing service provider, your system will regularly be updated with the latest technology. This could include up-to-date versions of software, as well as upgrades to servers and computer processing power.
+
+## Date: June 5, 2020
+
+# What is Microsoft Azure? 
+
+##### Ans.
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQMVxxgxROub14kUtodd9vn-cFJb72dBcxHJZocW1cqLzYgD2am&usqp=CAU)
+
+
+
+Microsoft has leveraged its constantly-expanding worldwide network of data centers to create Azure, a cloud platform for building, deploying, and managing services and applications, anywhere. Azure lets you add cloud capabilities to your existing network through its platform as a service (PaaS) model, or entrust Microsoft with all of your computing and network needs with Infrastructure as a Service (IaaS). Either option provides secure, reliable access to your cloud hosted data—one built on Microsoft’s proven architecture.
+
+Azure provides an ever expanding array of products and services designed to meet all your needs through one convenient, easy to manage platform. Below are just some of the capabilities Microsoft offers through Azure and tips for determining if the Microsoft cloud is the right choice for your organization.
+
+# Logging capabilities within Microsoft Azure
+
+The secret gold mine of any infrastructure and service solution is ongoing operational and security visibility, and ultimately these comes down to extracting critical log and infrastructure metrics from the application and underlying stack. The lack of this visibility is like flying a plane blind—no one does it. Azure comes with integrated health monitoring and alert capabilities so you can know in an instant if performance issues or outages are impacting your business. Set smart alert levels for events from:
+
+## Azure diagnostic infrastructure logs
+
+Get current insights into how your cloud network is performing and take action to resolve slow downs, bottlenecks, or service failures.
+
+## Windows IIS logs
+
+View activity on your virtual web servers and respond to traffic patterns or log-in anomalies with the data Azure gathers on IIS 7.
+
+## Crash dumps
+
+Even virtual machines can ‘blue screen’ and other virtual equipment crashes can majorly disrupt your operations. With Microsoft Azure you can record crash dump data and troubleshoot to avoid repeat problems.
+
+## Custom error logs
+
+Set Azure alerts to inform you about defined error events. This is especially helpful when hosting private applications that generate internal intelligence about operations, so you can add these errors to the health checklist Azure maintains about your network.
+
+# How Azure works
+
+Microsoft Azure is a private and public cloud platform. You may be familiar with Azure services. But, how does it work?
+
+Azure uses a technology known as virtualization, a priori, nothing new up to this point.
+
+Virtualization separates the close coupling between a computer’s CPU or server and its operating system by means of an abstraction layer called a hypervisor. The hypervisor emulates all the functions of a real computer or server and its CPU in a virtual machine. You can run multiple virtual machines at the same time and each virtual machine can run any compatible operating system such as Windows or Linux.
+
+Azure takes this virtualization technology and rethinks it on a massive scale in Microsoft data centres around the world.
+
+Therefore, the cloud is a set of physical servers in one or several data centres that run virtualized hardware on behalf of clients.
+
+## Benefits of Azure
+
+- Free start and scale as per your need
+- Infrastructure as per need
+- Cloud platform of enterprise level
+- Valuable data insights
+- Encode, Protect, Stream and Ingesting facility for applications
+
+
