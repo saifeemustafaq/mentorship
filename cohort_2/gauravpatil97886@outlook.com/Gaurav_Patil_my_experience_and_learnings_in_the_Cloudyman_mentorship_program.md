@@ -348,3 +348,43 @@ _ ****Introduce others to your books,*** websites, blogs, and more. Your profile
 - When you choose a cloud provider, you’re also choosing a “region,” which is where your data centers physically exist. However, while providers all define what a region is in a similar way, they differ in implementation.
 
 -------
+
+## Date: JUNE 05, 2020
+
+### Qn. What is an Availability Zone?
+
+### Qn. What is a region pair?
+
+
+-------
+
+# Qn. What is an Availability Zone?
+
+- ans >>>>
+- An Availability Zone is a high-availability offering that protects your applications and data from datacenter failures. Availability Zones are unique physical locations within an Azure region. Each zone is made up of one or more datacenters equipped with independent power, cooling, and networking. To ensure resiliency, there's a minimum of three separate zones in all enabled regions. The physical separation of Availability Zones within a region protects applications and data from datacenter failures. Zone-redundant services replicate your applications and data across Availability Zones to protect from single-points-of-failure. With Availability Zones, Azure offers industry best 99.99% VM uptime SLA. The full Azure SLA explains the guaranteed availability of Azure as a whole.
+
+- ****An Availability Zone in an Azure region is a combination of a fault domain and an update domain. For example, if you create three or more VMs across three zones in an Azure region, your VMs are effectively distributed across three fault domains and three update domains. The Azure platform recognizes this distribution across update domains to make sure that VMs in different zones are not updated at the same time.
+
+-  Build high-availability into your application architecture by co-locating your compute, storage, networking, and data resources within a zone and replicating in other zones. Azure services that support Availability Zones fall into two categories:
+
+- Zonal services – where a resource is pinned to a specific zone (for example, virtual machines, managed disks, Standard IP addresses), or
+- Zone-redundant services – when the Azure platform replicates automatically across zones (for example, zone-redundant storage, SQL Database).
+- To achieve comprehensive business continuity on Azure, build your application architecture using the combination of Availability Zones with Azure region pairs. You can synchronously replicate your applications and data using Availability Zones within an Azure region for high-availability and asynchronously replicate across Azure regions for disaster recovery protection.
+
+----------
+# Qn. What is a region pair?
+
+- ans>>>>
+- An Azure region consists of a set of data centers deployed within a latency-defined perimeter and connected through a dedicated low-latency network. This ensures that Azure services within an Azure region offer the best possible performance and security.
+
+- An Azure geography defines an area of the world containing at least one Azure region. Geographies define a discrete market, typically containing two or more regions, that preserve data residency and compliance boundaries. Find more information about Azure's global infrastructure here
+
+- A regional pair consists of two regions within the same geography. Azure serializes platform updates (planned maintenance) across regional pairs, ensuring that only one region in each pair updates at a time. If an outage affects multiple regions, at least one region in each pair will be prioritized for recovery.
+
+****AzureGeography***
+
+Some Azure services take further advantage of paired regions to ensure business continuity and to protect against data loss. Azure provides several storage solutions that take advantage of paired regions to ensure data availability. For example, Azure Geo-redundant Storage (GRS) replicates data to a secondary region automatically, ensuring that data is durable even in the event that the primary region isn't recoverable.
+
+Note that not all Azure services automatically replicate data, nor do all Azure services automatically fall-back from a failed region to its pair. In such cases, recovery and replication must be configured by the customer.
+
+---------
