@@ -249,3 +249,55 @@
 - Systems go through periods of downtime for a number  of reasons, including power or hardware failure, system crashes, hacker attacks, system reboots, operating system and/or software updates, lack of network connectivity and more.
 - While some downtime events are planned as part of maintenance schedules ("planned downtime"), in many cases periods of downtime result from unplanned or unexpected events like network outages and hardware failure.
 - Downtime might result in huge losses for big businesses.
+
+> ## **Client-Server Computing**
+
+In Client-Server Computing, the clients requests a resource and the server provides that resource.
+- A server may serve multiple clients at the same time while a client is in contact with only one server. 
+- Both the client and server usually communicate via a computer network but sometimes they may exist in the same system.
+
+A client does not share any of its resources, but it requests content or service from a server. Clients, therefore, initiate communication sessions with servers, which await incoming requests. Examples of computer applications that use the client-server model are Email, network printing, and the World Wide Web
+
+An illustration of the client server system is given as follows:
+
+![Client Server Architecture](https://user-images.githubusercontent.com/65165798/83909087-c113a300-a785-11ea-89fd-873d1d393dd0.png)
+
+### **Client Server Architecture**
+**Characteristics of Client-Server Computing**
+
+The salient points for Client-Server Computing are as follows:
+
+The client server computing works with a system of request and response. The client sends a request to the server and the server responds with the desired information.
+
+The client and server should follow a common communication protocol so they can easily interact with each other. All the communication protocols are available at the application layer.
+
+A server can only accommodate a limited number of client requests at a time. So it uses a system based to priority to respond to the requests.
+Denial of Service attacks hinders servers ability to respond to authentic client requests by inundating it with false requests.
+
+An example of a client server computing system is a web server. It returns the web pages to the clients that requested them.
+
+### Difference between Client-Server Computing and Peer to Peer Computing
+
+The major differences between client server computing and peer to peer computing are as follows:
+
+- In client server computing, a server is a central node that services many client nodes. 
+- On the other hand, in a peer to peer system, the nodes collectively use their resources and communicate with each other.
+- In client server computing the server is the one that communicates with the other nodes.
+- In peer to peer to computing, all the nodes are equal and share data with each other directly.
+- Client Server computing is believed to be a subcategory of the peer to peer computing.
+## Advantages of Client-Server Computing
+The different Advantages of client server computing are:
+
+- All the required data is concentrated in a single place i.e. the server.
+- So it is easy to protect the data and provide authorisation and authentication.
+- The server need not be located physically close to the clients. Yet the data can be accessed efficiently.
+- It is easy to replace, upgrade or relocate the nodes in the client server model because all the nodes are independent and request data only from the server.
+- All the nodes i.e clients and server may not be build on similar platforms yet they can easily facilitate the transfer of data.
+
+## Disadvantages of Client-Server Computing
+The different disadvantages of client server computing are:
+
+- If all the clients simultaneously request data from the server, it may get overloaded. 
+- This may lead to congestion in the network or we call it as Latency.
+- If the server fails for any reason, then none of the requests of the clients can be fulfilled. This leads of failure of the client-server network.
+The cost of setting and maintaining a client server model are quite high.
