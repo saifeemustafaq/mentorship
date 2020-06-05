@@ -257,6 +257,19 @@ In 2018, 12 percent of production containers were rkt (pronounced “Rocket”).
 - The term ‘serverless’ is somewhat misleading, as there are still servers providing these backend services, but all of the server space and infrastructure concerns are handled by the vendor. Serverless means that the developers can do their work without having to worry about servers at all.
 
 
+## Key Characteristics of serveless computing :
+- ### 1. No Server management : 
+There is no need to provision or maintain any servers. There is no software or runtime to install, maintain, or administer.
+- ### 2. Flexible Event-driven scaling : 
+This is one of the important characteristics of Serverless, you shouldn’t worry about scaling your solution if demand arises. Typically your solution will scale based on events, timer or incoming actions. Examples: Execute code every 1 second, Execute code when an  HTTP web endpoint is called, Execute code when a new file is uploaded to a blob storage or some of the simple use cases.
+- ### 3. Highly available : 
+Serverless applications have built-in availability and fault tolerance. You don’t need to architect for these capabilities since the services running the application provide them by default.
+- ### 4. No idle capacity :
+You don’t have to pay for idle capacity. If your code is not running, you shouldn’t pay for it.
+- ###  5. Micro Billing :
+When your code is executed you pay per execution. Typically the vendors calculate this based on memory consumption and time it takes for execution. ex: if your code requires 200mb of RAM and it takes 3 seconds to complete, you will only need to pay for this resource.
+
+
 
 
 
