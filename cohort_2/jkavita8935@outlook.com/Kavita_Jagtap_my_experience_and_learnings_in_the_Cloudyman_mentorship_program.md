@@ -137,4 +137,82 @@ Todey I learned new things about GitHub.
     - The cloud has reached a place where it has become an integral part of our everyday work-lives. Based on its affordability and colossal effectiveness, modern entrepreneurs are using cloud services to build and run their small businesses, while working with people from different parts of the globe. In fact, collaborative work based on cloud technology has already proved its competency in bringing your most diverse teams together. 
  
  ---
+ ## Date: June 5, 2020
+ 
+ #   ***Microsoft Azure***
+ 
+ ### what is  Microsoft Azure:
+ 
+
+ - Microsoft Azure is a platform as a service (PaaS) solution for building and hosting solutions using Microsoft’s products and in their data centers. It is a comprehensive suite of cloud products that allow users to create enterprise-class applications without having to build out their own infrastructure.
+
+ - The Azure Service Platform is comprised of three cloud centric products: Windows Azure, SQL Azure and Azure App Fabric controller. These are in addition to the application hosting infrastructure facility.
+ 
+ ---
+ 
+ ### Various Azure Services
+ 
+ - Azure provides more than 200 services, are divided into 18 categories. These categories include computing, networking, storage, IoT, migration, mobile, analytics, containers, artificial intelligence, and other machine learning, integration, management tools, developer tools, security, databases, DevOps, media identity, and web services.
+ 
+ 
+ ***Virtual Machine***
+  - This service enables you to create a virtual machine in Windows, Linux or any other configuration in seconds.
+  
+   ***Cloud Service***
+ - This service lets you create scalable applications within the cloud. Once the application is deployed, everything, including provisioning, load balancing, and health monitoring, is taken care of by Azure. 
+
+ ***Service Fabric***
+ - With service fabric, the process of developing a microservice is immensely simplified. Microservice is an application that contains other bundled smaller applications.
+ 
+ ***Functions***
+ - With functions, you can create applications in any programming language. The best part about this service is that you need not worry about hardware requirements while developing applications because Azure takes care of that. All you need to do is provide the code.
+ 
+---
+
+ ### Networking
+ 
+   - Azure CDN
+   - Express Route 
+   - Virtual network
+   - Azure DNS
+   
+---
+
+ ### Storage
+ 
+ ***Disk Storage*** 
+This service allows you to choose from either HDD (Hard Disk Drive) or SSD (Solid State Drive) as your storage option along with your virtual machine.
+
+ ***Blob Storage*** 
+This service is optimized to store a massive amount of unstructured data, including text and even binary data. 
+
+***File Storage***
+This is a managed file storage service that can be accessed via industry SMB (server message block) protocol. 
+
+***Queue Storage*** 
+With queue storage, you can provide stable message queuing for a large workload. This service can be accessed from anywhere in this world.
+
+---
+
+## uses of Azure
+
+ #### Application development:
+ You can create any web application in Azure.
+#### Testing: 
+After developing an application successfully on the platform, you can test it.
+#### Application hosting: 
+Once the testing is done, Azure can help you host the application.
+#### Create virtual machines: 
+You can create virtual machines in any configuration you want with the help of Azure. 
+#### Integrate and sync features: 
+Azure lets you integrate and sync virtual devices and directories. 
+#### Collect and store metrics: 
+Azure lets you collect and store metrics, which can help you find what works. 
+Virtual hard drives: These are extensions of the virtual machines; they provide a huge amount of data storage.
+   
+---
+
+
+ 
+ 
 
