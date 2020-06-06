@@ -107,3 +107,75 @@ Microsoft Azure  also provides VHDs for different editions and configurations of
 2. You must have platform expertise available.
 3. Speed can be an issue for some businesses.
 4. The ease of access may be problematic for some businesses.
+
+## Date: May 06, 2020                             
+                             
+## What is Capital Expenditure(CapEx) versus Operational Expenditure (OpEx)?
+
+### Capital Expenditure(CapEx):
+
+Capital expenditures are not fully deducted in the accounting period they were incurred. In other words, they are not fully subtracted from the revenue when computing the profits or losses a business has made. However, intangible assets are amortized over their lifespan while the tangible ones are depreciated over their life cycle. All monies spent to get new inventory, including machinery or intellectual property, are grouped under CapEx spendings.
+
+### Operational Expenditure (OpEx):
+
+Operating expenses are fully deducted in the accounting period they were incurred. All funds spent when converting inventory into throughput falls under OpEx. This includes employee wages, repair and maintenance of equipment, rental fees, and utility bills and so on. If a business invests in real estate, these spending is approved as CapEx budget and the expense is grouped under CapEx. However, all the costs incurred when managing such an income generating building falls under OpEx.
+
+
+### Difference between CAPEX and OPEX
+
+- The distinction between CAPEX and OPEX has become very complicated today especially in companies where products and services are driven by knowledge workers.
+
+- In general, CAPEX is what needs to be avoided, while OPEX is something to be kept under tight control.
+
+- CAPEX can be financed externally. But these investors are interested in interest payments and getting their money back in the end. It is riskier with equity financiers as they want it all. You are in essence promising the investor entire cash flow of future. CAPEX eventually depreciates and all that is left is cash flow.
+
+- OPEX can be considered to be (in) efficiency of any business. It has a direct relation with the value of the business. If you can reduce OPEX without hurting day to day operations, you eventually increase valuation of any business.
+
+- When you fire a few people who were inefficient, you are bringing down OPEX and thus increasing the value of business.
+
+
+## What are the Cloud Deployment models?
+
+### Deployment Models:
+
+The cloud infrastructure is a composition of two or more distinct cloud infrastructures (private, community, or public) that remain unique entities, but are bound together by standardized or proprietary technology that enables data and application portability (e.g., cloud bursting for load balancing between clouds).
+
+### Types Of Cloud Deployment Models:
+
+### Public Cloud:
+
+Public Cloud is a type of cloud hosting that allows the accessibility of systems & its services to its clients/users easily. Some of the examples of those companies which provide public cloud facilities are IBM, Google, Amazon, Microsoft, etc. This cloud service is open for use. This type of cloud computing is a true specimen of cloud hosting where the service providers render services to various clients. From the technical point of view, there is the least difference between private clouds and public clouds along with the structural design. Only the security level depends based on the service providers and the type of cloud clients use. Public cloud is better suited for business purposes for managing the load. This type of cloud is economical due to the decrease in capital overheads.
+
+### Private Cloud:
+Private Cloud also termed as 'Internal Cloud'; which allows the accessibility of systems and services within a specific boundary or organization. The cloud platform is implemented in a cloud-based secure environment that is guarded by advanced firewalls under the surveillance of the IT department that belongs to a particular organization. Private clouds permit only authorized users, providing the organizations greater control over data and its security. Business organizations that have dynamic, critical, secured, management demand based requirement should adopt Private Cloud.
+
+#### The advantages of using a private cloud are:
+
+- Highly private and secured: Private cloud resource sharing is highly secured.
+- Control Oriented: Private clouds provide more control over its resources than public cloud as it can be accessed within the organization's boundary.
+
+#### The Private cloud has the following disadvantages:
+
+- Poor scalability:  Private type of clouds is scaled within internal limited hosted resources.
+- Costly:            As it provides secured and more features, so it's more expensive than a public cloud.
+- Pricing:           is inflexible; i.e., purchasing new hardware for up-gradation is more costly.
+- Restriction:       It can be accessed locally within an organization and is difficult to expose globally.
+
+### Hybrid Cloud:
+Hybrid Cloud is another cloud computing type, which is integrated, i.e., it can be a combination of two or more cloud servers, i.e., private, public or community combined as one architecture, but remain individual entities. Non-critical tasks such as development and test workloads can be done using public cloud whereas critical tasks that are sensitive such as organization data handling are done using a private cloud. Benefits of both deployment models, as well as a community deployment model, are possible in a hybrid cloud hosting. It can cross isolation and overcome boundaries by the provider; hence, it cannot be simply categorized into any of the three deployments - public, private or community cloud.
+
+#### Advantages of Hybrid Cloud Computing are:
+
+- Flexible
+- Secure
+- Cost Effective
+- Rich Scalable
+
+#### Disadvantages of Hybrid Cloud are:
+
+- Complex networking problem
+- Organization's security Compliance
+
+### Community Cloud:
+
+Community Cloud is another type of cloud computing in which the setup of the cloud is shared manually among different organizations that belong to the same community or area. Example of such a community is where organizations/firms are there along with the financial institutions/banks. A multi-tenant setup developed using cloud among different organizations that belong to a particular community or group having similar computing concern.
