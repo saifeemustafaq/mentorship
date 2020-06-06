@@ -340,35 +340,35 @@ The speaker explained how to use github.
 
 ## 3.What features does LinkedIn provides? 
 
-- LinkedIn provides following features:-
+ - LinkedIn provides following features:-
 
-01.Creating your profile
+   01.Creating your profile
 
-02.Connect with anyone (friends/professionals) 
+   02.Connect with anyone (friends/professionals) 
 
-03.Share CVs/Resumes
+   03.Share CVs/Resumes
  
-04.Apply for job
+   04.Apply for job
 
-05.Blogging interface 
+   05.Blogging interface 
 
-06.LinkedIn Scheduler/Calendar
+   06.LinkedIn Scheduler/Calendar
 
-07.Boolean Search
+   07.Boolean Search
 
-08.Messaging Window
+   08.Messaging Window
 
-09.Post or Share Content
+   09.Post or Share Content
 
-10.Reply Privately
+   10.Reply Privately
 
-11.Content Analytics
+   11.Content Analytics
 
-12.Search alert for recruiters
+   12.Search alert for recruiters
 
-13.Mobile Responsive
+   13.Mobile Responsive
 
-14.Notification
+   14.Notification
 
 ## What things you should not forget to include in your LinkedIn Profile? 
 
@@ -516,6 +516,59 @@ The speaker explained how to use github.
 
  • The hybrid deployment model only makes sense if companies can split their data into mission-critical and non-sensitive. 
 
+## Date: June 06, 2020
+
+>## Today I learned:
+
+ 1. Virtual Machine 
+
+ 2. How virtual machine works? 
+
+ 3. Importance of virtual machine
+
+ 4. Advantages of virtual machine
+
+ 5. Disadvantages of virtual machine
+
+# 1. Virtual Machine:
+
+  A virtual machine (VM) is a virtual environment that functions as a virtual computer system with its own CPU, memory, network interface, and storage, created on a physical hardware system (located off or on premises). Software called a hypervisor seperates the machine's resources from the hardware and the provisions them appropriately so they can be used by the VM. The physical machines, equipped with a hypervisor such as Kernel-Based Virtual Machine(KVM), is called the host machine, host computer, host operating system, or simply host. The many VMs that use its resources are guest machines, guest computers, guest operating systems, or simply guests. The hypervisor treats compute resources like CPU, memory, and storage as a pool of resources that can easily be relocated between existing guests or to new virtual machines. 
+
+  VMs are isolated from the rest of the system, and multiple VMs can exist on a single piece of hardware, like a server. They can be moved between host servers depending on demand or to use resources more efficiently. VMs allow multiple different operating systems to run simultaneously on a single computer like a Linux® distro on a MacOS laptop. Each operating system runs in the same way an operating system or application normally would on the host hardware, so the end user experience emulated within the VM is nearly identical to a real-time operating system experience running on a physical machine. 
+
+# 2. How Virtual Machines works? 
+
+  Virtualization Technology allows you to share a system with many virtual environments. The hypervisor manages the hardware and separates the physical resources from the virtual environments. Resources are partitioned as needed from the physical environment to the VMs. When the VM is running and user or program issues and instruction that requires additional resources from the physical environment, the hypervisor schedules the request to the physical system's resources so that virtual machine's operating system and applications can access the shared pool of the physical resources. 
+
+  Server consolidation is a top reason to use VMs. Most operating system and application deployments only use a small amount of the physical resources available when deployed to bare metal. By virtualizing your servers, you can place many virtual onto each physical server to improve hardware utilization. This keeps you from needing to purchase additional physical resources, like hard drives, hard disks, as well as reducing the need for power, space, and cooling in the datacenter. VMs provide additional disaster recovery options by enabling failover and redundancy that could previously only be achieved through additional hardware. 
+
+  A VM provides an environment that is isolated from the rest of a system, so whatever is running inside a VM won't interfere with anything else running on the host hardware. Because VMs are isolated, they are a good option for testing new applications or setting up a production environment. You can also run a single purpose VM to support a specific process. 
+
+# 3. Importance of Virtual Machine:
+
+  Virtual Machine or VMs have become integral parts of businessoriented computing. A virtual machine acts as an emulator of a computer, executing programs like one. In summary, it is a piece of software that allows you to run operating systems within. It can give a company adaptability, in that any networking configurations or installed applications will be set up separately from the host computer, but rather will dwell in the software. While there are many progressive advantages to implementing virtual machines, there are also some disadvantages. 
+
+# 4. Advantages of Virtual Machine:
+
+ - Can use multiple operating system environments on the same computer. 
+
+ - Virtual machine can provide an instruction set architecture, or ISA, structure different than the actual computer. The ISA serves as the interface between software and hardware. 
+
+ - When yoi create your virtual machine, you create a virtual hard disk. So, everything on that machine can crash, but if it does, it won't affect the host machine. 
+
+ - There are security benefits to running virtual machines. For example, if you need to run an application of questionable security, you can run it in a guest operating system. So if the application causes damage then it will be only temporary after the guest is shut down. 
+ 
+ - Virtual machines also allow for better security forensics by monitoring guest operating systems for deficiencies and allowing the user to quarantine it for analysis. 
+
+# 5. Disadvantages of Virtual Machine:
+
+ - Virtual machines are less efficient than real machines because they access the hardware indirectly. Running software on top of the host operating system means that it will have to request access to the hardware from the host. That will slow the usability. 
+
+ - When several virtual machines are running on the same host, performancay be hindered if the computer is running on lack sufficient power. 
+
+ - A virtual machine can be infected with the weaknesses of the host machine. As an example, process isolation is a feature usually employed by operating systems. However there are bugs that violate it. 
+
+ - A regular computer devoid of virtual machines would then only be affected. But, a computer with a number of virtual machines would then infect each of those "machines" as well. 
 
 
    
