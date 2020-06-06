@@ -212,7 +212,86 @@ Virtual hard drives: These are extensions of the virtual machines; they provide 
    
 ---
 
+ ## Date: June 6, 2020
+ 
+ ## ***Economies of scale***
+ 
+  - Economies of scale is the ability to do things more efficiently or at a lower-cost per unit when operating at a larger scale. This cost advantage is an important benefit in cloud computing.
 
+ - Cloud providers such as Microsoft, Google, and Amazon are large businesses leveraging the benefits of economies of scale. These providers can then pass the savings on to their customers.
  
+  - These savings are apparent to end users in a number of ways, one of which is the ability to acquire hardware at a lower cost. Cloud providers can also make deals with local governments and utilities to get tax savings, lowering the price of power, cooling, and high-speed network connectivity between sites.  Cloud providers are then able to pass on these benefits to end users in the form of lower prices than what you could achieve on your own.
+  
+   ![](https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/media/3b-economiesofscale.png)
  
+ ---
+
+   ## ***Three deployment methods of cloud computing :***
+   
+#### 1. Public cloud
+#### 2. Private cloud
+#### 3. Hybrid  cloud
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSFCU2PQkUFig6DbgCdFY9mwjM57S8e6IQuEWaKo63vlUVtyxrW&usqp=CAU)
+  
+  ## ***Public cloud***
+  
+- This is the most common deployment model. In this case, you have no local hardware to manage or keep up-to-date – everything runs on    your cloud provider's hardware. In some cases, you can save additional costs by sharing computing resources with other cloud users.
+
+- Businesses can use multiple public cloud providers of varying scale. Microsoft Azure is an example of a public cloud provider.
+
+ ### Advantages
+ 
+ - High scalability/agility – you don't have to buy a new server in order to scale.
+ - Pay-as-you-go pricing – you pay only for what you use, no CapEx costs.
+ - You're not responsible for maintenance or updates of the hardware.
+ - Minimal technical knowledge to set up and use - you can leverage the skills and expertise of the cloud provider to ensure workloads      are secure, safe, and highly available.
+ 
+ ### Disadvantages
+ 
+-  There may be specific security requirements that cannot be met by using public cloud.
+- There may be government policies, industry standards, or legal requirements which public clouds cannot meet.
+- You don't own the hardware or services and cannot manage them as you may want to.
+- Unique business requirements, such as having to maintain a legacy application might be hard to meet.
+
+---
+
+ ## ***Private cloud***
+
+ - In a private cloud, you create a cloud environment in your own datacenter and provide self-service access to compute resources to users in your organization. This offers a simulation of a public cloud to your users, but you remain completely responsible for the purchase and maintenance of the hardware and software services you provide.
+  
+ - A private cloud can provide cloud functionality to external customers as well, or to specific internal departments such as Accounting or Human Resources.
+  
+  ### Advantages
+   
+- You can ensure the configuration can support any scenario or legacy application.
+- You have control (and responsibility) over security.
+- Private clouds can meet strict security, compliance, or legal requirements.
+ 
+ ### Disadvantages
+ 
+- You have some initial CapEx costs and must purchase the hardware for startup and maintenance.
+- Owning the equipment limits the agility - to scale you must buy, install, and setup new hardware.
+- Private clouds require IT skills and expertise that's hard to come by.
+
+---
+
+ ## ***Hybrid cloud***
+
+- A hybrid cloud combines public and private clouds, allowing you to run your applications in the most appropriate location. For            example, you could host a website in the public cloud and link it to a highly secure database hosted in your private cloud .
+- This is helpful when you have some things that cannot be put in the cloud, maybe for legal reasons. For example, you may have some       specific pieces of data that cannot be exposed publicly  which needs to be held in your private datacenter.
+
+### Advantages
+
+- You can keep any systems running and accessible that use out-of-date hardware or an out-of-date operating system.
+- You have flexibility with what you run locally versus in the cloud.
+- You can take advantage of economies of scale from public cloud providers for services and resources where it's cheaper, and then         supplement with your own equipment when it's not.
+-You can use your own equipment to meet security, compliance, or legacy scenarios -where you need to completely control the environment.
+
+### Disadvantages
+
+- It can be more expensive than selecting one deployment model since it involves some CapEx cost up front.
+- It can be more complicated to set up and manage.
+ 
+---
 
