@@ -71,8 +71,15 @@ this virtual machines are very benifical for us
   just add this ip in our pc we get a virtual screen for use
   Its very simple to use .
   Cloud server are provided by many companies like amazon microsoft
-     
-   
+    Virtual machine is the emulator of the any platform 
+   virtual machine is the one type of platforms just we can add any type operating system on that
+    
+ ### Types of cloud computing
+
+ 1)IaaS
+ 2)PaaS
+ 3)SaaS
+ 
  
  
  
