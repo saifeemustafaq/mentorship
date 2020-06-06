@@ -250,6 +250,10 @@
 - While some downtime events are planned as part of maintenance schedules ("planned downtime"), in many cases periods of downtime result from unplanned or unexpected events like network outages and hardware failure.
 - Downtime might result in huge losses for big businesses.
 
+> # Summary
+
+Every business has different needs and requirements. Cloud computing is flexible and cost-efficient, which can be beneficial to every business, whether it's a small start-up or a large enterprise.
+
 > ## **Client-Server Computing**
 
 In Client-Server Computing, the clients requests a resource and the server provides that resource.
@@ -301,3 +305,4 @@ The different disadvantages of client server computing are:
 - This may lead to congestion in the network or we call it as Latency.
 - If the server fails for any reason, then none of the requests of the clients can be fulfilled. This leads of failure of the client-server network.
 The cost of setting and maintaining a client server model are quite high.
+
