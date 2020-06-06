@@ -499,6 +499,14 @@ Moreover, all of the role instances of the client are monitored and there is gua
 # 2. Why Virtual Machines? 
 * ## Virtual machines are created to perform specific tasks that are risky to perform in a host environment, such as accessing virus-infected data and testing operating systems. Since the virtual machine is sandboxed from the rest of the system, the software inside the virtual machine cannot tamper with the host computer.
 * ## Virtual machines can also be used for other purposes such as server virtualization.
+* There are many reasons why your company might consider using virtual machines. It allow for reduceding overhead, with multiple systems operating from the same console and at the same time. VMs also provide a safety of your data, as they can be used to enable rapid disaster recovery and automatic backups.It also offers security. Plus for large and growing businesses, the scalability of virtual environments can be very important to accommodate the growing of a constantly expanding firm. A simulated hardware is a flexible solution to an growing company server, with multi-application, multi-user needs. 
+* Thus, following are the reasons for using virtual machines:-
+  * Operational flexibility
+  * Reducing overhead
+  * Centralized management
+  * Scalibility
+  * Disaster recovery
+
 # 3. How does it works? 
 * ## The virtualisarion works on software to simulate hardware functionality and create a virtual computer system. 
 * It enables us to run more than one virtual system and multiple operating systems and applications on a single server. This results in benefits include economies of scale, lesser cost and greater efficiency.
@@ -531,6 +539,7 @@ Thin layer of software known as “hypervisor” decouples the virtual machines 
 
  
 # 5. How to set up a Virtual Machine?
+
 # 6. Example.
 # 7. Advantages of Virtual Machines.
 * Virtualization can increase IT agility, flexibility and scalability while creating significant cost savings. Greater workload mobility, increased performance and availability of resources, automated operations – they’re all benefits of virtualization that make IT simpler to manage and less costly to own and operate. Additional benefits include:
