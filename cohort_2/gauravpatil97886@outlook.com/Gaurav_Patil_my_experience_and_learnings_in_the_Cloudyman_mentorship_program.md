@@ -388,3 +388,68 @@ Some Azure services take further advantage of paired regions to ensure business 
 Note that not all Azure services automatically replicate data, nor do all Azure services automatically fall-back from a failed region to its pair. In such cases, recovery and replication must be configured by the customer.
 
 ---------
+
+## Date: JUNE 06, 2020
+-------
+
+# Cloud Storage:
+------
+[visit to Microsoft Azure Cloud Storage Review ](https://cloudstorageadvice.com/microsoft-azure-review/)
+------
+
+- Cloud services have become the most suitable option for storing data online digitally.
+
+- In the earlier times, most of the companies used to depend on their private servers for storing their growing collection of data and online files; but today storing data online on cloud servers is the next big thing as it allows unlimited storage.
+
+- The best thing about storing all the data in the cloud is that it ensures affordability and the data can be easily accessed from anywhere in the world.
+
+--------
+
+## Benefits of online data storage in the cloud:
+
+
+### Usability And Accessibility
+- Users can easily upload the files in the cloud storage.
+- It is easy to save all the files and data in the cloud, no technical knowledge is required for this purpose.
+- The stored files can be easily accessed from anywhere in the world with just a few clicks and an internet connection.
+-------
+### Disaster Recovery
+- It is recommended for every business to have a backup plan in case of any emergency.
+- After all, losing important business data can cause huge losses to any business.
+- Cloud storage is the perfect backup plan for businesses. It creates a backup of the files stored.
+- These files are stored at a remote location and they can be retrieved and accessed at any time.
+-----
+### Security
+
+- Business owners can be sure that once the data is stored in the cloud, it is safe.
+- The best thing about using cloud storage is that server data is distributed across many servers and the data stored in the cloud is protected against any type of hardware failure.
+- Cloud servers also provide automated backups in order to make sure that your data is safe.
+-------
+### Cost Savings
+- Businesses and organizations can reduce annual operating costs by utilizing cloud storage.
+- Affordability can be ensured if data is stored online in the cloud.
+- Users can ensure additional cost savings because internal power and resources are not required separately for storing the data.
+--------
+### Easy Sharing
+
+- Data stored in cloud storage can be easily shared with clients and colleagues in an easy and secure way.
+------
+### Automation
+- With cloud storage technology, the tedious task of data backups is simplified through automation.
+- You simply have to select what you want to backup and when you want to backup and your cloud environment will take care of the rest.
+-----
+### Collaboration
+- A cloud environment enables multiple people to access, edit and collaborate on a single file or document.
+- People can access the cloud environment from anywhere in the world and collaborate in real-time.
+------
+### Scalable Service
+- Cloud hosting makes sure that you only pay for the resources that you actually use.
+- You can scale your cloud hosting environment whenever required and you can also define the attributes of scaling the cloud.
+- This ensures more flexibility and a large storage space.
+--------
+### Convenience
+- Even if you store data on transportable devices like external hard drives or flash drives, some kind of manual intervention and physical handling is required.
+- The data that is stored in a cloud is backed up online and it can be accessed from anywhere.
+
+#### Hence, Online cloud storage and backup is beneficial for all types of businesses.
+---------
