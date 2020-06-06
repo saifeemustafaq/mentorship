@@ -1,11 +1,11 @@
 > # **Microsoft Azure**
 
 
-- Microsoft Azure is Microsoft's public cloud computing platform. 
-- It provides a range of cloud services, including computing, analytics, storage and networking. 
-- Users can pick and choose from these services to develop and scale new applications, or run existing applications in the public cloud.
-- It offers tools that support all industries while aiming to help businesses manage challenges and meet their organizational goals. 
-- Azure also charges you on a pay-as-you-go basis, meaning subscribers receive a bill each month that only charges them for the specific resources they have used.
+1. Microsoft Azure is Microsoft's public cloud computing platform. 
+2. It provides a range of cloud services, including computing, analytics, storage and networking. 
+3. Users can pick and choose from these services to develop and scale new applications, or run existing applications in the public cloud.
+4. It offers tools that support all industries while aiming to help businesses manage challenges and meet their organizational goals. 
+5. Azure also charges you on a pay-as-you-go basis, meaning subscribers receive a bill each month that only charges them for the specific resources they have used.
 
 ## Working:
 
@@ -17,6 +17,14 @@
 - Users can use these services to create cloud-based resources, such as virtual machines (VM) and databases.  
 - A number of third-party sellers also make multiple softwares directly available through Azure.
   
+> # Multi-Tier Cloud Security (MTCS) Singapore.
+After rigorous assessments conducted by the MTCS Certification Body, Microsoft cloud services received MTCS 584:2013 certification across all three service classifications:
+
+- Infrastructure as a Service (IaaS)
+- Platform as a Service (PaaS)
+- Software as a Service (SaaS)
+
+Microsoft was the first global cloud solution provider (CSP) to receive this certification across all three classifications.  
   
 ## Microsoft provides five different customer support options for Azure:
 
