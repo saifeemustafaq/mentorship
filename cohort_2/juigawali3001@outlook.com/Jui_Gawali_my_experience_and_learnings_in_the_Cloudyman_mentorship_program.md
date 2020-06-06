@@ -74,3 +74,42 @@ There are many benefits to moving your business to the cloud:
 
 ## Access to automatic updates:
 > Access to automatic updates for your IT requirements may be included in your service fee. Depending on your cloud computing service provider, your system will regularly be updated with the latest technology. This could include up-to-date versions of software, as well as upgrades to servers and computer processing power.
+
+
+## Date: June 6,2020.
+
+## What is cloud computing?
+> To be precise, cloud computing is the delivery of computing services like servers, storages and more over the Internet. The companies that offer these computing services are called cloud providers. They charge for cloud computing services based on usage.
+Cloud computing is usually classified on the basis of location, or on the service that the cloud is offering.
+
+> Based on a cloud location, we can classify cloud as:
+
+- Public,
+- Private,
+- Hybrid
+- Community Cloud
+> Based on a service that the cloud is offering, we classify as:
+
+- IaaS (Infrastructure-as-a-Service)
+- PaaS(Platform-as-a-Service)
+- SaaS(Software-as-a-Service)
+or, Storage, Database, Information, Process, Application, Integration, Security, Management, Testing-as-a-service
+### Cloud Types: Private, Public and Hybrid, Community
+##### Depending on the type of data you’re working with, you’ll want to compare public, private, and hybrid clouds in terms of the different levels of security and management required.
+
+- Public Cloud – Whole computing infrastructure is located on the premises of a cloud computing company that offers the cloud service.
+- Private Cloud – Hosting all your computing infrastructure yourself and is not shared. The security and control level is highest while using a private network.
+- Hybrid Cloud – using both private and public clouds, depending on their purpose. You host your most important applications on your own servers to keep them more secure and secondary applications elsewhere.
+- Community Cloud – A community cloud is shared between organizations with a common goal or that fit into a specific community (professional community, geographic community, etc.).
+
+### Types of cloud services: IaaS, PaaS, SaaS, FaaS
+##### Cloud computing services fall into 4 categories: infrastructure as a service (IaaS), platform as a service (PaaS), software as a service (SaaS) and FaaS (functions as a service). These are sometimes called the cloud computing stack, because they build on top of one another.
+
+- Infrastructure-as-a-service (IaaS)
+IaaS is the most basic category of cloud computing services that allows you rent IT infrastructure (servers or VM’s) from a cloud provider on a pay-as-you-go basis.
+- Platform as a service (PaaS)
+Platform-as-a-service (PaaS) refers to the supply an on-demand environment for developing, testing, delivering and managing software applications. It is designed to quickly create web or mobile apps, without worrying about setting up or managing the underlying infrastructure of servers, storage, network and databases needed for development.
+- Software as a service (SaaS)
+Software-as-a-service (SaaS) is a method for delivering software applications over the Internet as per the demand and on a subscription basis. SaaS helps you host and manage the software application and underlying infrastructure and handle any maintenance (software upgrades and security patching).
+- FaaS (functions as a service)
+FaaS adds another layer of abstraction to PaaS, so that developers are completely insulated from everything in the stack below their code. Instead of handling the hassles of virtual servers, containers, and application runtimes, they upload narrowly functional blocks of code, and set them to be triggered by a certain event. FaaS applications consume no IaaS resources until an event occurs, reducing pay-per-use fees.
