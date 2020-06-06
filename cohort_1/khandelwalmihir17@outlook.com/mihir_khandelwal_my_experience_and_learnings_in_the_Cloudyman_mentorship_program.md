@@ -57,3 +57,9 @@ Today I Learned:
 ## Date: June 1, 2020
 1. Started Google Cloud basics course on Coursera.
 2. Learned a lot till now about Google Cloud and how to work with it.
+## Date: June 6, 2020
+1. Started the free course given by Internshala of Data Science.
+2. So what is Data Science? Data Science = Data + Science. The field bringing out insights from data using scientific techniques is called Data Science. It is based on following.
+- Forecasting:- It is a process of predicting the future based on past and present data. For example, How many passengers we can expect in a given flight?
+- Predictive Modelling:- It is used to perform prediction more granular like "Who are the customers who are likely to buy a product in next month?" and then act accordingly.
+- Machine Leraning:- It is a method of teaching machines to learn things and improve predictions/behaviour based on data on their own. For example, Amazon recommendation system.
