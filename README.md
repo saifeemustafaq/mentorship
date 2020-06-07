@@ -33,6 +33,8 @@ This repository is made to record the experiences and things learned by the ment
 - [Episode - 2](https://youtu.be/y1CWESnlMVQ)
 - [Episode - 3](https://youtu.be/Zdhm1nnOp6I)
 - [Episode - 4](https://youtu.be/cD8mdWcIWY8)
+- [Episode - 5](https://youtu.be/oXLtyotKO8Q)
+- [Episode - 6](https://youtu.be/oXLtyotKO8Q)
 ---
 
 GitHub workshops for SVKM Students
