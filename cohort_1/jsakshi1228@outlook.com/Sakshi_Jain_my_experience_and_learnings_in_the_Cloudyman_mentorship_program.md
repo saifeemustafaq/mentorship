@@ -486,9 +486,8 @@ Moreover, all of the role instances of the client are monitored and there is gua
 > > 2. Why Virtual Machines? 
 > > 3. How does it works?
 > > 4. What are the different types of Virtual machine? 
-> > 5. How to set up a Virtual Machine?
-> > 6. Example.
-> > 7. Advantages of Virtual Machines.
+> > 5. Example.
+> > 6. Advantages of Virtual Machines.
 # 1. What is a Virtual Machine?
 * ## A Virtual machine (VM) is a virtual environment that functions as a virtual computer system with its own CPU, memory, network interface, and storage, created on a physical hardware system (located anywhere off- or on-premises).
 * ## It is known as a guest, is created within a computing environment, called a host. Multiple virtual machines can exist in one host at one time.
@@ -512,6 +511,11 @@ Moreover, all of the role instances of the client are monitored and there is gua
 * It enables us to run more than one virtual system and multiple operating systems and applications on a single server. This results in benefits include economies of scale, lesser cost and greater efficiency.
 A single VM is completely independent. Multiple VMs on a single computer enables several operating applications to run on just one physical server called as “host.”
 Thin layer of software known as “hypervisor” decouples the virtual machines from the host. Then it dynamically allots resources to each computer as required.
+  * The virtual machine architecture system can be broadly classified into four different components, listed from the bottom to up:-
+    * An underlying system which includes the physical machine and its operating system. 
+    * A hypervisor which acts as a communication and translation layer.
+    * Multiple virtual machines that use the host’s resources by communicating with the hypervisor.
+    * Applications and processes that run on each guest’s operating system.
 # 4. What are the different types of Virtual machine? 
 * Different types of Virtual Machine are:-
   * Server Virtualization:-
@@ -538,9 +542,29 @@ Thin layer of software known as “hypervisor” decouples the virtual machines 
       * Mobile workers using iPad and Android tablets.
 
  
-# 5. How to set up a Virtual Machine?
+
 
 # 6. Example.
+* Examples of Virtual Machine are:-
+  * KVM
+  * VMware Workstation
+  * VMware Fusion
+  * Hyper-V
+  * Windows Virtual PC
+  * Xen
+  * Parallels Desktop for Mac
+  * Oracle VM Server for SPARC
+  * VirtualBox 
+  * Parallels Workstation.
+* Virtualization Technology Companies who provides virtual machie are 
+  * VMware
+  * Microsoft 
+  * Citrix
+  * Red Hat 
+  * Oracle
+  * Amazon 
+  * Google
+  * Parallels / Odin
 # 7. Advantages of Virtual Machines.
 * Virtualization can increase IT agility, flexibility and scalability while creating significant cost savings. Greater workload mobility, increased performance and availability of resources, automated operations – they’re all benefits of virtualization that make IT simpler to manage and less costly to own and operate. Additional benefits include:
 Reduced capital and operating costs.
