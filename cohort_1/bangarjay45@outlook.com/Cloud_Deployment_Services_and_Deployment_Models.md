@@ -20,7 +20,15 @@
 - This cloud computing service model is ideal for large organizations capable of building and managing their platforms(operating systems).
 - [Amazon Web Servies](https://aws.amazon.com/), [Microsoft Azure](https://azure.microsoft.com/en-us/) are some providers that provide good **IaaS** service.
 
+### IaaS is commonly used in the following scenarios:
 
+Migrating workloads. Typically, IaaS facilities are managed in a similar way as on-premises infrastructure and provide an easy migration path for moving existing applications to the cloud.
+
+Test and development. Teams can quickly set up and dismantle test and development environments, bringing new applications to market faster. IaaS makes scaling development and testing environments, fast and economical.
+
+Storage, backup, and recovery. Organizations avoid the capital outlay and complexity of storage management, which typically requires skilled staff to manage data and meet legal and compliance requirements. IaaS is useful for managing unpredictable demand and steadily growing storage needs. IaaS can also simplify the planning and management of backup and recovery systems.
+
+----
 ## PaaS (Platform as a Service):
 - PaaS (Platform as a Service) is a service that looks for the infrastructure and the platform that the consumer wants.
 - Only thing that the consumer has to look for is the software he needs.
@@ -28,18 +36,26 @@
 - One can Master the installation and development of software applications with the help of PaaS.
 - There is no need to manage the platform or hardware.
 - [Google app engine](https://cloud.google.com/appengine/) (Google Cloud) and [Amazon Web Servies](https://aws.amazon.com/) are some providers that provide good **PaaS** service.
- 
- 
+
+### PaaS is commonly used in the following scenarios:
+
+Development framework. PaaS provides a framework that developers can build upon to develop or customize cloud-based applications. Just like Microsoft Excel macro, PaaS lets developers create applications using built-in software components. Cloud features such as scalability, high-availability, and multi-tenant capability are included, reducing the amount of coding that developers must do.
+
+Analytics or business intelligence. Tools provided as a service with PaaS allow organizations to analyze and mine their data. They can find insights and patterns, and predict outcomes to improve business decisions such as forecasting, product design, and investment returns.
+
+----
 ## SaaS (Software as a Service):
 - Software as a Service (SaaS) is requires no installation of any softwares or deployment of any platforms. 
 - Consumers are free from the infrastructure and software installation or software maintenance.
 - Automatic updates of the softwares is a advantage.
 - It makes easier for testing of new softwares.
 - [Microsoft Azure](https://azure.microsoft.com/en-us/), [Salesforce](https://www.salesforce.com/in) and [Oracle](https://www.oracle.com/index.html) are some providers that provide good **SaaS** service.
- 
-![New](https://user-images.githubusercontent.com/65165798/82246526-7bbc3c80-9962-11ea-9919-dad56575aa57.png)
 
+SaaS requires the least amount of management. The cloud provider is responsible for managing everything, and the end user just uses the software.
 
+![5-layer-diagram](https://user-images.githubusercontent.com/65165798/83974357-69eb0b00-a90a-11ea-9407-90a5ceb46e4f.png)
+
+----
 > # Cloud Computing Deployment Models.
 - Cloud deployment models show how the cloud services are provided to users. 
 - The four deployment models in Cloud Computing are Private, Public, Hybrid and Community Cloud.
