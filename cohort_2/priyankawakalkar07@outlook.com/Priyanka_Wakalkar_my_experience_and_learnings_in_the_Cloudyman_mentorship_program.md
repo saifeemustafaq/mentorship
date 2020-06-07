@@ -83,3 +83,39 @@ The speaker is explained in simple way about **cloud computing**
 ## 6)Increased Collaboration
 
 > - If your business has two employees or more, then you should be making collaboration a top priority. After all, there isn't much point to having a team if it is unable to work like a team. Cloud computing makes collaboration a simple process. Team members can view and share information easily and securely across a cloud-based platform. Some cloud-based services even provide collaborative social spaces to connect employees across your organization, therefore increasing interest and engagement. Collaboration may be possible without a cloud-computing solution, but it will never be as easy, nor as effective.
+
+## Date: June 6,2020
+
+## ***What is Azure?***
+
+- Microsoft Azure is an ever-expanding set of cloud services to help your organisation meet your business challenges. It is the freedom to build, manage and deploy applications on a massive, global network using your favorite tools and frameworks.
+
+- The Azure platform aims to help businesses manage challenges and meet their organizational goals. It offers tools that support all industries -- including e-commerce, finance and a variety of Fortune 500 companies -- and is compatible with open source technologies. This provides users with the flexibility to use their preferred tools and technologies. In addition, Azure offers 4 different forms of cloud computing: infrastructure as a service (IaaS), platform as a service (PaaS), software as a service (SaaS) and serverless.
+
+- Microsoft charges for Azure on a pay-as-you-go basis, meaning subscribers receive a bill each month that only charges them for the specific resources they have used.
+
+### **How does Microsoft Azure Works?**
+
+- Once customers subscribe to Azure, they have access to all the services included in the Azure portal. Subscribers can use these services to create cloud-based resources, such as virtual machines (VM) and databases.
+
+- In addition to the services that Microsoft offers through the Azure portal, a number of third-party vendors also make software directly available through Azure. The cost billed for third-party applications varies widely but may involve paying a subscription fee for the application, plus a usage fee for the infrastructure used to host the application.
+
+### **What is Microsoft Azure used for?**
+
+- Because Microsoft Azure consists of numerous service offerings, its use cases are extremely diverse. Running virtual machines or containers in the cloud is one of the most popular uses for Microsoft Azure. These compute resources can host infrastructure components, such as domain name system (DNS) servers; Windows Server services -- such as Internet Information Services (IIS); or third-party applications. Microsoft also supports the use of third-party operating systems, such as Linux.
+
+- Azure is also commonly used as a platform for hosting databases in the cloud. Microsoft offers serverless relational databases such as Azure SQL and non-relational databases such as NoSQL.
+
+- In addition, the platform is frequently used for backup and disaster recovery. Many organizations use Azure storage as archive in order to meet their long-term Data retention requirements.
+
+## **What are the Cloud deployment models?**
+
+- Cloud deployment models indicate how the cloud services are made available to users. The four deployment models associated with cloud computing are as follows:
+
+- **Public Cloud** As the name suggests, this type of cloud deployment model supports all users who want to make use of a computing resource, such as hardware (OS, CPU, memory, storage) or software (application server, database) on a subscription basis. Most common uses of public clouds are for application development and testing, non-mission-critical tasks such as file-sharing, and e-mail service.
+
+- **Private cloud** True to its name, a private cloud is typically infrastructure used by a single organization. Such infrastructure may be managed by the organization itself to support various user groups, or it could be managed by a service provider that takes care of it either on-site or off-site. Private clouds are more expensive than public clouds due to the capital expenditure involved in acquiring and maintaining them. However, private clouds are better able to address the security and privacy concerns of organizations today.
+
+- **Hybrid cloud** In a hybrid cloud, an organization makes use of interconnected private and public cloud infrastructure. Many organizations make use of this model when they need to scale up their IT infrastructure rapidly, such as when leveraging public clouds to supplement the capacity available within a private cloud. For example, if an online retailer needs more computing resources to run its Web applications during the holiday season it may attain those resources via public clouds.
+
+- **Community cloud** This deployment model supports multiple organizations sharing computing resources that are part of a community; examples include universities cooperating in certain areas of research, or police departments within a county or state sharing computing resources. Access to a community cloud environment is typically restricted to the members of the community.
