@@ -63,3 +63,8 @@ Today I Learned:
 - Forecasting:- It is a process of predicting the future based on past and present data. For example, How many passengers we can expect in a given flight?
 - Predictive Modelling:- It is used to perform prediction more granular like "Who are the customers who are likely to buy a product in next month?" and then act accordingly.
 - Machine Leraning:- It is a method of teaching machines to learn things and improve predictions/behaviour based on data on their own. For example, Amazon recommendation system.
+## Date: June 7, 2020
+- Phyton basis learning started at [w3schools](https://www.w3schools.com).
+- It teaches us from the basics of every language it supports. Free and easy to use and access everywhere. 
+### About w3 schools.
+- W3Schools is a web developers site, with tutorials and references on web development languages such as HTML, CSS, JavaScript, PHP, SQL, Python, jQuery, Java, C++, C#, React, Node. js, XML, W3. ... W3Schools was originally created in 1998 by Refsnes Data, a Norwegian software development and consulting company.
