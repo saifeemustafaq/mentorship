@@ -1,3 +1,13 @@
+# Introduction to Google Cloud Platform.
+### What is Cloud Computing?
+- It can be defined by 5 parts;
+  - On demand self-service:- No human intervention needed to get resources.
+  - Broad network access:- Accessable from anywhere.
+  - Resource pooling:- Provider shares resources to customers. 
+  - Rapid elasticity:- Get more resources quickly as needed. 
+  - Measured service:- Pay only for what you consume. 
+-  As believed that "In future every comapany will be a data company", Thus Google is there to provide a wide variety of services for the data to be managed.     
+
 # Load Balancing. 
 - With global Cloud Load Balancing, your application presents a single front-end to the world. You no need to worry about managing or scaling them.
 - Google VPC offers a suite of load balancing options.
