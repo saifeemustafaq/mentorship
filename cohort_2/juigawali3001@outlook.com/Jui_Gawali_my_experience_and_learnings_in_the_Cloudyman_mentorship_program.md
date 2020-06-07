@@ -113,3 +113,37 @@ Platform-as-a-service (PaaS) refers to the supply an on-demand environment for d
 Software-as-a-service (SaaS) is a method for delivering software applications over the Internet as per the demand and on a subscription basis. SaaS helps you host and manage the software application and underlying infrastructure and handle any maintenance (software upgrades and security patching).
 - FaaS (functions as a service)
 FaaS adds another layer of abstraction to PaaS, so that developers are completely insulated from everything in the stack below their code. Instead of handling the hassles of virtual servers, containers, and application runtimes, they upload narrowly functional blocks of code, and set them to be triggered by a certain event. FaaS applications consume no IaaS resources until an event occurs, reducing pay-per-use fees.
+
+
+## Date: June 7,2020.
+
+## What are the benefits of using Storage in the cloud? 
+> Types of Storage:
+
+MSPs should consider these benefits and drawbacks when switching their Backup-as-a-Service (BaaS) offerings to cloud storage. Each item is significant enough to warrant a dedicated article, but this should be a good primer for anyone considering moving their backups from on-premise disk to cloud storage.
+
+> Here are your five benefits of cloud storage:
+### 1. Cloud Storage Can Save Costs
+Economies of scale. Cloud vendors buy a lot of storage and pass those savings onto customers. But it’s more than a low per-GB cost that provides savings. Moving to the cloud reduces the need to purchase hard disks, the enclosures that contain them, the RAID cards that power the data redundancy, the electricity that powers them, and the hardware warranty services that protect them. But it also lowers management costs by reducing on-premise hardware and software management, simplifying monitoring, and reducing the need for extensive capacity planning. Instead, administrators can focus on other, more important, tasks.
+
+### 2. Data Redundancy and Replication
+Data redundancy is included. Most cloud storage vendors keep multiple copies of your data even within a single “data center” and offer great object durability to reduce any likelihood of data loss. But for those looking for even more protection, geographic replication options can make multiple copies of your data across regions. Some offer geo replication as a storage class option, while others offer replication services that quickly move data between data centers. Your backups are well protected.
+
+### 3. Data Tiering for Cost Savings
+Many cloud storage vendors offer different storage classes / data tiers. Select based on how quickly and frequently you restore backups and how long you plan to keep your backups in storage. For backups that need quick and/or frequent restores, consider using the vendor’s hot storage as retrieval is fast and the most cost-effective. For long-term storage, consider moving data to archive storage. Restores can be slower, and there might be additional costs to retrieve data, but the storage costs are considerably lower – especially if you plan to keep the backups for years. Some vendors offer object lifecycle policies that can automatically move data between tiers, which reduces administration and lets you more easily realize cost savings.
+
+### 4. Regulatory Compliance
+Keeping your backups in the same region as where the data originates may be best for regulatory compliance. Many cloud vendors offer data centers options all around the globe. If you have a need to store your EU customer data in an EU data center, look for a cloud storage vendor that can accommodate. An added benefit is that moving data to cloud storage in the same region is best for performance. Even if you’re not bound by regulation, you may find the improved performance worthwhile.
+
+### 5. Ransomware/Malware Protection
+Ransomware is just bad. Unfortunately, it’s also in the news with great frequency. One of the more sinister ransomware attributes is that the malware will look beyond the locally infected computer to the network for shares that have documents and files to encrypt. If you’re hit by ransomware or some other malware that is encrypting or destroying files, you might be happy that your cloud storage can help to protect against ransomware by offering some backup security advantages as it’s more difficult to access without proper authentication.
+#### And here are your three drawbacks:
+
+##### 1. Backups May Be Slower
+Internet bandwidth and cloud storage max ingest speeds may be more limited than the local network/disk. There’s also more communication latency involved. This is not normally an issue for backups of file servers and workstations, as the larger, more time-consuming full backups can usually run in the background for a longer period without any ill effects. After the initial full backup, incremental backups serve to reduce the backup size and reduce backup times. Data compression and deduplication help, too. But specialized applications like databases (for example, Microsoft SQL Server and Exchange) can be affected by longer backup times. You want those applications backed up during times of low activity and within your maintenance windows. In those cases, look to back up critical applications locally for best speed and then sweep up the backups to the cloud. Some cloud backup software will automate this process for you.
+
+##### 2. Restores May Be Slower
+It’s all about internet bandwidth and rated cloud storage speed. Restoring an entire server may take longer. But you might find file-level restores are just as fast. The important takeaway is to make sure you can meet your contracted recovery time objectives (RTOs). If you can’t restore what’s needed in the committed time, then consider performing hybrid backups on those critical servers and send your backups to both local and cloud storage. Having two backup copies provides those critical workloads with the benefit of fast local restores (with no reliance on internet and cloud storage vendor availability), and the benefit of off-site, cloud storage protection for disaster recovery.
+
+##### 3. Higher Internet Utilization
+If backups are running during business hours or times of heavy internet use, you may find internet-related activity performance suffers. Internet bandwidth may need to be controlled. Look to set up bandwidth utilization rules in your backup software (or limit via other network-controlled means) to ensure you don’t saturate your internet connection during times when access to the internet is needed for other critical business activity.
