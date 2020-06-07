@@ -80,9 +80,24 @@ this virtual machines are very benifical for us
  2)PaaS
  3)SaaS
  
+ >### IaaS :-
+ Infrastructure as a Service
+ It is basic services in cloud computing
+ ifra as a service is use by Microsoft Azure AWS(Amazon Web services)
+  
+ >### PaaS
+ Platform as a Service
+ it is the application platform
+ By using that application get platform for the serice can use by user
+ Platform as a service is used by Google apps aws azur
  
+ >### SaaS
+ Software as a Service
+ it the platform for hosting the application or software
+ this type is provide the platform or hosting for the app
+ Software as a service is by netflix prime and Spotify
  
- 
+
  
  
 
