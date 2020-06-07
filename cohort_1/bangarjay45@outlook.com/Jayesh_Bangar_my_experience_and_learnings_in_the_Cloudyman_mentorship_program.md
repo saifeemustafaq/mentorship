@@ -73,6 +73,8 @@
  - With disaster recovery in cloud computing, you get access to cloud storage, which can be used as a secondary recovery site.
  - You can always have a backup copy, even if one of the cloud data centers fails.
  - State-of-the-art network infrastructure of the cloud provider ensures that there are'nt any issues or errors. 
+ 
+ ----
 
 > ### Capital Expenditure(CapEx) and Operational Expenditure(OpEx)
 
@@ -96,8 +98,14 @@
  - There is potential cost benefits throughout the year.
  - Rather than just buying the complete hardware and paying for the network, the consumers would have the right resources in the form of **virtual machines** at the right time, without overspending.
  
- 
- > # Cloud Storage:
+ With the OpEx model, companies wanting to try a new product or service don't need to invest in equipment. Instead, they pay as much or as little for the infrastructure as required.
+
+OpEx is particularly appealing if the demand fluctuates or is unknown. Cloud services are often said to be agile. Cloud agility is the ability to rapidly change an IT infrastructure to adapt to the evolving needs of the business. 
+
+For example, if your service peaks one month, you can scale to demand and pay a larger bill for the month. If the following month the demand drops, you can reduce the used resources and be charged less. This agility lets you manage your costs dynamically, optimizing spending as requirements change.
+
+------
+> # Cloud Storage:
 - Cloud services have become the most suitable option for storing data online digitally.
 - In the earlier times, most of the companies used to depend on their private servers for storing their growing collection of data and online files; but today storing data online on cloud servers is the next big thing as it allows unlimited storage. 
 - The best thing about storing all the data in the cloud is that it ensures affordability and the data can be easily accessed from anywhere in the world.
