@@ -453,3 +453,102 @@ Note that not all Azure services automatically replicate data, nor do all Azure 
 
 #### Hence, Online cloud storage and backup is beneficial for all types of businesses.
 ---------
+
+## Date: JUNE 07, 2020
+-------
+## Scaling in Cloud Computing:
+--------
+- Scaling is the ability of a company or organisation to handle increasing or decreasing demands in a capable manner, so that the coustomers or the company itself don't face any issue because of the fluctuating demands.
+- Thus, scalability is a planned level of capacity that can grow or shrink as needed.
+- There are 3 ways to Scale in cloud.
+------
+-----
+### 1st] Vertical Scaling(Up scaling):
+------
+- With Cloud computing, you can add or subtract resources, like storage or processing power.
+- You can take a example of a Multi-level parking lot.
+- There's almost countless space, that vehicles can occupy anytime. Mostly there's alot of space available as the place is almost never completely occupied, as long as the capacity is not exceeded.
+- Similarly changes can be made in your Vm as per the need.
+- This is Vertical Scaling
+--------
+
+### 2nd] Horizontal Scaling(Out Scaling):
+--------
+- Horizontal scaling refers to adding more servers to your network, rather than simply adding resources like with vertical scaling.
+- This method take more time and is more complex, but it allows you to connect servers together.
+- You can also handle traffic efficiently and execute complex workloads.
+------
+
+### 3rd] Diagonal Scaling(Mixed Scaling):
+
+- When we combine Horizontalal and Vertical Scalinng together, We get Diagonal Scaling.
+- It is the most efficient infrastructure scaling.
+- It is simply increasing the resources of our existing servers untill it reaches it's limit.
+- Then we can add more servers to our infrastructure and continue with our process.
+-------
+
+#### Takeaway:
+
+- We experience great amount of flexibility that saves both money and time for a business.
+- Cloud computing uses a pay-as-you-go model.
+- This on-demand nature is what makes the cloud so easy and intresting.
+-------
+
+------
+### What is Latency in Cloud Computing?
+-------
+- Cloud service latency is the delay of time between a client request and a cloud service provider’s response.
+- ****Let's take a example:
+- Imagine you went to a restaurant and order something.
+- There's a time delay in preparing the dish, and serving it to your table.
+
+****This is Latency***
+
+- Also, Buffering delays of online video streaming is Latency.
+- We as a Client request some service or something to the Cloud provider and in return the provider fulfills our request.
+- Latency greatly affects how usable and enjoyable devices and communication requests are.
+- We as customers certainly wish our Client reqests get solved within no time.
+- It is the time it takes for a signal to travel from one point to another in networking.
+--------
+-------
+### Load balancing in Cloud Computing:
+--------
+- Cloud load balancing is defined as the method of splitting workloads and computing properties in a cloud computing.
+- It helps companies to manage workload demands or application demands by distributing resources among numerous computers, networks or servers.
+- The traffic on the internet grows rapidly, hence, the workload on the server grows fast which leads to the overloading of servers in various Organisations.
+- There are two methords to overcome the problem of overloading on the servers-
+- First is a single-server solution in which the server is upgraded to a higher performance server.
+- But the new server may also be overloaded soon, demanding another upgrade.
+Also the upgrading process is arduous and expensive.
+- Second is a multiple-server solution in which a scalable service system on a cluster of servers is built.
+- ****It is more cost effective as well as more scalable to build a server cluster system for network services****.
+--------
+--------
+### Importance of Load Balancing
+------
+
+#### Better Performance:
+- Load balancing techniques are less expensive and easy to implement as compared to its other options available.
+Organizations can work on their client's applications much more faster and deliver better performance at relatively lower costs.
+--------
+#### Maintain Website Traffic:
+
+- Cloud Balancing provides scalability to control website traffic.
+- With the help of effective load balancers, you can easily manage high-end user traffic with the servers and network devices.
+- Cloud balancing plays a crucial role for e-commerce websites like Amazon and Flipkart, who are dealing with millions of visitors every single second.
+- Load balancers help them distribute and manage workloads at the time of promotional and sale offers.
+------
+#### Handle Sudden Traffic Burst:
+
+- Load balancers have this ability to handle any sudden traffic received at a particular time.
+****For example**** a College or University website can shut down during result declaration due to too many requests arrivals at the same time.
+- If they are using load balancers they do not have to worry about any amount of traffic burst.
+- No matter how big is the traffic, load balancers equally divide entire website load into different servers for maximum results in a ***minimum response time****..
+-----
+#### Flexibility:
+
+- The main objective of using a load balancer is to protect the website from a sudden shutdown.
+- When the workload is distributed among a number of servers, even if one of them fails, the load could be shifted to another one.
+- ****This shows scalability, flexibility and the handling ability of traffic****
+
+-----------
