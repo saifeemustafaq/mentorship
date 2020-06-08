@@ -92,12 +92,48 @@ this virtual machines are very benifical for us
  Platform as a service is used by Google apps aws azur
  
  >### SaaS
- Software as a Service
+  Software as a Service:- 
+ 
  it the platform for hosting the application or software
  this type is provide the platform or hosting for the app
  Software as a service is by netflix prime and Spotify
+ -----------
+>### the Cloud deployment models 
+ 1) Public Cloud
+ 2) Private Cloud
+ 3) Hybrid Cloud
+ 4) Community Cloud
+ 
+ - Public Cloud. 
+  In the Public Cloud server we get low cost
+  In that the server we get the space in complex of different server data 
+  In that Public server can easily handle for the hosting
+  
+ - Private Cloud
+  In the private cloud server is highly costly
+  In that we get lot of space in that 
+  we can built a privte own server 
+  but it can need highly service or it is expensive 
+  In that Private server we get a much more security than public server
+  Private server is used by banks or any type of online transaction websites
+  
+  
+ - Hybrid Cloud
+   
+   In hybrid Cloud server it is not much high and low very low cost 
+   in hybrid server we get more security
+   in that we also work for security
+   it is mainly used by small website or any e commerce website
+   
+   
+  - Community Cloud
+   
+   In the Community Cloud Server its vost is low
+   In that many companies can work at one place or one site
+   In that many companies work on same plan at one place
+   It get more privacy in that
+   Community cloud server is a third-party server
  
 
- 
- 
+
 
