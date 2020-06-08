@@ -133,9 +133,46 @@ Community cloud has many of the advantages of both public and private clouds.
 
 ![Top-Priority-of-Cloud-Deployment-Models-for-Enterprises](https://user-images.githubusercontent.com/65165798/82580485-cc26da80-9bac-11ea-86e5-078fd263c6e0.png)
 
+----
+> # ***AWS vs Azure vs Google Cloud***
+
+### Introduction.
+The 'Big Three' Public Cloud Vendors - Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform continue to rule carefully when it comes to the adoption of Cloud Services.
+
+It is a market that has been dominated by AWS since day one, when it entered the sector in 2006. Despite AWS’s dominance, Microsoft has gained ground under the leadership of "Cloud first" CEO Satya Nadella, building a huge global cloud network of its own.
+Then there is the Internet giant Google, which has been busy with its Public Cloud Services and IaaS business under the Google Cloud Platform (GCP).
 
 
+## AWS
 
+AWS was the first to offer public IaaS, as far back as 2006. Since they’ve been doing this the longest, it isn't be surprising that one of Amazon’s important strengths is the maturity of its IaaS offerings and the entire AWS ecosystem for that matter. 
 
+AWS has an almost-overwhelming amount of different services available, with more than 175 across compute, storage, database, analytics, networking, mobile, developer tools, management tools, IoT, security and enterprise applications, and many more. The key strength for the market leader continues to be the depth of its services.
 
+When the economic benifits for the customers are concerned, AWS has done a good job, but sometimes AWS can aslo extract heavy pricing for certain services.
 
+Additionally,  AWS has the most data centers of any IaaS provider, which means they have the most comprehensive global coverage and the most robust, reliable network. These three key strengths are often the main draw to AWS for many customers.
+
+Here are a few more pros of Amazon Web Services:
+- Highly flexible
+- Instant scalability
+- Rapid deployment
+- Focus on security (AWS shared responsibility model)
+- User-friendly support
+
+## Microsoft Azure
+
+Microsoft on the other hand tends to be a popular choice because users can consume a great amount of their enterprise computing needs all in one place, from productivity and enterprise software and also the flexible cloud computing resources for their developers, with ease.
+
+Their popularity is also due to the significant discounts and credits Microsoft offers on Azure to its existing customers, but even if it is those discounts that initially draw many customers in, the majority of Azure users report being happy with the service and usually stick with it.
+
+Unlike AWS, Azure has a unique focus on hybrid cloud setups (a mixture of private on-premises and public off-premises cloud services). Hence Azure has become the go-to choice for large companies that require true hybrid cloud setups.
+
+Azure is an also a great choice for companies that utilize lots of other Microsoft Services (like SQL, Active Directory, and .NET). . Azure’s customer satisfaction have actually led some analysts to predict that it will be the largest IaaS provider by 2019.
+ 
+Here are a few more pros of Azure: 
+- Highly scalable & secure
+- High operational performance
+- Lots of cost-efficient options for businesses
+- Focus on Iaas and PaaS
+- Strong hybrid options
