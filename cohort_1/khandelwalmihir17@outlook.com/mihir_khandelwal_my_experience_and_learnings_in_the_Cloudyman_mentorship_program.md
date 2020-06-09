@@ -66,5 +66,9 @@ Today I Learned:
 ## Date: June 7, 2020
 - Phyton basis learning started at [w3schools](https://www.w3schools.com).
 - It teaches us from the basics of every language it supports. Free and easy to use and access everywhere. 
+## Date: June 8, 2020
 ### About w3 schools.
 - W3Schools is a web developers site, with tutorials and references on web development languages such as HTML, CSS, JavaScript, PHP, SQL, Python, jQuery, Java, C++, C#, React, Node. js, XML, W3. ... W3Schools was originally created in 1998 by Refsnes Data, a Norwegian software development and consulting company.
+## Date: June 9, 2020
+- Started an online course on TCS-ION of Communication Skills, a free course.
+- Learning Python on w3schools and applying it on Jupyter notebook.
