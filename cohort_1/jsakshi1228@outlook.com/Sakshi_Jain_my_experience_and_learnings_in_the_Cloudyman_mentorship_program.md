@@ -486,8 +486,7 @@ Moreover, all of the role instances of the client are monitored and there is gua
 > > 2. Why Virtual Machines? 
 > > 3. How does it works?
 > > 4. What are the different types of Virtual machine? 
-> > 5. Example.
-> > 6. Advantages of Virtual Machines.
+
 # 1. What is a Virtual Machine?
 * ## A Virtual machine (VM) is a virtual environment that functions as a virtual computer system with its own CPU, memory, network interface, and storage, created on a physical hardware system (located anywhere off- or on-premises).
 * ## It is known as a guest, is created within a computing environment, called a host. Multiple virtual machines can exist in one host at one time.
@@ -541,10 +540,13 @@ Thin layer of software known as “hypervisor” decouples the virtual machines 
       * Offshore employees 
       * Mobile workers using iPad and Android tablets.
 
- 
+## Date: May 26, 2020
 
-
-# 6. Example.
+> ### Today I learned:-
+> > 1. Example of Virtual Machine.
+> > 2. Advantages of Virtual Machine.
+> > 3. Disadvantages of Virtual Machine.
+# 1. Example of Virtual Machine.
 * Examples of Virtual Machine are:-
   * KVM
   * VMware Workstation
@@ -565,12 +567,16 @@ Thin layer of software known as “hypervisor” decouples the virtual machines 
   * Amazon 
   * Google
   * Parallels / Odin
-# 7. Advantages of Virtual Machines.
-* Virtualization can increase IT agility, flexibility and scalability while creating significant cost savings. Greater workload mobility, increased performance and availability of resources, automated operations – they’re all benefits of virtualization that make IT simpler to manage and less costly to own and operate. Additional benefits include:
-Reduced capital and operating costs.
+# 2. Advantages of Virtual Machine.
+* The Virtualization can increase IT agility, flexibility and scalability while creating significant cost savings. It offers greater workload mobility, increased performance and availability of resources, automated operations – they’re all benefits of virtualization that make IT simpler to manage and less costly to own and operate. Advantages include:
+  - [ ] Reduced capital and operating costs.
   - [ ] Minimized or eliminated downtime.
   - [ ] Increased IT productivity, efficiency, agility and responsiveness.
   - [ ] Faster provisioning of applications and resources.
   - [ ] Greater business continuity and disaster recovery.
   - [ ] Simplified data center management.
   - [ ] Availability of a true Software-Defined Data Center..
+# 3. Disadvantages of Virtual Machine.
+* Inspite of having so many advantages VMs also have some disadvantages:-
+- [ ] Running more than one virtual machine can lead to an unstable output.
+- [ ] Virtual machines are less efficient and slow running than a physical machine.
