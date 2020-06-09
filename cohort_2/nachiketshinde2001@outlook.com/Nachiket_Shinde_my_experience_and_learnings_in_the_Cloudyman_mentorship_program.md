@@ -134,6 +134,20 @@ this virtual machines are very benifical for us
    It get more privacy in that
    Community cloud server is a third-party server
  
-
+ ###  an Availability Zone
+ 
+    The availability Zone is the concept of that includes the region and low latency 
+    for the data transfer in that the data of different zones are merge with. each other without any problems
+    In two different regions the we get the seprate data seprate server 
+    sprate power that's why the many of space need in that all type of concept are includes.
+    
+  ### Regions 
+  Regions are localized area
+  regions are made by different of domains
+  In region we get a seprate data server at one place 
+  all of the data will store in that place
+  Every some Countries we get an different server for data transfer
+  that why the we need different server in different region 
+  it needs high bandwidth Speed it need cool area for the server
 
 
