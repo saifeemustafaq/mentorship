@@ -65,3 +65,86 @@ Disaster recovery in cloud computing can effectively deal with most issues of tr
 
 2. Easy testing and fast recovery :-)  
           Cloud workloads routinely operate with VMs, making it easy to copy VM image files to in-house test servers to validate workload availability without affecting production workloads
+
+## Date: June 9, 2020
+
+_ _ _ _ _ _ _ _ _ _
+
+# What is Capital expenditure (CapEx) ?
+
+![](https://www.softwareadvisoryservice.com/media/2417/what-is-capex.png)
+
+##### Ans. 
+
+- A capital expenditure is incurred when a business spends money, uses collateral, or takes on debt to either buy a new asset or add to the value of an existing asset with the expectation of receiving benefits for longer than a single tax year. Essentially, a capital expenditure represents an investment in the business.
+
+- Capital expenses are recorded as assets on a company's balance sheet rather than as expenses on the income statement. The asset is then depreciated over the total life of the asset, with a period depreciation expense charged to the company's income statement, normally monthly.
+
+- Accumulated depreciation is recorded on the company's balance sheet as the summation of all depreciation expenses, and it reduces the value of the asset over the life of that asset.
+
+- Examples of capital expenses include the purchase of fixed assets, such as new buildings or business equipment, upgrades to existing facilities, and the acquisition of intangible assets, such as patents.
+
+_ _ _ _ _ _ _ _ _ _
+
+# What is Operational expenditure (OpeEx)?
+
+![](https://www.softwareadvisoryservice.com/media/2418/what-is-opex.png)
+
+##### Ans.
+
+- Operating expenses are expenses incurred during regular business, such as general and administrative expenses, research and development, and the cost of goods sold.
+
+- Operating expenses are much easier to understand conceptually than capital expenses since they are part of the day-to-day operations. All operating expenses are recorded on a company's income statement as expenses in the period when they were incurred.
+
+- Operating expenses include a wide range of expense types, from office supplies and travel and distribution expenses to licensing fees, utilities, property insurance, and property taxes.
+
+-  If equipment is leased instead of purchased, it is typically considered an operating expense. General repairs and maintenance of existing fixed assets such as buildings and equipment are also considered operating expenses unless the improvements will increase the useful life of the asset.
+
+_ _ _ _ _ _ _ _ _ _
+
+- This can be a financially attractive option for the company if the company has limited cash flow.
+
+
+
+![](https://cdn.wallstreetmojo.com/wp-content/uploads/2018/11/capex-vs-opex-1.jpg)
+
+_ _ _ _ _ _ _ _ _ _
+
+# Capex, Opex and the Cloud
+
+- There are three popular types of Cloud computing: private, public, and hybrid. Understanding Capex and Opex is instrumental in recognising the differences between the different types of Clouds.
+
+- With the public Cloud, the service provider is the one making the Capex, so that their users can buy in an Opex or pay as you go model.
+
+- A private Cloud involves an organisation’s IT team doing the Capex, so that users or business units within a company will be able to consume the resources in an Opex or pay as you go model.
+
+- Businesses can use resources from both private and public Clouds, which becomes a hybrid Cloud. A hybrid Cloud can be managed by a single solution. If the buyer of the public Cloud is your IT team, then the hybrid Cloud essentially becomes a combination of Capex and Opex models. This gives businesses better flexibility to control their costs.
+
+- Cloud Services are fast becoming the norm for any modern business. However, there are so many solutions available that spending time finding the right system for you can cost your business a significant amount of time and money, and runs the risk of you implementing a solution that isn’t ideal.
+
+## How CapEx and OpEx are Treated in Accounting
+
+![](https://blog.comindware.com/wp-content/uploads/2018/12/capex-vs-opex-650x587.png)
+
+## Capital Expenditure Summary
+
+- Purchase of fixed assets.
+- Preparation of the purchased asset so it can be appropriate for business use.
+- Fixing of asset’s problems,
+- Restoration of an asset’s value through upgrading
+- Adapting a machine to a different use
+
+## Operating Expenditures Summary
+
+- License fees
+- Advertising costs
+- Legal and attorney fees
+- Telephone and power overheads
+- Insurance fees
+- Property management costs
+- Property taxation expenses
+- Vehicle fuel and repair costs
+- Leasing commissions
+- Salary and wages
+- Raw materials and supplies
+- Office overheads
