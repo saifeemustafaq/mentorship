@@ -59,3 +59,72 @@ _ _ _ _ _ _ _ _ _ _
    scalability. 
 
 _ _ _ _ _ _ _ _ _ _
+
+## Date: June 9, 2020
+
+# What is Capital expenditure (CapEx) ?
+
+##### Ans.
+
+- Capital expenditure occurs when the company acquires new assets or adds some value to the existing one which would be useful beyond the current financial year.
+
+- Capex or expenses are depreciated or amortized over a span of years. For example, it can buy equipment/ buildings or add value to an existing asset to upgrade beyond the current financial year.
+
+- Once the asset is put to use, it is depreciated over the period of time to spread the cost of the asset over its useful span of life. Every year, a part of the asset is put to use.
+
+- Depreciation is the amount of depletion on the fixed asset, and the amount of depreciation which happens each year is used as a tax deduction.
+
+- Most often capital expenses are mostly depreciated over a five to ten years period, but sometimes may be depreciated over twenty years in the case of real estate properties.
+
+- Capital expenditure is therefore used for a future benefit like for the growth of the company.
+
+![](https://blog.comindware.com/wp-content/uploads/2018/12/opex-650x421.png)
+
+_ _ _ _ _ _ _ _ _ _
+
+# What is Operational expenditure (OpeEx)?
+
+##### Ans. 
+
+- Opex refers to those expenses that a business has to incur to run the daily operations. For example, the wages of the employees, leases, maintenance and repair cost, etc.
+
+- Operating expenses are completely tax-deductible. Therefore it is more attractive for a company to lease an item and assign its cost to operating expenses rather than purchase it.
+
+- This can be a financially attractive option for the company if the company has limited cash flow.
+
+![](https://blog.comindware.com/wp-content/uploads/2018/12/opex-650x421.png)
+
+_ _ _ _ _ _ _ _ _ _
+
+## Capex vs Opex Infographics
+
+Let’s see the top differences between Capex vs Opex.
+
+![](https://cdn.wallstreetmojo.com/wp-content/uploads/2018/11/Capex-vs-Opex.jpg)
+
+_ _ _ _ _ _ _ _ _ _
+
+## Key Differences
+
+- As capital expenses involve the purchase of assets that have a useful life beyond the current accounting year, these expenses cannot be recovered in the year in which capital expenses are purchased.  
+  Instead, the assets are capitalized and either amortized or depreciated over the life of the assets depending on whether it is tangible or intangible assets.  
+  Intangible assets like patents are amortized and tangible assets like buildings or equipment’s are depreciated over their lifespan.  
+
+- Operating expenditure, on the other side, can be fully deducted in the current accounting year.  
+  By deducted it means, the operating expenses can be subtracted from the revenue when estimating the profit/loss of the company.  
+  As companies are usually taxed on the profit Operating expenditure make therefore the number of expenses you deduct will impact the tax one has to pay.  
+
+- However tax deductible is not always the sole purpose for all the companies. If a company wants to increase its earnings, it may opt for capital expenditure instead and only subtract a small part of it as an expense over a span of years.  
+  This will amount to a higher value of assets on its balance sheet and also an increase in net income that it can show to the investors. It will eventually increase the valuation of the company and also its stock price.
+
+_ _ _ _ _ _ _ _ _ _
+
+## IT Spending – CapEx or OpEx ?
+
+- Traditionally technology investments most often were considered for capital expenditures over OpEx, because CFOs could take advantage of amortization these expenses over an extended period of time.
+
+- Nowadays, more and more companies switch IT investment from CapEx to OpEx and they have a reasonable argument for this switch – moving company IT infrastructure to the cloud.
+
+- Once this moving happens, additional CapEx benefits fall as far as the company no longer need static investments for the hardware, software and resources.
+
+- Services and options are purchased as needed, costs are fluctuating and OpEx works better for such expenses type and supports necessary scalability.
