@@ -72,3 +72,6 @@ Today I Learned:
 ## Date: June 9, 2020
 - Started an online course on TCS-ION of Communication Skills, a free course.
 - Learning Python on w3schools and applying it on Jupyter notebook.
+## Date: June 10, 2020
+- Selected for the ITC(Internshala Training Captain) as being a good performance in the ISP program. Now the 70 days regular tasks are begun. Now the task is to take an online meeting on any online meeting platform. 
+- The basic about the Internshala and "how to gain skills and experience in this Covid-19 situation" is the topic. It wil be for the first time for me to take an online meeting.
