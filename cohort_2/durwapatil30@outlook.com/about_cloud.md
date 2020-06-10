@@ -128,3 +128,147 @@ _ _ _ _ _ _ _ _ _ _
 - Once this moving happens, additional CapEx benefits fall as far as the company no longer need static investments for the hardware, software and resources.
 
 - Services and options are purchased as needed, costs are fluctuating and OpEx works better for such expenses type and supports necessary scalability.
+
+_ _ _ _ _ _ _ _ _ _
+
+## Date: June 10, 2020
+
+# What are the Cloud deployment models ?
+
+##### Ans.
+
+There are 4 fundamental Deployment Models of cloud computing: Public Cloud, Private Cloud, Hybrid Cloud and Community Cloud.
+
+# 1. Public cloud :
+
+- In Public Cloud model, services and infrastructure are hosted on premise of cloud provider and are provisioned for open use by general public. The end users can access the services via public network like internet.
+
+- Public Cloud services are delivered mostly on demand. Popular for hosting everyday apps like email, CRM and other business support apps.
+
+- Public Cloud model offers high scalability, automated maintenance but more vulnerable to attacks due to high levels of accessibility.
+
+- Public cloud is better suited for business purposes for managing the load. This type of cloud is economical due to the decrease in capital overheads.
+
+- Common Public Cloud providers include Amazon Web Services and Microsoft Azure.
+
+- Some of the examples of those companies which provide public cloud facilities are IBM, Google, Amazon, Microsoft, etc. This cloud service is open for use. 
+
+![](https://www.sam-solutions.com/blog/wp-content/uploads/2017/08/a-cloud-provider@2x.png)
+
+### Merits :
+
+* Flexible
+* Reliable
+* High Scalable
+* Low cost
+* Place independence
+
+### Demerits :
+
+* Compromised reliability.
+* Data security and privacy give rise to concern. 
+* Less Secured
+* Poor Customizable
+* The lack of a bespoke service.
+
+_ _ _ _ _ _ _ _ _ _
+
+# 2.  Private Cloud :
+
+- Private Cloud also termed as 'Internal Cloud'; which allows the accessibility of systems and services within a specific boundary or organization.
+
+- The cloud platform is implemented in a cloud-based secure environment that is guarded by advanced firewalls under the surveillance of the IT department that belongs to a particular organization. Private clouds permit only authorized users, providing the organizations greater control over data and its security. 
+
+- Many companies are migrating their data centers to Private Cloud to run core business fields like research, manufacturing human resource etc.
+
+- The Private Cloud model offers great levels of security and control, though cost benefits ought to be sacrificed to some extent.
+
+- Business organizations that have dynamic, critical, secured, management demand based requirement should adopt Private Cloud.
+
+- Common Private Cloud providers include VMware and Openstack.
+
+- Multiple public cloud service providers — including Amazon, IBM, Cisco, Dell and Red Hat — also provide private solutions along with public ones.
+
+![](https://www.sam-solutions.com/blog/wp-content/uploads/2017/08/a-private-cloud@2x.png)
+
+### Advantages :
+
+* #### Highly private and secured :
+  Private cloud resource sharing is highly secured.
+* #### Control Oriented :
+  Private clouds provide more control over its resources than public cloud as it can be accessed within the organization's boundary.
+
+* Bespoke and flexible development and high scalability, which allows companies to customize their infrastructures in accordance with their requirements
+
+### Disadvantages :
+
+* #### Poor scalability :
+  Private type of clouds is scaled within internal limited hosted resources.
+* #### Costly :
+  As it provides secured and more features, so it's more expensive than a public cloud.
+* #### Pricing :
+  Is inflexible; i.e., purchasing new hardware for up-gradation is more costly.
+* #### Restriction :
+  It can be accessed locally within an organization and is difficult to expose globally.
+
+_ _ _ _ _ _ _ _ _ _
+
+# 3.  Community Cloud :
+
+- Community Cloud is another type of cloud computing in which the setup of the cloud is shared manually among different organizations that belong to the same community or area. 
+
+- Example of such a community is where organizations/firms are there along with the financial institutions/banks. A multi-tenant setup developed using cloud among different organizations that belong to a particular community or group having similar computing concern.
+
+- Community members generally share similar issues of privacy, performance, and security. This type of deployment model of cloud computing is managed and hosted internally or by a third-party vendor.
+
+- Access to a community cloud environment is typically restricted to the members of the community.
+
+- For joint business organizations, ventures, research organizations and tenders community cloud is the appropriate solution. Selection of the right type of cloud hosting is essential in this case. Thus, community-based cloud users need to know and analyze the business demand first.
+
+- The costs are shared across all users.
+
+![](https://www.sam-solutions.com/blog/wp-content/uploads/2017/08/community-cloud@2x.png)
+
+### Benefits :
+
+- Improved security, privacy and reliability
+- Cost reduction
+- Ease of data sharing and collaboration
+
+### Drawbacks :
+
+- High cost if compared to a public deployment model
+- Sharing of fixed storage and bandwidth capacity
+- It is not widespread so far
+
+_ _ _ _ _ _ _ _ _ _
+
+# 4.  Hybrid Cloud :
+
+- Hybrid Cloud is another cloud computing type, which is integrated, i.e., it can be a combination of two or more cloud servers, i.e., private, public or community combined as one architecture, but remain individual entities. 
+
+- Further, as part of this deployment of cloud computing model, the internal, or external providers can provide resources.
+
+- Non-critical tasks such as development and test workloads can be done using public cloud whereas critical tasks that are sensitive such as organization data handling are done using a private cloud. 
+ 
+- The companies using Hybrid Cloud model benefit with the security and control aspect of Private Cloud and off-hand management and cost benefits of Public Cloud.
+
+- It allows companies to mix and match the facets of all three types that best suit their requirements.
+
+- A perfect example of this scenario would be that of an organization who uses the private cloud to secure their data and interacts with its customers using the public cloud.
+
+![](https://www.sam-solutions.com/blog/wp-content/uploads/2017/08/hybrid-cloud@2x.png)
+
+### Strengths :
+
+* Flexible
+* Secure
+* Cost Effective
+* Rich Scalable
+
+### Shortcomings :
+
+* Complex networking problem
+* Organization's security Compliance
+
+_ _ _ _ _ _ _ _ _ _
