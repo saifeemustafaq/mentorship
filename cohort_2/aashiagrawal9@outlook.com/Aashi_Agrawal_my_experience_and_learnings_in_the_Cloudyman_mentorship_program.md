@@ -179,7 +179,78 @@ More than 100 services comprise the Amazon Web Services portfolio, including tho
 
 ### 5. Networking: 
 - An Amazon Virtual Private Cloud (Amazon VPC) gives an administrator control over a virtual network to use an isolated section of the AWS cloud. AWS automatically provisions new resources within a VPC for extra protection.  
-- Admins can balance network traffic with the Elastic Load Balancing (ELB) service, which includes the Application Load Balancer and Network Load Balancer. AWS also provides a domain name system called Amazon Route 53 that routes end users to applications.
+- Admins can balance network traffic with the Elastic Load Balancing (ELB) service, which includes the Application Load Balancer and Network Load Balancer. AWS also provides a domain name system called Amazon Route 53 that routes end users to applications.  
+
+## Date: June 8, 2020  
+
+> #### Today I learned: 
+>> 1. Types of Cloud
+>> - On the basis of location 
+>> - On the basis of service  
+>> 2. Introduction to Green Cloud Computing 
+>> 3. Advantages and disadvantages of Green Cloud  
+
+# 1. Types of cloud:  
+To be precise, cloud computing is the delivery of computing services like servers, storages and more over the Internet. The companies that offer these computing services are called cloud providers. They charge for cloud computing services based on usage.  
+Cloud computing is usually classified on the basis of location, or on the service that the cloud is offering.  
+
+### On the basis of location:  
+- Public Cloud:  
+Whole computing infrastructure is located on the premises of a cloud computing company that offers the cloud service.The public cloud is defined as computing services offered by third-party providers over the public Internet, making them available to anyone who wants to use or purchase them. They may be free or sold on-demand, allowing customers to pay only per usage for the CPU cycles, storage or bandwidth they consume.
+ Public clouds can also be deployed faster than on-premises infrastructures and with an almost infinitely scalable platform. Every employee of a company can use the same application from any office or branch using their device of choice as long as they can access the Internet. While security concerns have been raised over public cloud environments, when implemented correctly, the public cloud can be as secure as the most effectively managed private cloud implementation if the provider uses proper security methods, such as intrusion detection and prevention systems (IDPS).  
+ 
+ - Private Cloud:  
+ Hosting all your computing infrastructure yourself and is not shared. The security and control level is highest while using a private network.The private cloud is defined as computing services offered either over the Internet or a private internal network and only to select users instead of the general public. Also called an internal or corporate cloud, private cloud computing gives businesses many of the benefits of a public cloud - including self-service, scalability and elasticity - with the additional control and customisation available from dedicated resources over a computing infrastructure hosted on-premises.
+Two models for cloud services can be delivered in a private cloud. The first is infrastructure as a service (IaaS) which allows a company to use infrastructure resources such as compute, network and storage as a service. The second is platform as a service (PaaS) which lets a company deliver everything from simple cloud-based applications to sophisticated-enabled enterprise applications.
+ 
+ - Hybrid Cloud:  
+ Using both private and public clouds, depending on their purpose. You host your most important applications on your own servers to keep them more secure and secondary applications elsewhere.A hybrid cloud is a computing environment that combines a public cloud and a private cloud by allowing data and applications to be shared between them. When computing and processing demand fluctuates, hybrid cloud computing gives businesses the ability to seamlessly scale their on-premises infrastructure up to the public cloud to handle any overflow—without giving third-party datacenters access to the entirety of their data. 
+Using a hybrid cloud not only allows companies to scale computing resources, it also eliminates the need to make massive capital expenditures to handle short-term spikes in demand as well as when the business needs to free up local resources for more sensitive data or applications. Companies will pay only for resources they temporarily use instead of having to purchase, program, and maintain additional resources and equipment that could remain idle over long periods of time.  
+ 
+ - Community Cloud:  
+ A community cloud is shared between organizations with a common goal or that fit into a specific community (professional community, geographic community, etc.).A community cloud in computing is a collaborative effort in which infrastructure is shared between several organizations from a specific community with common concerns (security, compliance, jurisdiction, etc.), whether managed internally or by a third-party and hosted internally or externally. This is controlled and used by a group of organizations that have shared interest. The costs are spread over fewer users than a public cloud (but more than a private cloud), so only some of the cost savings potential of cloud computing are realized.  
+ 
+### On the basis of service:  
+- **IaaS** (Infrastructure-as-a-Service):  
+IaaS is the most basic category of cloud computing services that allows you rent IT infrastructure (servers or VM’s) from a cloud provider on a pay-as-you-go basis.Infrastructure as a service (IaaS) is an instant computing infrastructure, provisioned and managed over the internet. It’s one of the four types of cloud services, along with software as a service (SaaS), platform as a service (PaaS), and serverless.  
+IaaS quickly scales up and down with demand, letting you pay only for what you use. It helps you avoid the expense and complexity of buying and managing your own physical servers and other datacenter infrastructure. Each resource is offered as a separate service component, and you only need to rent a particular one for as long as you need it.
+
+- **PaaS**(Platform-as-a-Service):  
+Platform-as-a-service (PaaS) refers to the supply an on-demand environment for developing, testing, delivering and managing software applications. It is designed to quickly create web or mobile apps, without worrying about setting up or managing the underlying infrastructure of servers, storage, network and databases needed for development.  
+Platform as a service (PaaS) is a complete development and deployment environment in the cloud, with resources that enable you to deliver everything from simple cloud-based apps to sophisticated, cloud-enabled enterprise applications. 
+Like IaaS, PaaS includes infrastructure—servers, storage and networking—but also middleware, development tools, business intelligence (BI) services, database management systems and more. PaaS is designed to support the complete web application lifecycle: building, testing, deploying, managing and updating.  
+
+- **SaaS**(Software-as-a-Service):  
+Software-as-a-service (SaaS) is a method for delivering software applications over the Internet as per the demand and on a subscription basis. SaaS helps you host and manage the software application and underlying infrastructure and handle any maintenance (software upgrades and security patching).
+Software as a service (SaaS) allows users to connect to and use cloud-based apps over the Internet. Common examples are email, calendaring and office tools (such as Microsoft Office 365).
+SaaS provides a complete software solution which you purchase on a pay-as-you-go basis from a cloud service provider. You rent the use of an app for your organisation and your users connect to it over the Internet, usually with a web browser. All of the underlying infrastructure, middleware, app software and app data are located in the service provider’s data center.  
+
+# 2. Introduction to Green Cloud Computing:  
+Green cloud is a buzzword that refers to the potential environmental benefits that information technology (IT) services delivered over the Internet can offer society. The term combines the words green -- meaning environmentally friendly -- and cloud, the traditional symbol for the Internet and the shortened name for a type of service delivery model known as cloud computing.
+Because so much of a data center’s energy expenditures support data storage, the Storage Networking Industry Association (SNIA) has promoted new technologies and architectures to help save energy. Advances in SAS drive technologies, automated data deduplication, storage virtualization and storage convergence reduce the amount of physical storage a data center requires, which helps decrease its carbon footprint and lower operating expenditures (OPEX) and capital expenditures (CAPEX).  
+
+Because the color green is also associated with paper money, the label green cloud is sometimes used to describe the cost-efficiency of a cloud computing initiative.Green computing refers to the eco-friendly and environmentally responsible usage of computers and their resources associated with the IT industry and services. In other words, it involves the designing, engineering, and usage of computing devices in such a way that it can reduce any adverse impact on the environmental impact in the IT industry. Green means environment-friendly while the cloud is the representative of the internet service delivery model.  
+
+# 3. Advantages and Disadvantages of Green cloud:  
+### Advantages:  
+- Reduced energy usage from green computing techniques translates into lower carbon dioxide emissions, stemming from a reduction in the fossil fuel used in power plants and transportation.  
+- Conserving resources means less energy is required to produce, use, and dispose of products.  
+- Saving energy and resources saves money.  
+- Green computing even includes changing government policy to encourage recycling and lowering energy use by individuals and businesses. 
+- Reduce the risk existing in the laptops such as chemical known to cause cancer, nerve damage and immune reactions in humans.  
+
+### Disadvantages:  
+- Rapid technology change.  
+- Some computers that are green may be considerably underpowered.  
+- Green computing could actually be quite costly.
+
+
+
+
+
+ 
+ 
+
 
 
 
