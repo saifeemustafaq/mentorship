@@ -295,3 +295,60 @@ Virtual hard drives: These are extensions of the virtual machines; they provide 
  
 ---
 
+## Date:June 10, 2020
+
+# Service Level Agreement (SLA) :
+
+### A cloud SLA (cloud service-level agreement) is an agreement between a cloud service provider and a customer that ensures a minimum level of service is maintained. It guarantees levels of reliability, availability and responsiveness to systems and applications, while also specifying who will govern when there is a service interruption.
+
+![](https://miro.medium.com/max/1000/0*lELQbQu6IWXeIC6N.jpg)
+
+
+#### A service-level agreement (SLA) defines the level of service you expect from a vendor. Usually, SLAs are between companies and external suppliers, but they may also be between two departments within a company.
+
+#### service-level agreement (SLA) is a contract between a service provider and its customers that documents what services the provider will offer and defines the service standards the provider is obligated to meet.
+
+#### For example If I buy an AC from the dealer he will offer me his services like free maintenance for a certain period and replacement policy in case of any damage as well as defines me the standards company should meet.
+
+# SLA Life Cycle 
+
+![](https://www.researchgate.net/profile/Tilala_Dhaval/publication/316272264/figure/fig1/AS:485079693697029@1492663419786/SLAService-Level-Agreement-Life-Cycle7_Q320.jpg)
+ 
+## 1. Discovering service provider phase 
+ 
+  Discovering service provider phase involves choosing possible partner(s) to interact with from known registry list of providers which
+  is located according to customer‟s needs.
+  
+## 2. Define SLA phase 
+
+ Define SLA phase which includes a definition of services, parties, penalty policies and QoS parameters. In this phase, it is possible     to negotiate between parties to reach a mutual agreement.
+ 
+## 3. Establish agreement phase
+
+ Establish agreement phasein which an SLA template is established and filled in by specific agreement, and parties are starting to         commit to the agreement.
+
+## 4. Monitor SLA violation phase
+
+  Monitor SLA violation phase in which the provider‟s delivery performance is measured against to the contract.
+
+## 5. Terminate SLA phase
+
+ Terminate SLA phase in which SLA terminates due to timeout or any party‟s violation.
+
+## 6. Enforce penalties for SLA violation
+
+ Enforce penalties for SLA violation if there is any party violating contract terms, the corresponding penalty clauses are invoked and     executed. 
+ 
+ > # ***Cloud uptime***
+ 
+ - Uptime is the amount of time that a service is available and operational. Uptime is generally the most important metric for a 
+ 
+   website, online service or web based provider and is expressed as a percentage such as '99.9%'. 
+ 
+   **For example** - A 99.9% uptime equates to 43 minutes and 50 seconds of downtime.
+
+ > # ***Cloud downtime***
+ 
+- Cloud downtime is the amount of time that a cloud service hosted by a cloud provider are unavailable to end users. Reliability,         availability, recovery, and unavailability are related concepts. The unavailability is the proportion of a time-span that a system is   unavailable or offline. This is usually a result of the system failing to function because of an unplanned event, or because of         routine maintenance.
+
+- The term is commonly applied to networks and servers. The common reasons for unplanned outages are system failures (such as a crash)     or communications failures.
