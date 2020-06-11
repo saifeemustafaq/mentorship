@@ -75,3 +75,9 @@ Today I Learned:
 ## Date: June 10, 2020
 - Selected for the ITC(Internshala Training Captain) as being a good performance in the ISP program. Now the 70 days regular tasks are begun. Now the task is to take an online meeting on any online meeting platform. 
 - The basic about the Internshala and "how to gain skills and experience in this Covid-19 situation" is the topic. It wil be for the first time for me to take an online meeting.
+## Date: June 11, 2020
+- Learned about Amazon Elastic Compute Cloud (Amazon EC2) and completed the one day course on it.
+### About ec2
+- Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud.
+- It is designed to make web-scale cloud computing easier for developers.
+- Amazon EC2's simple web service interface allows you to obtain and configure capacity with minimal friction.
