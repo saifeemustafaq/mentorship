@@ -1,0 +1,17 @@
+> # This blog is part of the **[Cloudyman Mentorship Program](https://t.co/78sRvCvYiO?amp=1)** under the mentorship of *[Mustafa Saifee](https://www.linkedin.com/in/saifeemustafaq/)*
+
+## Date: June 11, 2020
+
+What is cloud regions and avaibility zones?
+![alt.azure regions](https://i1.wp.com/build5nines.com/wp-content/uploads/2017/09/AzureRegionsMap_20170922.png?w=1071&ssl=1)
+## Azure Regions:
+- Microsoft Azure is available in 36 regions globally, with 6 additional regions in the works to be added soon. (At least at the time of writing this article; Microsoft keeps investing and building new regions. It’s growing!) These Azure Regions are basically geographic groupings of 2, 3, or more datacenters. When provisioning any cloud resource within Microsoft Azure it must be placed in, and reside within, an Azure Region.
+- When deploying out your cloud resources and workloads, it’s generally best to choose the Azure Region that’s closest to your employees, users, or customers. This will keep the latency down when communicating across the Internet. It also helps to utilize multi-region deployments when adding global / geographic redundancy and failover to better implement increased resiliency and high availability. It’s best not to solely rely on a single Azure Region, and instead be prepared to gracefully handle some kind of Regional outage that may occur beyond your control.
+- Another useful thing to know about Azure Regions is the concept of Azure Region Pairs. Using Azure Region Pairs for multi-region deployments will ensure that in the event that the Primary Region experiences an outage, then you can failover to the Secondary Region. Additionally, by using the Region Pair for the Secondary, then you will also ensure that if both Regions were to experience an outage then Microsoft will prioritize one of the Regions in the pair to restore service to first; thus improving the quickness in service restoration.
+
+## Azure Avaibility Zones:
+- For a long time the most granular control you had of where to host resources within Microsoft Azure was at the Azure Region level. With Azure Availability Zones you can choose which Zone within that Azure Region to host a resource. This enables a more granular choice of where and how to host resources within an Azure Region.
+- Each Zone within an Azure Region is essentially a separate datacenter. Each Zone has independent power source, networking, cooling, etc. Each Azure Region with Availability Zones made available will have at minimum 3 separate Zones. This is to ensure maximum resilience and high availability can be enabled within the Azure Region.
+![alt.azure zones](https://i0.wp.com/build5nines.com/wp-content/uploads/2017/09/Azure_Docs_AvailabilityZones.png?w=535&ssl=1)
+- The Microsoft Azure Fabric is the underlying technology that manages the datacenter automation of the Microsoft Azure Platform. This “Fabric” has managed distributing resources for resiliency and high availability for running the Azure Platform itself across all the Zones of each Azure Region since Microsoft Azure as originally launched. It’s just now that Microsoft is making these Zones available to customers of the platform to help them better host and manage better resiliency and high availability for their individual workloads.
+When configuring and provisioning Azure Resources, such as Virtual Machines or Managed Disks, you first choose the Azure Region to host it in, then you will have the option to pick the specific Availability Zone to use for that resource as well.
