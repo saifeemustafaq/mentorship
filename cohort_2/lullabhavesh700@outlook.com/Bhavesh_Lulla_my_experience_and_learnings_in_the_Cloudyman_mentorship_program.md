@@ -708,17 +708,108 @@ The speaker explained how to use github.
 
  - This shows scalability, flexibility and thw handling ability of traffic. 
 
+>## Uptime and Downtime:
 
+ 1. A growing challenge for applications is obtaining optimal availability at all time. 
 
+ 2. Uptime is a computer industry term for the time during which a computer is operational. 
 
+ 3. Downtime is the time when it isn't operational. 
 
+### More about Uptime:
 
+ - Uptime is very important for businesses who rely heavily on their websites, or whose customers rely on them. 
+
+ - If customers start thinking your business's website is unreliable, they may stop coming back, resulting in loss of sales. 
+
+ - If search engines like Google start to fail often, people might think that their website is unreliable, they will stop visiting as well, resulting in poor search engine results. 
+
+ - Uptime is measured in terms of a percentile. 
+
+ - For example, one standard for uptime that is a goal of a computer that is operational 99.999 percent of the time. 
+
+ - Many cloud hosting companies create aggressive SLAs around their uptime guarantee, whether it's a 99%, 99.9%, or 100% uptime guarantee. 
+
+ - Having a hosting provider that guarantees uptime is much better than one that doesn't. 
+
+ - Keep in mind - uptime guarantees do not include scheduled outages or maintenance. 
+
+### More about Downtime:
+
+ - Downtime refers to periods of time during which a computer system, server or network is shut off or unavailable for use. 
+
+ - Systems go through periods of downtime for a number of reasons, including power or hardware failure, system crashes, hacker attacks, system reboots, operating system and/or software updates, lack of network connectivity and more. 
+
+ - While some downtime events are planned as part of maintenance schedules "planned downtime",in many cases periods of downtime result from unplanned or unexpected events like network outages and hardware failure. 
+
+ - Downtime might result in huge losses for big businesses. 
+
+>## Summary
+
+    Every business has different needs and requirements. Cloud Computing is flexible and cost-efficient, which can be beneficial to every business, whether it's a small start-up or a large enterprise.
+
+## Client-Server Computing
+
+   In client server computing, the clients requests a resource and the server provides that resource.
+
+ - A server may serve multiple clients at the same time while a client is in contact with only one server.
+
+ - Both the client and server usually communicate via a computer network but sometimes they may reside in the same system.
+
+   A client does not share any of its resources, but it requests content or service from a server. Clients therefore, initiate communication sessions with servers, which await incoming requests. Examples of computer applications that use the client-server model are Email, network printing, and the World Wide Web. 
+
+### Characteristics of Client-Server Computing
  
+    The salient points for client server computing are as follows:
 
+ - The client server computing works with a system of request and response. The client sends a request to the server and the server responds with the desired information.
 
+ - The client and server should follow a common communication protocol so they can easily interact with each other. All the communication protocols are available at the application layer.
 
+ - A server can only accommodate a limited number of client requests at a time. So it uses a system based to priority to respond to the requests.
+   Denial of Service attacks hindera servers ability to respond to authentic client requests by inundating it with false requests.
 
+ - An example of a client server computing system is a web server. It returns the web pages to the clients that requested them.
 
+### Difference between Client-Server Computing and Peer to Peer Computing
+
+    The major differences between client server computing and peer to peer computing are as follows:
+
+ - In client server computing, a server is a central node that services many client nodes. 
+ 
+ - On the other hand, in a peer to peer system, the nodes collectively use their resources and communicate with each other.
+
+ - In client server computing the server is the one that communicates with the other nodes. 
+
+ - In peer to peer to computing, all the nodes are equal and share data with each other directly.
+ 
+ - Client Server computing is believed to be a subcategory of the peer to peer computing.
+
+### Advantages of Client Server Computing
+
+    The different advantages of client server computing are:
+
+ - All the required data is concentrated in a single place i.e. the server. 
+
+ - So it is easy to protect the data and provide authorisation and authentication.
+
+ - The server need not be located physically close to the clients. 
+   Yet the data can be accessed efficiently.
+
+ - It is easy to replace, upgrade or relocate the nodes in the client server model because all the nodes are independent and request data only from the server.
+
+ - All the nodes i.e clients and server may not be build on similar platforms yet they can easily facilitate the transfer of data.
+
+### Disadvantages of Client Server Computing
+
+    The different disadvantages of client server computing are:
+
+ - If all the clients simultaneously request data from the server, it may get overloaded. 
+ 
+ - This may lead to congestion in the network or we call it as Latency. 
+
+ - If the server fails for any reason, then none of the requests of the clients can be fulfilled. This leads of failure of the client server network.
+   The cost of setting and maintaining a client server model are quite high.
 
 
 
