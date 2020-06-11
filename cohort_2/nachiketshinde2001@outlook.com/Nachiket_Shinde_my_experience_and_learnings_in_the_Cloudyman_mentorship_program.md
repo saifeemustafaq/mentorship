@@ -160,7 +160,20 @@ it hosted by one big server
 In that many types of application can run on one server with using different functions
 In that server we get many applications can work on that one server
 
-
+### benefits of using Storage in the cloud
+    
+    In the cloud storage we can get a virtual storage
+    it is very low to cost 
+    Data tiring is cost saving
+    Backup may be slower but we get full free data 
+    We not get any problems about data or storage
+    Restore may be slower
+    Much more internet's data we need
+    More internet consumes
+    Many companies provide a free storage at some size 
+    It can not much but it helpful 
+    In that we get a some space on cloud
+    
 
 
 
