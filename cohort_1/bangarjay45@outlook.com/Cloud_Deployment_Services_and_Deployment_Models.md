@@ -144,6 +144,7 @@ Then there is the Internet giant Google, which has been busy with its Public Clo
 
 
 ## AWS
+![aws_logo-300x118](https://user-images.githubusercontent.com/65165798/84272958-ba04e000-ab4b-11ea-9830-c2ab055efe93.png)
 
 AWS was the first to offer public IaaS, as far back as 2006. Since they’ve been doing this the longest, it isn't be surprising that one of Amazon’s important strengths is the maturity of its IaaS offerings and the entire AWS ecosystem for that matter. 
 
@@ -160,7 +161,9 @@ Here are a few more pros of Amazon Web Services:
 - Focus on security (AWS shared responsibility model)
 - User-friendly support
 
+
 ## Microsoft Azure
+![Microsoft_Azure_Logo_svg-300x36](https://user-images.githubusercontent.com/65165798/84272963-bbcea380-ab4b-11ea-92be-2da668a31af4.png)
 
 Microsoft on the other hand tends to be a popular choice because users can consume a great amount of their enterprise computing needs all in one place, from productivity and enterprise software and also the flexible cloud computing resources for their developers, with ease.
 
@@ -176,3 +179,28 @@ Here are a few more pros of Azure:
 - Lots of cost-efficient options for businesses
 - Focus on Iaas and PaaS
 - Strong hybrid options
+
+
+# Google Cloud
+![cloud logo](https://user-images.githubusercontent.com/65165798/84272953-b8d3b300-ab4b-11ea-93ad-d366ba3f17e4.png)
+
+ Google is relatively new to the cloud game compared to AWS and Microsoft Azure, but they wasted no time proving themselves as a viable IaaS competitor and have secured a surprising number of large customers in just a few years.
+- Google’s Cloud business is growing rapidly, too, with 12 new data centers planned in the next 18 months.
+ 
+ Google is known for the intuitive simplicity of many of its products, and its Google Cloud management interface is no exception, with most users saying it is the easiest to use interface out of the three major IaaS vendors. Google offers a one-stop-shop AI platform, which helps machine learning engineers build and deploy models based on its popular open source TensorFlow deep learning library. Unsurprisingly, Google Cloud is uniquely well-suited to big data analytics and machine-learning applications, as Google has had years of expertise in those sectors and they enable their users to easily leverage that expertise from within Google Cloud.
+ 
+- Google's scalable Compute Engine delivers VMs in Google's data centres.
+- They are quick to boot, come with persistent disk storage, promise consistent performance and are highly customisable depending on the needs of the customer.
+
+Google then made its own push into hybrid in 2019 with the release of Anthos, which is effectively a rebranding of the Google Cloud Services platform and brings together a combination of the existing Google Kubernetes Engine (GKE), GKE On-Prem and the Anthos Config Management console. This promises unified administration, policies and security across hybrid Kubernetes deployments.
+
+- That simplicity carries over to its pricing models too, where discounts are automatically applied based on utilization throughout the month.
+- Lastly, Google’s auto load-balancing and auto-scaling features outperform the competition significantly, able to process upwards of 1 million requests per second without the pre-warming required on other platforms.
+ 
+ 
+ 
+ 
+ 
+ 
+
+
