@@ -272,3 +272,73 @@ _ _ _ _ _ _ _ _ _ _
 * Organization's security Compliance
 
 _ _ _ _ _ _ _ _ _ _
+
+## Date: June 11, 2020
+
+# What are the Types of cloud services ?
+
+![](https://blog.dwwtc.com/wp-content/uploads/2016/07/blogchart.jpg)
+
+##### Ans. 
+
+Cloud computing services fall into 3 categories: Infrastructure as a service (IaaS), Platform as a service (PaaS) and Software as a service (SaaS). These are sometimes called the cloud computing stack, because they build on top of one another.
+
+![](https://whatiscloudcomputingwordpresscom.files.wordpress.com/2016/01/types-of-cloud.png?w=640)
+
+### 1.) Infrastructure-as-a-service (IaaS) :
+
+- IaaS is the most comprehensive and flexible type of cloud service available. Essentially, it provides a completely virtualized computing infrastructure that is provisioned and managed over the internet.
+
+- An IaaS provider manages the physical end of the infrastructure (servers, data storage space, etc) in a data center, but allows customers to fully customize those virtualized resources to suit their specific needs.
+
+- IaaS eliminates the capital expense of building up in-house infrastructure. It’s a great option for small companies and startups that don’t have the resources to purchase the hardware and software needed to create their own network internally.
+
+- It also takes the day-to-day burdens of managing computing infrastructure off the hands of IT departments, freeing them to focus on core business drivers instead of troubleshooting.
+
+- Since the IaaS provider continuously updates their system with the latest software and update patches, it’s easier to get new programs and applications up and running.
+
+- IaaS provides the latest in security protections and usually offers services like disaster recovery to go along with their uptime reliability SLAs.
+
+- Examples of IaaS: Microsoft Azure, Amazon Web Services (AWS), Cisco Metacloud, Google Compute Engine (GCE)
+
+_ _ _ _ _ _ _ _ _ _
+
+### 2.) Software as a service (SaaS) :
+
+- Software-as-a-service (SaaS) is a method for delivering software applications over the Internet as per the demand and on a subscription basis.
+
+- Here, the cloud service provider delivers the entire software suite as a pay-per-use model. SaaS lets users easily access software applications -- such as emails -- over the internet. 
+
+- SaaS helps you host and manage the software application and underlying infrastructure and handle any maintenance (software upgrades and security patching).
+
+- The SaaS provider manages the infrastructure, operating systems, middleware, and data necessary to deliver the program, ensuring that the software is available whenever and wherever customers need it. 
+
+- Many SaaS applications run directly through web browsers, eliminating the need for downloads or installations. This greatly reduces software management issues for internal IT teams and allows companies to streamline their operations with hybrid and multi-cloud deployments.
+
+- SaaS applications allow companies to get up and running very quickly as well as scale operations rapidly. There’s no need to purchase or deploy the hardware and software used to deliver their business services.
+
+- Examples of SaaS: Microsoft Office 365, Salesforce, Cisco WebEx, Google Apps.
+
+_ _ _ _ _ _ _ _ _ _
+
+### 3.) Platform as a Service (PaaS) :
+
+- Situated a bit higher up the cloud computing pyramid is PaaS. Whereas IaaS delivers all the tools available through the cloud and leaves it to customers to build whatever suits their needs, PaaS is a bit more specialized.
+
+- It is designed to quickly create web or mobile apps, without worrying about setting up or managing the underlying infrastructure of servers, storage, network and databases needed for development.
+
+- PaaS provides the framework needed to build, test, deploy, manage, and update software products. It utilizes the same basic infrastructure as IaaS, but it also includes the operating systems, middleware, development tools, and database management systems needed to create software applications.
+
+- PaaS is extremely helpful for any company that develops software and web-based applications. Many of the tools needed to develop for multiple platforms (computers, mobile devices, browsers, etc) can be quite expensive.
+
+- By using PaaS, customers can access the development tools they need, when they need them, without having to purchase them outright. Since the platform is accessible over the internet, remote development teams can all access the same assets to speed up product development.
+
+- Most PaaS tools provide extensive pre-coded applications built into the platform, which can greatly reduce coding time and help companies get their products to market faster.
+
+- Examples of PaaS: AWS Elastic Beanstalk, Apache Stratos, Google App Engine, Microsoft Azure.
+
+_ _ _ _ _ _ _ _ _ _
+
+![](https://image-store.slidesharecdn.com/4b612237-6442-48b9-9aa6-d731fb576ea3-large.png)
+
+_ _ _ _ _ _ _ _ _ _
