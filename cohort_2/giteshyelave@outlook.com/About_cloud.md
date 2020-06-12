@@ -261,3 +261,65 @@ _ _ _ _ _ _ _ _ _ _
 - Reasonable price
 
 _ _ _ _ _ _ _ _ _ _
+
+## Date: June 11, 2020
+
+# What are the Types of cloud services ?
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQX7uN9ugANmKrS9WuOwD87LXb5UNGK9D9kbEkqq8psPCh0TaEc&usqp=CAU)
+
+##### Ans.
+
+Cloud computing has evolved over the time it has been majorly divided into three broad service categories: Infrastructure as a Service(IAAS), Platform as a Service (PAAS) and Software as a Service (SAAS) which are broadly discussed below:
+
+![](https://www.uniprint.net/wp-content/uploads/2017/05/Cloud-service-models-diagram.png)
+
+### 1. Infrastructure As A Service (IAAS) :
+
+- Infrastructure as a Service (IAAS) is a form of cloud computing that provides virtualized computing resources over the internet. In an IAAS model, a third party provider hosts hardware, software, servers, storage and other infrastructure components on the behalf of its users.
+
+- IAAS providers also host users’ applications and handle tasks including system maintenance backup and resiliency planning.
+
+- IAAS platforms offer highly scalable resources that can be adjusted on-demand which makes it a well-suited for workloads that are temporary, experimental or change unexpectedly.
+
+- Other characteristics of IAAS environments include the automation of administrative tasks, dynamic scaling, desktop virtualization and policy-based services.
+
+- Technically, the IaaS market has a relatively low barrier of entry, but it may require substantial financial investment in order to build and support the cloud infrastructure.
+
+- Mature open-source cloud management frameworks like OpenStack are available to everyone and provide strong a software foundation for companies that want to build their private cloud or become a public cloud provider.
+
+- Examples of IaaS: Microsoft Azure, Amazon Web Services (AWS), Cisco Metacloud, Google Compute Engine (GCE)
+
+_ _ _ _ _ _ _ _ _ _
+
+### 2.) Software as a service (SaaS) :
+
+- Software as a Service(SAAS) is a software distribution model in which applications are hosted by a vendor or service provider and made available to customers over a network, typically the Internet.
+
+- SAAS has become an increasingly prevalent delivery model as underlying technologies that support Web services and service-oriented architecture (SOA) mature and new development approaches, such as Ajax, become popular.
+
+- SAAS is closely related to the ASP (Application service provider) and on-demand computing software delivery models.
+
+- IDC identifies two slightly different delivery models for SAAS namely the hosted application model and the software development model.
+
+- Most common examples of SaaS are Microsoft Office 360, AppDynamics, Adobe Creative Cloud, Google G Suite, Zoho, Salesforce, Marketo, Oracle CRM, Pardot Marketing Automation, and SAP Business ByDesign.
+
+- Examples of SaaS: Microsoft Office 365, Salesforce, Cisco WebEx, Google Apps.
+
+_ _ _ _ _ _ _ _ _ _
+
+### 3.) Platform as a Service (PaaS) :
+
+- Platform as a Service (PAAS) is a cloud computing model that delivers applications over the internet. In a PAAS model, a cloud provider delivers hardware and software tolls, usually those needed for application development, to its users as a service.
+
+- A PAAS provider hosts the hardware and software on its own infrastructure. As a result, PAAS frees users from having to install in-house hardware and software to develop or run a new application.
+
+- PAAS doesn’t replace a business' entire infrastructure but instead, a business relies on PAAS providers for key services, such as Java development or application hosting.
+
+- A PAAS provider, however, supports all the underlying computing and software; users only need to log in and start using the platform-usually through a Web browser interface.
+
+- PAAS providers then charge for that access on a per-user basis or on a monthly basis.
+
+- Some key players offering PaaS are Bluemix, CloudBees, Salesforce.com, Google App Engine, Heroku, AWS, Microsoft Azure, OpenShift, Oracle Cloud, SAP and OpenShift.
+
+_ _ _ _ _ _ _ _ _ _
