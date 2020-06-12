@@ -75,3 +75,7 @@ Today I Learned:
 ## Date: June 10, 2020
 - Selected for the ITC(Internshala Training Captain) as being a good performance in the ISP program. Now the 70 days regular tasks are begun. Now the task is to take an online meeting on any online meeting platform. 
 - The basic about the Internshala and "how to gain skills and experience in this Covid-19 situation" is the topic. It wil be for the first time for me to take an online meeting.
+## Date: June 12, 2020
+- New task are given by Internshala, as the ITC captain.
+- Started courses on different websites, practicing coding with Hacker Rank website.
+- Starting new Semester from 15th of June, of 2nd year.
