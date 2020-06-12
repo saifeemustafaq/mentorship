@@ -81,3 +81,7 @@ Today I Learned:
 - Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud.
 - It is designed to make web-scale cloud computing easier for developers.
 - Amazon EC2's simple web service interface allows you to obtain and configure capacity with minimal friction.
+## Date: June 12, 2020
+- New task are given by Internshala, as the ITC captain.
+- Started courses on different websites, practicing coding with Hacker Rank website.
+- Starting new Semester from 15th of June, of 2nd year.
