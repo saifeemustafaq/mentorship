@@ -49,7 +49,7 @@ this virtual machines are very benifical for us
  -----------
  >### Disaster Recovery
   In our real machine we face many problems in day to day life
-  In that many problems we face
+  that many problems we face
   Light cutoff
   software problem
   Pc crash
@@ -173,7 +173,36 @@ In that server we get many applications can work on that one server
     Many companies provide a free storage at some size 
     It can not much but it helpful 
     In that we get a some space on cloud
+ 
+ ### Type of Storage
     
+   1) personal Cloud Storage
+   2) Public Cloud Storage
+   3) Hybrid Cloud Storage
+   4) Private Cloud Storage
+    
+  - Personal Cloud Storage
+  
+    In personal Cloud storage it can used by only onwer on of their storage
+    in that no one can use this storage
+    
+   - Public Cloud storage
+   
+     In that Storage it can be use by anyone 
+     It is used by everyone those who can vist the storage
+     anyone can download the data from anywhere
+     
+   - Hybrid Cloud Storage 
+   
+      It can be used by the server or the client of the data 
+      In that Storage not only Client and server can edit or change the data
+      
+   - Private Cloud storage
+   
+     Private Cloud storage is can be used by only owner of storage 
+     Private storage is not view by anyone
+     it only use by Client only
+     
 
 
 
