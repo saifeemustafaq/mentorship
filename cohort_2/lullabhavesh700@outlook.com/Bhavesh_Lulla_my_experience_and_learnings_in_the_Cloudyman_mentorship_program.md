@@ -83,6 +83,32 @@ The speaker explained how to use github.
 
  - Sustainability
 
+# Applications of Cloud Computing:
+
+### • Online File Storage:-
+     
+  MediaFire, megaupload, hotfile, 4Shared, rapidshare, yourfilehost are such examples which are used to host files including documents, images, presentation, videos, etc. The interface is easy to use, and users can upload and download files from these sites. 
+
+### • Photo Editing Software:-
+
+  Picnik, Pixlr, etc are popular free online photo editing software. This online software has features such as cropping of the image, resizing, rotation based on degrees, special effects, addition and editing features are also included in a GUI (Graphical User Interface) format. 
+
+### • E-commerce Software:- 
+
+  Cloud based e-application allows users and e-business to respond quickly to market opportunities and challenges the modern e-commerce is facing. It became for business tycoons to focus on the usage of cloud computing without considering the time and effort involved in implementing a reliable solution. 
+
+### • Miscellaneous Application:- 
+
+  One of the first utilization of free SaaS applications is to check for the status of packages and items. Applications such as UPS, FedEx, US Postal Service, etc provides free tracking of packages online. Another application name - XE provides services online from foreign exchange tools. 
+
+### • Presentation Software:- 
+
+  Sliderocket is an online free application to create a presentation. It allows importing of Microsoft's PowerPoint presentations. Since it is web based cloud application, the presentations can be accessed from anywhere within the globe. 
+
+### • Word Processing Application:-
+
+  Whiteboard is another online word processing and document editing application. It has a unique feature that multiple users can access the same document using this application, edit that document and save the document after editing, but the document will have different versions. But it doesn't allow importing the word files. 
+
 # Introduction to Github
 
   Github is a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code. 
@@ -612,9 +638,23 @@ The speaker explained how to use github.
 
  - IaaS provides the basic building block for cloud IT. It gives access to networking, computer (virtual or dedicated) and data storage space. It is a pay-as-you-go service. 
 
+### IaaS is commonly usef in the following scenarios:
+   
+  Migrating workload workloads. Typically, IaaS facilities are managed in a similar way as on-premises infrastructure and provide an easy migration path for moving existing applications to the cloud. 
+   
+  Test and development. Teams can quickly set up and dismantle test and development environments, bringing new applications to market faster. IaaS makes scaling development and testing environments, fast and economical. 
+   
+  Storage, backup, and recovery. Organizations avoid the capital outlay and complexity of storage management, which typically which require skilled staff to manage data and meet legal and compliance requirements. IaaS is useful for managing unpredictable demand and steadily growing storage needs. IaaS can also simplify the planning and management of backup and recovery systems.# 2. Platform as a service (PaaS):
+
 ## 2. Platform as a service (PaaS):
 
  - PaaS removes the need to manage underlying infrastructure (usually hardware and software systems). It allows to focus on the deployment and management of your applications. This helps you be more efficient as you don't need to worry about resource procurement, capacity planning, software maintenance, patching, or any of the other undifferentiated heavy systems involved. It is designed to make it easier for developers to quickly create web or mobile apps, without thinking about setting up or managing the underlying infrastructure of servers, storage, network and databases needed for development. 
+
+### PaaS is commonly used in the following scenarios:
+
+  Development framework. PaaS provides a framework that developers can build upon to develop or customize cloud-based applications. Just like Microsoft Excel macro, PaaS lets developers create applications using built-in software components. Cloud features such as scalability, high-availability, and multi-tenant capability are included, reducing the amount of coding that developers must do.
+
+  Analytics or business intelligence. Tools provided as a service with PaaS allow organizations to analyze and mine their data. They can find insights and patterns, and predict outcomes to improve business decisions such as forecasting, product design, and investment returns.
 
 ## 3. Software as a service (SaaS):
 
