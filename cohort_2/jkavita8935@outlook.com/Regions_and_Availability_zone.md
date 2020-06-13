@@ -122,3 +122,76 @@
 
 - Made of one or more data centers. Each availability domain has three fault domains. Fault domains allow you to ensure the same hardware within a single avail domain is not used for all your resources. This provides additional resiliency against failure.
    
+## Date: June 12, 2020
+
+# region pair :
+
+ ### Each region is always paired with another region within the same geography (such as US, Europe, or Asia) at least 300 miles away. This approach allows for the replication of resources such as virtual machine storage across a geography that helps reduce the likelihood of interruptions due to events such as natural disasters, civil unrest, power outages, or physical network outages affecting both regions at once.
+
+
+
+![](https://docs.microsoft.com/en-us/azure/media/best-practices-availability-paired-regions/georegiondatacenter.png)
+
+### An Azure region consists of a set of data centers deployed within a latency-defined perimeter and connected through a dedicated low- latency network. This ensures that Azure services within an Azure region offer the best possible performance and security.
+
+> # Benefits of paired regions
+
+## 1. Physical isolation :
+
+-  **When possible, Azure prefers at least 300 miles of separation between datacenters in a regional pair, although this isn't              practical or   possible in all geographies. Physical datacenter separation reduces the likelihood of natural disasters, civil         unrest, power outages, or physical network outages affecting both regions at once. Isolation is subject to the constraints within       the  eography.**
+
+## 2. Platform :
+
+-  **provided replication - Some services such as Geo-Redundant Storage provide automatic replication to the paired region.**
+
+## 3. Region recovery order :
+
+ -  **In the event of a broad outage, recovery of one region is prioritized out of every pair. Applications that are deployed across           paired regions are guaranteed to have one of the regions recovered with priority. If an application is deployed across regions           that are not paired, recovery might be delayed – in the worst case the chosen regions may be the last two to be recovered.**
+
+## 4. Sequential updates :
+
+ -  #### Planned Azure system updates are rolled out to paired regions sequentially (not at the same time) to minimize downtime, the          effect of bugs, and logical failures in the rare event of a bad update.
+
+## 5. Data residency :
+
+ -  **A region resides within the same geography as its pair (with the exception of Brazil South) to meet data residency requirements      for tax and law enforcement jurisdiction purposes.**
+ 
+ 
+ # Fault domains :
+ 
+ ### ***A fault domain is a set of hardware components that share a single point of failure. To be fault tolerant to a certain level, you need multiple fault domains at that level. For example, to be rack fault tolerant, your servers and your data must be distributed across multiple racks.***
+ 
+ 
+#### Suppose we put two VM into availability set, then Azure will set up VMs to two different racks so that if the network, power, etc. failed, then only one rack will be affected.
+ 
+ ![](https://1.bp.blogspot.com/-hX3asi0KRSg/XBeNeRY8SGI/AAAAAAAABKY/0fA2_89Co9ISs10-snXNdmgelaC0LPpEQCLcBGAs/s640/Fault%2BDomain.PNG)
+ 
+ #### In this image  two VMs are on the same availability set, so Azure has been provisioned them on two different racks. It always seen that only two Fault Domains are available in Azure and VMs spreads on over these two fault domains (FD0 and FD1)
+ 
+ 
+ > # ***Benefits :*** 
+ 
+ ## 1. Storage Spaces, including Storage Spaces Direct, uses fault domains to maximize data safety :
+ 
+- **Resiliency in Storage Spaces is conceptually like distributed, software-defined RAID. Multiple copies of all data are kept in sync, and if hardware fails and one copy is lost, others are recopied to restore resiliency. To achieve the best possible resiliency, copies should be kept in separate fault domains.**
+ 
+ ## 2. The Health Service uses fault domains to provide more helpful alerts :
+ 
+ - **Each fault domain can be associated with location metadata, which will automatically be included in any subsequent alerts. These descriptors can assist operations or maintenance personnel and reduce errors by disambiguating hardware.**
+
+## 3. Stretch clustering uses fault domains for storage affinity :
+
+- **Stretch clustering allows faraway servers to join a common cluster. For the best performance, applications or virtual machines should be run on servers that are nearby to those providing their storage. Fault domain awareness enables this storage affinity.**
+ 
+ 
+ > #  ***Levels of fault domains :***
+ 
+- **There are four canonical levels of fault domains - site, rack, chassis, and node. Nodes are discovered automatically; each additional level is optional. For example, if our deployment does not use blade servers, the chassis level may not make sense for us.**
+
+![](https://docs.microsoft.com/en-us/windows-server/failover-clustering/media/fault-domains-in-windows-server-2016/levels-of-fault-domains.png)
+
+
+## Usage :
+
+#### we can use PowerShell or XML markup to specify fault domains. Both approaches are equivalent and provide full functionality.
+
