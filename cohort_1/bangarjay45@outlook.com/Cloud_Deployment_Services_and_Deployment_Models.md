@@ -197,10 +197,63 @@ Google then made its own push into hybrid in 2019 with the release of Anthos, wh
 - That simplicity carries over to its pricing models too, where discounts are automatically applied based on utilization throughout the month.
 - Lastly, Google’s auto load-balancing and auto-scaling features outperform the competition significantly, able to process upwards of 1 million requests per second without the pre-warming required on other platforms.
  
- 
- 
- 
- 
- 
+ ## Summary of Cloud comparison between AWS vs. Azure vs. Google:
 
+**1. Amazon Web Services :–**
+With a vast tool set that continues to grow exponentially, Amazon’s capabilities are unmatched. 
+
+Yet its cost structure can be confusing, and its singular focus on public cloud rather than hybrid cloud or private cloud means that interoperating with your data center isn't AWS's top priority.
+
+**2. Microsoft Azure :–** 
+A close competitor to AWS with an exceptionally capable cloud infrastructure.
+
+If you’re an enterprise customer, Azure speaks your language – few companies have the enterprise background (and Windows support) as Microsoft. Azure knows you still run a data center, and the Azure platform works hard to interoperate with data centers; hybrid cloud is a true strength.
+
+**3. Google Cloud :-** 
+A well-funded underdog in the competition, Google entered the cloud market later and doesn't have the enterprise focus that helps draw corporate customers.
+
+But its technical expertise is profound, and its industry-leading tools in deep learning and artificial intelligence, machine learning and data analytics are significant advantages.
+ 
+---- 
+ 
+> # Different Computing services offered by each provider:
+
+## AWS Compute:
+
+### Elastic Compute Cloud:
+
+Amazon's flagship compute service is Elastic Compute Cloud, or EC2. Amazon describes EC2 as **"a web service that provides secure, resizable compute capacity in the cloud."**
+EC2 offers a wide variety of options, including a huge assortment of instances, support for both Windows and Linux, bare metal instances, GPU instances, high-performance computing, auto scaling and more. 
+
+**AWS also offers a free tier for EC2 that includes 750 hours per month for up to 12 months.**
+
+### Container services: 
+
+Within the compute category, Amazon provides container services that are increasing in popularity, and it has options that support Docker, Kubernetes, and its own Fargate service that automates server and cluster management when using containers. It also offers a virtual private cloud option known as Lightsail, Batch for batch computing jobs, Elastic Beanstalk for running and scaling Web applications, as well as a few other services.
+
+## Microsoft Compute:
+
+### Virtual Machines:
+
+Microsoft's primary compute service is known simply as Virtual Machines.
+
+It boasts support for Linux, Windows Server, SQL Server, Oracle, IBM, and SAP, as well as enhanced security, hybrid cloud capabilities and integrated support for Microsoft software. Like AWS, it has an extremely large catalog of available instances, including GPU and high-performance computing options, as well as instances optimized for artificial intelligence and machine learning. It also has a free tier with 750 hours per month of Windows or Linux B1S virtual machines for a year.
+
+### Additional Services:
+
+Azure's version of Auto Scaling is known as Virtual Machine Scale Sets. And it has two container services: **Azure Container Service is based on Kubernetes, and Container Services uses Docker Hub** and Azure Container Registry for management.
+
+It also has a unique offering called Service Fabric that is specifically designed for applications with microservices architecture.
+
+## Google Compute:
+
+### Compute Engine: 
+
+By comparison, Google's catalog of compute services is somewhat shorter than its competitors'. Its primary service is called Compute Engine, which boasts both custom and predefined machine types, per-second billing, Linux and Windows support, automatic discounts and carbon-neutral infrastructure that uses half the energy of typical data centers. 
+
+It offers a free tier that includes one f1-micro instance per month for up to 12 months.
+
+### Kubernetes:
+
+Google also offers a Kubernetes Engine for organizations interested in deploying containers. Like all of the leading cloud vendors, it's set up to offer containers and microservices. And it's worth noting that Google has been heavily involved in the Kubernetes project, giving it extra expertise in this area.
 
