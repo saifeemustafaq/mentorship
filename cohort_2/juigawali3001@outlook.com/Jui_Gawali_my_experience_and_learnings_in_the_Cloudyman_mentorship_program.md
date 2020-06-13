@@ -147,3 +147,75 @@ It’s all about internet bandwidth and rated cloud storage speed. Restoring an 
 
 ##### 3. Higher Internet Utilization
 If backups are running during business hours or times of heavy internet use, you may find internet-related activity performance suffers. Internet bandwidth may need to be controlled. Look to set up bandwidth utilization rules in your backup software (or limit via other network-controlled means) to ensure you don’t saturate your internet connection during times when access to the internet is needed for other critical business activity.
+
+
+## Date: June 13,2020.
+
+### What is Capital expenditure (CapEx) versus operational expenditure (OpEx)?
+
+## CapEx and OpEx Defined:
+> CapEx:
+CapEx is defined as business expenses incurred in order to create long-term benefits in the future, such as purchasing fixed assets like a building or equipment. Some examples of IT items that fall under this category would be whole systems and servers, printers and scanners, or air conditioners and generators. You buy these items once and they benefit your business for many, many years. Maintenance of such items is also considered CapEx, as it extends their lifetime and usefulness.
+> OpEx:
+OpEx is your operating costs, the expenses to run day-to-day business, like services and consumable items that get used up and are paid for according to use. This includes printer cartridges and paper, electricity, and even yearly services like website hosting or domain registrations. These things are necessary for your business’s success but are not considered major long-term investments like CapEx items.
+
+### CapEx,OpEx and The Cloud:
+The financial differences of OpEx versus CapEx when adopting cloud services will affect the cloud set up you choose. If you want to avoid the difficulties of a capital expenditure, you will probably opt for public cloud services that use a pay as you go model. If you want total control of cloud services within your company, you can task your in-house IT team with setting up a private cloud where your organization is totally responsible for its services (and costs).
+A third option combines resources from both private and public clouds to create a hybrid cloud when your organization buys a public cloud and makes your IT team responsible for it. This option offers the most flexibility for controlling costs.
+
+![alt.OpEx services](https://www.10thmagnitude.com/wp-content/uploads/2019/04/OpEx-Services-Complement-a-World-Preparing-for-the-Cloud-%E2%80%93-10th-Magnitude-1200x576.jpg)
+
+### CapEx stability or OpEx Flexibility
+> CapEx stability-
+- Buying capacity you don’t need today to meet tomorrow’s uncertainties. In the IT world, technology is always changing. An upfront push into establishing your own cloud might seem like an investment, but what if the equipment and skills of the workforce you invest in become irrelevant before your investment pays off?
+- Getting stuck with capacity you don’t need. If you overshoot on everything needed to set up a private cloud service and your need for private cloud services doesn’t grow fast enough, you lose money on wasted goods and work.
+- Entering vendor contracts that create business dependencies you can’t break. Being held hostage by those contracts. Being left high and dry when the vendor doesn’t follow through.
+- Paying staff to watch over these assets and “keep the lights on,” when they could be contributing to better products and processes. Either you’re taking staff from what they were originally hired to do or paying additional staff. Either way, profits are at risk.
+- Locking into long-term approaches to your IT needs, limiting your ability to adopt newer, better ways. Like we’ve said before, technology changes fast these days and you don’t want to be lagging behind just because you spent so much money on a prematurely aging setup.
+- Taking a very long time, usually through a difficult process, to adopt new capacity. Time is money. The longer a setup takes, the more money you lose.
+- Letting your equipment dictate your business approach, rather than your business needs driving your IT infrastructure. You sacrifice agility when you invest a lot of time, money, and manpower into a CapEx expense and can’t bear to change after investing all those resources. This is a guaranteed way for your business to become irrelevant.
+> OpEx Flexibilty-
+- Purchasing IT resources and services as OpEx costs make each purchase less permanent and reduces a lot of risk. If a vendor fails to meet your expectations, if technology leaps ahead, if your business identifies new markets, or if your IT budget fluctuates, you aren’t locked into one IT infrastructure that you spent a lot of resources on.
+- By freeing you from basic network and equipment maintenance, your people can apply their talents to improving your products and increasing sales for higher profits.
+- Because these services are provided instantly and on demand, your lead times for deploying new and improved products shorten to days and hours, versus years and months, again increasing profits.
+- If an architecture or service turns out to be misconfigured, you can quickly and easily reconfigure it. If a project or program turns out to be a dud, you’re not stuck carrying infrastructure dead weight; just delete it. Minimal money wasted.
+- The OpEx approach to IT expenditure gives modern businesses the agility and flexibility they need to stay relevant in ever-changing markets and meet their clients’ needs more successfully and quickly. And better products and better services delivered means higher profits for your company.
+- A more flexible approach to IT infrastructures like pay-as-you-go cloud services and other IT operational expenditures allows your business to keep up with the competition by paying for only what you need when you need it, so you don’t get stuck with a huge bill for outdated infrastructure.
+
+### Pricing and Flexibility related to OpEx and the cloud:
+- Most Cloud services are priced by usage; the more you use, the more you pay. You don’t pay for what you don’t use.
+- Cloud services are also often priced by service level. Just as a steak dinner costs more than a fast-food hamburger combo, your IT needs may be premium or basic.
+- You might need one steak dinner to sate your appetite. Or, maybe one hamburger combo (or several hamburger combos that are still less expensive than one steak dinner) will do the trick. It all depends on your flexibility.
+- Cloud providers recognize this, and they tend to have services priced according to how robust they are, on top of how much you use them.
+- The quality and flexibility model of Cloud services is important for businesses like yours who are looking for vendors who aren’t going to just offer a service you can use, but one that will be in line with the up and down cycles of your business and really perform for you when you need it most.
+- Before, when data storage was a CapEx investment of space, hardware, software, maintenance, and manpower, companies may have bought and valued everything with the lifespan of each item in mind. But today, the value of increasingly intangible assets like the Cloud is often found in their flexibility.
+- Vendors know that companies are moving towards OpEx IT infrastructures and that they aren’t willing to invest in long-term tangible products. So, they are increasingly valuing and pricing their cloud and other IT products and services based on consumption and, often, tier of service, knowing the expiration date of what they’re offering is insignificant.
+- In IT, having the newest and most on-trend technology is important and the cloud model makes this easier. But the true advantage of usage pricing (vs. a fixed fee model) is the flexibility it brings. You can better manage the model and quickly scale up or scale down a configuration based on need.
+![alt.cloud](https://www.10thmagnitude.com/wp-content/uploads/2019/04/Scale-%E2%80%93-10th-Magnitude-1200x489.jpg)
+Today companies still need the same tight security and oversight, but also more flexibility and more cost-effective solutions. The answer is the Cloud.
+
+### Review of CapEx versus OpEx:
+![alt.Review](https://www.10thmagnitude.com/wp-content/uploads/2019/04/OpEx-vs-CapEx.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
