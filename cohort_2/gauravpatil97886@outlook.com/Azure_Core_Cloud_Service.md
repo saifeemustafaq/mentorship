@@ -73,3 +73,49 @@ Let’s now discuss what are the various Microsoft Azure services in the what is
 
 
 ------------
+
+
+## Azure History :
+
+
+- Microsoft first unveiled its plans to introduce a cloud computing service called Windows Azure in 2008. Preview versions of the service became available and developed, leading to its commercial launch in early 2010. Although early iterations of Azure cloud services fell behind more established offerings -- such as AWS -- the portfolio continued to evolve and support a larger base of programming languages, frameworks and operating systems. By early 2014, Microsoft recognized that the implications of cloud computing stretched far beyond Windows, and the service was rebranded as Microsoft Azure.
+
+
+
+
+
+|Developed by:|[Microsoft Corporation](https://en.m.wikipedia.org/wiki/Microsoft) |
+|------------|--------------------|
+|Initial release date:|1 February 2010|
+|Operating system:| [Linux](https://en.m.wikipedia.org/wiki/Linux) ,[Microsoft Windows](https://en.m.wikipedia.org/wiki/Microsoft_Azure) |
+|License: |Closed source for platform, Open source for client SDKs|
+|Parent company: |Microsoft Corporation|
+|---------------|------------------------|
+
+------------
+
+
+## Azure competition:
+
+- Microsoft Azure is one of several major public cloud service providers operating on a large global scale. Other major providers include **Google Cloud Platform (GCP), Amazon Web Services (AWS) and IBM**.
+
+- Currently, there is a lack of standardization among cloud services and capabilities -- meaning no two cloud providers offer the same service in the exact same way, using the same APIs or integrations. This makes it difficult for a business to use more than one public cloud provider when pursuing a **multi-cloud strategy**. Third-party cloud management tools can reduce some of these challenges.
+
+
+-------
+
+## Azure pricing and costs:
+
+- Similar to other public cloud providers, Azure primarily uses a pay-as-you-go pricing model that charges based on usage. However, if a single application uses multiple Azure services, each service might involve multiple pricing tiers. In addition, if a user makes a long-term commitment to certain services, such as compute instances, Microsoft offers a discounted rate.
+
+- Given the many factors involved in cloud service pricing, an organization should review and manage its cloud usage to minimize costs. Azure-native tools, such as [Azure Cost Management](https://searchcloudcomputing.techtarget.com/definition/Cloudyn?_gl=1*moxo6v*_ga*ZjIxLXFVS1N6UTJDWTh6eGl4SFpmLVdWMGY3RDBKd1ZvZ2JFUDlWM0VVb1FLYkFkaTZ3bzJySWFkQzJxaEVYUw) 
+can help monitor, visualize and optimize cloud spending. It's also possible to use third-party tools, such as Cloudability or RightScale, to manage Azure resource usage and associated costs.
+
+
+
+
+
+
+----------
+
+
