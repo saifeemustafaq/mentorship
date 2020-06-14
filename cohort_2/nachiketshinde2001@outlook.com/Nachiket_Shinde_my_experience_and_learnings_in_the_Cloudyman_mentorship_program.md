@@ -204,6 +204,15 @@ In that server we get many applications can work on that one server
      it only use by Client only
      
 
+### Fault Domain
+
+
+    It is hardware components that share the point of failure
+    fault domain is include hardware and software including
+    In the hardware the power machine failure and network
+    fault is recovered or reboot by 30 minutes
+    
+    
 
 
 
