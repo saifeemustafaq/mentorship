@@ -204,6 +204,17 @@ In that server we get many applications can work on that one server
      it only use by Client only
      
 
+### Vnet :
 
+    Vnet is virtual network
+    In virtual network is a representation of our own networks in Cloud
+    By using virtual network we get more secure of our data with server
+    vNet is provided by Microsoft Azaur
+    By using Vnet we get end to end data transfer with security
+    Vnet is likely similar to Firewall
+    Vnet gets a security of our data and our surfing in internet
+    in virtual machine we get Vnet as a firewalls
+    
+    
 
 
