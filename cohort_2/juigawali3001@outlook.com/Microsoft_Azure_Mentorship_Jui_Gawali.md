@@ -24,6 +24,21 @@ Because there are so many different types of workloads, each with its own requir
 Multicloud gives you more flexibility over different price points, service offerings, capabilities, and geographic locations. With careful planning, a multicloud strategy can create consistency across your organization, independent of the services being consumed. Multicloud requires a software layer to deliver management and orchestration across cloud environments—for example, Google Cloud’s Anthos*.
 In short, a multicloud, hybrid cloud approach gives you the best of both the private cloud and public cloud with the flexibility to run workloads where they make the most sense.
 
+## Date: June 14,2020.
+## What is Fault Domain?
+> A fault domain is a logical group of underlying hardware that share a common power source and network switch, similar to a rack within an on-premises datacenter. As you create VMs within an availability set, the Azure platform automatically distributes your VMs across these fault domains. This approach limits the impact of potential physical hardware failures, network outages, or power interruptions.
+
+![alt.fault domain](http://www.thatlazyadmin.com/wp-content/uploads/2017/10/word-image-10.png)
+
+## What is update Domain?
+> An update domain is a logical group of underlying hardware that can undergo maintenance or be rebooted at the same time. As you create VMs within an availability set, the Azure platform automatically distributes your VMs across these update domains. This approach ensures that at least one instance of your application always remains running as the Azure platform undergoes periodic maintenance. The order of update domains being rebooted may not proceed sequentially during planned maintenance, but only one update domain is rebooted at a time.
+
+![alt.update domain](http://www.thatlazyadmin.com/wp-content/uploads/2017/10/word-image-11.png)
+
+
+
+
+
 
 
 
