@@ -87,5 +87,33 @@
 
    **Regions**: Regions are composed of zones. All Chinese zones have two or more zones. International zones have one (Tokyo) or more zones, through most have two. One region has three zones (Singapore). 
   
-   **Zones**: Zones are composed of one or multiple scattered data centers, each of which has independent supporting facilities, including redundant power supplies, networks, and connections. 
+   **Zones**: Zones are composed of one or multiple scattered data centers, each of which has independent supporting facilities, including redundant power supplies, networks, and connections.
+
+### Oracle Cloud
+
+   **Region**: A region is a localized area. Regions are made of several availability domains. Availability domains do not share infrastructure like power or cooling and are connected with high speed/bandwidth networking.
+
+   **Availability domains**: Made of one or more data centers. Each availability domain has three fault domains. Fault domains allow you to ensure the same hardware within a single avail domain is not used for all your resources. This provides additional resiliency against failure.
+
+## Regional Pairs:
+
+ - Each Region is paired with another region within the same geographical location, and this makes a regional pair.
+
+ - These regional pairs are always located greater than 300 miles apart.
+
+ - These Azure Region pairs are directly connected and so far away that any disaster affects only one region.
+
+ - If one of the regions experience a disaster, then the services of the primary region will automatically fail, and the secondary region is available as a backup.
+
+### Benefits of paired regions
+
+ 1. **Physical isolation**: When possible, Azure prefers at least 300 miles of separation between datacenters in a regional pair, although this isn't practical or possible in all geographies. Physical datacenter separation reduces the likelihood of natural disasters, civil unrest, power outages, or physical network outages affecting both regions at once. Isolation is subject to the constraints within the geography (geography size, power/network infrastructure availability, regulations, etc.).
+
+ 2. **Platform-provided replication**: Some services such as Geo-Redundant Storage provide automatic replication to the paired region.
+
+ 3. **Region recovery order**: In the event of a broad outage, recovery of one region is prioritized out of every pair. Applications that are deployed across paired regions are guaranteed to have one of the regions recovered with priority. If an application is deployed across regions that are not paired, recovery might be delayed – in the worst case the chosen regions may be the last two to be recovered.
+
+ 4. **Sequential updates**: Planned Azure system updates are rolled out to paired regions sequentially (not at the same time) to minimize downtime, the effect of bugs, and logical failures in the rare event of a bad update.
+
+ 5. **Data residency**: A region resides within the same geography as its pair (with the exception of Brazil South) to meet data residency requirements for tax and law enforcement jurisdiction purposes.
 
