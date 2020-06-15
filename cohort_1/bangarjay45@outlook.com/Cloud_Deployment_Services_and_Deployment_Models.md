@@ -257,3 +257,46 @@ It offers a free tier that includes one f1-micro instance per month for up to 12
 
 Google also offers a Kubernetes Engine for organizations interested in deploying containers. Like all of the leading cloud vendors, it's set up to offer containers and microservices. And it's worth noting that Google has been heavily involved in the Kubernetes project, giving it extra expertise in this area.
 
+----
+> # Different Storage options offered by each providers.
+
+## AWS Storage:
+
+### SSS to EFS:
+
+AWS offers a long list of storage services that includes its Simple Storage Service (S3) for object storage, Elastic Block Storage (EBS) for persistent block storage for use with EC2, and Elastic File System (EFS) for file storage. 
+
+- Some of its more innovative storage products include the Storage Gateway, which enables a hybrid storage environment, and Snowball, which is a physical hardware device that organizations can use to transfer petabytes of data in situations where Internet transfer isn't practical.
+
+### Database and archiving:
+
+On the database side, Amazon has a SQL-compatible database called Aurora, Relational Database Service (RDS), DynamoDB NoSQL database, ElastiCache in-memory data store, Redshift data warehouse, Neptune graph database and a Database Migration Service.
+- Amazon offers Glacier, which is designed for long-term archival storage at very low rates.
+- In addition, its Storage Gateway can be used to easily set up backup and archive processes.
+
+## Azure Storage:
+
+### Storage Services:
+
+Microsoft Azure's basic storage services include Blob Storage for REST-based object storage of unstructured data, Queue Storage for large-volume workloads, File Storage and Disk Storage.
+
+- It also has a Data Lake Store, which is useful for big data applications.
+
+###  Database:
+
+Azure's database options are particularly extensive. It has three SQL-based options: SQL Database, Database for MySQL and Database for PostgreSQL. It also has a Data Warehouse service, as well as Cosmos DB and Table Storage for NoSQL.
+
+Redis Cache is its in-memory service and the Server Stretch Database is its hybrid storage service designed specifically for organizations that use Microsoft SQL Server in their own data centers. 
+
+- Unlike AWS, Microsoft does offer an actual Backup service, as well as Site Recovery service and Archive Storage.
+
+## Google Storage:
+
+### Storage and more:
+As with compute, GCP has a smaller menu of storage services available. Cloud Storage is its unified object storage service, and it also has a Persistent Disk option. It offers a Transfer Appliance similar to AWS Snowball, as well as online transfer services.
+
+### SQL and NoSQL databases:
+
+GCP has the SQL-based Cloud SQL and a relational database called Cloud Spanner that is designed for mission-critical workloads. 
+- It also has two NoSQL options: Cloud Bigtable and Cloud Datastore. 
+- It does not have backup and archive services .
