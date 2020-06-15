@@ -226,6 +226,18 @@ In that server we get many applications can work on that one server
     Vnet gets a security of our data and our surfing in internet
     in virtual machine we get Vnet as a firewalls
     
-    
 
 
+### scaling in cloud computing
+     
+ Scaling is defined as the ability for an IT resource to handle growing or decreasing demands in a capable manner 
+ it is one of the benefical features in cloud computing
+ In the scale the buisness is up down growth and all the components are shows in scale
+ it reduces the IT cost 
+ It reduces the cost of IT Companies of manintance
+ in the cloud computing maintaince is very easy 
+ There is vertical and horizontal scale in cloud computing
+ Vertical scale is facts of the biggest size of servers
+  
+
+ 
