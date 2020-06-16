@@ -85,7 +85,11 @@ Today I Learned:
 - New task are given by Internshala, as the ITC captain.
 - Started courses on different websites, practicing coding with Hacker Rank website.
 - Starting new Semester from 15th of June, of 2nd year.
-## Date: June 13, 2020
+## Date: June 14, 2020
 - Completed my Internship Talk, by Zoom with most of the participants. Enjoying working with Internshala, as it gives us inspiration as well as such tasks to increase our self-confidence.
 - Starting 3rd semester from tomorrow, through online mode.
 - Started writing python codes from w3schools.
+## Date: June 15, 2020
+- Started with the second year, first day teach with the architecture and organization of computer.
+- Started implementing the python codes in Jupyter notebook.
+- Collected the second star of python on Hacker Rank.
