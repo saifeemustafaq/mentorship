@@ -60,9 +60,40 @@
 - I also plotted a line graph which indicated what intensity of light the sensor picked at any point of time.
 - This plant light monitor is also available by [Xiaomi](https://www.amazon.com/HHCC-Xiaomi-Plant-Flower-Monitor/dp/B06X9V2FKJ), but as a curious person, I made it at home.
 
+----  
   
-  
+> ## Things used in this project
 
+### Hardware components
+
+
+1. Bolt IoT Bolt WiFi Module
+2. Light Dependent Resistor
+3. Resistor 10k ohm
+
+
+### Software apps and online services
+
+1. Bolt IoT Bolt Cloud
+2. Bolt IoT Android App
+
+
+**Bolt WiFi Module:**
+
+![bolt module](https://user-images.githubusercontent.com/65165798/84678603-d8088100-af4d-11ea-9875-ac390460d35b.jpeg)
+
+**LDR (Light Dependent Resistor):**
+
+![LDR](https://user-images.githubusercontent.com/65165798/84678592-d5a62700-af4d-11ea-8793-3d29d3b85c66.jpeg)
+
+**Resistor 10K:**
+
+![Resistor](https://user-images.githubusercontent.com/65165798/84678598-d6d75400-af4d-11ea-8e58-f26f799876db.jpeg)
+
+
+> ##  Overview of the BOLT WI-FI Module:
+
+![Module](https://user-images.githubusercontent.com/65165798/84678584-d474fa00-af4d-11ea-8f88-fa38ff9acee6.jpg)
 
 
 
