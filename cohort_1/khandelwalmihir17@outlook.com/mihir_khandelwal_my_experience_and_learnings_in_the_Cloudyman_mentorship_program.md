@@ -93,3 +93,7 @@ Today I Learned:
 - Started with the second year, first day teach with the architecture and organization of computer.
 - Started implementing the python codes in Jupyter notebook.
 - Collected the second star of python on Hacker Rank.
+## Date: June 16, 2020
+- Started with the study of the C++, amazing and awesome language.
+- Tried to make an video as a part of an Intershala Trainings ISP Captain.
+- Updated my resume on LinkedIn.
