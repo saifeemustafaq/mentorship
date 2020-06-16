@@ -198,3 +198,73 @@ AWS offers augmented reality (AR) and virtual reality (VR) development tools thr
 
 -----------
 
+
+
+-------+
+
+## Date:16 June 20202
+--------
+## features and benefits of Amazon Web Services (EC2):
+
+
+#### Functionality:
+
+- Amazon EC2 presents a true virtual computing environment, allowing you to use web service interfaces to launch instances with a variety of operating systems, load them with your custom application environment, manage your network’s access permissions, and run your image using as many or few systems as you desire.
+--------+
+
+#### To use Amazon EC2, you simply:
+
+- Select a pre-configured, templated Amazon Machine Image (AMI) to get up and running immediately. Or create an AMI containing your applications, libraries, data, and associated configuration settings.
+
+- Configure security and network access on your Amazon EC2 instance.
+
+- Choose which instance type(s) you want, then start, terminate, and monitor as many instances of your AMI as needed, using the web service APIs or the variety of management tools provided.
+
+- Determine whether you want to run in multiple locations, utilize static IP endpoints, or attach persistent block storage to your instances.
+
+
+- Pay only for the resources that you actually consume, like instance-hours or data transfer.
+---------
+
+## Features
+
+- Amazon EC2 provides a number of powerful features for building scalable, failure resilient, enterprise class applications.
+
+ ### Bare Metal instances
+Amazon EC2 bare metal instances provide your applications with direct access to the processor and memory of the underlying server. These instances are ideal for workloads that require access to hardware feature sets (such as Intel® VT-x), or for applications that need to run in non-virtualized environments for licensing or support requirements. Bare metal instances are built on the Nitro system, a collection of AWS-built hardware offload and hardware protection components that come together to securely provide high performance networking and storage resources to EC2 instances. Bare metal instances are EC2 instances and thus offer the same robust security, reliability, capacity elasticity, and support for different operating systems and software packages as other virtual EC2 instances. You can also use bare metal instances with AWS services such as Amazon Virtual Private Cloud (VPC), Elastic Block Store (EBS), Elastic Load Balancing (ELB) and more.
+Optimize Compute Performance and Cost with Amazon EC2 Fleet
+With a single API call, Amazon EC2 Fleet lets you provision compute capacity across EC2 instance types, Availability Zones, and purchase models to help optimize scale, performance and cost. You can specify how much On-Demand and Spot capacity to launch via EC2 Fleet. You can also define which instance types you prefer and whether to scale capacity based on cores, instances or memory. Read FAQs and AWS blog to learn more. Now you can access EC2 Fleet capabilities via Amazon EC2 Auto Scaling to provision and automatically scale compute capacity across EC2 instance types, Availability Zones, and purchase options in a single Auto Scaling Group. Learn more>>
+Pause and Resume Your Instances
+You can hibernate your Amazon EC2 instances backed by Amazon EBS, and resume them from this state at a later time. Applications that take a while to bootstrap and persist state into memory (RAM) can benefit from this feature. Hibernation gives you all the benefits of Stop and Start, and additionally, data from memory (RAM) is also persisted between sessions. You will not be charged for instance usage while your instance is hibernated. Storage is charged at standard EBS rates. For more information about hibernation, and supported instance types and operating systems, visit the FAQs.
+-------
+
+
+### GPU Compute Instances
+- Customers requiring massive floating point processing power will benefit from the next-generation of general-purpose GPU compute instances from AWS, Amazon EC2 P3 instances with up to 8 NVIDIA® V100 Tensor Core GPUs. P3 instances provide up to 1 petaFLOPS of mixed-precision, 125 teraFLOPS of single-precision and 62 teraFLOPS of double-precision floating point performance. A 300 GB/s second generation NVLink interconnect allows GPU-to-GPU communication at high speed and low latency. P3 instances also feature up to 96 vCPUs based on custom Intel processors, 768 GB of DRAM, and 100 Gbps of dedicated aggregate network bandwidth using the Elastic Network Adapter (ENA). P3 instances are ideally suited for machine learning, high-performance computing, computational fluid dynamics, computational finance, seismic analysis, molecular modeling, genomics, and rendering workloads.
+
+------
+
+### GPU Graphics Instances
+Customers requiring high graphics capability will benefit from GPU graphics instances. The current generation GPU graphics instance, G3 instance, provides access to NVIDIA Tesla M60 GPUs, each with up to 2,048 parallel processing cores, 8 GiB of GPU memory and a hardware encoder supporting up to 10 H.265 (HEVC) 1080p30 streams and up to 18 H.264 1080p30 streams. With the latest driver releases, these GPUs provide support for OpenGL, DirectX, CUDA, OpenCL, and Capture SDK (formerly known as GRID SDK). GPU graphics instances are ideally suited for 3D visualizations, graphics-intensive remote workstation, 3D rendering, application streaming, video encoding, and other server-side graphics workloads.
+
+--------
+
+.
+### High I/O Instances
+Customers requiring very high, low latency, random I/O access to their data can benefit from High I/O instances. High I/O instances are an Amazon EC2 instance type that can provide customers with random I/O rates over 3 million IOPS. High I/O I3 and I3en instances are backed by Non-Volatile Memory Express (NVMe) based SSDs, and are ideally suited for customers running very high performance NoSQL databases, transactional systems, and Elastic Search workloads. High I/O instances also offer sequential disk throughput up to 16 GB/s, which is ideal for analytics workloads.
+
+See Amazon EC2 Instance Types to find out more about High I/O instances.
+
+
+-----;-
+
+### Dense HDD Storage Instances
+- Customers requiring very high storage density per instance, and high sequential I/O for data-intensive applications like Massively Parallel Processing (MPP) data warehouse, MapReduce and Hadoop distributed computing, and log and data processing can benefit from Dense Storage instances. Dense Storage instances are an Amazon EC2 instance type that can provide customers with sequential I/O throughout of up to 3.9 GB/s and provide customers with up to 48 TB of instance storage across 24 hard disk drives, or offer a balance with lesser storage and memory per vCPU with ENA based networking for up to 25 Gbps of Network Bandwidth within a placement group. See Amazon EC2 Instance Types to find out more about Dense Storage instances.
+
+### Optimized CPU Configurations
+The Optimize CPUs feature gives you greater control of your Amazon EC2 instances on two fronts. First, you can specify a custom number of vCPUs when launching new instances to save on vCPU-based licensing costs. Second, you can disable multithreading for workloads that perform well with single-threaded CPUs, such as certain high-performance computing (HPC) applications. To learn more about how Optimize CPUs can help you, visit the Optimize CPUs documentation here.
+
+
+
+------------
+
