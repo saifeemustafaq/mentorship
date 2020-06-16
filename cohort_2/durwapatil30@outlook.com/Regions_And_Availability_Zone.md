@@ -135,3 +135,87 @@ _ _ _ _ _ _ _ _ _ _
 - Similar to AWS, Google Cloud Platform gathers data centers in regions comprised of zones. Google operates regions of data centers in central United States, Western Europe and East Asia.
 
 _ _ _ _ _ _ _ _ _ _
+
+## Date: June 16,2020
+
+#  What is a region pair ?
+
+##### Ans.
+
+- A regional pair consists of two regions within the same geography. Azure serializes platform updates (planned maintenance) across regional pairs, ensuring that only one region in each pair updates at a time.
+
+- If an outage affects multiple regions, at least one region in each pair will be prioritized for recovery.
+
+![](https://docs.microsoft.com/en-us/azure/media/best-practices-availability-paired-regions/georegiondatacenter.png)
+
+- Each Azure region is paired with another region within the same geography, and this makes a regional pair except for Brazil South, which is paired with a region outside its geography.
+
+- Among these regional pairs or Azure Region Pairs, only one paired region is updated at a time. The Azure Region pairs offer multiple benefits.
+
+- These regional pairs are always located greater than 300 miles apart. These Azure Region pairs are directly connected and are far enough alone to be isolated from regional disasters so that the disaster affects only one region.
+
+- These Azure Regions are paired together, within the same geographic regions, for retrieving our data even after the experience of disaster, and also for the Business Continuity and Disaster Recovery (BCDR) purpose.
+
+_ _ _ _ _ _ _ _ _ _
+
+# Benefits of paired regions :
+
+### Physical isolation :
+When possible, Azure prefers at least 300 miles of separation between datacenters in a regional pair, although this isn't practical or possible in all geographies. Physical datacenter separation reduces the likelihood of natural disasters, civil unrest, power outages, or physical network outages affecting both regions at once. Isolation is subject to the constraints within the geography (geography size, power/network infrastructure availability, regulations, etc.).
+
+### Platform-provided replication :
+Some services such as Geo-Redundant Storage provide automatic replication to the paired region.
+
+### Region recovery order :
+In the event of a broad outage, recovery of one region is prioritized out of every pair. Applications that are deployed across paired regions are guaranteed to have one of the regions recovered with priority. If an application is deployed across regions that are not paired, recovery might be delayed – in the worst case the chosen regions may be the last two to be recovered.
+
+### Sequential updates :
+Planned Azure system updates are rolled out to paired regions sequentially (not at the same time) to minimize downtime, the effect of bugs, and logical failures in the rare event of a bad update.
+
+### Data residency :
+A region resides within the same geography as its pair (with the exception of Brazil South) to meet data residency requirements for tax and law enforcement jurisdiction purposes.
+
+= = = = = = = = = =
+
+# What are fault domains ?
+
+##### Ans.
+
+- A fault domain is a set of hardware components that share a single point of failure. To be fault tolerant to a certain level, you need multiple fault domains at that level.
+
+- When you put VMs on an Availability Set, then to protect VMs from failure, Azure spread them on fault domain and update domain.
+
+![](https://1.bp.blogspot.com/-hX3asi0KRSg/XBeNeRY8SGI/AAAAAAAABKY/0fA2_89Co9ISs10-snXNdmgelaC0LPpEQCLcBGAs/s640/Fault%2BDomain.PNG)
+
+_ _ _ _ _ _ _ _ _ _
+
+# Levels of fault domains:
+
+There are four canonical levels of fault domains - site, rack, chassis, and node. Nodes are discovered automatically; each additional level is optional. For example, if your deployment does not use blade servers, the chassis level may not make sense for you.
+
+## Ignorable:
+Ignorable requires that fault levels higher in the fault hierarchy can continue operating if this fault level fails. An example might be a website that can annotate stories with social actions by your friends, but which stops showing that social context if the database they're stored in becomes unavailable, while continuing to render the remainder of the page.
+
+## Usage:
+You can use PowerShell or XML markup to specify fault domains. Both approaches are equivalent and provide full functionality.
+
+## Redundant:
+Redundant means that fault domains within the level can take over responsibility for a failed domain's responsibilities. Some examples here are nodes in a Cassandra or Memcache cluster, or an architecture design that supports the loss of an AWS Availability Zone.
+
+## Cascade:
+Cascade warns that when this fault level fails, it is neither redundant nor ignorable, and consequently the fault level above it in the fault hierarchy must take responsibility for the failure. Any single point of failure is going to operate this way, for example a traditional MySQL setup without automated failover would cascade, as would a Cassandra cluster running with read-majority configuration which was no longer able to complete majority reads.
+
+_ _ _ _ _ _ _ _ _ _
+
+# Benefits :
+
+### Storage Spaces, including Storage Spaces Direct, uses fault domains to maximize data safety :
+Resiliency in Storage Spaces is conceptually like distributed, software-defined RAID. Multiple copies of all data are kept in sync, and if hardware fails and one copy is lost, others are recopied to restore resiliency. To achieve the best possible resiliency, copies should be kept in separate fault domains.
+
+### The Health Service uses fault domains to provide more helpful alerts :
+Each fault domain can be associated with location metadata, which will automatically be included in any subsequent alerts. These descriptors can assist operations or maintenance personnel and reduce errors by disambiguating hardware.
+
+### Stretch clustering uses fault domains for storage affinity :
+Stretch clustering allows faraway servers to join a common cluster. For the best performance, applications or virtual machines should be run on servers that are nearby to those providing their storage. Fault domain awareness enables this storage affinity.
+
+= = = = = = = = = =
