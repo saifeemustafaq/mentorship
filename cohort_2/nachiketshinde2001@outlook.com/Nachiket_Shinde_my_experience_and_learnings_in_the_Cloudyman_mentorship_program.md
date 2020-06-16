@@ -13,41 +13,60 @@ I first time use GitHub
 - By Using Cloud Technology many simple computer are convert into super computer 
 - In that many work can do as no need any compromise about the project
 -------
+
+
+###  What is Cloud Computing
+  Cloud computing is the on-demand availability of computer system resources
+  Cloud platform is the best platform for data save with using space in our device
+  Cloud Technology is based on server
+  Cloud is the connect every single data from our device to server
+ 
 ## Date: May 31, 2020
 
 ## About Virtual Machines :
+
 Virtual machines are provided by many companies like Microsofts , Amazon and much more .
 this virtual machines are very benifical for us 
+
 >### cost saving 
   In pc or laptops much of the software are not run by the system requirement by using this machines work requirement are complete by at low cost and we can stop or start at any time
+
 >### security
   In our pc we can just use an Antivirus for security but it not suffcient 
   Virtual machines companies are provides more than antivirus security
- >### Flexibility
+ 
+>### Flexibility
   In that we can anytime stop or start any virtual machines without data loss
   We can easily launch any machines at any time anywhere.
- >### Mobility
+ 
+>### Mobility
   The virtual machine it can be easily use by any device from any place at any time
   virtual machine is handle by easily 
- >### Insight
+ 
+>### Insight
  the virtual machine is can be easy to handle 
  by the virtual machine data transfer speed is fast the machine can use any an social media as same
- >### Quality Control
+ 
+>### Quality Control
  In that the first thing is included the service 
  the service is best then the user are increases
  in virtual machine quality control is main purpose 
- >### Disaster Recovery
+ 
+>### Disaster Recovery
  In the our life day by day many disasters are comes
  in that our running laptop are shunt down at any time due to our cutoff.
  by using virtual machine our all work done on cloud platform
  by that service using no data lost occured or any time we can use the last work .
- >### Automatic Software update
+ 
+>### Automatic Software update
   In virtual machine we need to update or use latest version of the software or any device 
   in hand our mobile also we need latest version of operating system
   in virtual machine we need up todate for using virtual machine
   by using cloud server we need the lastest software by using virtual machine we get latest technology of software lauched by  software company
- -----------
- >### Disaster Recovery
+ 
+-----------
+ 
+>### Disaster Recovery
   In our real machine we face many problems in day to day life
   that many problems we face
   Light cutoff
@@ -60,8 +79,10 @@ this virtual machines are very benifical for us
    by virtual machine we get the surty of data 
      also we get the safty of data 
     ----
-  ## What is Virtual machine
-  In virtual machine we need just any pc or laptop of not much high performance 
+ 
+ ## What is Virtual machine
+ 
+ In virtual machine we need just any pc or laptop of not much high performance 
   just we need a simple computers 
   in the virtual machine we get an a projector like screen 
   just we can use this screen on our pc
@@ -81,25 +102,28 @@ this virtual machines are very benifical for us
  3)SaaS
  
  >### IaaS :-
- Infrastructure as a Service
+ 
+Infrastructure as a Service
  It is basic services in cloud computing
  ifra as a service is use by Microsoft Azure AWS(Amazon Web services)
   
  >### PaaS
- Platform as a Service
+ 
+Platform as a Service
  it is the application platform
  By using that application get platform for the serice can use by user
  Platform as a service is used by Google apps aws azur
  
  >### SaaS
-  Software as a Service:- 
  
+ Software as a Service:- 
  it the platform for hosting the application or software
  this type is provide the platform or hosting for the app
  Software as a service is by netflix prime and Spotify
  -----------
 >### the Cloud deployment models 
- 1) Public Cloud
+ 
+1) Public Cloud
  2) Private Cloud
  3) Hybrid Cloud
  4) Community Cloud
@@ -128,7 +152,7 @@ this virtual machines are very benifical for us
    
   - Community Cloud
    
-   In the Community Cloud Server its vost is low
+   In the Community Cloud Server its cost is low
    In that many companies can work at one place or one site
    In that many companies work on same plan at one place
    It get more privacy in that
