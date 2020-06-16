@@ -117,3 +117,47 @@
 
  5. **Data residency**: A region resides within the same geography as its pair (with the exception of Brazil South) to meet data residency requirements for tax and law enforcement jurisdiction purposes.
 
+## Fault Domains
+
+ - As every coin has two sides, just like that technology too offers so many advantages and good things but also comes with a bitter truth that is a hardware requires maintenance and hardware failures. 
+
+ - Failover enables multiple servers to work together to provide high availability or put another way, to provide node fault tolerance. But now businesses demand ever greater availability from their infrastructure. To achieve cloud like uptime, even highly unlikely occurrences such as chassis failure, rack outages, or natural disasters must be protected against. Thus we need a system with chassis, rack, and site fault tolerance as well. 
+
+### A fault domain is a set of hardware components that share a single point of failure. 
+
+ - To be fault tolerant to a certain level, you need multiple fault domains at that level. 
+
+ - So to be rack fault tolerant, your servers and your data must be distributed across multiple racks. 
+
+ - Two events Unplanned Hardware Maintenance Event and Unexpected Downtime comes under the fault domain. 
+
+ - Suppose we put two VM into availability set, then it set up VMs to two different racks so that if the network, power, etc failed, then only one rack will be affected. 
+
+ - The fault domains define the group of virtual machines that share a common power source and network switch. 
+
+ - Each fault domain contains some racks and each rack contains virtual machine. 
+
+ - Each of these fault domain shares a power supply and a network switch. 
+
+ - For example, if there is a failure in the fault domain then all the resources in the fault domain become unavailable. Therefore, you should place your VMs such a way that each fault domain get one web server, one database server and like that. 
+
+## Levels of Fault Domains
+
+   There are four canonical levels of fault domains - site, rack, chassis, and node. Nodes are discovered automatically; each additional level is optional. For example, if your deployment does not use blade servers, the chassis level may not make sense for you. 
+
+## Benefits of Fault Domains
+
+### 1. Storage Spaces, including Storage Spaces Direct, uses fault domains to maximize data safety:
+
+   Resiliency in Storage Spaces is conceptually like distributed, software-defined RAID. Multiple copies of all data are kept in sync, and if hardware fails and one copy is lost, others are recopied to restore resiliency. To achieve the best possible resiliency, copies should be kept in seperate fault domains. 
+
+### 2. The Health Service uses fault domains to provide more helpful alerts:
+
+   Each fault domain can be associated with location metadata, which will automatically be included in any subsequent alerts. These descriptors can assist operations or maintenance personnel and reduce errors by disambiguating hardware. 
+
+### 3. Sketch clustering uses fault domains for storage affinity:
+
+   Sketch clustering allows faraway servers to join a common cluster. For the best performance, applications or virtual machines should be run on servers that are nearby to those providing their storage. Fault domain awareness enables this storage affinity. 
+
+
+
