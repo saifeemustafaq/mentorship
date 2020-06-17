@@ -5,7 +5,8 @@ I first time use GitHub
 -------
 ## Date: May 29, 2020
 
->### about Todays sessions
+>### About Todays sessions
+
 - Today i learn many things on about cloud computing.
 - Cloud Computing platform is best platform 
 - It make's our work easy 
@@ -16,6 +17,7 @@ I first time use GitHub
 
 
 ###  What is Cloud Computing
+
   Cloud computing is the on-demand availability of computer system resources
   Cloud platform is the best platform for data save with using space in our device
   Cloud Technology is based on server
@@ -67,6 +69,7 @@ this virtual machines are very benifical for us
 -----------
  
 >### Disaster Recovery
+
   In our real machine we face many problems in day to day life
   that many problems we face
   Light cutoff
@@ -94,7 +97,8 @@ this virtual machines are very benifical for us
   Cloud server are provided by many companies like amazon microsoft
     Virtual machine is the emulator of the any platform 
    virtual machine is the one type of platforms just we can add any type operating system on that
-    
+ -----------
+  
  ### Types of cloud computing
 
  1)IaaS
@@ -121,6 +125,7 @@ Platform as a Service
  this type is provide the platform or hosting for the app
  Software as a service is by netflix prime and Spotify
  -----------
+
 >### the Cloud deployment models 
  
 1) Public Cloud
@@ -158,14 +163,19 @@ Platform as a Service
    It get more privacy in that
    Community cloud server is a third-party server
  
+--------------
+
  ###  an Availability Zone
  
     The availability Zone is the concept of that includes the region and low latency 
     for the data transfer in that the data of different zones are merge with. each other without any problems
     In two different regions the we get the seprate data seprate server 
     sprate power that's why the many of space need in that all type of concept are includes.
-    
+
+-------------
+   
   ### Regions 
+
   Regions are localized area
   regions are made by different of domains
   In region we get a seprate data server at one place 
@@ -173,6 +183,8 @@ Platform as a Service
   Every some Countries we get an different server for data transfer
   that why the we need different server in different region 
   it needs high bandwidth Speed it need cool area for the server
+
+----------
 
 ### Serverless Computing
 
@@ -183,6 +195,8 @@ Serverless computing get the runs the application and our peogram without any sp
 it hosted by one big server
 In that many types of application can run on one server with using different functions
 In that server we get many applications can work on that one server
+
+------------
 
 ### benefits of using Storage in the cloud
     
@@ -197,7 +211,9 @@ In that server we get many applications can work on that one server
     Many companies provide a free storage at some size 
     It can not much but it helpful 
     In that we get a some space on cloud
- 
+
+----------- 
+
  ### Type of Storage
     
    1) personal Cloud Storage
@@ -227,7 +243,7 @@ In that server we get many applications can work on that one server
      Private storage is not view by anyone
      it only use by Client only
      
-
+-------------
 
 ### Fault Domain
 
@@ -237,7 +253,7 @@ In that server we get many applications can work on that one server
     In the hardware the power machine failure and network
     fault is recovered or reboot by 30 minutes
     
-    
+------------    
 
 ### Vnet :
 
@@ -249,7 +265,8 @@ In that server we get many applications can work on that one server
     Vnet is likely similar to Firewall
     Vnet gets a security of our data and our surfing in internet
     in virtual machine we get Vnet as a firewalls
-    
+
+-----------    
 
 
 ### scaling in cloud computing
@@ -263,5 +280,6 @@ In that server we get many applications can work on that one server
  There is vertical and horizontal scale in cloud computing
  Vertical scale is facts of the biggest size of servers
   
+----------
 
  
