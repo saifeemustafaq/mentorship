@@ -100,3 +100,7 @@ Today I Learned:
 ## Date: June 17, 2020
 - Started with the Java learning from college studies.
 - Ready to download Ubuntu for Java Programming.
+## Date: June 18, 2020
+- Learned with the basics of the Python and C++.
+- Completed the course on Python by spoken tutorial in collaboration with IIT Bombay.
+- Also did an course on TCS.
