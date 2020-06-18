@@ -90,10 +90,13 @@ Today I Learned:
 - Starting 3rd semester from tomorrow, through online mode.
 - Started writing python codes from w3schools.
 ## Date: June 15, 2020
-- Started with the second year, first day teach with the architecture and organization of computer.
+- Started with the second year, first day teach with the computer architecture and organization(CAO).
 - Started implementing the python codes in Jupyter notebook.
 - Collected the second star of python on Hacker Rank.
 ## Date: June 16, 2020
 - Started with the study of the C++, amazing and awesome language.
 - Tried to make an video as a part of an Intershala Trainings ISP Captain.
 - Updated my resume on LinkedIn.
+## Date: June 17, 2020
+- Started with the Java learning from college studies.
+- Ready to download Ubuntu for Java Programming.
