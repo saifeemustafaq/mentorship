@@ -580,3 +580,31 @@ Thin layer of software known as “hypervisor” decouples the virtual machines 
 * Inspite of having so many advantages VMs also have some disadvantages:-
 - [ ] Running more than one virtual machine can lead to an unstable output.
 - [ ] Virtual machines are less efficient and slow running than a physical machine.
+## Date: May 27, 2020
+
+> ### Today I learned:-
+> #  __Container__
+> > * What is Container?
+> > * How do we use container?
+> > * Which are the service providers offering containers?
+
+# Container
+## 1. What is Container?
+* Container in cloud computing is an approach to operating system virtualization.  Through this, the user can work with a program and its dependencies using resource procedures that are isolated. It is used to build blocks, which help in producing operational efficiency, version control, developer productivity and environmental consistency.
+  * The important thing to recognize with cloud containers is that they are designed to virtualize a single application for e.g., you have a MySQL container and that's all it does, provide a virtual instance of that application. Containers create an isolation boundary at the application level rather than at the server level. 
+  * They are able to run virtually on any operating system, greatly easing development and deployment: on Linux, Windows, and Mac operating systems.
+  * Containers are a solution to the issue of how to get software to run reliably when moved from one computing environment to another.   * This service could be from a laptop to a test environment, from a staging environment into production, and perhaps from a physical machine in a data center to a virtual machine in a private or public cloud.
+  * Containers in cloud computing have evolved from a security point of view.
+## 2. How do we use container?
+*  First simply put, a container consists of an entire runtime environment with an application, plus all its dependencies, libraries and other binaries, and configuration files needed to run it, bundled into one package. By this the application platform and its dependencies, differences in OS distributions and used infrastructure are abstracted away. 
+* They rely on virtual isolation to deploy applications that access a shared operating system without the need for virtual machines. Containers hold components such as files, libraries and environment variables required to run desired software.
+* Containers create an isolation boundary at the application level not at the server level. By isolation it means that if anything goes wrong in that oe container (e.g., excessive consumption of resources) it only affects that individual container and not the whole VM or server. It also eleminates compatibility problems between containerized applications.
+## 3. Which are the service providers offering containers? 
+* Major cloud service providers which have offered containers as a service products are:-
+  * Amazon Elastic Container Service
+  * AWS Fargate
+  * Google Kubernetes Engine
+  * Microsoft Azure Container Instances (ACI)
+  * Azure Kubernetes Service
+  * IBM Cloud Kubernetes Service
+* They can also be deployed on public or private cloud infrastructure without the use of dedicated products from a cloud service provider.
