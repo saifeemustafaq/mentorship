@@ -300,3 +300,46 @@ As with compute, GCP has a smaller menu of storage services available. Cloud Sto
 GCP has the SQL-based Cloud SQL and a relational database called Cloud Spanner that is designed for mission-critical workloads. 
 - It also has two NoSQL options: Cloud Bigtable and Cloud Datastore. 
 - It does not have backup and archive services .
+
+
+----
+> # Different Key Tools offered by each providers.
+
+## AWS Key Tools:
+
+### Pagemaker to Serverless: 
+
+AWS has the longest lists of services in each of the domains. Highlights include its PageMaker service for training and deploying machine learning models, the Lex conversational interface that also powers its Alexa services, its Greengrass IoT messaging service and the Lambda serverless computing service.
+
+### AI and ML:
+
+Among its many AI-oriented services, AWS offers DeepLens, an AI powered camera for for developing and deploying machine learning algorithms to use with things like optical character recognition and image and object recognition. 
+
+AWS has announced Gluon, an open source deep learning library designed to make it easy for developers and non-developers alike to build and quickly train neural networks without having to know AI programming.
+
+
+## Azure Key Tools:
+
+### Core Services:
+
+Microsoft has also invested heavily in artificial intelligence, and it offers a machine learning service and a bot service on Azure. It also has Cognitive Services that include a Bing Web Search API, Text Analytics API, Face API, Computer Vision API and Custom Vision Service. 
+- For IoT, it has several management and analytics services.
+- Its serverless computing service is known as Functions.
+
+### Supporting MSFT Software.
+
+Not surprisingly, many of Azure’s top tools are geared around supporting on-premises Microsoft software. Azure Backup is a service that links Windows Server Backup in Windows Server 2012 R2 and Windows Server 2016.
+- Visual Studio Team Services hosts Visual Studio projects on Azure.
+
+
+## Google Key Tools:
+
+### Big on AI:
+
+For Google Cloud Platform, AI and machine learning are big areas of focus. Google is a leader in AI development thanks to TensorFlow, an open source software library for building machine learning applications.
+- The TensoreFlow library is popular and well regarded. 
+- A testament to its popularity is that AWS recently added support for TensorFlow.
+
+### IoT to Serverless:
+
+Google Cloud has strong offerings in APIs for natural language, speech, translation and more. Additionally, it offers IoT and serverless services, but both are still in testing previews.
