@@ -244,6 +244,44 @@ Because the color green is also associated with paper money, the label green clo
 - Some computers that are green may be considerably underpowered.  
 - Green computing could actually be quite costly.
 
+## Date: June 17, 2020  
+
+> #### Today I learned:  
+>> 1. Capex
+>> 2. Opex 
+
+# 1. CAPEX (*Capital Expenditure*):  
+Capital expenditures are purchases of significant goods or services that will be used to improve a company's performance in the future. Capital expenditures are typically for fixed assets like property, plant, and equipment (PP&E). For example, if an oil company buys a new drilling rig, the transaction would be a capital expenditure.
+
+One of the defining features of capital expenditures is longevity, meaning the purchases benefit the company for longer than one tax year.  
+
+### Examples of Capital Expenditure (CAPEX): 
+CAPEX represents the company's spending on physical assets. The following are common examples of capital expenditures:  
+- Manufacturing plants, equipment, and machinery
+- Building improvements
+- Computers
+- Vehicles and trucks  
+
+# 2. OPEX (*Operating Expenditure*): 
+Operating expenses are the costs a company incurs for running their day-to-day operations. These expenses must be ordinary and customary costs for the industry in which the company operates. Companies report OPEX on their income statements and can deduct OPEX from their taxes for the year in which the expenses were incurred.  
+OPEX also consists of research and development expenses and the cost of goods sold (COGS). Operating expenses are incurred through normal business operations. The goal of any company is to maximize output relative to OPEX. In this way, OPEX represents a core measurement of a company's efficiency over time.  
+
+### Examples of Operating Expenses (OPEX): 
+The following are common examples of operating expenses:  
+- Rent and utilities
+- Wages and salaries
+- Accounting and legal fees
+- Overhead costs such as selling, general, & administrative expenses (SG&A)
+- Property taxes
+- Business travel
+- Interest paid on debt  
+
+
+
+
+
+
+
 
 
 
