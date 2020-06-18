@@ -22,7 +22,10 @@ I first time use GitHub
   Cloud platform is the best platform for data save with using space in our device
   Cloud Technology is based on server
   Cloud is the connect every single data from our device to server
- 
+
+![images](https://user-images.githubusercontent.com/65771120/85022844-7d5f6700-b191-11ea-9145-03601186ff97.jpeg)
+
+
 ## Date: May 31, 2020
 
 ## About Virtual Machines :
@@ -124,7 +127,8 @@ Platform as a Service
  it the platform for hosting the application or software
  this type is provide the platform or hosting for the app
  Software as a service is by netflix prime and Spotify
- -----------
+ 
+-----------
 
 >### the Cloud deployment models 
  
@@ -163,6 +167,8 @@ Platform as a Service
    It get more privacy in that
    Community cloud server is a third-party server
  
+![images (1)](https://user-images.githubusercontent.com/65771120/85023173-024a8080-b192-11ea-9f5d-152db7198449.jpeg)
+
 --------------
 
  ###  an Availability Zone
@@ -212,6 +218,8 @@ In that server we get many applications can work on that one server
     It can not much but it helpful 
     In that we get a some space on cloud
 
+![images (2)](https://user-images.githubusercontent.com/65771120/85023352-3aea5a00-b192-11ea-84db-128bf8dabeb2.jpeg)
+
 ----------- 
 
  ### Type of Storage
@@ -242,7 +250,8 @@ In that server we get many applications can work on that one server
      Private Cloud storage is can be used by only owner of storage 
      Private storage is not view by anyone
      it only use by Client only
-     
+  
+  ![images (3)](https://user-images.githubusercontent.com/65771120/85023570-869d0380-b192-11ea-942b-85342900e365.jpeg) 
 -------------
 
 ### Fault Domain
