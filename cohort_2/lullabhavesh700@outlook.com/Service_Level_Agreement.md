@@ -53,3 +53,83 @@
    **Termination process** -- The SLA should define the circumstances under which the agreement can be terminated or will expire. The notice period from either side should also be established. 
 
    **Signatures** -- Finally, all stakeholders and authorized participants from both parties must sign the document to show their approval of every detail and process. 
+
+## How to validate SLA levels
+
+Verifying the provider's service delivery levels is necessary to the enforcement of a service level agreement. If the SLA is not being properly fulfilled, then the client may be able to claim the compensation agreed upon in the contract.
+
+Most service providers make their service-level statistics available through an online portal. This allows customer to track whether the proper service level is being maintained. If they find it is not, the portal also allows clients to see if they're eligible for compensation.
+
+These systems and processes are frequently controlled by specialized third-party companies. If this is the case, then it is necessary for the third party to also be included in the SLA negotiations. This will provide them with clarity about the service levels that should be tracked and explanations of how to track them.
+
+Tools that automate the capturing and displaying of service-levek performance data are also available.
+
+## SLAs and indemnification clauses
+
+An indemnification is a contractual obligation made by one party -- the indemnitor -- to redress the damages, losses and liabilities experienced by another party -- the indemnitee -- or by a third party. Within an SLA, an indemnification clause will require the service provider to acknowledge that the customer is not responsible for any costs incurred through violations of contract warranties. The indemnification clause will also require the service provider to pay the customer for any litigation costs from third parties that resulted from the contract breach.
+
+To limit the scope of indemnification, a service provider can:
+
+• consultant an attorney;
+
+• limit the number of indemnitees;
+
+• establish monetary caps for the clause;
+
+• create time limits; and
+
+• define the point at which the responsibility of indemnification starts.
+
+## Performance metrics
+
+SLAs establish customer expectations regarding the service provider's performance and quality in several ways. Some metrics that SLAs may specify include:
+
+ - Availability and uptime percentage -- The amount of time services are running and accessible to the customer. Uptime is generally tracked and reported per calendar month or billing cycle.
+
+ - Specific performance benchmarks -- Actual performance will be periodically conpared to these benchmarks.
+
+ - Service provider response time -- The time it takes the service provider to respond to a customer's issue or request. A larger service provider may operate a service desk to respond to customer inquiries.
+
+ - Resolution time -- The time it takes for an issue to be resolved once logged by the service provider.
+
+Other metrics include the schedule for notification in advance of network changes that kay affect users and general service usage statistics.
+
+An SLA may specify availability, performance and other parameters for different types of customer infrastructure, such as internal networks, servers and infrastructure components like **uninterruptable power supplies**.
+
+## Considerations for SLA metrics
+
+When choosing which performance metrics to include in the SLA, a company should consider the following factors.
+
+The measurements should motivate the right behavior. When defining the metrics, both parties should remember that the metrics' goal is to motivate the appropriate behavior on behalf of the service provider and the customer.
+
+The metrics should only reflect factors that are within the service provider's reasonable control. The measurements should also be easy to collect. Furthermore, both parties should resist choosing excessive amounts of metrics or measurements that produce large amounts of data. However, including too few metrics can also be a problem, as missing one could make it look like the contract has been breached.
+
+For the established metrics to be useful, a proper baseline must be established with the measurements set to reasonable and attainable performance levels. This baseline will likely be redefined throughout the parties' involvement in the agreement, using the processes specified in the periodic review and change section of the SLA.
+
+## Earn backs
+
+An earn back is a provision that may be included in the SLA that allows providers to regain service-level credits if they perform at or above the standard service level for a certain amount of time. Earn backs are a response to the standardization and popularity of service-level credits.
+
+Service-level credits, or, simply, service credits, should be the sole and exclusive remedy available to customers to compensate for service-level failures. A service credit deducts an amount of money from the total amount to be paid under the contract if the service provider fails to meet service delivery and performance standards.
+
+If both parties agree to include earn backs in the SLA, then the process should be defined carefully at the beginning of the negotiation and integrated into the service-level methodology.
+
+## Penalties: Repercussions for breaking terms
+
+In addition to establishing performance metrics, an SLA may include a plan for addressing downtime and documentation for how the service provider will compensate customers in the event of contract breach. Service credits are a typical remedy. For example, service providers might provide credits commensurate with the amount of time they exceeded the SLA's performance penalties at a maximum dollar amount to limit exposure. 
+
+The SLA will also include a section detailing exclusions, that is, situations in which am SLA's guarantees -- and penalties for failing to meet them -- don't apply. The list might include events such as natural disasters or terrorist acts. This section is sometimes reffered to as a force majeure clause, which aims to excuse the service provider from events beyond itd reasonable control. 
+
+## SLA examples
+
+There are three basic types of SLAs: customer, internal and vendor service-level agreements. 
+
+A customer service-level agreement is between the provider and an external customer. An internal SLA is between the provider an their internal customer -- this could be another organization, department or site. Finally, a vendor SLA is between the provider and the vendor. 
+
+Beyond these three types are three other classifications: customer-based, service-based and multi-level SLAs. 
+
+In a customer-based SLA, the customer and service provider come to a negotiated agreement on the services that will be provided. For example, a company may negotiate with the IT service provider that manages its billing system to define their specific relationship and expectations in detail. 
+
+In a service-based SLA, all customers working with the service provider receive similar terms. For example, a cable TV provider will indicate the services it offers to all its clients as well as the additional services, or channels, that are available as part of the package. 
+
+A multi-level SLA will divide the agreement into various levels that are specific to a series of customers using the service. For example, a **software-as-software-as-a-service** provider might offer basic services and support to all customers using a product, but they could also offer different price ranges when buying the product that dictates different service levels. These different levels of service will be layered into the multi-level SLA. 
