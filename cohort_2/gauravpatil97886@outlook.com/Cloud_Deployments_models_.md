@@ -48,6 +48,8 @@ Choosing the best one will depend on all sorts of factors. In this guide, I’m 
 ##### Private Cloud
 ##### Community Cloud
 ##### Hybrid Cloud
+
+
 -------
 - These refer to the size, placement, and access level of a cloud environment. 
 - They aren’t the same as the service models – Software as a Service (SaaS), Platform as a Service (PaaS), or Infrastructure as a Service (IaaS).
@@ -151,3 +153,147 @@ with sensitive data or specific performance needs will need another solution.
 
 
 
+## Date: 18 June 2020
+
+
+
+# community Cloud – Pros:
+
+****community cloud has many of the advantages of both public and private clouds. Those are
+
+### >Cloud configuration and security that meet the needs of your industry
+### >More scalable than private cloud
+### >Cheaper than private cloud
+
+
+- If public cloud isn‘t going work, and private cloud is too difficult, take a look for a community cloud in your industry. Or, find some buddies and set up your own! The best-case scenario is that you get cheaper access to a cloud that is configured in a way that suits your needs. Of course, a community cloud needs to exist for this to happen.
+
+- A community cloud can be configured to comply with specific data laws or performance requirements. And, because setup and running costs are shared between multiple organizations, the economy of scale savings come back. Also, if the community is quite large, flexibility and scalability will be increased for each individual organization too.
+
+
+------
+
+
+# community Cloud – Cons:
+
+The main drawbacks of using community cloud are:
+
+#### >A community cloud doesn‘t exist for every community
+#### >Compromise – won‘t get the full benefits of either public or private
+
+Firstly, there isn‘t going to be a community cloud to solve every problem. Community cloud is the newest deployment models of cloud computing.
+
+Also, the community cloud deployment model is a compromise solution. That means you won‘t get the full benefits of either public or private cloud. Community cloud will usually be more expensive than a more generic public cloud, but won‘t allow for all the customization of a private cloud.
+
+------
+
+## community Cloud – Who‘s it For?
+
+If your business has very similar cloud computing needs to many others, community cloud might be a good fit. This will be highly dependent on what‘s available in your industry.
+
+One example is NYSE Capital Market Community Platform. It‘s a kind of financial sector community cloud. Another example is AWS GovCloud. Amazon has set up a community cloud to be used by all the different parts of the US government that meet the legal and security standards they require.
+
+-----
+
+# HYBRID CLOUD
+
+The last deployment model we‘re going to look at is hybrid cloud. As you may have guessed from the name, it is a combination of any of the cloud computing deployment models we‘ve already looked at. One common use of hybrid cloud is a mix of public and private – with sensitive data staying in a ’private‘ section, and other less critical tasks done in a public cloud.
+
+Many companies are planning on using multiple clouds to use for different purposes. The 2017 RightScale State of the Cloud Survey found that 85% of respondents have a strategy to use multiple clouds. More than half said this would be in the form of hybrid cloud.
+
+![](https://www.devteam.space/wp-content/uploads/2017/09/cloudsurvey-768x408.png)
+
+A chart representing the results of a survey on the enterprise cloud strategy
+
+-----
+
+
+## Hybrid Cloud – Definition
+
+NIST definition:
+------
+
+
+The cloud infrastructure is a composition of two or more distinct cloud infrastructures (private, community, or public) that remain unique entities, but are bound together by standardized or proprietary technology that enables data and application portability (e.g., cloud bursting for load balancing between clouds)
+
+Basically, any cloud configuration that combines multiple deployment models is a hybrid cloud. As long as they are ’bound together‘ somehow to form a coherent unit.
+
+------
+
+## Hybrid Cloud – Pros
+
+Just like community cloud, the hybrid cloud deployment model aims to get benefits from multiple deployment models. By having both a private (or community) cloud that works seamlessly with a public cloud means you can
+
+
+#### >Keep sensitive data safe
+#### >Still, get some of the scalability and cost-effectiveness of public cloud
+#### >Ultimate flexibility
+
+
+
+Flexibility is the main drawcard of hybrid cloud. By combining different deployment models, you can pick and choose the perfect balance between legal compliance, security, and scalability.
+
+## Hybrid Cloud – Cons
+The main challenges of hybrid cloud are
+
+
+#### >Complexity
+#### >Difficulty communicating between cloud models
+#### >More expensive than public or community models
+
+
+
+Combining multiple deployment models means things get complicated quickly. Making sure sensitive data is completely separated from the more public parts of a hybrid cloud can be tricky. Luckily, many cloud providers are encouraging businesses to use this model and will be happy to help you get set up.
+
+------
+
+## Hybrid Cloud – Who‘s It For?
+
+Anyone that wants to pick and choose different elements from different cloud models can make use of hybrid cloud. A common example is storing and analyzing sensitive data on a private cloud, but using a public cloud for a website and public-facing applications. Another is to use a private cloud for base-level processing, but have public cloud available for sudden spikes in demand that the private cloud can‘t deal with. This is called cloud bursting, and many businesses are already using this idea to increase uptime.
+
+If neither public or private cloud meets all of your needs, perhaps a hybrid of the two will do the job.
+
+Some of the biggest providers include Microsoft, VMware, Amazon Web Services, Rackspace, Hewlett-Packard, IBM, Cisco, and Dell.
+
+-------
+
+
+## HOW TO CHOOSE BETWEEN THEM
+
+All of these models are being used extensively by companies all around the world. Each is designed to solve a specific set of problems. To find the best model for you or your company starts with defining your requirements for:
+
+#### >Scalability – Is your user activity growing quickly or unpredictable with spikes in demand?
+#### >Privacy and security – Do you have any sensitive data that doesn‘t belong on a public server?
+#### >Ease of use – How much time and money do you have to invest in learning and training?
+#### >Pricing model – What‘s your monthly subscription budget? How much capital can you spend upfront?
+#### >Flexibility – How flexible/rigid are your computing, processing, and storage needs?
+
+### ≥Legal compliance – Are there any relevant laws in your country or industry?
+
+
+Answer all of these and you‘ll have an idea of whether to go with the public, private, community, or hybrid cloud (or none at all!).
+
+-----
+
+# HOW TO GET STARTED WITH THE CLOUD
+
+Once you‘ve figured out the deployment model you want to use, the next step is to choose a service provider and get set up. Picking one is a whole different topic [we go into in more detail here](https://www.devteam.space/blog/top-10-cloud-computing-services-providers/#INFRASTRUCTURE_AS_A_SERVICE) . At the moment, it looks like Amazon and Microsoft are going to dominate the consumer cloud market for a while. If you‘re unsure, there are companies out there that will be happy to help you get started with cloud computing. They can help you choose the right cloud model and configuration, migrate your current systems over to the cloud, and even start building your own cloud-native applications.
+
+Cloud computing can help you keep up with leaders in your industry and gain a serious advantage over others. New tools and [ideas like DevOps](https://www.devteam.space/blog/devops-implementation-best-practices/) 
+are helping businesse deliver services over the internet faster and more reliably than ever before. Right now is the perfect time to get started with the cloud.
+
+
+-------
+
+# CONCLUSION
+
+An illustration depicting public, private, and hybrid cloud
+
+Cloud computing is now making its way into the lives of every business and individual. Understanding these 4 main deployment models can help you strike the right balance of scalability, cost, security, control, and legal compliance for your unique business needs.
+
+Check out some of our other articles for more info on cloud computing!
+
+![](https://www.devteam.space/wp-content/uploads/2017/09/public-private-hybrid-cloud.png)
+
+
+------
