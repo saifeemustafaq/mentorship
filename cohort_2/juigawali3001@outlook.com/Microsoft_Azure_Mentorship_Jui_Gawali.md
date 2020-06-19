@@ -36,6 +36,48 @@ In short, a multicloud, hybrid cloud approach gives you the best of both the pri
 ![alt.update domain](http://www.thatlazyadmin.com/wp-content/uploads/2017/10/word-image-11.png)
 
 
+## Date: June 18,2020.
+
+## What is serverless computing?
+> Serverless computing enables developers to build applications faster by eliminating the need for them to manage infrastructure. With serverless applications, the cloud service provider automatically provisions, scales and manages the infrastructure required to run the code.
+In understanding the definition of serverless computing, it is important to note that servers are still running the code. The serverless name comes from the fact that the tasks associated with infrastructure provisioning and management are invisible to the developer. This approach enables developers to increase their focus on the business logic and deliver more value to the core of the business. Serverless computing helps teams increase their productivity and bring products to market faster and it allows organisations to better optimise resources and stay focused on innovation.
+
+![alt.serverless computing](https://blog.sysfore.com/wp-content/uploads/2018/02/Enhance-developer-productivity-2.png)
+
+## Benefits of serverless computing:
+
+- No infrastructure Management:
+Using fully managed services enables developers to avoid administrative tasks and focus on core business logic. With a serverless platform, you simply deploy your code and it runs with high availability.
+- Dynamic Scalability:
+With serverless computing, the infrastructure dynamically scales up and down within seconds to match the demands of any workload.
+- Faster Time to Market:
+Serverless applications reduce the operations dependencies on each development cycle, increasing development teams’ agility to deliver more functionality in less time.
+- More Efficient Use of Resources:
+Shifting to serverless technologies helps organisations reduce TCO and reallocate resources to accelerate the pace of innovation.
+
+## Serverless Application Patterns:
+
+![alt.pattern](https://azurecomcdn.azureedge.net/cvt-766476b1d11c55c04f5caea524dfd4f117de6df31ff650db4fa65ac534715da7/images/page/overview/serverless-computing/serverless-platform.svg)
+> Developers build serverless applications using a variety of application patterns—many of which align with approaches that are already familiar—to meet specific requirements and business needs.
+
+- Serverless Functions:
+> Serverless functions accelerate development by using an event-driven model, with triggers that automatically execute code to respond to events and bindings to seamlessly integrate additional services. A pay-per-execution model with sub-second billing charges only for the time and resources it takes to execute the code.
+
+- Serverless Kubernetes:
+> Developers bring their own containers to fully managed, Kubernetes-orchestrated clusters that can automatically scale up and down with sudden changes in traffic on spiky workloads.
+
+- Serverless Workflows:
+> Serverless workflows take a low-code/no-code approach to simplify orchestration of combined tasks. Developers can integrate different services (either cloud or on-premises) without coding those interactions, having to maintain glue code or learning new APIs or specifications.
+
+- Serverless Application Environment:
+> With a serverless application environment, both the back end and front end are hosted on fully managed services that handle scaling, security and compliance requirements.
+
+- Serverless API Gateway:
+> A serverless API gateway is a centralised, fully managed entry point for serverless backend services. It enables developers to publish, manage, secure and analyse APIs at global scale.
+
+
+
+
 
 
 
