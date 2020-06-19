@@ -224,10 +224,32 @@ Microsoft publishes the Service Level Agreements linked with the Windows Azure P
 > Service Level Agreements are based on the usage model. Frequently, cloud providers charge their pay-as-per-use resources at a premium and deploy standards Service Level Agreements only for that purpose. Clients can also subscribe at different levels that guarantees access to a particular amount of purchased resources. The Service Level Agreements (SLAs) attached to a subscription many times offer various terms and conditions. If client requires access to a particular level of resources, then the client need to subscribe to a service. A usage model may not deliver that level of access under peak load condition.
 
 
+## Date: June 20,2020.
 
+## What is Scaling in Cloud Computing?
 
+> Scaling is defined as the ability for an IT resource to handle growing or decreasing demands in a capable manner. It is one of the most popular and beneficial features of cloud computing, as businesses can scale up or down to meet demands based on season, projects, growth and more. By implementing cloud scalability, you enable your resources to grow as your traffic or organization grows, and vice versa. There are a few main ways to scale in the cloud:
 
+## Types of Scalings:
+- Vertical Scaling
+- Horizontal Scaling
+- Diagonal Scaling
 
+### Vertical Scaling:
+> To understand vertical scaling, envision a 20-story hotel. Within this hotel, there are countless rooms that guests constantly move in and out of. There are often spaces available, as not all of the rooms are occupied at the same time. People can easily come and go because there is space to accommodate them. As long as the capacity of this hotel is not exceeded, there is no issue. This is vertical scaling.
+> With computing, you can add or subtract resources, including memory or storage, within a server as long as the resources do not exceed the capacity of the machine itself. Similar to the hotel example, resources can come and go easily and quickly, as long as there is room for them. Though it has limitations, this is a way to beef up your server and avoid latency and extra management.
+
+### Horizontal Scaling:
+> Horizontal scaling is a bit different. This time, imagine a two-lane highway. Cars easily travel in each direction without huge traffic issues. But then the area surrounding the highway is developed – new buildings are built and traffic increases. Pretty soon, this two-lane highway is clogged with cars, and accidents become commonplace. It’s clear that two-lanes are no longer enough. In order to avoid these issues, more lanes are added and an overpass is constructed. While this takes a significant amount of time, it solves the problem.
+> Horizontal scaling refers to adding more servers to your network, rather than simply adding resources like with vertical scaling. This method tends to take more time and is more complex, but it allows you to connect servers together, handle traffic efficiently and execute concurrent workloads.
+
+### Diagonal Scaling:
+> So what happens if you combine the two scaling methods? Well, you get diagonal scaling, which allows you to experience the most efficient infrastructure scaling. When you combine vertical and horizontal, you simply grow within your existing server until you hit the capacity. Then, you can clone that server as necessary and continue the process, allowing you to deal with a lot of requests and traffic concurrently.
+
+## Scale in the Cloud:
+> When you move scaling into the cloud, you experience an enormous amount of flexibility that saves both money and time for a business. When your demand booms, it’s easy to scale up to accommodate the new load. As things level out again, you can scale down accordingly. This is so significant because cloud computing uses a pay-as-you-go model. Traditionally, professionals guess their maximum capacity needs and purchase everything up front. If they overestimate, they pay for unused resources. If they underestimate, they don’t have the services and resources necessary to operate effectively. With cloud scaling, though, businesses get the capacity they need when they need it, and they simply pay based on usage. This on-demand nature is what makes the cloud so appealing. You can start small and adjust as you go. It’s quick, it’s easy, and you’re in control.
+
+> The benefits of the scalable cloud are clear. You can support business growth without making expensive or timely changes to your current setup. With a managed cloud provider, it’s quick and easy to get the resources you need as you need them, and you’re not bound by the size of your server closet. The cloud provider will ensure that overloading is never a concern, as their team will manage the servers within the data center. When you grow, the cloud will grow.
 
 
 
