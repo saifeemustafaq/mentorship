@@ -104,3 +104,7 @@ Today I Learned:
 - Learned with the basics of the Python and C++.
 - Completed the course on Python by spoken tutorial in collaboration with IIT Bombay.
 - Also did an course on TCS.
+## Date: June 19, 2020
+- Did an online test on International Yoga Day, and got an participation e-certificate.
+- Started to read C++ from basics to perform well in future programmes.
+- Finding an best internship to perfrom in this lock-down.
