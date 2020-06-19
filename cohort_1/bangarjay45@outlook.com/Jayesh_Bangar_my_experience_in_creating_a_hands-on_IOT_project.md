@@ -95,6 +95,27 @@
 
 ![Module](https://user-images.githubusercontent.com/65165798/84678584-d474fa00-af4d-11ea-8f88-fa38ff9acee6.jpg)
 
+----
 
+### First we have to set up the BOLT WIFI MODULE and make sure that it is connected to Bolt Cloud and the Green LED on Bolt Module is Glowing. 
 
+- If not then follow the steps in this project to setup the device: [Setting Up the Bolt WiFi Module](https://docs.boltiot.com/docs/setting-up-the-bolt-wifi-module)
 
+## Step 1: Building the circuit
+
+Make sure you have not powered on your Bolt Module while connecting the circuit.
+This will ensure that in case we make any mistake, it will not short circuit your device. 
+Switch off the power if it is connected.
+
+> #### Connect one end of the LDR to the A0 (analog) pin of the Bolt device and other ends of the LDR to the 3V3 pin of the Bolt as shown in the image below.
+![m1_t4_s2_i3](https://user-images.githubusercontent.com/65165798/85008441-a0325100-b17a-11ea-95c1-3cbaef0b4b46.jpg)
+ 
+ 
+> #### Connect the 10K ohm resistor between the GND and A0 pin of the Bolt so that LDR and the resistor form a series connection. 
+![m1_t4_s2_i5](https://user-images.githubusercontent.com/65165798/85008586-cce66880-b17a-11ea-8fcb-e9aa1aba11a0.jpg)
+
+- Warning!! Make sure that at no point do the 3.3V (or even 5V) and GND pins or wires coming out of them touch each other.
+- If you short power to Ground without a resistor even accidentally, the current drawn might be high enough to destroy the Bolt module 
+
+### Thus, we are effectively measuring the voltage across the 10k Ohm Resistor and the final circuit should look like the image below:
+![m1_t4_s2_i6](https://user-images.githubusercontent.com/65165798/85008817-1df65c80-b17b-11ea-84cc-777a4e45e3d9.jpg)
