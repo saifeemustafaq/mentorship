@@ -104,3 +104,6 @@ Today I Learned:
 - Learned with the basics of the Python and C++.
 - Completed the course on Python by spoken tutorial in collaboration with IIT Bombay.
 - Also did an course on TCS.
+## Date: June 20, 2020
+- Attended an webinar on python basics.
+- Seen an Talk on Mars Rover Mission, by Gabe Gabrielle on You Tube live. 
