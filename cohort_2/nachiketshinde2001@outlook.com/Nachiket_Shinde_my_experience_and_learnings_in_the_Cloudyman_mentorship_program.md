@@ -128,6 +128,16 @@ Platform as a Service
  this type is provide the platform or hosting for the app
  Software as a service is by netflix prime and Spotify
  
+ >### Benifits
+ 
+    developer can focus on development infrastructure of cloud
+    Developer can develop the program without any restriction
+    It developes without any efforts
+    SaaS has been efficiently managing application development phases in the cloud that includes testing
+    It is work without any conditions it just need internet connection
+     
+   ![iaas-paas-saas-diagram3-1638x1046](https://user-images.githubusercontent.com/65771120/85202612-3bffc080-b325-11ea-8ae5-39fdd1d814ad.png)
+
 -----------
 
 >### the Cloud deployment models 
