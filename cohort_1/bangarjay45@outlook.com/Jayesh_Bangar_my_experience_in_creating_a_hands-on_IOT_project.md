@@ -97,15 +97,18 @@
 
 ----
 
-### First we have to set up the BOLT WIFI MODULE and make sure that it is connected to Bolt Cloud and the Green LED on Bolt Module is Glowing. 
-
-- If not then follow the steps in this project to setup the device: [Setting Up the Bolt WiFi Module](https://docs.boltiot.com/docs/setting-up-the-bolt-wifi-module)
+# **PROCEDURE:**
+ 
 
 ## Step 1: Building the circuit
 
-Make sure you have not powered on your Bolt Module while connecting the circuit.
-This will ensure that in case we make any mistake, it will not short circuit your device. 
-Switch off the power if it is connected.
+#### First we have to set up the BOLT WIFI MODULE and make sure that it is connected to Bolt Cloud and the Green LED on Bolt Module is Glowing.
+
+- If you dont know how to, then follow the steps in this project to setup the device: [Setting Up the Bolt WiFi Module](https://docs.boltiot.com/docs/setting-up-the-bolt-wifi-module)
+- Make sure you have not powered on your Bolt Module while connecting the circuit.
+- This will ensure that in case we make any mistake, it will not short circuit your device. 
+- Switch off the power if it is connected.
+
 
 > #### Connect one end of the LDR to the A0 (analog) pin of the Bolt device and other ends of the LDR to the 3V3 pin of the Bolt as shown in the image below.
 ![m1_t4_s2_i3](https://user-images.githubusercontent.com/65165798/85008441-a0325100-b17a-11ea-95c1-3cbaef0b4b46.jpg)
@@ -117,5 +120,62 @@ Switch off the power if it is connected.
 - Warning!! Make sure that at no point do the 3.3V (or even 5V) and GND pins or wires coming out of them touch each other.
 - If you short power to Ground without a resistor even accidentally, the current drawn might be high enough to destroy the Bolt module 
 
+
 ### Thus, we are effectively measuring the voltage across the 10k Ohm Resistor and the final circuit should look like the image below:
 ![m1_t4_s2_i6](https://user-images.githubusercontent.com/65165798/85008817-1df65c80-b17b-11ea-84cc-777a4e45e3d9.jpg)
+
+
+#### Now our circuit is ready. We may power on your device.
+
+
+## Step 2: Connecting the circuit to the Cloud
+
+#### Connect our Bolt device to the Bolt Cloud. We can skip this step if we already connected our Bolt device to the Bolt Cloud.
+
+- To check if it is connected to Cloud, have a look at the green coloured Cloud LED on the Bolt WiFi module. It should be glowing.
+![connections_wjwozpHcJ3](https://user-images.githubusercontent.com/65165798/85202151-fc83a500-b321-11ea-8c57-a3004b3584fb.jpeg)
+ 
+## Step 3: Configuring the Product
+
+Next Step will be to write the Software Coding for out project.
+
+- Visit Cloud [cloud.boltiot.com](cloud.boltiot.com) and Login into your Account.
+- Once we Login into our account, We'll see your Bolt Device which we have previously Linked to the Bolt Cloud.
+
+![Screenshot (15)](https://user-images.githubusercontent.com/65165798/85203020-62732b00-b328-11ea-825a-dfd40b0822a4.png)
+
+- We now need to create a **Product** with all our Code and Configurations for our project.
+
+- Then we have to Click on the Products tab.
+
+![Screenshot (23)](https://user-images.githubusercontent.com/65165798/85203233-e843a600-b329-11ea-92c6-7c650c759aeb.png)
+
+- Give a name and assign a image to your product.
+
+- We are naming our product as Plant_Monitor.
+
+![Screenshot (24)](https://user-images.githubusercontent.com/65165798/85203341-ac5d1080-b32a-11ea-87f4-2af660913130.png)
+
+- Now we are using our product as a Input Device for collecting the Light Intensity Data and also LDR is a Input device.
+
+- We are collecting our data as a GPIO (General purpose Input/Output) and then click on the done button.
+
+
+![Screenshot (17)](https://user-images.githubusercontent.com/65165798/85203474-c64b2300-b32b-11ea-864e-ca1d616a8501.png)
+This will take you to the products page. Thus we have created a new **Product for our light monitoring system.**
+
+- Products are created once and can be used for multiple Bolt devices. 
+- This ensures scalability for IoT products we build on Bolt.
+
+## Step 4: Configuring the Product:
+
+Click on the Configure icon.
+
+![Screenshot (25)](https://user-images.githubusercontent.com/65165798/85203615-93edf580-b32c-11ea-988b-a17caee20ac5.png)
+
+- It will take you to the new Configuration page that has two tabs i.e. 
+1. Hardware
+2. Code
+
+![Screenshot (20)](https://user-images.githubusercontent.com/65165798/85203676-ee875180-b32c-11ea-8d45-20eec3da3a6b.png)
+
