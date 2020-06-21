@@ -70,3 +70,20 @@ to a 48-hour data recovery window for some of their applications, then the provi
 meaningful to them. And if the cloud computing provider fails an agreement, then the customer has recourse via negotiated penalties.
 Although these penalties will not necessarily replace lost revenue, they can be excellent motivators when the cloud computing provider
 is paying $3,000 a day while a service is down.
+ 
+ 
+# Date: June 20, 2020
+
+# What is Uptime? 
+
+Uptime simply means the duration for which any equipment or system will remain active or function properly. Similarly, in the cloud hosting services, by uptime we mean the time for which you will be able to access Cloud network system or you will be able to get advantages of cloud service.
+
+Different cloud hosting service providers offer different Cloud Uptime. Suppose a cloud service provider offers 99.5% Cloud Uptime. This means that the cloud server will function well for the complete year, except 1.83 days. However, Cloud Uptime promise does not include server maintenance time and scheduled outage.
+
+-----------
+
+# What is Downtime (cloud service)?
+
+Downtime is a period of time in which the service is unavailable or not working due to unexpected circumstances such as outages, maintenance activities or updating periods.
+
+With the advent of virtualization and cloud computing services, a consistent and all-round service is a necessity. Customers who are looking for cloud services would only be convinced if the cloud solution is promised to perform better instead of an on-premise solution. Downtime or availability is considered to be one of the most important factors to consider when implementing a new cloud service to the solution lineup.
