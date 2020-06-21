@@ -339,6 +339,122 @@ Virtual hard drives: These are extensions of the virtual machines; they provide 
 
  Enforce penalties for SLA violation if there is any party violating contract terms, the corresponding penalty clauses are invoked and     executed. 
  
+ ---
+ 
+ ## Date:June 21, 2020
+ 
+> # Who needs a service-level agreement?
+
+ - SLAs are thought to have originated with network service providers but are now widely used in a range of IT-related fields. Some examples of industries that establish SLAs include IT service providers and managed service providers, as well as cloud computing and internet service providers.
+
+- Corporate IT organizations, particularly those who have embraced IT service management, enter SLAs with their in-house customers -- users in other departments within the enterprise. An IT department creates an SLA so that its services can be measured, justified and perhaps compared with those of outsourcing vendors.
+ 
+> # What does the SLA actually cover ?
+
+Exact metrics of a service level are different among providers. Additionally they are different for individual services acquired by the end customer. The SLA commonly defines the responsibilities of the service in regards to availability and performance. Some of the performance metrics include:
+
+- Agreed service availability.
+
+- Agreed service performance metrics.
+
+- Agreed support availability.
+
+- Agreed support performance metrics.
+
+Clearly defining the service levels expected of the service provider helps both parties eliminate the grey areas often involved in the provision of services. The SLA defines the level of service expected. Within a service level agreement, it’s possible to include financial incentives for exceeding goals and penalties for failing to meet a certain level of service. Typically, telecommunication services are set with penalties for the provider in the event that they are outside the SLA agreed metrics.
+ 
+ ### **Service level agreements are also defined at different levels which are mentioned below:**
+ 
+ - Customer-based SLA
+ 
+ - Service-based SLA
+ 
+ - Multilevel SLA
+ 
+ 
+ ## Customer-based service level agreements: 
+ 
+ The service provider and customer formulate an SLA based on the services that will be provided. For instance, an IT service provider     may help your business with its payroll system or billing system. The SLA defines that relationship in detail.
+ 
+ ## Service-based service level agreements: 
+ 
+ All customers working with a service provider receive similar terms. If you have a mobile service provider (and who hasn’t?), it will indicate what services it routinely offers and what additional services are available to its clients as part of the package.
+ 
+ ## Multi-level service level agreements: 
+ 
+ A single SLA can be divided into levels that specify a series of customers using a single service.
+ 
+- **Corporate-level SLA:**
+
+Covering all the generic service level management issues appropriate to every customer throughout the organization. These issues are likely to be less volatile and so updates are less frequently required.
+
+- **Customer-level SLA:**
+
+covering all SLM issues relevant to the particular customer group, regardless of the services being used.
+
+- **Service-level SLA:**
+
+covering all SLM issue relevant to the specific services, in relation to this specific customer group.
+ 
+ --- 
+ 
+- ### **Service Level Agreements usually specify some parameters which are mentioned below:**
+ 
+1. Availability of the Service (uptime) 
+
+2. Latency or the response time 
+ 
+3. Service components reliability 
+ 
+4. Each party accountability 
+
+5.  Warranties 
+
+Service Level Agreements are like insurance policies in which the corporation has to pay as per the agreements if any casualty occurs. Microsoft publishes the Service Level Agreements linked with the Windows Azure Platform components, which is demonstrative of industry practice for cloud service vendors. Each individual component has its own Service Level Agreements. 
+
+- ### **Below are two major Service Level Agreements (SLA) described:**
+
+## 1.Windows Azure SLA –
+
+  - Window Azure has different SLA’s for compute and storage. For compute, there is a guarantee that when a client deploys two or more role instances in separate fault and upgrade domains, client’s internet facing roles will have external connectivity minimum 99.95% of the time. Moreover, all of the role instances of the client are monitored and there is guarantee of detection 99.9% of the time when a role instance’s process is not runs and initiates properly.
+ 
+ 
+## 2. SQL Azure SLA –
+
+   - SQL Azure clients will have connectivity between the database and internet gateway of SQL Azure. SQL Azure will handle a “Monthly Availability” of 99.9% within a month. Monthly Availability Proportion for a particular tenant database is the ratio of the time the database was available to customers to the total time in a month. Time is measured in some intervals of minutes in a 30-day monthly cycle. Availability is always remunerated for a complete month. A portion of time is marked as unavailable if the customer’s attempts to connect to a database are denied by the SQL Azure gateway.
+
+  - Service Level Agreements are based on the usage model. Frequently, cloud providers charge their pay-as-per-use resources at a premium and deploy standards Service Level Agreements only for that purpose. Clients can also subscribe at different levels that guarantees access to a particular amount of purchased resources. The Service Level Agreements (SLAs) attached to a subscription many times offer various terms and conditions. If client requires access to a particular level of resources, then the client need to subscribe to a service. A usage model may not deliver that level of access under peak load condition.
+ 
+
+ > # ***Benefits of the SLA :***
+
+- Protects both parties. When internal IT deploys a new application, they work closely with end users to make sure everything isworking. They track application success by emails and phone calls, and if there is a problem they get on the phone with the vendor to solve it. However, it doesn’t work like that with a business customer and their cloud provider. An SLA details expectations and reporting, so the customer knows exactly what to expect and what everyone’s responsibilities are.
+
+- Guarantees service level objectives. The cloud provider agrees to the customer’s SLOs and can prove it reached them. If there is a problem, then there is a clear response and solution mechanism. This also protects the provider. If a customer saved money by agreeing to a 48-hour data recovery window for some of their applications, then the provider is entirely within its rights if it takes 47 hours.
+
+- Quality of service. The customer does not have to guess or assume levels of service. They get frequent reports on the metrics that are meaningful to them. And if the cloud computing provider fails an agreement, then the customer has recourse via negotiated penalties. Although these penalties will not necessarily replace lost revenue, they can be excellent motivators when the cloud computing provider is paying $3,000 a day while a service is down.
+
+
+> # ***SLAs features include:***
+
+1. Specific details and scope of provided services, including priorities, responsibilities and guarantees
+
+2.  Specific, expected and measurable services at minimum or target levels
+
+3. Informal or legally binding
+
+4. Descriptive tracking and reporting guidelines
+
+5. Detailed problem management procedures
+
+6. Detailed fees and expenses
+
+7. Customer duties and responsibilities
+
+8. Disaster recovery procedures
+
+9. Agreement termination clauses
+ 
  > # ***Cloud uptime***
  
  - Uptime is the amount of time that a service is available and operational. Uptime is generally the most important metric for a 
