@@ -133,3 +133,15 @@ In a customer-based SLA, the customer and service provider come to a negotiated 
 In a service-based SLA, all customers working with the service provider receive similar terms. For example, a cable TV provider will indicate the services it offers to all its clients as well as the additional services, or channels, that are available as part of the package. 
 
 A multi-level SLA will divide the agreement into various levels that are specific to a series of customers using the service. For example, a **software-as-software-as-a-service** provider might offer basic services and support to all customers using a product, but they could also offer different price ranges when buying the product that dictates different service levels. These different levels of service will be layered into the multi-level SLA. 
+
+One specific example of an SLA is a **data center** service-level agreement. This SLA will include:
+
+ - An uptime guarantee that indicates the percentage of time the system is available. Nothing less than a 99.99% uptime should be considered acceptable for modern, enterprise-level data centers. 
+
+ - A definition of proper environmental conditions. This should include oversight and maintenance practices as well as heating and cooling standards. 
+
+ - The promise of technical support. Customers must be confident that data center staff will respond quickly and effectively to any problem, and they will be available at anytime to address it. 
+
+ - Detailed security precautions that will keep the customer's assets secure. This could include cyber security measures that protect against cyber attacks as well as physical security measures that restrict data center access to authorized personnel. Physical security features could include **two-factor authentication**, gated entries, cameras and biometric authentication. 
+
+Another specific example of an SLA is an internet service provider service-level agreement. This SLA will include an uptime guarantee but it will also define packet delivery expectations and latency. Packet delivery refers to the percen5of data packets that are received compared to the total number of data packets sent. Latency is the amount of time it takes a packet to travel between clients and servers. 
