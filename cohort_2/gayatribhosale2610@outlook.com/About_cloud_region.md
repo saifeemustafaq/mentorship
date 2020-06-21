@@ -141,3 +141,28 @@ Each fault domain can be associated with location metadata, which will automatic
 
 ### - Stretch clustering uses fault domains for storage affinity. 
 Stretch clustering allows faraway servers to join a common cluster. For the best performance, applications or virtual machines should be run on servers that are nearby to those providing their storage. Fault domain awareness enables this storage affinity.
+
+-----------
+
+# What is Container?
+
+- A Container in cloud computing is an approach to operating system virtualization. By this, the user can work with a program and its dependencies using resource procedures that are isolated. The code of the application can be bundled with configurations and dependencies in a systematic manner.
+
+- Container in cloud computing is used to build blocks, which help in producing operational efficiency, version control, developer productivity and environmental consistency. Because of this, the user is assured of reliability, consistency, and quickness regardless of the distributed platform. The infrastructure is enhanced since it provides more control over the granular activities on resources. The container usage in online services benefits storage with cloud computing information security, availability and elasticity.
+
+## Working of Containers
+Users could find runtime components such as libraries, files, and environment variables in application containers. The runtime components are mandatory for running software. Containers share resources without the need for a complete operating system for each app. The container holds a complete set of instructions for execution in the image.
+
+The container engine helps in the deployment of images on hosts. One of the common examples is the containers docker platform, such as the open-source Docker engine and container. The basis of Docker engine and container is universal runtime runC. The primary competitive offering for Docker is the ‘CoreOS’ rkt container engine which depends on App Container (appc).
+
+The ‘appc’ spec is ideal open, standard container format on ‘CoreOS’ rkt container engine. One of the primary concerns that arise with containerization is the possibility of vendor lock-in by users and ecosystem partners. However, the vast assortment of open source technology underlying the container products reduces the risks of vendor lock-in.
+
+## Advantages of a Container in Cloud Computing:
+
+- **The Consistency in Cloud Storage:** The container enhances portability. It eliminates the organizational and technical frictions so that the program moves through the entire process cycle. It encapsulates the core files of an application and software server and dependencies like a building block. This can be distributed on any resource. The manual configuration of each server is thus completely avoided enabling the users to announce a new feature.
+
+- **Application Version Control:** Through container in cloud computing, the users can look on the current version of the application code as well as their dependencies. A manifest file is managed by the Docker containers. The users can easily hold and track the editions of container, look for differences between the container editions and roll-back to earlier versions if needed.
+
+- **Efficiency in the Operational Activities:** The users can achieve more resources through the container in cloud computing. By this, the users can also work at a time on several applications. The required memory, disk space and CPU consumed by the container have to be specified. Since each of the containers is a process of the operating system that works on an application and associated programs, the containers have a fast boot time. The users can quickly enter and exit the application and also measure it in up and down. The applications are separated from each other through the isolation procedure. This concept has no shared incompatibilities or dependencies.
+
+- **Productivity of the Developers:** The containers deduct the dependencies and conflicts between the cross-service and thus the productivity increases. The component of the program is segregated into different entities that run a separate micro-service. There is no worry about the libraries and dependencies that are being synced for each service because the containers are isolated from each other. Each service can be upgraded independently as they are not in touch with each other.

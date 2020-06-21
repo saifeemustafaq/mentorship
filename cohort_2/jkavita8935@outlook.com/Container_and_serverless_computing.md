@@ -79,3 +79,72 @@ With FaaS, developers can create simple functions that independently perform a s
 ## Quicker turnaround - 
 
 Serverless architecture can significantly cut time to market. Instead of needing a complicated deploy process to roll out bug fixes and new features, developers can add and modify code on a piecemeal basis.
+
+## Date: June 20, 2020
+
+> # Containers in Azure:
+
+- A container is a modified runtime environment built on top of a host OS that executes your application. A container doesn't use         virtualization, so it doesn't waste resources simulating virtual hardware with a redundant OS. This environment typically makes         containers more lightweight than VMs. 
+ 
+- This design allows you to respond quickly to changes in demand or failure. Another benefit of containers is you can run multiple         isolated applications on a single container host. Since containers are secured and isolated, you don't need separate servers for each   app.
+
+
+### Azure supports Docker containers (a standardized container model), and there are several ways to manage containers in Azure.
+
+- 1. Azure Container Instances (ACI)
+
+- 2. Azure Kubernetes Service (AKS)
+
+## 1. Azure Container Instances:
+
+- Azure Container Instances (ACI) offers the fastest and simplest way to run a container in Azure. You don't have to manage any virtual machines or configure any additional services. It is a PaaS offering that allows you to upload your containers and execute them directly with automatic elastic scale.
+
+## 2. Azure Kubernetes Service:
+
+- The task of automating, managing, and interacting with a large number of containers is known as orchestration. Azure Kubernetes Service (AKS) is a complete orchestration service for containers with distributed architectures with multiple containers.
+
+> # Migrating apps to containers:
+
+We can move existing applications to containers and run them within AKS. We can control access via integration with Azure Active Directory (Azure AD) and access Service Level Agreement (SLA)–backed Azure services, such as Azure Database for MySQL for any data needs, via Open Service Broker for Azure (OSBA).
+
+![](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/media/migrate-existing-applications-with-aks.png)
+
+## Data Flow:
+
+1. User converts existing application to container(s) & publishes container image(s)to the Azure Container Registry.
+
+2. Using Azure Portal or command line, user deploys containers to AKS cluster.
+
+3. Azure Active Directory is used to control access to AKS resources.
+
+4. Easily access SLA-backed Azure Services such as Azure Database for MySQL using OSBA (Open Service Broker for Azure).
+
+5. Optionally, AKS can be deployed with a VNET virtual network.
+
+> # Serverless computing in Azure :
+
+With serverless computing, Azure takes care of managing the server infrastructure and allocation/deallocation of resources based on demand. Infrastructure isn't your responsibility. Scaling and performance are handled automatically, and you are billed only for the exact resources you use. There's no need to even reserve capacity.
+
+> # Serverless computing have three ideas:
+
+## 1. Abstraction of servers:
+
+- Serverless computing abstracts the servers user run on. User never explicitly reserve server instances; the platform manages that for user. Each function execution can run on a different compute instance, and this execution context is transparent to the code. With serverless architecture, user simply deploy your code, which then runs with high availability.
+
+## 2. Event-driven scale:
+
+- Serverless computing is an excellent fit for workloads that respond to incoming events. Events include triggers by timers , HTTP , queues and much more. Instead of writing an entire application, the developer authors a function, which contains both code and metadata about its triggers and bindings. 
+
+- The platform automatically schedules the function to run and scales the number of compute instances based on the rate of incoming events. Triggers define how a function is invoked and bindings provide a declarative way to connect to services from within the code.
+
+## 3. Micro-billing:
+
+- Traditional computing has the notion of per-second billing, but often, that's not as useful as it seems. Even if a customer's website gets only one hit a day, they still pay for a full day's worth of availability. With serverless computing, they pay only for the time their code runs. If no active function executions occur, they're not charged. 
+
+**Example :** if the code runs once a day for two minutes, they're charged for one execution and two minutes of computing time.
+
+> # Azure has two implementations of serverless compute:
+
+- **Azure Functions** which can execute code in almost any modern language.
+
+- **Azure Logic Apps** which are designed in a web-based designer and can execute logic triggered by Azure services without writing any code.
