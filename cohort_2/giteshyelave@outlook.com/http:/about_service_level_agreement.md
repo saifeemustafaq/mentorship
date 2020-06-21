@@ -22,6 +22,78 @@ _ _ _ _ _ _ _ _ _ _
 
 # Key components of an SLA :
 
+## Date:June 20, 2020
+
+# What is scaling in cloud computing?
+
+##### Ans.
+
+- Scalability refers to the idea of a system in which every application or piece of infrastructure can be expanded to handle increased load.
+
+- Scalability is the ability to easily add or subtract compute or storage resources.
+
+- By implementing cloud scalability, you enable your resources to grow as your traffic or organization grows, and vice versa.
+
+- When talking about scalability in cloud computing, you will often hear about two main ways of scaling – horizontal or vertical. Let’s look deeper into these terms.
+
+## 1.Vertical scaling :
+
+- Vertical is often thought of as the “easier” of the two methods. When scaling a system vertically, you add more power to an existing instance.
+
+- This can mean more memory (RAM), faster storage such as Solid State Drives (SSDs), or more powerful processors (CPUs).
+
+- The reason this is thought to be the easier option is that hardware is often trivial to upgrade on cloud platforms like AWS, where servers are already virtualized. There is also very little (if any) additional configuration you are required to do at the software level.
+
+## 2.Horizontal scaling :
+
+- Horizontal scaling is slightly more complex. When scaling your systems horizontally, you generally add more servers to spread the load across multiple machines.
+
+- With this, however, comes added complexity to your system. You now have multiple servers that require the general administration tasks such as updates, security and monitoring but you must also now sync your application, data and backups across many instances.
+
+## 3.Diagonal Scaling :
+
+- When you combine vertical and horizontal, you simply grow within your existing server until you hit the capacity.
+
+- Then, you can clone that server as necessary and continue the process, allowing you to deal with a lot of requests and traffic concurrently.
+
+- So what happens if you combine the two scaling methods? Well, you get diagonal scaling, which allows you to experience the most efficient infrastructure scaling.
+
+_ _ _ _ _ _ _ _ _ _
+
+# What is a Container ?
+
+##### Ans.
+
+- A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another.
+
+- Containers are an executable unit of software in which application code is packaged, along with its libraries and dependencies, in common ways so that it can be run anywhere, whether it be on desktop, traditional IT, or the cloud.
+
+- A Docker container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries and settings.
+
+- Containers are an abstraction at the app layer that packages code and dependencies together. Multiple containers can run on the same machine and share the OS kernel with other containers, each running as isolated processes in user space.
+
+- Containers take up less space than VMs (container images are typically tens of MBs in size), can handle more applications and require fewer VMs and Operating systems.
+
+- Containers are small, fast, and portable because unlike a virtual machine, containers do not need include a guest OS in every instance and can, instead, simply leverage the features and resources of the host OS.
+
+## Benefits of containers :
+
+The primary advantage of containers, especially compared to a VM, is providing a level of abstraction that makes them lightweight and portable.
+
+#### Lightweight :
+Containers share the machine OS kernel, eliminating the need for a full OS instance per application and making container files small and easy on resources.
+
+#### Portable and platform independent :
+Containers carry all their dependencies with them, meaning that software can be written once and then run without needing to be re-configured across laptops, cloud, and on-premises computing environments.
+
+#### Supports modern development and architecture :
+Due to a combination of their deployment portability/consistency across platforms and their small size, containers are an ideal fit for modern development and application patterns—such as DevOps, serverless, and microservices—that are built are regular code deployments in small increments.
+
+#### Improves utilization :
+Like VMs before them, containers enable developers and operators to improve CPU and memory utilization of physical machines.
+
+_ _ _ _ _ _ _ _ _ _
+
 Key components of a service-level agreement include:
 
 ### 1.Agreement overview :
