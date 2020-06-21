@@ -41,4 +41,30 @@
  
    This group includes virtual networks, dedicated connections and gateways, as well as services for traffic management and diagnostics, load balancing, DNS hosting and network protection against distributed denial-of-service (DDoS) attacks.
  
-   
+ ### Media and Content Delivery Network (CDN):
+
+   These CDN services include on-demand streaming, digital rights protection, encoding and media playback and indexing. 
+
+ ### Integration:
+
+   These are services for server backup, site recovery and connecting private and public clouds. 
+
+ ### Internet of Things:
+
+   These services help users capture monitor and analyze IoT data from sensors and other devices. Services include notifications, analytics, monitoring and support for coding and execution. 
+
+ ### Security:
+
+   These products provide capabilities to identify and respond to cloud security threats, as well as manage encryption keys and other sensitive assets. 
+
+ ### Artificial Intelligence (AI) and Machine Learning:
+
+   This is a wide range of services that a developer can use to infuse artificial intelligence, machine learning and cognitive computing capabilities into applications and data sets. 
+
+ ### Databases:
+
+   This category includes Database-as-a-Service (DBaaS) offerings for SQL and NoSQL, as well as other database instances -- such as Azure Cosmos DB and Azure Database for PostgreSQL. 
+
+ ### Management and Governance:
+
+   These services provide a range of backup, recovery, compliance, automation, scheduling and monitoring tools that can help a cloud administrator manage an Azure deployment. 
