@@ -92,8 +92,6 @@ Due to a combination of their deployment portability/consistency across platform
 #### Improves utilization :
 Like VMs before them, containers enable developers and operators to improve CPU and memory utilization of physical machines.
 
-_ _ _ _ _ _ _ _ _ _
-
 Key components of a service-level agreement include:
 
 ### 1.Agreement overview :
