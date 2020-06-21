@@ -297,3 +297,39 @@ Check out some of our other articles for more info on cloud computing!
 
 
 ------
+
+
+
+## Date: 20 June 2020
+
+
+# The Comparison of Top Cloud Deployment Models
+
+- o facilitate the choice of an appropriate deployment model, we have created a comparative table that provides an overview of the most business-critical features of each type.
+
+
+The comparative analysis of the best deployment models
+-----
+
+|Topic|Public|Private|Community|Hybrid|
+|----|-------|-------|---------|------|
+|Ease of setup and use|	Easy|	Requires IT proficiency|Requires IT proficiency|Requires IT proficiency|
+|----|-------|-------|---------|------|
+|Data security and privacy|Low|	High|Comparatively high|High|
+|----|-------|-------|---------|------|
+|Data control|	Little to none|	High	Comparatively| high	Comparatively| high|
+|Reliability|	Vulnerable|	High|	Comparatively high|	High|
+|Scalability and flexibility|	High|	High|	Fixed capacity|	High|
+|Cost-effectiveness|	The cheapest one|	Cost-intensive,| the most expensive |one	Cost is shared among community members|	Cheaper than a private model but more costly than a public one|
+|Demand for in-house hardware|	No|	Depends|	Depends|	Depends|
+
+
+
+
+- Careful consideration of all business and technical requirements, as well as of each model’s specifics, is a prerequisite for a successful shift to the cloud. However, it is quite a challenging task, which is why we recommend opting for professional cloud deployment services.
+
+
+- Our extensive expertise allows us to choose the most appropriate model that fits the bill for your company, based on your requirements and expectations, to improve your performance and avoid risks and security issues in the future.
+
+-------
+
