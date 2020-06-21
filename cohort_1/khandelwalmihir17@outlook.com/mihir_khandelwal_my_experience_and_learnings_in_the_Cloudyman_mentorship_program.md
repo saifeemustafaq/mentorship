@@ -104,3 +104,6 @@ Today I Learned:
 - Learned with the basics of the Python and C++.
 - Completed the course on Python by spoken tutorial in collaboration with IIT Bombay.
 - Also did an course on TCS.
+## Date: Juine 21,2020
+- Completed 4 modules of Data Science training from Internshala.
+- Did Yoga Day celebration on zoom app and also performed some asanas at Home.
