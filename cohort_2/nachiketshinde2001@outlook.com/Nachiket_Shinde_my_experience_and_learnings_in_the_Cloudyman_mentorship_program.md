@@ -86,6 +86,10 @@ this virtual machines are very benifical for us
      also we get the safty of data 
     ----
  
+
+![images (4)](https://user-images.githubusercontent.com/65771120/85141903-288d2080-b265-11ea-84f4-214092738c91.jpeg)
+
+
  ## What is Virtual machine
  
  In virtual machine we need just any pc or laptop of not much high performance 
@@ -277,6 +281,7 @@ In that server we get many applications can work on that one server
 
 -----------    
 
+![download](https://user-images.githubusercontent.com/65771120/85141969-48bcdf80-b265-11ea-84c7-e3f48ebe49d9.jpeg)
 
 ### scaling in cloud computing
      
