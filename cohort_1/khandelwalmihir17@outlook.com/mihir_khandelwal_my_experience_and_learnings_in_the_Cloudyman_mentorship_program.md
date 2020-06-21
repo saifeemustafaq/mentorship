@@ -111,5 +111,6 @@ Today I Learned:
 ## Date: June 20, 2020
 - Attended an webinar on python basics.
 - Seen an Talk on Mars Rover Mission, by Gabe Gabrielle on You Tube live. 
-
-
+## Date: Juine 21,2020
+- Completed 4 modules of Data Science training from Internshala.
+- Did Yoga Day celebration on zoom app and also performed some asanas at Home.
