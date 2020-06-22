@@ -35,8 +35,11 @@
 ![5379966-screen-shot-2017-05-23-at-20512-pm](https://user-images.githubusercontent.com/65165798/82146980-42a0a100-986a-11ea-9ff8-108a6e18906e.png)
 
 > ## About BOLT IOT:
+
 - [Bolt IoT](https://www.boltiot.com/) is a paid Internet of Things platform for budding developers.
-- Excellent online video training for those who want to start with IoT and Machine Learning because it teaches you to build projects from the basics.
+
+- Excellent online video training for those who want to start with IoT and Machine Learning because, it teaches you to build projects from the basics.
+
 - The training makes you job hiring ready since it teaches fundamentals of IOT and ML and offers you a certificate upon completion.
 
 ### Features of Bolt IoT:-
@@ -104,17 +107,19 @@
 
 #### First we have to set up the BOLT WIFI MODULE and make sure that it is connected to Bolt Cloud and the Green LED on Bolt Module is Glowing.
 
-- If you dont know how to, then follow the steps in this project to setup the device: [Setting Up the Bolt WiFi Module](https://docs.boltiot.com/docs/setting-up-the-bolt-wifi-module)
+- If you dont know how to, then follow the steps in this project to setup the device: [Setting Up the Bolt WiFi Module](https://docs.boltiot.com/docs/setting-up-the-bolt-wifi-module).
 - Make sure you have not powered on your Bolt Module while connecting the circuit.
 - This will ensure that in case we make any mistake, it will not short circuit your device. 
 - Switch off the power if it is connected.
 
 
 > #### Connect one end of the LDR to the A0 (analog) pin of the Bolt device and other ends of the LDR to the 3V3 pin of the Bolt as shown in the image below.
+
 ![m1_t4_s2_i3](https://user-images.githubusercontent.com/65165798/85008441-a0325100-b17a-11ea-95c1-3cbaef0b4b46.jpg)
  
  
 > #### Connect the 10K ohm resistor between the GND and A0 pin of the Bolt so that LDR and the resistor form a series connection. 
+
 ![m1_t4_s2_i5](https://user-images.githubusercontent.com/65165798/85008586-cce66880-b17a-11ea-8fcb-e9aa1aba11a0.jpg)
 
 - Warning!! Make sure that at no point do the 3.3V (or even 5V) and GND pins or wires coming out of them touch each other.
@@ -122,6 +127,7 @@
 
 
 ### Thus, we are effectively measuring the voltage across the 10k Ohm Resistor and the final circuit should look like the image below:
+
 ![m1_t4_s2_i6](https://user-images.githubusercontent.com/65165798/85008817-1df65c80-b17b-11ea-84cc-777a4e45e3d9.jpg)
 
 
@@ -162,6 +168,7 @@ Next Step will be to write the Software Coding for out project.
 
 
 ![Screenshot (17)](https://user-images.githubusercontent.com/65165798/85203474-c64b2300-b32b-11ea-864e-ca1d616a8501.png)
+
 This will take you to the products page. Thus we have created a new **Product for our light monitoring system.**
 
 - Products are created once and can be used for multiple Bolt devices. 
@@ -178,4 +185,59 @@ Click on the Configure icon.
 2. Code
 
 ![Screenshot (20)](https://user-images.githubusercontent.com/65165798/85203676-ee875180-b32c-11ea-8d45-20eec3da3a6b.png)
+
+> ### Part 1: Hardware.
+
+#### Under the Hardware tab, you’ll be asked 3  steps.
+
+#### Step 1.
+Is already DONE.
+
+#### Step 2.
+
+In step 2, we have to select the pins as per the circuit designed and have to assign a unique variable name to them.
+- We have used the pin AO and we will select it.
+- We will aslo assign a name to it.
+
+![Screenshot (26)](https://user-images.githubusercontent.com/65165798/85229769-632fbe00-b409-11ea-9f3f-afb7ff684bcb.png)
+
+- Here I am using the name “light” and I will be using the same name in our code that I will be writing.
+#### Step 3.
+
+Third step is to select the Data collection rate i.e. selecting the interval of time after which the Data will be collected and sent to the Cloud.
+
+![Screenshot (27)](https://user-images.githubusercontent.com/65165798/85229807-93775c80-b409-11ea-9045-08e2d55fdad6.png)
+
+- Here I am selecting 5 MINUTES and the Data will be sent to the Cloud after every 5 min.
+- If I’d select 10, the Data will be sent Cloud every 10 min and so on.
+- You can play around with the values as you wish.
+
+
+> ### Part 2: Coding.
+
+- First we give a suitable name to our code file.
+
+- I’ll give the name “light_monitor” and then choose the file type as “.js” (JavaScript), as we are using JavaScript to write this code.
+
+![Screenshot (28)](https://user-images.githubusercontent.com/65165798/85229888-1a2c3980-b40a-11ea-87a8-9727574bed97.png)
+
+- Then we just have to write one single line of code to display this data in the form of a table.
+
+- The Code is **plotChart(“time_stamp”,”Variable_name”);**
+
+As the Variable name is “light”, I’ll use light in the place of Variable name.
+- Then the code becomes **plotChart(“time_stamp”,”light”);**
+
+![Screenshot (29)](https://user-images.githubusercontent.com/65165798/85229927-6aa39700-b40a-11ea-92a7-568927ec31c3.png)
+
+plotChart function, by default, will plot the data in the form of a Table.
+
+- The first column will contain the timestamp i.e. the time at which the data was collected and the second column will be the value of light intensity measured at that time.
+
+- Then click on the **Save** button.
+
+![Screenshot (30)](https://user-images.githubusercontent.com/65165798/85229958-9888db80-b40a-11ea-8991-f5c8a3e02d4f.png)
+
+In the next section, I’ll show how to Link the Product I have created for my Bolt device and also view the data collected.
+
 
