@@ -141,7 +141,7 @@
 - To check if it is connected to Cloud, have a look at the green coloured Cloud LED on the Bolt WiFi module. It should be glowing.
 ![connections_wjwozpHcJ3](https://user-images.githubusercontent.com/65165798/85202151-fc83a500-b321-11ea-8c57-a3004b3584fb.jpeg)
  
-## Step 3: Configuring the Product
+## Step 3: Creating the Product
 
 Next Step will be to write the Software Coding for out project.
 
@@ -234,10 +234,53 @@ plotChart function, by default, will plot the data in the form of a Table.
 
 - The first column will contain the timestamp i.e. the time at which the data was collected and the second column will be the value of light intensity measured at that time.
 
-- Then click on the **Save** button.
+- Then click on the **"Save"** button.
 
 ![Screenshot (30)](https://user-images.githubusercontent.com/65165798/85229958-9888db80-b40a-11ea-8991-f5c8a3e02d4f.png)
 
 In the next section, I’ll show how to Link the Product I have created for my Bolt device and also view the data collected.
 
+## Step 5: Linking the Product:
+
+Now that we have Linked the device to the Bolt Cloud Account and we have also created the product, one last step remains, i.e. Linking the product to the device.
+
+This Step will Transfer the Code and Configuration that I have created, over the Internet to the Bolt WIFI Module.
+
+1. Click on the "Link" button.
+
+![Screenshot (32)](https://user-images.githubusercontent.com/65165798/85295563-bf541a00-b4bd-11ea-861b-66387dd7aad2.png)
+
+2. Select the Device and Click on DONE.
+
+![Screenshot (33)](https://user-images.githubusercontent.com/65165798/85295566-bfecb080-b4bd-11ea-91b0-f410c4ce854f.png)
+
+- We can also Link Multiple Devices with our Product, if we want to create Multiple Light Sensor Monitors.
+
+Then all that is remaining is pushing the Code and Configuration to the Device.
+
+- Go to the Device Page and Click on Deploy Configuration.
+
+![Screenshot (34)](https://user-images.githubusercontent.com/65165798/85295555-bcf1c000-b4bd-11ea-852c-9930c58e8f0e.png)
+
+It'll show **Hardware configuration deployed successfully** as an Alert Message.
+- Our Project is ready.
+
+To view the Data collected, we have to click on "View Device" icon.
+
+![Screenshot (35)](https://user-images.githubusercontent.com/65165798/85295560-bebb8380-b4bd-11ea-91e5-c043090577f3.png)
+
+This will show you a Table with your collected data. As we selected the collection rate as 5 Min, the value will be updated every 5 mins.
+
+- We can aslo change teh Lighting Conditions and notice the varing data collected by our LDR.
+- The readings will vary if I go out in the Sun, or Switch OFF the light in my room and see the data.
+- We can be creative while collecting the data set, because, it is entirely up to us on how we want to test our Project. We an collect lots of Data Points.
+
+Each time we click on Deploy, the configuration is deployed and one sensor value is pushed to the Cloud and we can see the results in a short time.
+- If we click the deploy button multiple times, with a gap of like assume, 15 seconds, a new value will be updated.
+
+## Step 6: The Table:
+
+Here is the sample of Data Points collected by me about a month ago(My variable name was "Wife" back then).
+
+![Screenshot (31)](https://user-images.githubusercontent.com/65165798/85297702-b9ac0380-b4c0-11ea-8252-982f0d257275.png)
 
