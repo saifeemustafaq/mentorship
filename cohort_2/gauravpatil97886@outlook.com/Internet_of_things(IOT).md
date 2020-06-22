@@ -277,3 +277,107 @@ Here’s a brief video which shows you a smart home from the future and how your
 
 -----------
 
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS6SJ_wvVlnQ7VNlV-AfxR1wbDjdwbTQRc5KOh0aYM571563tDh&usqp=CAU)
+
+------
+#### 2.Wearables
+Wearable technology is a hallmark of IoT applications and probably is one of the earliest industries to have deployed the IoT at its service. We happen to see Fit Bits, heart rate monitors and smartwatches everywhere these days.
+
+Course Curriculum
+IoT Certification Training on Azure
+Instructor-led Sessions
+Real-life Case Studies
+Assignments
+
+Lifetime Access
+One of the lesser-known wearables includes the Guardian glucose monitoring device. The device is developed to aid people suffering from diabetes. It detects glucose levels in the body, using a tiny electrode called glucose sensor placed under the skin and relays the information via Radio Frequency to a monitoring device.
+
+![](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/08/IoT-in-Wearables-IoT-Applications-Edureka.jpg)
+
+--------
+
+
+
+#### 3. IoT Applications – Health Care
+
+IoT applications can turn reactive medical-based systems into proactive wellness-based systems.
+
+The resources that current medical research uses, lack critical real-world information. It mostly uses leftover data, controlled environments, and volunteers for medical examination. IoT opens ways to a sea of valuable data through analysis, real-time field data, and testing. 
+
+The Internet of Things also improves the current devices in power, precision, and availability. IoT focuses on creating systems rather than just equipment.
+
+Here’s how an IoT-enabled care device works.
+
+
+IoT in Care Devices - IoT Applications - Edureka
+
+
+
+![](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/09/iot3.png)
+
+
+-----
+
+#### 4. IoT Applications – Smart Cities
+
+By now I assume, most of you must have heard about the term Smart City. The hypothesis of the optimized traffic system I mentioned earlier, is one of the many aspects that constitute a smart city.
+
+The thing about the smart city concept is that it’s very specific to a city. The problems faced in Mumbai are very different than those in Delhi. The problems in Hong Kong are different from New York. Even global issues, like finite clean drinking water, deteriorating air quality and increasing urban density, occur in different intensities across cities. Hence, they affect each city differently.
+
+The Government and engineers can use IoT to analyze the often-complex factors of town planning specific to each city. The use of IoT applications can aid in areas like water management, waste control, and emergencies.
+. They realized, most cars on the streets go around and round the same block, in search of parking spots. That’s the main reason for traffic congestion in the city.
+
+Thus, sensors were installed at all the parking spots around the city. These sensors pass the occupancy status of each spot to the cloud. Any number of applications can consume that data. It can guide the drivers through the shortest route to an open spot.
+
+
+------
+
+
+IoT in Smart Parking - IoT Applications - Edureka
+------
+
+This solution here involves the use of sensor arrays feeding back to a point which, aggregates the data and uses it for various purposes.
+
+![](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/09/shutterstock_414059194.png)
+
+#### 5. IoT Applications – Agriculture
+
+Statistics estimate the ever-growing world population to reach nearly 10 billion by the year 2050. To feed such a massive population one needs to marry agriculture to technology and obtain best results. There are numerous possibilities in this field. One of them is the**
+****Smart Greenhouse*.
+
+![](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/09/iot4.png)
+
+A greenhouse farming technique enhances the yield of crops by controlling environmental parameters. However, manual handling results in production loss, energy loss, and labor cost, making the process less effective.
+
+A greenhouse with embedded devices not only makes it easier to be monitored but also, enables us to control the climate inside it. Sensors measure different parameters according to the plant requirement and send it to the cloud. It, then, processes the data and applies a control action. IoT in Agriculture - IoT Applications - Edureka
+
+
+------
+
+#### 6. IoT Applications – Industrial Automation
+
+This is one of the fields where both faster developments, as well as the quality of products, are the critical factors for a higher Return on Investment. With IoT Applications, one could even re-engineer products and their packaging to deliver better performance in both cost and customer experience. IoT here can prove to be game changing with solutions for all the following domains in its arsenal.
+
+|Factory Digitalization|
+|-------------------|
+|Product flow Monitoring|
+|Inventory Management|
+|Safety and Security|
+|Quality Control
+|Packaging optimization|
+
+![](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/09/IoT-in-Industrial-Automation-IoT-Applications-Edureka-1.jpg)
+
+
+Logistics and Supply Chain OptimizationIoT in Industrial Automation - IoT Applications - Edureka
+In just 1-year internet connected devices went from 5 million to billions. Business Insider Intelligence estimates that 24 billion IoT devices would be installed by the year 2020, generating a revenue of over 300 billion.
+
+IoT iterates, improves and keeps building. Its networks don’t arrive pre-assembled, they grow over time. The Internet of Things (IoT) has amalgamated hardware and software to the internet to create a smarter world. It has been growing at a significant pace and offers a multitude of opportunities for government and business. In fact, the number of openings for IoT professionals is at an all-time high.
+
+
+---------
+
+
+
+
+
