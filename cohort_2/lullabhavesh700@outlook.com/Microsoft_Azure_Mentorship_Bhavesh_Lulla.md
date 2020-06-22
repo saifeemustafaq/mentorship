@@ -3,13 +3,13 @@
 ## Date: May xx, 2020
 ## Date: June 20, 2020
 
-# Microsoft Azure
+ # Microsoft Azure
 
  - Microsoft Azure, formerly known as Windows Azure, is Microsoft's public cloud computing platform. It provides a range of cloud services, including compute, analytics, storage and networking. Users can pick and choose from these services to develop and scale new applications, or run existing applications in the public cloud.
  
  - Microsoft charges for Azure on a pay-as-you-go basis, meaning subscribers receive a bill each month that only charges them for the specific resources they have used.
  
-## Working of Microsoft Azure
+ ## Working of Microsoft Azure
 
  - Once customers subscribe to Azure, they have access to all the services included in the Azure portal. Subscribers can use these services to create cloud-based resources, such as Virtual Machines (VM) and Databases.
  
@@ -68,3 +68,37 @@
  ### Management and Governance:
 
    These services provide a range of backup, recovery, compliance, automation, scheduling and monitoring tools that can help a cloud administrator manage an Azure deployment. 
+
+ ## Benefits of using Microsoft Azure
+
+ ### 1. Apps management:
+
+ #### IaaS benefits the organization to build, deploy, and manage the apps in a quick and easier way. An organization can launch the website or create a web app and maintain the infrastructure by customizing the cloud software. 
+
+ ### 2. Flexibility:
+
+ #### Azure delivers an appreciable level of flexibility giving you the option to have functionality as required. You can pay as you consume, switch to Azure, accommodate the business fluctuations and etc. Thus, there is no worry about the infrastructure all the time. 
+
+ ### 3. Agility:
+
+ #### Azure is fast in terms of deployment, operation, and scalability. This gives a competitive advantage for the companies to adopt Azure. Being the most up to date cloud technology, the infrastructure and applications could be made agile. 
+
+ ### 4. Compliance:
+
+ #### The data stored is in compliance with the regulations which is very helpful especially for the legal or the finance sectors. It is entirely built around the security and privacy demands that any of the business would readily take the venture. 
+
+ ### 5. Storage:
+
+ #### It is known that Azure has several data centers and delivery points. It facilitates for faster content delivery, optimal user experience, store any data, and also able to share the data across the virtual machines as required at a reliable and faster rate. 
+
+ ### 6. Security:
+
+ #### The data on Azure is protected by the spy-movie environment. The data centers have two-tier authentication, proxy card access readers, hand geometry biometric readers, global incident response team. Thus hacking is reduced to a greater extent. 
+
+ ### 7. Disaster Recovery:
+
+ #### Staying online all the time ensures userstrust. The disaster recovery capabilities of Azure like regional or global failover options rolling reboots, and the hot or cold standby modes gives a stronghold for against disasters. 
+
+ ### 8. Deployed Anywhere:
+
+ #### Accepting the clients' hybrid model approach, Microsoft has Azure stack offering provides all the benefits to them. It enables the business to select their data storage and any related transition easy. 
