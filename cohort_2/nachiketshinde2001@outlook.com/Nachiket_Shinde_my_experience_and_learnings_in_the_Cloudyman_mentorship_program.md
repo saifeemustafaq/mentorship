@@ -305,5 +305,19 @@ In that server we get many applications can work on that one server
  Vertical scale is facts of the biggest size of servers
   
 ----------
+>### Microsoft Azure
+  
+   Azure as a platform can be learned without knowing any programming at all. 
+   if you wish to deploy an application to Azure then you may need to write some configuration code or a deployment script
+   But for normal infrastructure management and other tasks you can use Azure
+   Microsoft Azure is the one of the best data storage on cloud platform
+   Microsoft Azure public cloud computing platform
+   AWS and Azure are the two top Companies in the cloud technology space 
+   both are very good at what they provide in different ways
+   Microsoft and Amazon ae best companies to provide a cloud platform
+
+  ![images](https://user-images.githubusercontent.com/65771120/85225972-653a5280-b3f2-11ea-9df0-f57d85497df1.png)
+
+ 
 
  
