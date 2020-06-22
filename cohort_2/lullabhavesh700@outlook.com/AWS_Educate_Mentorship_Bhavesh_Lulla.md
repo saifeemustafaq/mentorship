@@ -58,3 +58,24 @@
 
  - Amazon provides databases as requirement and the database provided by them are completely managed by them. 
 
+### Storage 
+
+   Storage is one of the AWS features, provide by Amazon is economical, flexible and easy to use. 
+
+ • Amazon Glacier -- Used for long-term storage. 
+
+ • Amazon Simple Storage -- Provides scalable object storage for archival analytics and data backup. 
+
+ • Amazon Elastic Block Store -- Provides raw block-level storage. 
+
+### AWS Marketplace
+
+ - AWS Marketplace is an online store where a customer can immediately search for the suitable software or can buy it for their business. 
+
+ - They can use Marketplace's one-click deployment and launch the required software by paying only for what they will use. 
+
+### Customers and Partners
+
+ - AWS has the largest and most dynamic community, with millions of active customers globally. 
+
+ - Customers across virtually every industry and of every size, including startups, companies use AWS. 
