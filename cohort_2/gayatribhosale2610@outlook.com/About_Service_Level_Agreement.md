@@ -87,3 +87,72 @@ Different cloud hosting service providers offer different Cloud Uptime. Suppose 
 Downtime is a period of time in which the service is unavailable or not working due to unexpected circumstances such as outages, maintenance activities or updating periods.
 
 With the advent of virtualization and cloud computing services, a consistent and all-round service is a necessity. Customers who are looking for cloud services would only be convinced if the cloud solution is promised to perform better instead of an on-premise solution. Downtime or availability is considered to be one of the most important factors to consider when implementing a new cloud service to the solution lineup.
+
+------------
+
+# Date: June 21, 2020
+
+# What is serverless computing?
+
+Serverless is an approach to computing that offloads responsibility for common infrastructure management tasks (e.g., scaling, scheduling, patching, provisioning, etc.) to cloud providers and tools, allowing engineers to focus their time and effort on the business logic specific to their applications or process.
+
+The most useful way to define and understand serverless is focusing on the handful of core attributes that distinguish serverless computing from other compute models, namely:
+
+- The serverless model requires no management and operation of infrastructure, enabling developers to focus more narrowly on code/custom business logic.
+
+- Serverless computing runs code only on-demand on a per-request basis, scaling transparently with the number of requests being served.
+
+- Serverless computing enables end users to pay only for resources being used, never paying for idle capacity.
+
+- Serverless is fundamentally about spending more time on code, less on infrastructure.
+
+![](https://blog.runcloud.io/wp-content/uploads/2019/07/serverlessComputingBanner.jpg)
+
+## Serverless architectures pros and cons
+
+### Pros
+
+While there are many individual technical benefits of serverless computing, there are four primary benefits of serverless computing:
+
+- It enables developers to focus on code, not infrastructure.
+
+- Pricing is done on a per-request basis, allowing users to pay only for what they use.
+
+- For certain workloads, such as ones that require parallel processing, serverless can be both faster and more cost-effective than other forms of compute.
+
+- Serverless application development platforms provide almost total visibility into system and user times and can aggregate the information systematically.
+
+### Cons
+
+While there is much to like about serverless computing, there are some challenges and trade-offs worth considering before adopting them:
+
+- **Long-running processes:** FaaS and serverless workloads are designed to scale up and down perfectly in response to workload, offering significant cost savings for spiky workloads. But for workloads characterized by long-running processes, these same cost advantages are no longer present and managing a traditional server environment might be simpler and more cost-effective.
+
+- **Vendor lock-in:** Serverless architectures are designed to take advantage of an ecosystem of managed cloud services and, in terms of architectural models, go the furthest to decouple a workload from something more portable, like a VM or a container. For some companies, deeply integrating with the native managed services of cloud providers is where much of the value of cloud can be found; for other organizations, these patterns represent material lock-in risks that need to be mitigated.
+
+- **Cold starts:** Because serverless architectures forgo long-running processes in favor of scaling up and down to zero, they also sometimes need to start up from zero to serve a new request. For certain applications, this delay isn’t much of an impact, but for something like a low-latency financial application, this delay wouldn’t be acceptable.
+
+- **Monitoring and debugging:** These operational tasks are challenging in any distributed system, and the move to both microservices and serverless architectures (and the combination of the two) has only exacerbated the complexity associated with managing these environments carefully.
+
+## Data processing
+
+Serverless is well-suited to working with structured text, audio, image, and video data around tasks that include the following:
+
+- Data enrichment, transformation, validation, cleansing
+- PDF processing
+- Audio normalization
+- Image rotation, sharpening, and noise reduction
+- Thumbnail generation
+- Image OCR’ing
+- Applying ML toolkits
+- Video transcoding
+
+## advantages of serverless computing
+
+- **Lower costs -** Serverless computing is generally very cost-effective, as traditional cloud providers of backend services (server allocation) often result in the user paying for unused space or idle CPU time.
+
+- **Simplified scalability -** Developers using serverless architecture don’t have to worry about policies to scale up their code. The serverless vendor handles all of the scaling on demand.
+
+- **Simplified backend code -** With FaaS, developers can create simple functions that independently perform a single purpose, like making an API call.
+
+- **Quicker turnaround -** Serverless architecture can significantly cut time to market. Instead of needing a complicated deploy process to roll out bug fixes and new features, developers can add and modify code on a piecemeal basis.
