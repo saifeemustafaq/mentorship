@@ -191,3 +191,89 @@ And all ****three of these have enormous benefits that compound on each other***
 
 
 ------------
+
+
+
+
+## Date: 21 june,2020
+
+------
+
+# Top Internet-of-Things (IoT) Examples to Know.
+
+
+Connected appliances.
+----
+
+Smart home security systems.
+------
+Autonomous farming equipment.
+------
+Wearable health monitors.
+-----
+Smart factory equipment.
+----
+Wireless inventory trackers.
+----
+Ultra-high speed wireless internet.
+-----
+Biometric cybersecurity scanners
+-----
+
+
+-----
+
+## How Big is IoT?
+
+This new wave of connectivity is going beyond laptops and smartphones, it’s going towards connected cars, smart homes, connected wearables, smart cities and connected healthcare. Basically a connected life. According to Gartner report, by 2020 connected devices across all technologies will reach to 20.6 billion. Woah! that’s a huge number.
+
+![](https://www.analyticsvidhya.com/wp-content/uploads/2016/08/Iot2.png)
+
+
+
+Iot2
+----
+
+Source: HP
+---
+
+HP did a small survey in which they estimated the rise of connected devices over the years and the results are surprising. Are we moving towards a fully automated world?
+
+These devices will bridge the gap between physical and digital world to improve the quality and productivity of life, society and industries. With IoT catching up Smart homes is the most awaited feature, with brands already getting into the competition with smart applicances. Wearables are another feature trending second on the internet. With launch of Apple Watch and more devices to flow in, these connected devices are going to keep us hooked with the inter-connected world.
+
+A survey conducted by KRC Reserach in UK, US, Japan and Germany the early adopters of IOT has revealed which devices are the customers more likely to use in the coming years. Smart Appliances like thermostat, smart refrigerator to name a few are most liked by the customers and are seem to change the way we operate.
+
+![](https://www.analyticsvidhya.com/wp-content/uploads/2016/08/IOT1.png)
+
+IOT1
+---
+
+Source: GSMA Report
+-----
+
+If you are wondering what impact will IoT have on the economy then for your information as per the Cisco report IoT will generate $14.4 trillion in value across all industries in the next decade. Yes, you are thinking correctly IoT will bring a wave, nobody can forsee.
+
+Now, to give you a glimpse of how applications  of IoT will transform our lives I have listed down few areas where IoT is much awaited and companies are  preparing to surprise you with smart devices. For better understanding, I’ve added Youtube Videos for you, see what our future holds.
+
+Read on and tell us which smart devices are you eager to use.
+
+ 
+--------
+
+
+# Real World Applications of IoT
+
+#### 1. Smart Home
+
+With IoT creating the buzz, ‘Smart Home’ is the most searched IoT associated feature on Google. But, what is a Smart Home?
+
+Wouldn’t you love if you could switch on air conditioning before reaching home or switch off lights even after you have left home? Or unlock the doors to friends for temporary access even when you are not at home. Don’t be surprised with IoT taking shape companies are building products to make your life simpler and convenient.
+
+Smart Home has become the revolutionary ladder of success in the residential spaces and it is predicted Smart homes will become as common as  smartphones.
+
+The cost of owning a house is the biggest expense in a homeowner’s life. Smart Home products are promised to save time, energy and money. With Smart home companies like Nest, Ecobee, Ring and August, to name a few, will become household brands and are planning to deliver a never seen before experience.
+
+Here’s a brief video which shows you a smart home from the future and how your life will be simplified.
+
+-----------
+
