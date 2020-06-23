@@ -199,6 +199,28 @@ For example, if your service peaks one month, you can scale to demand and pay a 
 - We as customers certainly wish our Client reqests get solved within no time.
 - It is the time it takes for a signal to travel from one point to another in networking. 
 
+### POSSIBLE CAUSES OF NETWORK LATENCY
+
+1. **DNS Server Errors:**
+
+A faulty DNS server can be a cause of the poor performance of an application. Errors like 404’s and incorrect pathways can prevent potential visitors to reach your website.
+
+2. **Poorly Optimized Backend Database:**
+
+Over-utilized databases can slow down your website severely. Also, higher table joins, complicated calculations, presence of large tables with long fields, and improper use of indexes are some of the common reasons for slow databases.
+
+3. **Low Memory Space:**
+
+Low disk space is another reason system performance can decrease. In case of low disk space, the operating system will struggle and try to maintain RAM requirements being used by programs.
+
+4. **Selection of Transmission Mediums:**
+
+Companies must carefully select the transmission media as it directly affects the speed of a signal. In a fiber-optic network, when an optical signal travels in a fiber link, latency occurs at every stage. Latency keeps increasing during every conversion, right from the time when the signal converts from electrical to optical domain, when it goes through the fiber, and finally when it converts from optical to electrical domain.
+
+5. **Multiple Routers:**
+
+Routers take time to process the information in the header of a packet. When a packet transfers from router to router, the latency time gets increased.
+
 
 ## Load balancing in Cloud Computing:
 
