@@ -552,3 +552,58 @@ Organizations can work on their client's applications much more faster and deliv
 - ****This shows scalability, flexibility and the handling ability of traffic****
 
 -----------
+
+
+## Date:23 June,2020
+
+
+# What is Latency?
+
+-  Let’s look into how latency actually works and how, as a user, you’re usually impacted by it. Consider that you are buying a product through an online shop and you press the “Add to Cart” button for a product that you like.
+
+- The chain of events that occur when you press that button are:
+
+****You press the “Add to Cart” button****
+1. The browser identifies this as an event and initiates a request to the website’s servers. The clock for latency starts now.
+2.he request travels to the site’s server with all the relevant information.
+3.The site’s server acknowledges the request and the first half of the latency is completed.
+4.The request gets accepted or rejected and processed.
+5.The site’s server replies to the request with relevant information.
+6.The request reaches your browser and the product gets added to your cart. With this, the latency cycle is completed.
+7.The time it takes for all these events to complete is known as latency.
+
+
+
+
+--------
+
+## Latency vs bandwidth vs throughput.
+
+The performance of your network and application depend on latency, bandwidth, and throughput, but it’s important not to confuse one with the other.
+
+Bandwidth is the amount of data that can pass through a network at any given time. Consider bandwidth as how narrow or wide a pipe is. A wider pipe allows for more data to be pushed through. Throughput, on the other hand, is the amount of data that can be transferred over a given period of time.
+
+An efficient network connection is comprised of low latency and high bandwidth. This allows for maximum throughput. The bandwidth can only be increased by a finite amount as latency will eventually create a bottleneck and limit the amount of data that can be transferred over time.
+
+### >Examples of Latency
+High latency can adversely affect the performance of your network and greatly reduce how quickly your application communicates with users. A content delivery network allows customers to reach their users in the most efficient manner possible. These delivery channels greatly reduce the network lag between the user and the application.
+
+You can check the network latency of your internet connection with any website by passing its web address or IP address in the command prompt on a Windows or Mac. Here is an example of the command prompt on Windows:
+
+------
+C:\Users\username>ping www.google.com
+
+Pinging www.google.com [172.217.19.4] with 32 bytes of data:
+Reply from 172.217.19.4: bytes=32 time=47ms TTL=52
+Reply from 172.217.19.4: bytes=32 time=45ms TTL=52
+Reply from 172.217.19.4: bytes=32 time=47ms TTL=52
+Reply from 172.217.19.4: bytes=32 time=43ms TTL=52
+
+Ping statistics for 172.217.19.4:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 43ms, Maximum = 47ms, Average = 45ms
+    
+------
+    
+Here you can see the result of pinging [](www.google.com) The statistics show that the average time it takes for a roundtrip between the given PC and Google’s network is 39ms.

@@ -179,3 +179,25 @@ Hybrid Cloud is another cloud computing type, which is integrated, i.e., it can 
 ### Community Cloud:
 
 Community Cloud is another type of cloud computing in which the setup of the cloud is shared manually among different organizations that belong to the same community or area. Example of such a community is where organizations/firms are there along with the financial institutions/banks. A multi-tenant setup developed using cloud among different organizations that belong to a particular community or group having similar computing concern.
+
+-------
+
+# Date: June 22, 2020
+
+# What is Cloud storage?
+
+With the increasing information that we humans access , the storage requirements to accumulate that information keeps on increasing , May it be a collection of doc files or some movies or some softwares or some songs, the data requirements keeps on increasing day by day. What here is more important is that how we access the big data whether it is for the personal use or professional use. People either prefer upgrading their hard drives or even sometimes prefer using compact disks as well, but with the advancement in technology everyone wants access to data on the go, without having the need to carry physical hardware and hence Cloud Storage requirements fall into place.
+
+![](https://www.opencloudmanifesto.org/wp-content/uploads/2015/04/cloud-storage.jpg)
+
+## Classification of  Cloud Storage:
+
+Cloud storage can be classified into four types :
+
+- **Personal / Mobile Cloud Storage :** This is a type of cloud of type of cloud storage that we use in our daily lifes, We use android and I-phone these days, for our safety we have already synced our phones online so that even if our phone is lost , we can backup it on the new device anytime as per our convenience. Let’s consider the use case study of i-cloud , the I phone cloud storage platform, that’s what is a personal cloud storage.
+
+- **Publicly Available Cloud Storage :** In this type, the user uses a public-ally available cloud which he has either rented or subscribed for a certain period of time. Anyone with access to that cloud with the User’s log in credentials could access that data from any part of the world.
+
+- **Privately Available cloud storage :** The company providing cloud storage services sets up the data center in the user’s allocated space. The main reason behind having a privately available cloud storage is the requirement of a secure platform and restricted access to the data.
+
+- **A hybrid available cloud storage :** In this case the data is available public-ally but some parts of the data is private and hence is restricted to some users only. So this is an On and off model where it can be switched from public to private or private to public anytime as per user’s convenience.

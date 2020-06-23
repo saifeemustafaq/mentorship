@@ -1,4 +1,5 @@
 ## Sunday, 17 May
+
 > ## **Virtual Machines**:
 - A virtual machine is almost similer to the guest user created in your machine.
 - It’s a isolated duplicate of a real computer machine.
@@ -25,6 +26,7 @@
   5. It is cheaper because virtualization doesn’t require actual hardware components to be used or installed, IT infrastructures find it to be a cheaper system to implement.
 
 
+----
 > # What are **Containers:**
 - Containers provide a consistent, isolated execution environment for applications.
 - They are similar to VM's but they don't require a guest OS.
@@ -41,6 +43,7 @@
 - Rather than run an entire complex application inside a single container, the application can be split in to modules .
 - This makes it easier for the developers to manage the applications.
 
+----
 > # **Serverless Computing**:
 
 - Serverless computing means the servers executes code that developers write using only the exact amount of compute resources needed to complete the task, no more, no less.
@@ -49,7 +52,40 @@
 ## Pros of serverless:
 - It allows you to pay the service providerws to manage servers, databases and even application logic that you might otherwise manage yourself.
 - Serverless programs have architectures that are inherently scalable
+- Serverless computing helps teams increase their productivity and bring products to market faster and it allows organisations to better optimise resources and stay focused on innovation.
 
 ### Note
 - Amazon Web Services is largely credited with starting the serverless market hype in 2014 when the company introduced Lambda, its serverless computing product.
 - Note that although called serverless, physical servers are still used but developers do not need to be aware of them.
+
+
+Serverless computing enables developers to build applications faster by eliminating the need for them to manage infrastructure.
+- With serverless applications, the cloud service provider automatically provisions, scales and manages the infrastructure required to run the code.
+
+
+In understanding the definition of serverless computing, it is important to note that servers are still running the code. The serverless name comes from the fact that the tasks associated with infrastructure provisioning and management are invisible to the developer. This approach enables developers to increase their focus on the business logic and deliver more value to the core of the business. 
+
+
+## Top benefits of serverless computing
+
+1. **No infrastructure management:**
+
+Using fully managed services enables developers to avoid administrative tasks and focus on core business logic. With a serverless platform, you simply deploy your code and it runs with high availability.
+
+2. **Dynamic scalability:**
+
+With serverless computing, the infrastructure dynamically scales up and down within seconds to match the demands of any workload.
+
+3. **Faster time to market:**
+
+Serverless applications reduce the operations dependencies on each development cycle, increasing development teams’ agility to deliver more functionality in less time.
+
+4. **More efficient use of resources:**
+
+- Shifting to serverless technologies helps organisations reduce TCO and reallocate resources to accelerate the pace of innovation.
+
+## Why an end-to-end serverless platform is important
+
+A serverless approach offers developers, teams and organisations a level of abstraction that enables them to minimise the time and resources invested in infrastructure management. Every component of an application benefits from this approach, from computing and the database engine to messaging, analytics and AI.
+
+Using an end-to-end serverless platform that provides a comprehensive set of serverless technologies is the best way to ensure that the organisation gains the maximum benefit from going serverless.
