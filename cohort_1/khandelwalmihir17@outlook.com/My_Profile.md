@@ -1,4 +1,5 @@
 # Mihir Khandelwal.
+![](https://avatars2.githubusercontent.com/u/65017371?s=460&u=d68a8b871afad1c09ba3a0f599110bf1c879cc7e&v=4)
 ## About me:
 - Student of SVKM-IOT, Dhule.
 - Attended Cloudyman mentorship program, learned to use Github and LinkedIn. 
