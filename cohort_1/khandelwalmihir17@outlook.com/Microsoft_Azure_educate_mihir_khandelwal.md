@@ -1,4 +1,5 @@
 # About Microsoft Azure.
+![](https://ktconnections.com/images/easyblog_articles/658/microsoft-azure-500x500.png)
 - Microsoft Azure (formerly Windows Azure /ˈæʒər/) is a cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through Microsoft-managed data centers.
 - It provides SAAS, PAAS, IAAS, and also support various programming languages, including both Microsoft-specific and third-party software and systems.
 - Azure was announced in October 2008, started with codename "Project Red Dog", and released on February 1, 2010, as "Windows Azure" before being renamed "Microsoft Azure" on March 25, 2014.
