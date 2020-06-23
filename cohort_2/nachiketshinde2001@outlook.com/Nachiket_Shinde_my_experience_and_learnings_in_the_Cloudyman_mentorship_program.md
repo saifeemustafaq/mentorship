@@ -319,5 +319,14 @@ In that server we get many applications can work on that one server
   ![images](https://user-images.githubusercontent.com/65771120/85225972-653a5280-b3f2-11ea-9df0-f57d85497df1.png)
 
  
-
+>### Amazon Web services (AWS)
  
+ AWS (Amazon Web Services) is a comprehensive, evolving cloud computing platform provided
+ by Amazon that includes a mixture of infrastructure as a service (IaaS), platform as a service (PaaS) and packaged software as a service (SaaS) offers
+ AWS is a cloud base technology
+ Amazon Web Services (AWS) is the world's most comprehensive and broadly adopted cloud platform, 
+ It offering over 175 fully featured services from data centers globally.
+ AWS offers database storage options, computing power, content delivery, and networking among other functionalities to help organizations scale up
+
+![images (1)](https://user-images.githubusercontent.com/65771120/85412872-b0d23500-b587-11ea-85a7-1fdacc27e8f7.png)
+
