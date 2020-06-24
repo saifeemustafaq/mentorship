@@ -63,3 +63,74 @@
  - Every VM created will have a default access to public internet. 
 
  - You can also control the access by using **Network Security Groups (NSG) and Firewalls**.
+
+### 3. Security
+
+ - Internet traffic entering and exiting i.e. requests sent and received, on the VM, in the VNet can be controlled using Network Security Groups. 
+
+### 4. Connectivity
+
+ - If you want to connect a Secured Connection to VNet from your laptop, you can establish a VPN tunnel between your own PC to VNet, this is also possible. 
+
+ - It is called as Point to Site Network. 
+
+ - You can also connect multiple on-site PC's to your VNet. 
+
+ - It is referred as Site to Site Network. 
+
+ - Hybrid connectivity is possible. 
+
+#### You can fully control the IP addresses, DNS servers, security policies. 
+
+#### VNet is further broken down into subnets. 
+
+### These are the advantages VNet offers
+
+> VNet Overview: In the following figure, VMs are represented as web servers and database servers. Each set of VMs are assigned to separate subnets in the VNet. 
+
+![](https://user-images.githubusercontent.com/65165798/83379660-b6f64b00-a3f9-11ea-8add-665d3f21c07d.png) 
+
+  You can create a VNet before or as you create a VM. You create these resources to support communication with a VM:
+
+ - Network Interfaces
+
+ - IP Addresses
+
+ - Virtual Network and Subnets
+
+  In addition to those basic resources, you should also consider these optional resources:
+
+ - Network Security Groups
+
+ - Load Balancers
+
+## Network Interface (NIC):
+
+  A **network interface (NIC)** is the interconnection between a virtual machine (VM) and a virtual network (VNet). A VM must have at least one NIC, but can have more than one, depending on the size of the VM you create. 
+
+ - Network interface is the point of interconnection between a computer and a private or public network. 
+
+ - A network interface is generally a network interface card (NIC) but does not have to have a physical form. 
+
+ - Instead, the network interface can be implemented in software. 
+
+  You can create a VM with multiple NICs, and add or remove NICs through the lifecycle of a VM. Multiple NICs allow a VM to connect to different subnets and send or receive traffic over the most appropriate interface. VMs with any number of network interfaces can exist in the same availability set, upto the number supported by the VM size. 
+
+## Subnets
+
+>### Subnets:
+
+ 1. A subnet is a range of IP addresses in the VNet. 
+
+ 2. You can divide a VNet into multiple subnets for organization and security. 
+
+ 3. Each NIC in a VM is connected to one subnet in one VNet. 
+
+ 4. NICs connected to a subnets (same or different) within a VNet can communicate with each other without any extra configuration. 
+
+When you set up a VNet, you specify the topology, including the available address spaces and subnets. 
+
+If the VNet is to connected to other VNets or on-premises networks, you must select address ranges that don't overlap. The IP addresses are private and can't be accessed from the internet. 
+
+
+
