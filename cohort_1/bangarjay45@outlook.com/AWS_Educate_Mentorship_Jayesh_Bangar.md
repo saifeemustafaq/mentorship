@@ -48,3 +48,44 @@
 ## Customers and partners
 - AWS has the largest and most dynamic community, with millions of active customers globally.
 - Customers across virtually every industry and of every size, including startups, companies use AWS.
+
+----
+
+# More about AWS:
+
+AWS is made up of so many different cloud computing products and services. The highly profitable Amazon division provides servers, storage, networking, remote computing, email, mobile development, and security. AWS can be broken into three main products: EC2, Amazon’s virtual machine service, Glacier, a low-cost cloud storage service, and S3, Amazon’s storage system. 
+
+- AWS is so large and present in the computing world that it's far outpaced its competitors. 
+- As of February 2020, one independent analyst reports AWS has over a third of the market.
+
+AWS has 76 availability zones in which its servers are located. These serviced regions are divided in order to allow users to set geographical limits on their services (if they so choose), but also to provide security by diversifying the physical locations in which data is held. 
+- Overall, AWS spans 245 countries and territories.
+
+
+## Cost Savings:
+
+One hundred years ago, a factory needing electricity would build its own power plant but, once the factories were able to buy electricity from a public utility, the need for pricey private electric plants subsided.
+- AWS is trying to move companies away from physical computing technology and onto the cloud.
+
+Traditionally, companies looking for large amounts of storage would need to physically build a storage space and maintain it. Storing on a cloud could mean signing a pricey contract for a large amount of storage space that the company could “grow into”. Building or buying too little storage could be disastrous if the business took off and expensive if it didn’t.
+
+The same applies to computing power. Companies that experience surge traffic would traditionally end up buying loads of power to sustain their business during peak times. On off-peak times—May for tax accountants for example—computing power lays unused, but still costing the firm money.
+
+- With AWS, companies pay for what they use. 
+- There’s no upfront cost to build a storage system and no need to estimate usage. 
+- AWS customers use what they need and their costs are scaled automatically and accordingly.
+
+## Scalable and Adaptable
+
+Since AWS’s cost is modified based on the customers’ usage, start-ups and small businesses can see the obvious benefits of using Amazon for their computing needs. In fact, AWS is great for building a business from the bottom as it provides all the tools necessary for companies to start up with the cloud. For existing companies, Amazon provides low-cost migration services so that your existing infrastructure can be seamlessly moved over to AWS.
+
+As a company grows, AWS provides resources to aid in expansion and as the business model allows for flexible usage, customers will never need to spend time thinking about whether or not they need to reexamine their computing usage. In fact, aside from monetary reasons, companies also should stop worrying about their computing needs. 
+
+## Security and Reliability
+
+Arguably, Amazon Web Services is much more secure than a company hosting its own website or storage. AWS currently has dozens of data centers across the globe which are continuously monitored and strictly maintained. The diversification of the data centers ensures that a disaster striking one region doesn’t cause permanent data loss worldwide. Imagine if Netflix were to have all of its personnel files, content, and backed-up data centralized on-site on the eve of a hurricane. 
+
+
+In fact, localizing data in an easily identifiable location and where hundreds of people can realistically obtain access is unwise. AWS has tried to keep its data centers as hidden as possible, locating them in out-of-the-way locations and allowing access only on an essential basis. The data centers and all the data contained therein are safe from intrusions, and, with Amazon’s experience in cloud services, outages and potential attacks can be quickly identified and easily remedied, 24 hours a day. The same can’t be said for a small company whose computing is handled by a single IT specialist working out of a large office. 
+
+----
