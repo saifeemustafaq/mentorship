@@ -3,18 +3,21 @@
 ## About me:
 - Student of SVKM-IOT, Dhule.
 - Attended Cloudyman mentorship program, learned to use Github and LinkedIn. 
-- Selected for Internshala's ISP programe from my college.
+- From a technological background.
+- Internshala Student Partner(ISP).
 
 ## My skills:
 - Contnet writing.(Also done an Internship on it).
 - Leading any task or any responsibilities.
 - Likes to surf on internet about any technical updates.
+- Coding lover.
 
 ## My achievements:
-1. Learned certified App Development training at Internshala.
+1. Learned certified App Development and Data Science training at Internshala.
 2. Done baiscs of ML and AI, IoT, Cloud Computing, Digital Marketting on Coursera with certificates.
 3. Selected as an ISP from Internshala from IT class.
 4. Done Google course on Marketing and Sales.
+5. Chess player, also played several matches for college.
 
 ## My experiences:
 1. Done an internship of Content writing at Internshala. 
