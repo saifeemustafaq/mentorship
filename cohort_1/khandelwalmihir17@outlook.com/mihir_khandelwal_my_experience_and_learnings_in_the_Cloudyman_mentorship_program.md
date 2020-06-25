@@ -114,3 +114,7 @@ Today I Learned:
 ## Date: Juine 21,2020
 - Completed 4 modules of Data Science training from Internshala.
 - Did Yoga Day celebration on zoom app and also performed some asanas at Home.
+## Date: June 24, 2020
+- There is a chance of getting selected in an Markrtting Internship by Internshala.
+- Got selected in an NGO internship by Internshala.
+- Getting towards Java and C++ with full enthusiasm.
