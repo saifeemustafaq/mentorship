@@ -86,3 +86,86 @@ Disk latency is the delay between the time data is requested from a storage devi
 - 10ms for a modern Carrier Ethernet network such as BT Ethernet Connect or BT Wholesale Ethernet in the UK
 
 
+## Date: June 24, 2020
+
+# ***Load Balancer***
+
+- A physical device, a virtualized instance running on specialized hardware or a software process.
+
+- Incorporated into application delivery controllers (ADCs) designed to more broadly improve the performance and security of three-tier web and microservices-based applications,regardless of where they’re hosted.
+
+- Able to leverage many possible load balancing algorithms, including round robin, server response time and the least connection method to distribute traffic in line with current requirements.
+
+
+# ***Hardware- vs software-based load balancers***
+
+## **Hardware-based load balancers work as follows:**
+
+- They are typically high-performance appliances, capable of securely processing multiple gigabits of traffic from various types of applications.
+
+- These appliances may also contain built-in virtualization capabilities, which consolidate numerous virtual load balancer instances on the same hardware.
+
+- That allows for more flexible multi-tenant architectures and full isolation of tenants, among other benefits.
+
+## **software-based load balancers:**
+
+- Can fully replace load balancing hardware while delivering analogous functionality and superior flexibility.
+
+- May run on common hypervisors, in containers or as Linux processes with minimal overhead on bare-metal servers and are highly configurable depending on the use cases and          technical requirements in question.
+
+- Can save space and reduce hardware expenditures.
+
+
+## **load balancer performs the following functions:**
+
+- Distributes client requests or network load efficiently across multiple servers
+
+- Ensures high availability and reliability by sending requests only to servers that are online
+
+- Provides the flexibility to add or subtract servers as demand dictates
+
+
+![](https://www.nginx.com/wp-content/uploads/2014/07/what-is-load-balancing-diagram-NGINX-768x389.png)
+
+
+> # ***Load Balancing Algorithms***
+
+
+**1. Round Robin –**
+
+Requests are distributed across the group of servers sequentially.
+
+**2. Least Connections –**
+
+A new request is sent to the server with the fewest current connections to clients. The relative computing capacity of each server is factored into determining which one has the least connections.
+
+**3. Least Time –**
+
+Sends requests to the server selected by a formula that combines the fastest response time and fewest active connections. Exclusive to NGINX Plus.
+
+**Hash –**
+
+Distributes requests based on a key you define, such as the client IP address orthe request URL. NGINX Plus can optionally apply a consistent hash to minimize redistribution
+of loads if the set of upstream servers changes.
+
+**IP Hash –**
+
+The IP address of the client is used to determine which server receives the request.
+
+**Random with Two Choices –**
+
+Picks two servers at random and sends the request to the one that is selected by then applying the Least Connections algorithm.
+
+> # ***Benefits of Load Balancing***
+
+- Reduced Downtime
+
+- Scalable
+
+- Redundancy
+
+- Flexibility
+
+- Efficiency
+
+- Global Server Load Balancing
