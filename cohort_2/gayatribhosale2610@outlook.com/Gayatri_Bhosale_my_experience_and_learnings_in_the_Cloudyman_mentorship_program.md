@@ -201,3 +201,32 @@ Cloud storage can be classified into four types :
 - **Privately Available cloud storage :** The company providing cloud storage services sets up the data center in the user’s allocated space. The main reason behind having a privately available cloud storage is the requirement of a secure platform and restricted access to the data.
 
 - **A hybrid available cloud storage :** In this case the data is available public-ally but some parts of the data is private and hence is restricted to some users only. So this is an On and off model where it can be switched from public to private or private to public anytime as per user’s convenience.
+
+
+# Date:June 25, 2020
+
+# What is Latency?
+
+- Cloud service latency is the delay between a client request and a cloud service provider’s response.
+
+- Latency greatly affects how usable and enjoyable devices and communications are. Those problems can be magnified for cloud service communications, which can be especially prone to latency for a number of reasons.
+
+- Many factors affect latency, such as the standard number of router hops or ground-to-satellite communication hops on the way to the target server.  Because cloud service data centers can be physically located anywhere in the world, a customer may want to find out the geographic location.
+
+- Latency in data exchanges between cloud services across the Internet can be much higher. This delay can result in higher costs to users of multiple cloud services, which may mean that an organization is effectively locked into a single provider’s solutions.
+
+## Cloud Latency Issues
+
+### Given below five layers of complexity which affects on cloud latency:
+
+- **Distributed computing** is one component adding to cloud latency’s complexity. With enterprise data centers a thing of the past, the nature of applications has completely changed from being contained within a local infrastructure to being distributed all over the world. The proliferation of Big Data applications using tools such as R and Hadoop are incentivizing distributed computing even more. The problem lies in the fact that these applications, which are deployed all over the world, have varying degrees of latency with each of their Internet connections. Furthermore, latencies are entirely dependent on Internet traffic, which waxes and wanes to compete for the same bandwidth and infrastructure.
+
+- **Virtualization** adds another layer of complexity to latency in the cloud. Gone are the days of rack-mounted servers; enterprises are building virtualized environments for consolidation and cost efficiency, and today’s data centers are now a complex web of hypervisors running dozens of virtual machines. Unfortunately, virtualized network infrastructure can introduce its own series of packet delays before the data even leaves the rack itself
+
+- Another complexity layer lies in the **lack of measurement tools** for modern applications. While ping and traceroute can be used to test Internet connection, modern applications don’t have anything to do with ICMP, the protocol behind these tracing devices. Instead, modern applications and networks use other protocols such as HTTP and FTP and therefore need to try to measure their performances accordingly.
+
+- **Prioritizing traffic and Quality of Service (QoS)** delve deeper into cloud latency’s complexity. Pre-cloud, Service Level Agreements (SLAs) and QoS were created to prioritize traffic and to make sure that latency-sensitive applications would have the network resources to run properly. However, cloud and virtualized services make this a dated process, given that we need to now differentiate between certain items like an outage in a server, a network card, a piece of the storage infrastructure, or a security exploit.
+
+- **Evasive cloud providers**, who sometimes neglect to inform you about where their cloud data centers are located, can also complicate latency.
+
+Despite latency’s complexity, it provides a great opportunity for innovative cloud-based solutions, such as the Radar benchmarking tool from Cedexis, which provides insight into what goes on across various IaaS providers, as well as tools like Gomez, which are helpful in comparing providers. While tools are of course helpful in providing insight on trends, the overarching solution to measuring and mitigating cloud latency is providing more consistent network connections.
