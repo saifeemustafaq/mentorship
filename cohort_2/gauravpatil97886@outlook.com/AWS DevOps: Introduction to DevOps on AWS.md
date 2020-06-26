@@ -94,3 +94,26 @@ Move quickly while retaining control and preserving compliance. You can adopt a 
 Software and the Internet have transformed the world and its industries, from shopping to entertainment to banking. Software no longer merely supports a business; rather it becomes an integral component of every part of a business. Companies interact with their customers through software delivered as online services or applications and on all sorts of devices. They also use software to increase operational efficiencies by transforming every part of the value chain, such as logistics, communications, and operations. In a similar way that physical goods companies transformed how they design, build, and deliver products using industrial automation throughout the 20th century, companies in today’s world must transform how they build and deliver software.
 
 -------
+
+
+
+## SysOps Vs. DevOps: What’s the Difference?
+
+Those who are always confused with the terms 'SysOps' and 'DevOps' are definitely going to love this blog, Both DevOps and SysOps are incredible tools when used in apt situations. This blog explores these two important terms through a quick comparison.
+
+## SysOps vs DevOps – What’s the Difference
+ 
+### Introduction
+
+If you are following the recent trends in the IT world, you must have heard about DevOps and SysOps. With all the attention they are getting these days, it’d be hard not to. Being familiar with these two terminologies is not enough if you are a techie or a programmer in this ever-evolving technological world. You are going to need to know a whole lot more, especially when you are interested in Cloud Computing. This blog will give you a basic introduction to both SysOps and DevOps, along with the key differences between the two.
+
+Interested in learning AWS SysOps? Click here to learn more in this AWS SysOps Training !
+So, without further ado, get started with it!
+
+****SysOps and DevOps**** re two very important concepts of Cloud Computing. When Cloud Computing came into existence, it fulfilled about 20 percent of a DBA’s work, almost 50 percent of a System Admin’s work and 80 percent of a Network Engineer’s work. Before the advent of cloud, businesses and IT organisations had to hire Testers, DBAs, Developers, Network Engineers, System Engineers, Operators, and what not to function, successfully. Thus with the evolution of cloud, the System Admins changed their working style. With less tasks and more time in their hands, they shifted to aiding developers in building business applications rather than shielding users and businesses from the mistakes of developers. This was the birth of DevOps.
+
+To understand the differences between DevOps and SysOps, first you have to understand these two concepts individually.
+----------
+
+
+-----------
