@@ -118,3 +118,6 @@ Today I Learned:
 - There is a chance of getting selected in an Markrtting Internship by Internshala.
 - Got selected in an NGO internship by Internshala.
 - Getting towards Java and C++ with full enthusiasm.
+## Date: June 26, 2020
+- Started to write programs in Java, today started with "Hello, World!" program.
+- Gave my Internship certificate to Training and Placement cell of our college. 
