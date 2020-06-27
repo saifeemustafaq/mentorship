@@ -52,61 +52,6 @@ It offers flexible facility which could be turned off, up or down as per the cir
 Cloud computing allows mobile access to corporate data via smartphones and devices, which is a great way to ensure that no one is ever left out of the loop. Staff with busy schedules, or who live a long way away from the corporate office, can use this feature to keep instantly up-to-date with clients and coworkers.
 
 
-## Date: June 4,2020
-
-### Microsoft Azure
-
-- Microsoft Azure is a cloud solution introduced by the Microsoft to ensure the enterprises create, deploy and manage their business in a most effective manner through accessing the data centers across the world.
-
-- The Azure Service Platform is a big part of Microsoft’s cloud computing initiatives. It is designed specifically for the cloud.
-
-- Microsoft Azure includes Windows Azure, which is a cloud specific OS designed to provide scalable compute and storage services. It is supported by Azure App Fabric, which is a collection of different tools for supporting applications in the cloud. SQL Azure enables storage, as well as management of data, similar to the conventional relational database services of an SQL server.
-
-- From developers to business analytics, all are having the opportunity to work on this.
-
-- Irrespective of the size of the company, Azure can be implemented in different sectors of business.
-
-#### Azure provides different services and is mainly categorized under:
-
-- Compute
-- Storage
-- Network
-- Database
-
-
-It is a platform as a service (PaaS) solution for building and hosting solutions using Microsoft’s products and in their data centers. It is a comprehensive suite of cloud products that allow users to create enterprise-class applications without having to build out their own infrastructure.
- 
-### Microsoft Azure Server types:
-Microsoft Azure  also provides VHDs for different editions and configurations of Windows Server, Linux servers (Suse, Ubuntu, CentOS), Microsoft applications such as SQL Server, BizTalk Server, SharePoint Server, and many third-party applications. Every VM that you create is associated with a cloud service.
-
-### Overview of virtual Machine in Microsoft Azure:
-
-- Microsoft Azure provides three services to run workloads in virtual machines. 
-- Deciding whether you need to select Azure Websites, Azure Cloud Services, or Azure Virtual Machines depends on two basic factors: the  type of workload that you want to run in the cloud and the level of control that you need over the VMs that run your workloads.
-- Azure Websites support running websites and web applications with a minimal level of VM control and management. 
-- Azure Cloud Services allow you to install software and remotely access VMs running your workloads but without the need to fully manage the VMs. 
-- Azure Virtual Machines provide you with full control and management over the VMs including updating and patching the operating system and applications. 
-- It  provide two tiers of VMs (basic and standard) and different VM sizes (A, D, DS, and G series) to match to your workload requirements. 
-
-### Advantages of Microsoft Azure:
-
-1. Microsoft Azure offers high availability.
-2. It offers you a strong security profile.
-3. Azure offers good scalability options.
-4. It is a cost-effective solution for an IT budget.
-5. There are multiple redundancies in place to maintain data access.
-6. Azure allows you to use any framework, language, or tool.
-7. You are given access to app connectors within the Microsoft family of products.
-8. You can automate many of your repetitive tasks.
-9. Azure allows businesses to build a hybrid infrastructure.
-10. You have access to a rich set of artificial intelligence services.
-
-### Disadvantages of Microsoft Azure:
-
-1. You’ll need to manage Azure to make it effect.
-2. You must have platform expertise available.
-3. Speed can be an issue for some businesses.
-4. The ease of access may be problematic for some businesses.
 
 ## Date: May 06, 2020                             
                              
@@ -132,7 +77,6 @@ Operating expenses are fully deducted in the accounting period they were incurre
 - OPEX can be considered to be (in) efficiency of any business. It has a direct relation with the value of the business. If you can reduce OPEX without hurting day to day operations, you eventually increase valuation of any business.
 
 - When you fire a few people who were inefficient, you are bringing down OPEX and thus increasing the value of business.
-
 
 ## What are the Cloud Deployment models?
 
