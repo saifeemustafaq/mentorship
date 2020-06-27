@@ -118,3 +118,7 @@ Today I Learned:
 - There is a chance of getting selected in an Markrtting Internship by Internshala.
 - Got selected in an NGO internship by Internshala.
 - Getting towards Java and C++ with full enthusiasm.
+## Date: June 27, 2020
+- Get registered in IIRS free training of IIRS Outreach Programme.
+- Attended webinar of AWS trainings and courses.
+- Registered for Google course of 9 months on Upcoming courses.
