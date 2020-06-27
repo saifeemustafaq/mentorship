@@ -97,25 +97,6 @@ Disk latency is the delay between the time data is requested from a storage devi
 - Able to leverage many possible load balancing algorithms, including round robin, server response time and the least connection method to distribute traffic in line with current requirements.
 
 
-# ***Hardware- vs software-based load balancers***
-
-## **Hardware-based load balancers work as follows:**
-
-- They are typically high-performance appliances, capable of securely processing multiple gigabits of traffic from various types of applications.
-
-- These appliances may also contain built-in virtualization capabilities, which consolidate numerous virtual load balancer instances on the same hardware.
-
-- That allows for more flexible multi-tenant architectures and full isolation of tenants, among other benefits.
-
-## **software-based load balancers:**
-
-- Can fully replace load balancing hardware while delivering analogous functionality and superior flexibility.
-
-- May run on common hypervisors, in containers or as Linux processes with minimal overhead on bare-metal servers and are highly configurable depending on the use cases and          technical requirements in question.
-
-- Can save space and reduce hardware expenditures.
-
-
 ## **load balancer performs the following functions:**
 
 - Distributes client requests or network load efficiently across multiple servers
@@ -169,3 +150,103 @@ Picks two servers at random and sends the request to the one that is selected by
 - Efficiency
 
 - Global Server Load Balancing
+
+----
+
+## Date: June 27, 2020
+
+> # Types of load balancer :
+
+## 1. Application Load Balancer :
+
+Application Load Balancer is best suited for load balancing of HTTP and HTTPS traffic and provides advanced request routing targeted at the delivery of modern application architectures, including microservices and containers. Operating at the individual request level (Layer 7), Application Load Balancer routes traffic to targets within Amazon Virtual Private Cloud (Amazon VPC) based on the content of the request.
+
+## 2. Network Load Balancer :
+
+Network Load Balancer is best suited for load balancing of Transmission Control Protocol (TCP), User Datagram Protocol (UDP) and Transport Layer Security (TLS) traffic where extreme performance is required. Operating at the connection level (Layer 4), Network Load Balancer routes traffic to targets within Amazon Virtual Private Cloud (Amazon VPC) and is capable of handling millions of requests per second while maintaining ultra-low latencies. Network Load Balancer is also optimized to handle sudden and volatile traffic patterns.
+
+## 3. Classic Load Balancer :
+
+Classic Load Balancer provides basic load balancing across multiple Amazon EC2 instances and operates at both the request level and connection level. Classic Load Balancer is intended for applications that were built within the EC2-Classic network.
+
+## 4. HTTP(S) Load Balancing: 
+
+HTTP(S) load balancing is one of the oldest forms of load balancing. This form of load balancing relies on layer 7, which means it operates in the application layer. HTTP load balancing is often dubbed the most flexible type of load balancing because it allows you to form distribution decisions based on any information that comes with an HTTP address.
+
+## 5. Virtual Load Balancer : 
+
+A virtual load balancer differs from software load balancers because it deploys the software of a hardware load balancing device on a virtual machine.
+
+> ## Hardware- vs software-based load balancers :
+
+### **Hardware-based load balancers work as follows:**
+
+- They are typically high-performance appliances, capable of securely processing multiple gigabits of traffic from various types of applications.
+
+- These appliances may also contain built-in virtualization capabilities, which consolidate numerous virtual load balancer instances on the same hardware.
+
+- That allows for more flexible multi-tenant architectures and full isolation of tenants, among other benefits.
+
+### **software-based load balancers works as follows:**
+
+- Can fully replace load balancing hardware while delivering analogous functionality and superior flexibility.
+
+- May run on common hypervisors, in containers or as Linux processes with minimal overhead on bare-metal servers and are highly configurable depending on the use cases and         technical requirements in question.
+
+- Can save space and reduce hardware expenditures.
+
+---
+
+# What is a VNet ?
+
+![](https://www.rebeladmin.com/wp-content/uploads/2019/09/VNEt.jpg)
+
+- An Azure Virtual Network (VNet) is a representation of your own network in the cloud. It is a logical isolation of the Azure cloud dedicated to your subscription.
+
+- Azure Virtual Network (VNet) is the fundamental building block for your private network in Azure. VNet enables many types of Azure resources, such as Azure Virtual Machines (VM), to securely communicate with each other, the internet, and on-premises networks.
+
+- VNet is similar to a traditional network that you'd operate in your own data center, but brings with it additional benefits of Azure's infrastructure such as scale, availability, and isolation.
+
+
+## **Use VNets to:**
+
+- Create a dedicated private cloud-only VNet. Sometimes you don't require a cross-premises configuration for your solution. When you create a VNet, your services and VMs within your VNet can communicate directly and securely with each other in the cloud. You can still configure endpoint connections for the VMs and services that require Internet communication, as part of your solution.
+
+- Securely extend your data center. With VNets, you can build traditional site-to-site (S2S) VPNs to securely scale your datacenter capacity. S2S VPNs use IPSEC to provide a secure connection between your corporate VPN gateway and Azure.
+
+- Enable hybrid cloud scenarios. VNets give you the flexibility to support a range of hybrid cloud scenarios. You can securely connect cloud-based applications to any type of on-premises system such as mainframes and Unix systems.
+
+
+> # VNet concepts :
+
+## Address space: 
+
+When creating a VNet, you must specify a custom private IP address space using public and private (RFC 1918) addresses. Azure assigns resources in a virtual network a private IP address from the address space that you assign. 
+
+**For example -** If user deploy a VM in a VNet with address space, 10.0.0.0/16, the VM will be assigned a private IP like 10.0.0.4.
+
+## Subnets: 
+
+Subnets enable you to segment the virtual network into one or more sub-networks and allocate a portion of the virtual network's address space to each subnet. You can then deploy Azure resources in a specific subnet. 
+
+Just like in a traditional network, subnets allow you to segment your VNet address space into segments that are appropriate for the organization's internal network. 
+
+## Regions: 
+
+VNet is scoped to a single region/location; however, multiple virtual networks from different regions can be connected together using Virtual Network Peering.
+
+## Subscription: 
+
+VNet is scoped to a subscription. You can implement multiple virtual networks within each Azure subscription and Azure region.
+
+### Tools use to create a VNet :
+
+- Azure portal
+
+- PowerShell
+
+- Azure CLI
+
+- A network configuration file
+
+---
