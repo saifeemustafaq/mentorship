@@ -95,8 +95,26 @@ Software and the Internet have transformed the world and its industries, from sh
 
 -------
 
+## SysOps Vs. DevOps: What’s the Difference?
+
+Those who are always confused with the terms 'SysOps' and 'DevOps' are definitely going to love this blog, Both DevOps and SysOps are incredible tools when used in apt situations. This blog explores these two important terms through a quick comparison.
+
+## SysOps vs DevOps – What’s the Difference
+ 
+### Introduction
+
+If you are following the recent trends in the IT world, you must have heard about DevOps and SysOps. With all the attention they are getting these days, it’d be hard not to. Being familiar with these two terminologies is not enough if you are a techie or a programmer in this ever-evolving technological world. You are going to need to know a whole lot more, especially when you are interested in Cloud Computing. This blog will give you a basic introduction to both SysOps and DevOps, along with the key differences between the two.
+
+Interested in learning AWS SysOps? Click here to learn more in this AWS SysOps Training !
+So, without further ado, get started with it!
+
+****SysOps and DevOps**** re two very important concepts of Cloud Computing. When Cloud Computing came into existence, it fulfilled about 20 percent of a DBA’s work, almost 50 percent of a System Admin’s work and 80 percent of a Network Engineer’s work. Before the advent of cloud, businesses and IT organisations had to hire Testers, DBAs, Developers, Network Engineers, System Engineers, Operators, and what not to function, successfully. Thus with the evolution of cloud, the System Admins changed their working style. With less tasks and more time in their hands, they shifted to aiding developers in building business applications rather than shielding users and businesses from the mistakes of developers. This was the birth of DevOps.
+
+To understand the differences between DevOps and SysOps, first you have to understand these two concepts individually.
+----------
 
 
+-----------
 
 DevOps and the application lifecycle
 DevOps influences the application lifecycle throughout its plan, develop, deliver and operate phases. Each phase relies on the others and the phases are not role-specific. In a true DevOps culture, each role is involved in each phase to some extent.
@@ -180,4 +198,3 @@ DevOps teams remain agile by releasing software in short cycles. Shorter release
 High-performing DevOps teams establish a growth mindset. They fail fast and incorporate learnings into their processes, continually improving, increasing customer satisfaction and accelerating innovation and market adaptability. DevOps is a journey, so there is always room to grow.
 
 ------------
-
