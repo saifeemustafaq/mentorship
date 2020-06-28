@@ -1,4 +1,5 @@
 # Introduction to Google Cloud Platform.
+![](https://www.eweek.com/imagesvr_ez/b2bezp/2018/07/1088GoogleCloud.jpg?alias=article_hero)
 ### What is Cloud Computing?
 - It can be defined by 5 parts;
   - On demand self-service:- No human intervention needed to get resources.
@@ -16,6 +17,8 @@
   - Cloud Functions:- It works on Serverless Logic.
   - Managed Services:- It works on Automatic Elastic resources.
   
+  ![](https://s3-ap-southeast-1.amazonaws.com/spaculus/cdns/images/google-cloud-img.jpg)
+  
 - Google offers customer-friendly pricing as belows,
   - Biling in sub-hour increments.
   - Discounts for sustained use.
@@ -31,6 +34,9 @@
 3. Global TCP Proxy.
 4. Regional.
 5. Regional Internal.
+
+![](https://cloud.google.com/load-balancing/images/ilb-l7-tiers.svg)
+
 - Google Cloud Platfrom offers many interconnect options.
 1. VPN.
 2. Direct Peering.
@@ -52,6 +58,7 @@
 - Cloud Spanner is a horizontal scalable RDBMS, and also managed by RDBMS.
 - Cloud Storage works with other GCP services such as BigQuery, Compute Engine, App Engine and Cloud SQL.
 - Cloud Datastore is a horizontally scalable NoSQL database, which is designed for application backends, supports transactions and includes a free daily quota.
+![](https://img.favpng.com/11/10/13/google-cloud-platform-cloud-computing-google-search-google-storage-cloud-storage-png-favpng-4Dfdcj6VwLBdcGHcPAXxZY61T.jpg)
 
 # Containers in the Cloud.
 - Containers offer a logical packaging mechanism in which applications can be abstracted from the environment in which they actually run.
@@ -69,6 +76,7 @@
   - Managing services on-premises and in the cloud.
   - Monitoring systems and services.
   - Migrating applications from VMs into your clusters.
+  ![](https://www.webopedia.com/imagesvr_ce/6603/google-container-engine.jpg)
   
 # Google App Engine.
 - The App Engine standard environment helps to easily deploy our applications, autoscale workloads, free daily quota, and usage based pricing.
@@ -81,12 +89,14 @@
 - App Engine has very flexible environment with no sandbox constraints, can access App Engine resources and build and deploy apps. It also has standard environment. 
 - A platform for making APIs available to your customers and partners is called apigee. It also has analytics, monetization, and a developer portal.
 - A Cloud Endpoints helps you to create and maintain APIs.
+![](https://miro.medium.com/max/2944/1*UGDwL8wVGWX3pYuYFai_eQ.png)
 
 # Developing, Deploying and Monitoring in the Cloud.
 - Deployment manager provides repeatable deployments, create a .yaml template describing your environment and use Deployment Manager to create resources.
 - Cloud Functions:-
   - Create single purpose functions that respond to events without a server or runtime.
   - It is written in javascript; execute in managed Node.js environment on Google Cloud Platform.
+  ![](https://cloud.google.com/solutions/images/deploying-production-ready-gitlab-on-gke-architecture.png)
 - Google Cloud Stackdriver performs the following functions and offers the 6 capabilities.
   - Monotoring.
   - Logging.
@@ -102,6 +112,7 @@
 3. BigQuery:- It is fully managed daat warehouse. Provides near real-time interactive analysis of massive datasets. Here no cluster maintainence required. It runs on Google's high-performance infrastructure. You only pay for storage and processing used. Automatic discount for long-term data storage.
 4 .Cloud Pub/Sub:- It is scalable, reliable messaging. It includes many-to-many messaging, application components make push/pull subscriptions to topics. It is used for building block for data ingestion in dataflow, IoT, Marketing Analysis, aslo foundation for Dataflow streaming. It also connect applications across Google Cloud Platform. 
 5. Cloud Datalab:- It offers interactive data exploration. It has integrated open source like Jupyter(formely IPhyton), interactive tool for large-scale data exploration, transformation, analysis, and visualization. Easily deploy models to BigQuery. Analyze data in BigQuery, Compute Engine, and Cloud Storage using Python, SQL, and JavaScript.
+![](https://image.slidesharecdn.com/googlecloudmachinelearning-170106083451/95/google-cloud-machine-learning-25-638.jpg?cb=1483693129)
 
 # Cloud Vision API.
 - It helps to analyze logo detection, label detection and other images with a simple REST API. Cloud Natural Language API can return text in real time, highly accurate, and can be access from any device. Uses Machine Learning models meaning and structure of text, can also be used to extract data from news, articles, and blog post. It also have the facility of Video Intellingence API. 
