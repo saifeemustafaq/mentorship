@@ -330,3 +330,17 @@ In that server we get many applications can work on that one server
 
 ![images (1)](https://user-images.githubusercontent.com/65771120/85412872-b0d23500-b587-11ea-85a7-1fdacc27e8f7.png)
 
+
+
+
+
+
+
+------------
+
+
+## 27 June 
+
+- Attend the webinar of AWS by FLY HIGH CONSULTING
+- Get a batch of IBM Python program with Data science
+
