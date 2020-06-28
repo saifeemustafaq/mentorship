@@ -124,3 +124,9 @@ Today I Learned:
 ## Date: June 26, 2020
 - Started to write programs in Java, today started with "Hello, World!" program.
 - Gave my Internship certificate to Training and Placement cell of our college. 
+## Date: June 27, 2020
+- Get registered in IIRS free training of IIRS Outreach Programme.
+- Attended webinar of AWS trainings and courses.
+- Registered for Google course of 9 months on Upcoming courses.
+
+
