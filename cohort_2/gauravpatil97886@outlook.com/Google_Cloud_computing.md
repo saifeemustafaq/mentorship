@@ -149,3 +149,89 @@ Cloud solutions come in three primary service models: Infrastructure as a Servic
 
 
 ------
+
+
+
+-   Cloud computing is one of the hottest technologies with a high demand for qualified professionals. The median salary for IT pros currently in a cloud computing career in the U.S. is $124,300. However, it is not the easiest of jobs to acquire because it is a specialty area. To secure a job in this field, a candidate must have a number of specific skills. Let’s see what they are so you can get your cloud computing career started!
+
+#### ✓Skill : Coding and database management
+****Coding skills****: Cloud computing unlocks a new dimension in software development. The cloud allows programmers to create, host, and execute applications that can scale up much faster due to the environment’s capacity to handle large volumes.
+
+Some recent additions to the cloud ecosystem are programming languages like Python, Perl, and Ruby. They are open source and becoming more prevalent with each passing year. Other conventional favorites are PHP, Java, and .NET.
+
+Python, a high-level language with simple syntax, is an excellent place to begin as far as programming skills in the cloud are concerned.
+
+Database management: Every day a staggering 2.5 quintillion bytes of fresh data is added to the world. Corporations are in a race to understand and maximize use of this growing wealth of data. Therefore, persons who can set-up, access, and manage databases are in high demand.
+
+****Cloud computing career****
+Flickr / Blue Coat Photos
+
+Due to its scalability, the cloud platform is the most common space to host databases. Knowledge of a database query language and related database platforms are therefore essential for any professional in this field. The ever-growing pile of data also means that opportunities in this field are not hard
+
+
+--------------
+
+
+|The research topics in Cloud Computing as follows|
+|-----------------------------------|
+Load balancing
+Security and integrity
+Privacy in multi-tenancy clouds
+Virtualisation
+Data recovery and backup
+Data segregation and recovery
+Secure cloud architecture
+Cloud cryptography
+Cloud access control and key management
+Integrity assurance for data outsourcing
+Trusted computing technology
+Failure detection and prediction
+Secure data management within and across data centres
+Availability, recovery and auditing
+Secure computation outsourcing
+Secure mobile cloud
+
+
+
+-------
+
+-----
+
+
+
+Cloud Computing Quiz
+Keeping you updated with latest technology trends, Join DataFlair on Telegram
+
+# 1. List of Cloud Computing Research Topics
+These Cloud Computing researches topics, help you to can eliminate many issues and provide a better environment. We can assoicate these issues with:
+
+### Virtualizations infrastructure
+### Software platform
+### Identity management
+### Access control
+
+- There is some important research direction in Cloud Security in areas such as trusted computing, privacy-preserving models, and information-centric security. These are the following Trending Cloud Computing Research Topics.
+
+----
+|Topics|
+|-------------------|
+1.Green Cloud Computing
+2.Edge Computing
+3.cloud Cryptography
+4.Load Balancing
+5.Cloud Analytics
+6.Cloud Scalability
+7.service Model
+8.cloud Computing Platforms
+9.Mobile Cloud Computing
+10.Big Data
+11.Cloud Deployment Model
+12.Cloud Security
+
+
+---------
+
+### i. Green Cloud Computing
+Green Cloud Computing is a broad topic, that makes virtualized data centres and servers to save energy. The IT services are utilizing so many resources and this leads to the shortage of resources. Green Cloud Computing provides many solutions, which makes IT resources more energy efficient and reduces the operational cost. It can also take care of power management, virtualization, sustainability, and recycling the environment.
+
+-----
