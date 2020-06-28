@@ -662,6 +662,18 @@ The speaker explained how to use github.
 
  - One other part of cloud service is serverless computing- like PaaS, serverless computing focuses on building app functionality without spending time continuously managing the servers and infrastructure required to do so. The setup, capacity planning and server management for you is done by the service provider. Serverless architectures are highly scalable and event-driven, you can use a specific function only when a specific function or trigger occurs using different allocated resources. 
 
+### Management responsibilities
+
+ One thing to understand is that these categories are layers on top of each other. For example, PaaS adds a layer on top of IaaS by providing a level of abstraction. The abstraction has the benefit of hiding the details that you may not care about, so that you can get to coding quicker. However, one aspect of the abstraction is that you have less control over the underlying hardware. The following illustration shows a list of resources that you manage and that your service provider manages in each cloud service category. 
+
+![](https://user-images.githubusercontent.com/65165798/83974357-69eb0b00-a90a-11ea-9407-90a5ceb46e4f.png) 
+
+ - IaaS requires the most user management of all the cloud services. The user is responsible for managing the operating systems, data, and applications. 
+
+ - PaaS requires less user management. The cloud provider manages the operating systems, and the user is responsible for the applications and data they run and store. 
+
+ - SaaS requires the least amount of management. The cloud provider is responsible for managing everything, and the end user just uses the software. 
+
 ## Date: June 09, 2020
 
 >## Today I learned:
