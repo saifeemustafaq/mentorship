@@ -5,7 +5,10 @@
 # Microsoft Azure 
 
 
-![Microsoft azure](https://www.dynamicsafrica.biz/sage-on-azure/)
+[Click here create free account in Microsoft Azure](https://azure.microsoft.com/en-in/free/search/?&ef_id=Cj0KCQjw3Nv3BRC8ARIsAPh8hgICq3NLGpJEMQrL5B_j8GSZ1iOeSwuO_kW1bu1EebqlNbjnnYZtqjcaAil_EALw_wcB:G:s&OCID=AID2000081_SEM_Cj0KCQjw3Nv3BRC8ARIsAPh8hgICq3NLGpJEMQrL5B_j8GSZ1iOeSwuO_kW1bu1EebqlNbjnnYZtqjcaAil_EALw_wcB:G:s)
+
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQh8X8SNNe23jo14AIrIAoFDSs5I80_5ZdSmw&usqp=CAU)
 
 
 -  Today, cloud computing applications and platforms are rapidly growing across all industries, serving as the IT infrastructure that drives new digital businesses. These platforms and applications have revolutionized the ways in which businesses function, and have made processes easier. In fact, more than 77 percent of businesses today have at least some portion of their computing infrastructure in the cloud.
@@ -125,3 +128,48 @@ Queue Storage
 
 
 -----------
+## ListList of the Advantages of Microsoft Azure
+
+### .1 Microsoft Azure offers high availability.
+When you go through the legal agreement which covers the services provided by Azure, you’ll find that the uptime guarantee you’re given is 99.95%. In real-time hours, that means you can expect about 4.5 hours of downtime over the course of an entire year. Similar services from competitive brands offer uptime percentages that are 98%, 95%, and sometimes as low as 90% for the same price that you’ll get with Azure.
+
+
+--------
+
+## 2. It offers you a strong security profile.
+Azure follows the DADSC approach to security: detect, assess, diagnose, stabilize, and close. When this profile is paired with the cyber-security controls that are built into the platform, you’ll be able to take their multiple compliance certifications and turn them into your next best assets. End users are covered with Azure, as is the platform, which reduces the risk of data loss. At the same time, multi-factor authentication and application passwords offer another layer of security to stop information theft.
+
+------
+
+## 3. Azure offers good scalability options.
+Like most businesses, you probably have a day or two when you maximize your data use, then the rest of the month, you use a minimal amount. With Azure, you’re not forced to purchase data packets or other upgrades to gain access to the computer power you need for that day or two each month. Just click on the upgrades that you need, then remove them when you’ve gotten the work done. This structure makes it easier to pay only for what you use.
+
+-------
+
+## 4. It is a cost-effective solution for an IT budget.
+Because you’re using a cloud provider, you don’t have the same capital investments into IT infrastructure that other businesses face. For the SMB, that means being able to become instantly competitive on a global stage with their technology. You only purchase what you need, when you need it. In return, the cloud environment with Azure gives you the ability to launch customer apps or internal apps. You lose the burden of hardware costs and maintenance without losing the benefits of having them because of your access to the cloud.
+
+-------
+
+## 5. There are multiple redundancies in place to maintain data access.
+Microsoft Azure has access to a wide range of global data centers that will help you be able to access your data. That is how they can assure continuous availability at higher levels than their competition. Even if one of the data centers needs to be taken down for maintenance, you’re still good to go because you can just access another data center when you need to put data in or take it out for your business.
+
+--------
+
+## 6. Azure allows you to use any framework, language, or tool.
+When you have Microsoft Azure working for you, then you can turn your ideas into solutions very quickly. All you need to do is bring your code to start doing what you already love. Azure allows you to build apps with the language you prefer, including .NET, Java, and Node.js, then gives you access to tools like Visual Studio. This allows you to stay productive while focusing on the coding instead of how it is managed.
+
+
+------
+
+## 7. You are given access to app connectors within the Microsoft family of products.
+With Microsoft Azure, you’re able to connect devices, data, and applications with 150+ connectors that come out-of-the-box with your investment. Office 365 is one of the best connectors, allowing you to integrate coding and administration duties into one platform. Azure also works with Dropbox, Google services, Twitter, Salesforce, and many others.
+
+
+--------
+## 8. You can automate many of your repetitive tasks.
+Azure allows you to manage large, complex applications with the tools you prefer to use. That includes BASH, Power Shell, or REST APIs. That means you can quickly automate your time-consuming repetitive tasks to speed up your app delivery without compromising the quality of your work. Built-in supports for analytics, patching, monitoring, backups, and site recovery for your apps are included, which means you get to focus on your work instead of trying to maintain your infrastructure.
+
+
+
+----_------
