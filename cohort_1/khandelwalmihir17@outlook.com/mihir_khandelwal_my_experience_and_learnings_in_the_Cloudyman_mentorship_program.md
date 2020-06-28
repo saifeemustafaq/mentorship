@@ -121,3 +121,6 @@ Today I Learned:
 ## Date: June 25, 2020
 - Done with the offer of Google about it's 9 week digital courses, Google Cloud Next '20: OnAir, starting from 14th July to 8th September.
 - Learned the differnece between Java and C++.
+## Date: June 26, 2020
+- Started to write programs in Java, today started with "Hello, World!" program.
+- Gave my Internship certificate to Training and Placement cell of our college. 
