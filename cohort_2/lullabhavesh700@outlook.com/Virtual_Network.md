@@ -132,5 +132,73 @@ When you set up a VNet, you specify the topology, including the available addres
 
 If the VNet is to connected to other VNets or on-premises networks, you must select address ranges that don't overlap. The IP addresses are private and can't be accessed from the internet. 
 
+By default, there is no security boundary between subnets, so VMs in each of these subnets can talk to one another. However, you can set up Network Security Groups (NSGs), which allow you to control the traffic flow to and from subnets and to and from VMs.
 
+Networks are somewhat beautiful. A subnet is a division of another subnet you can slice into smaller subnets. It’s called subnetting. But there are some rules on Azure.
+
+Before starting the subnet design, we need to think about your future needs. One needs can be to connect VM to on-premises networks. So, you may need to implement an Azure VPN gateway.
+
+>## Network Security Groups(NSG)
+
+ - NSG is nothing but a list or set of rules.
+
+ - These are used to allow or deny traffic to your Virtual Machines.
+
+ - Security is an important aspect when you expose your data or appliances to the outside world in internet.
+
+ - Because of the tremendous risk of attacks that can happen from the internet to your infrastructure as well as your data, you need to have the right security tools in place to protect all the resources in your **Cloud Computing** environment.
+
+ - NSG is one of the tool that can be used for your VM to allow or deny traffic to and from your VM's.
+
+ - This is a security mechanism that's available for your VM's.
+
+Examples:
+
+>### Case 1:
+
+ - In a VNet in Azure, by default, communications is possible between the subnets when you create them. Two VM's are shown here.
+
+![](https://user-images.githubusercontent.com/65165798/83788221-7ecd6180-a6b2-11ea-9795-b21e33b261a1.png) 
+
+ - This is one of the cases that uses NSG.
+
+ - Communication is established between them.
+
+ - There could be special cases where you want to isolate the two VM's completely.
+
+ - This could be because of different requirements or security aspects such as storing critical data.
+
+ - If the two VM's are in the same Virtual Network as a part of two subnets, you can define NSG to block the traffic.
+
+![](https://user-images.githubusercontent.com/65165798/83788605-16cb4b00-a6b3-11ea-8e92-1297da34e2dc.png) 
+ 
+ Here the VM's are completely isolated.
+ 
+>### Case 2:
+
+ - Another use case scenario is when you have a VM in a VNet in Azure and you only want to allow a certain traffic from a particular **workstation**, you can create a NSG rule which only allows a **remote desktop connection** from this particular workstation only.
+
+ - This allows no one except that workstation the ability to connect to your machine in Azure via **remote desktop connection**.
+
+![](https://user-images.githubusercontent.com/65165798/83788996-b7216f80-a6b3-11ea-8591-b94293f003fa.png) 
+ 
+- These are some of the many cases where NSG is used in Azure.
+
+>### Takeaway
+
+ - There are two separate set of rules that can be managed i.e. Inbound and Outbound rules.
+
+ - Inbound traffic: The traffic that comes into your machine.
+
+ - Outbound traffic: The traffic that flows out of your machine.
+
+ - For each of the rules, you define what is the Source IP and Source Port Number of the Workstation.
+
+ - You also specify the Destination IP and the Destination Port Number of the Client VM.
+
+ - You next have to specify what are the protocols that are allowed. For eg. HTTP, HTTPS, TCP etc.
+
+ - And then the priority i.e. you can have different rules in your NSG each having diffenet priority. And the one which will have the most priority will override others having least priority.
+
+ - Then you have to specify if it’s an allow or deny rule.
 

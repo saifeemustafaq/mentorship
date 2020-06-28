@@ -118,7 +118,15 @@ Today I Learned:
 - There is a chance of getting selected in an Markrtting Internship by Internshala.
 - Got selected in an NGO internship by Internshala.
 - Getting towards Java and C++ with full enthusiasm.
+## Date: June 25, 2020
+- Done with the offer of Google about it's 9 week digital courses, Google Cloud Next '20: OnAir, starting from 14th July to 8th September.
+- Learned the differnece between Java and C++.
+## Date: June 26, 2020
+- Started to write programs in Java, today started with "Hello, World!" program.
+- Gave my Internship certificate to Training and Placement cell of our college. 
 ## Date: June 27, 2020
 - Get registered in IIRS free training of IIRS Outreach Programme.
 - Attended webinar of AWS trainings and courses.
 - Registered for Google course of 9 months on Upcoming courses.
+
+
