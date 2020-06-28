@@ -95,8 +95,6 @@ Software and the Internet have transformed the world and its industries, from sh
 
 -------
 
-
-
 ## SysOps Vs. DevOps: What’s the Difference?
 
 Those who are always confused with the terms 'SysOps' and 'DevOps' are definitely going to love this blog, Both DevOps and SysOps are incredible tools when used in apt situations. This blog explores these two important terms through a quick comparison.
@@ -117,3 +115,86 @@ To understand the differences between DevOps and SysOps, first you have to under
 
 
 -----------
+
+DevOps and the application lifecycle
+DevOps influences the application lifecycle throughout its plan, develop, deliver and operate phases. Each phase relies on the others and the phases are not role-specific. In a true DevOps culture, each role is involved in each phase to some extent.
+
+![](https://azurecomcdn.azureedge.net/cvt-927c0217634e78d8af70fc50828543d66bb89cc222e0615bc5c573b0b1ff1dab/images/page/overview/devops/index/lifecycle.png)
+
+
+|plan|
+|-----|
+|In the plan phase, DevOps teams ideate, define, and describe features and capabilities of the applications and systems they are building. They track progress at low and high levels of granularity—from single-product tasks to tasks that span portfolios of multiple products. Creating backlogs, tracking bugs, managing agile software development with Scrum, using Kanban boards and visualising progress with dashboards are some of the ways DevOps teams plan with agility and visibility|.
+
+
+
+
+------
+
+
+
+
+
+
+
+
+
+|Develop|
+|-------|
+|The develop phase includes all aspects of coding—writing, testing, reviewing and the integration of code by team members—as well as building that code into build artifacts that can be deployed into various environments. DevOps teams seek to innovate rapidly without sacrificing quality, stability and productivity. To do that, they use highly productive tools, automate mundane and manual steps and iterate in small increments through automated testing and continuous integration|
+
+--------.
+
+
+
+
+
+
+|Deliver|
+|--------|
+|Delivery is the process of deploying applications into production environments in a consistent and reliable way. The deliver phase also includes deploying and configuring the fully governed foundational infrastructure that makes up those environments|.
+
+|In the deliver phase, teams define a release management process with clear manual approval stages. They also set automated gates that move applications between stages until they’re made available to customers. Automating these processes makes them scalable, repeatable, controlled. This way, teams who practice DevOps can deliver frequently with ease, confidence and peace of mind.|
+
+-------
+
+
+|Operate|
+|---------|
+|The operate phase involves maintaining, monitoring and troubleshooting applications in production environments. In adopting DevOps practices, teams work to ensure system reliability, high availability and aim for zero downtime while reinforcing security and governance. DevOps teams seek to identify issues before they affect the customer experience and mitigate issues quickly when they do occur. Maintaining this vigilance requires rich telemetry, actionable alerting and full visibility into applications and the underlying system.|
+
+
+
+----------------------
+
+
+
+
+
+DevOps culture
+---------
+
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSibE4wFCSMdjpUr6n7yh1QyCTtn35lEMt9vA&usqp=CAU)
+
+
+- While adopting DevOps practices automates and optimises processes through technology, it all starts with the culture inside the organisation—and the people who play a part in it. The challenge of cultivating a DevOps culture requires deep changes in the way people work and collaborate. But when organisations commit to a DevOps culture, they can create the environment for high-performing teams to develop.
+
+-----
+
+####  Collaboration, visibility and alignment 
+One hallmark of a healthy DevOps culture is collaboration between teams, which starts with visibility. Different teams such as development and IT operations must share their DevOps processes, priorities and concerns with each other. These teams must also plan work together as well as align on goals and measures of success as they relate to the business.
+
+--------
+#### Shifts in scope and accountability
+As teams align, they take ownership and become involved in additional lifecycle phases—not just the ones central to their roles. For example, developers become accountable not only to the innovation and quality established in the develop phase, but also to the performance and stability their changes bring in the operate phase. At the same time, IT operators are sure to include governance, security and compliance in the plan and develop phase.
+
+--------
+#### Shorter release cycles
+DevOps teams remain agile by releasing software in short cycles. Shorter release cycles make planning and risk management easier since progress is incremental, which also reduces the impact on system stability. Shortening the release cycle also allows organisations to adapt and react to evolving customer needs and competitive pressure.
+
+----------
+#### Continuous learning
+High-performing DevOps teams establish a growth mindset. They fail fast and incorporate learnings into their processes, continually improving, increasing customer satisfaction and accelerating innovation and market adaptability. DevOps is a journey, so there is always room to grow.
+
+------------

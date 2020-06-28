@@ -15,3 +15,6 @@ We can add images video audio any format can save data on servers.
 
 ## Types Of Cloud Service
 
+1. Platform as a Service (PAAS)
+2. Software as a Service (SAAS) 
+3. Infrastructure as a Service (IAAS)
