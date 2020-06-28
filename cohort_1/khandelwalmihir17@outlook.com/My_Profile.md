@@ -28,6 +28,7 @@
 1. C
 2. C++
 3. HTML and CSS
-4. Phyton(basics)
+4. Java.
+5. Phyton(basics)
 
 ## LinkedIn [Mihir Khandelwal](https://www.linkedin.com/in/mihirkhandelwal/)
