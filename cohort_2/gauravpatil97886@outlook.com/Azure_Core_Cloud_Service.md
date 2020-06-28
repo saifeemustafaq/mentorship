@@ -161,3 +161,35 @@ BRIAN JACKSON - FOTOLIA****
 
 ---------
 
+## Why are people trusting their workloads to Microsoft Azure?
+
+|It’s been said that the on-premise data center has no future. Like mainframes and dial-up modems before them, self-hosted data centers are becoming obsolete, being replaced by increasingly available and affordable cloud solutions. Several important players have emerged in the cloud service sphere, including Amazon Web Services (AWS), perennial computing giant IBM, and Apple’s ubiquitous iCloud, which holds the picture memories and song preferences of hundreds of millions of smartphone users, among other data. With so many options, why are companies like 3M, BMW, and GE moving workloads to Microsoft Azure? Just some of the reasons:|
+
+
+#### Flexibility
+
+With Microsoft Azure you can spin up new services and geometrically scale your data storage capabilities on the fly. Compare this to a static data center, which would require new hardware and OS purchasing, provisioning, and deployment before additional power could be brought to bear against your IT challenges. This modern flexibility makes Azure a tempting solution for organizations of any size.
+
+
+--------
+
+#### Cost
+
+Azure solutions don’t just make it faster and easier to add and scale infrastructure, they make it cheaper. Physical services and infrastructure devices like routers, load balancers and more quickly add up to thousands or even hundreds of thousands of dollars. Then there’s the IT expertise required to run this equipment, which amounts to major payroll overhead. By leveraging Microsoft’s massive infrastructure and expertise, Azure can trim our annual IT budget by head-turning percentages.
+
+-------
+#### Applications
+
+With a la carte service offerings like Visual Studio Team Services, Visual Studio Application Insights, and Azure’s scalable, on-demand storage for both frequently accessed and ‘cold’ data, Microsoft makes developing and testing mission-critical apps a snap. Move an application from test to production mode on the fly across a globally distributed network. Microsoft also offers substantial licensing discounts for migrating their existing apps to Azure, which represents even more opportunity for savings.
+
+
+-----
+
+
+#### Disaster recovery
+
+Sometimes the unthinkable becomes the very immediate reality. Another advantage of Microsoft Azure lay in its high-speed and geographically decentralized infrastructure, which creates limitless options for disaster recovery plans. Ensure that your critical application and data can run from redundant sites during recovery periods that last minutes or hours instead of days. Lost time is lost business, and with Azure you can guarantee continuous service delivery even when disaster strikes.
+
+The combination of Microsoft’s vast infrastructure, constant application and services development, and powerful presence in the global IT marketplace has made Microsoft Azure solutions the choice of two-thirds of the world’s Fortune 500 companies. But the infinite scalability of Azure can make it just as right for your small personal business.
+
+------
