@@ -128,5 +128,7 @@ Today I Learned:
 - Get registered in IIRS free training of IIRS Outreach Programme.
 - Attended webinar of AWS trainings and courses.
 - Registered for Google course of 9 months on Upcoming courses.
-
+## Date: June 29, 2020
+- Started the AWS mentorship from 29th June to 3rd of July.
+- Learned about the basis cloud and how to get an Instance ready for Cloud work.
 
