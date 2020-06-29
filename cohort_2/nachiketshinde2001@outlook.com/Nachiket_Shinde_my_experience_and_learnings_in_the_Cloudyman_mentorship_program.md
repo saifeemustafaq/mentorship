@@ -344,3 +344,8 @@ In that server we get many applications can work on that one server
 - Attend the webinar of AWS by FLY HIGH CONSULTING
 - Get a batch of IBM Python program with Data science
 
+## 29 June
+
+- Today i attend the webinar of Bootcamp with Cloud Services by amzaon
+In that they give a prical knowledge about virtual machine with linux
+
