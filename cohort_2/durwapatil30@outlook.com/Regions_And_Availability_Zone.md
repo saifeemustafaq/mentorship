@@ -175,7 +175,7 @@ Planned Azure system updates are rolled out to paired regions sequentially (not 
 ### Data residency :
 A region resides within the same geography as its pair (with the exception of Brazil South) to meet data residency requirements for tax and law enforcement jurisdiction purposes.
 
-= = = = = = = = = =
+_ _ _ _ _ _ _ _ _ _
 
 # What are fault domains ?
 
@@ -218,4 +218,4 @@ Each fault domain can be associated with location metadata, which will automatic
 ### Stretch clustering uses fault domains for storage affinity :
 Stretch clustering allows faraway servers to join a common cluster. For the best performance, applications or virtual machines should be run on servers that are nearby to those providing their storage. Fault domain awareness enables this storage affinity.
 
-= = = = = = = = = =
+_ _ _ _ _ _ _ _ _ _

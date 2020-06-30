@@ -128,7 +128,8 @@ Queue Storage
 
 
 -----------
-## ListList of the Advantages of Microsoft Azure
+## List of the Advantages of Microsoft Azure
+
 
 ### .1 Microsoft Azure offers high availability.
 When you go through the legal agreement which covers the services provided by Azure, you’ll find that the uptime guarantee you’re given is 99.95%. In real-time hours, that means you can expect about 4.5 hours of downtime over the course of an entire year. Similar services from competitive brands offer uptime percentages that are 98%, 95%, and sometimes as low as 90% for the same price that you’ll get with Azure.
@@ -172,4 +173,56 @@ Azure allows you to manage large, complex applications with the tools you prefer
 
 
 
-----_------
+----------
+
+
+
+
+
+
+
+
+
+MICROSOFT AZURE STACK TECHNICAL PREVIEW (POC)
+-------
+
+[POSTED IN CLOUD, CONTAINERS, HYPER-V, MICROSOFT, MICROSOFT AZURE, MICROSOFT AZURE STACK, NANO SERVER, POWERSHELL, PRIVATE CLOUD, SYSTEM CENTER, VIRTUALIZATION, WEB, WINDOWS, WINDOWS 10, WINDOWS SERVER, WINDOWS SERVER 2016, WORK](https://www.thomasmaurer.ch/2015/12/hardware-requirements-for-microsoft-azure-stack-technical-preview-poc/)
+
+- Jeffery Snover (Microsoft Techical Fellow) just announced that they will release a PoC (Proof of Concept) of Microsoft Azure Stack Technical Preview soon, which you can run in your datacenter to test Microsoft Azure Stack. Microsoft also released the Hardware requirements for Microsoft Azure Stack Technical Preview (POC) deployment.
+
+
+![](https://www.thomasmaurer.ch/wp-content/uploads/2015/12/Azure-Stack-PoC-Hardware.png)
+
+
+
+------
+
+## Storage:
+
+             Data disk drive configuration: All data drives must be of the same type (SAS or SATA)             and capacity.  If SAS disk drives are used, the disk drives must be attached via a single               path (no MPIO, multi-path support is provided)
+         HBA configuration options:
+       1. (Preferred) Simple HBA
+         2. RAID HBA – Adapter must be configured in “pass through” mode
+          3. RAID HBA – Disks should be configured as Single-Disk, RAID-0
+          Supported bus and media type combinations
+         SATA HDD
+         SAS HDD
+         RAID HDD
+         RAID SSD (If the media type is unspecified/unknown*)
+         SATA SSD + SATA HDD**
+         SAS SSD + SAS HDD**
+         * RAID controllers without pass-through capability can’t recognize the media type
+         . Such controllers will mark both HDD and SSD as Unspecified. In that case,
+         the SSD will be used as persistent storage instead of caching devices. Therefore
+         you can deploy the Microsoft Azure Stack POC on those SSDs.
+
+
+-------
+****For tiered storage, you must have at least 3 HDDs****.
+
+****Example HBAS****: LSI 9207-8i, LSI-9300-8i, or LSI-9265-8i in pass-through mode
+
+--------
+
+
+

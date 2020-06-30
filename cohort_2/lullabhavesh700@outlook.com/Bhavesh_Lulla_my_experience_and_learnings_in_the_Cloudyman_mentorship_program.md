@@ -863,9 +863,33 @@ The speaker explained how to use github.
  - If the server fails for any reason, then none of the requests of the clients can be fulfilled. This leads of failure of the client server network.
    The cost of setting and maintaining a client server model are quite high.
 
+>## What are Containers? 
 
+ - Containers provide a consistent isolated execution environment for applications. 
 
+ - They are similar to VM's but they don't require a guest OS. 
 
+ - It is isolated test environment where all the execution of the application is done. 
+
+ - The result is the application runs quickly and reliably. 
+
+ - Ex. Docker is a leading platform for **containers** as it is efficient, lightweight approach to application deployment
+
+ - It allows different components of the application to be deployed independently into different containers. 
+
+![](https://user-images.githubusercontent.com/65165798/82722093-2032db80-9ce1-11ea-9701-569697db6d8f.png) 
+
+### Benefits of Containers:
+
+ - A container may be only tens of megabytes in size, whereas a virtual machine with its own entire operating system may be several gigabytes in size. 
+
+ - Because of this, a single server can host far more containers than virtual machines. 
+
+ - It saves us time as bootloading is faster. 
+
+ - Rather than run an entire complex application inside a single container, the application can be split into modules. 
+
+ - This makes it easier for the developers to manage the applications. 
 
  
 
