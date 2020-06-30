@@ -75,12 +75,14 @@ The same applies to computing power. Companies that experience surge traffic wou
 - There’s no upfront cost to build a storage system and no need to estimate usage. 
 - AWS customers use what they need and their costs are scaled automatically and accordingly.
 
+----
 ## Scalable and Adaptable
 
 Since AWS’s cost is modified based on the customers’ usage, start-ups and small businesses can see the obvious benefits of using Amazon for their computing needs. In fact, AWS is great for building a business from the bottom as it provides all the tools necessary for companies to start up with the cloud. For existing companies, Amazon provides low-cost migration services so that your existing infrastructure can be seamlessly moved over to AWS.
 
 As a company grows, AWS provides resources to aid in expansion and as the business model allows for flexible usage, customers will never need to spend time thinking about whether or not they need to reexamine their computing usage. In fact, aside from monetary reasons, companies also should stop worrying about their computing needs. 
 
+----
 ## Security and Reliability
 
 Arguably, Amazon Web Services is much more secure than a company hosting its own website or storage. AWS currently has dozens of data centers across the globe which are continuously monitored and strictly maintained. The diversification of the data centers ensures that a disaster striking one region doesn’t cause permanent data loss worldwide. Imagine if Netflix were to have all of its personnel files, content, and backed-up data centralized on-site on the eve of a hurricane. 
@@ -89,3 +91,38 @@ Arguably, Amazon Web Services is much more secure than a company hosting its own
 In fact, localizing data in an easily identifiable location and where hundreds of people can realistically obtain access is unwise. AWS has tried to keep its data centers as hidden as possible, locating them in out-of-the-way locations and allowing access only on an essential basis. The data centers and all the data contained therein are safe from intrusions, and, with Amazon’s experience in cloud services, outages and potential attacks can be quickly identified and easily remedied, 24 hours a day. The same can’t be said for a small company whose computing is handled by a single IT specialist working out of a large office. 
 
 ----
+## Migration to hybrid cloud:
+
+AWS includes various tools and services designed to help users migrate applications, databases, servers and data onto its public cloud. The AWS Migration Hub provides a location to monitor and manage migrations from on premises to the cloud.
+- Once in the cloud, EC2 Systems Manager helps an IT team configure on-premises servers and AWS instances.
+
+Amazon also has partnerships with several technology vendors that ease hybrid cloud deployments. VMware Cloud on AWS brings software-defined data center technology from VMware to the AWS cloud.
+- **Red Hat Enterprise Linux for Amazon EC2** is the product of another partnership, extending Red Hat's operating system to the AWS cloud.
+
+-------
+## Networking;
+
+An Amazon Virtual Private Cloud (Amazon VPC) gives an administrator control over a virtual network to use an isolated section of the AWS cloud. AWS automatically provisions new resources within a VPC for extra protection.
+
+Admins can balance network traffic with the Elastic Load Balancing (ELB) service, which includes the Application Load Balancer and Network Load Balancer.
+- AWS also provides a domain name system called Amazon Route 53 that routes end users to applications.
+- An IT professional can establish a dedicated connection from an on-premises data center to the AWS cloud via AWS Direct Connect.
+
+-------
+## Developer tools:
+
+A developer can take advantage of AWS command-line tools and software development kits (SDKs) to deploy and manage applications and services. 
+This includes:
+
+- The AWS Command Line Interface, which is Amazon's proprietary code interface.
+- A developer can use AWS Tools for Powershell to manage cloud services from Windows environments.
+-  Developers can use AWS Serverless Application Model to simulate an AWS environment to test Lambda functions.
+- AWS SDKs are available for a variety of platforms and programming languages, including Java, PHP, Python, Node.js, Ruby, C++, Android and iOS.
+
+- Amazon API Gateway enables a development team to create, manage and monitor custom application program interfaces (APIs) that let applications access data or functionality from back-end services. API Gateway manages thousands of concurrent API calls at once.  
+
+- AWS also provides a packaged media transcoding service -- Amazon Elastic Transcoder -- and a service that visualizes workflows for microservices-based applications -- AWS Step Functions.
+
+- A developer can also store code in Git repositories with AWS CodeCommit and evaluate the performance of microservices-based applications with AWS X-Ray.
+
+-------
