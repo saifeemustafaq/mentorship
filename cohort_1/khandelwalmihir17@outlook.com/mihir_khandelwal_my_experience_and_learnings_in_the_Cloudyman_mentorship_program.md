@@ -134,3 +134,6 @@ Today I Learned:
 ## Date: June 29, 2020
 - Started the AWS mentorship from 29th June to 3rd of July.
 - Learned about the basis cloud and how to get an Instance ready for Cloud work.
+## Date: June 30, 2020
+- Created my first free account on AWS Cloud.
+- Solved some C++ programs, with Algorithm and Flowchart.
