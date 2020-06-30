@@ -128,5 +128,7 @@ Today I Learned:
 - Get registered in IIRS free training of IIRS Outreach Programme.
 - Attended webinar of AWS trainings and courses.
 - Registered for Google course of 9 months on Upcoming courses.
-
+## Date: June 28,2020
+- Downloaded an template of resume and edited it.
+- Read some C++.
 
