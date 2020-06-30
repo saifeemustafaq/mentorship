@@ -131,3 +131,37 @@ which provide bi-directional communication. Unlike queues and topics, a relay do
 - On November 20, 2018, Microsoft launched the Open Enclave SDK for cross-platform systems such as ARM TrustZone and Intel SGX.
 
 _ _ _ _ _ _ _ _ _ _
+
+# Regional expansion and examples :
+
+- Azure is generally available in 54 regions around the world. Microsoft has announced an additional 12 regions to be opened soon (as of October 2018). Microsoft is the first hyper-scale cloud provider that has committed to building facilities on the continent of Africa with two regions located in South Africa.
+
+- An Azure geography contains multiple Azure Regions, such as for example “North Europe” (Dublin, Ireland), “West Europe” (Amsterdam, Netherlands). Where a location represents the city or area of the Azure Region. Each Azure Region is paired with another region within the same geography; this makes them a regional pair. In this example, Amsterdam and Dublin are the locations which form the regional-pair.
+
+- Microsoft has some Gold partners available across the globe to sell its products. In August 2018, Toyota Tsusho began a partnership with Microsoft to create fish farming tools using the Microsoft Azure application suite for IoT technologies related to water management.
+
+- Developed in part by researchers from Kindai University, the water pump mechanisms use artificial intelligence to count the number of fish on a conveyor belt, analyze the number of fish, and deduce the effectiveness of water flow from the data the fish provide. The specific computer programs used in the process fall under the Azure Machine Learning and the Azure IoT Hub platforms.
+
+_ _ _ _ _ _ _ _ _ _
+
+# Design :
+
+- Microsoft Azure uses a specialized operating system, called Microsoft Azure, to run its "fabric layer": A cluster hosted at Microsoft's data centers that manage computing and storage resources of the computers and provisions the resources (or a subset of them) to applications running on top of Microsoft Azure.
+
+- Microsoft Azure has been described as a "cloud layer" on top of a number of Windows Server systems, which use Windows Server 2008 and a customized version of Hyper-V, known as the Microsoft Azure Hypervisor to provide virtualization of services.
+
+- Scaling and reliability are controlled by the Microsoft Azure Fabric Controller, which ensures the services and environment do not fail if one or more of the servers fails within the Microsoft data center, and which also provides the management of the user's Web application such as memory allocation and load balancing.
+
+- Azure provides an API built on REST, HTTP, and XML that allows a developer to interact with the services provided by Microsoft Azure. Microsoft also provides a client-side managed class library that encapsulates the functions of interacting with the services. It also integrates with Microsoft Visual Studio, Git, and Eclipse.
+
+- In addition to interacting with services via API, users can manage Azure services using the Web-based Azure Portal, which reached General Availability in December 2015. The portal allows users to browse active resources, modify settings, launch new resources, and view basic monitoring data from active virtual machines and services.
+
+## Deployment models :
+
+- Microsoft Azure offers two deployment models for cloud resources: the "classic" deployment model and the Azure Resource Manager.
+
+- In the classic model, each Azure resource (virtual machine, SQL database, etc.) was managed individually.
+
+- The Azure Resource Manager, introduced in 2014, enables users to create groups of related services so that closely coupled resources can be deployed, managed, and monitored together.
+
+_ _ _ _ _ _ _ _ _ _

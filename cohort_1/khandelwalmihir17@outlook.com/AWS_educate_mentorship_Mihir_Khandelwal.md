@@ -44,3 +44,8 @@
     - Simple Automated Scheduling
     - Costomization and Security
     - Third Party APIs
+# Examination and Certification
+- The examination is about the users choice, whatever he or she might be interested in.
+- The exam fee is $100, with the certificate from Amazon Cloud.
+
+![](https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2019/09/20/Certifications_1.png)

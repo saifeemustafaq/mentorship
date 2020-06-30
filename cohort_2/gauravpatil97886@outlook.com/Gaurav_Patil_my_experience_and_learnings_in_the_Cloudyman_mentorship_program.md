@@ -607,3 +607,54 @@ Approximate round trip times in milli-seconds:
 ------
     
 Here you can see the result of pinging [](www.google.com) The statistics show that the average time it takes for a roundtrip between the given PC and Google’s network is 39ms.
+
+---------
+## Date 29 June,2020
+
+
+--------
+# What is Artificial Intelligence?
+
+------
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTUBnfsRps8qsG6j9zUFPJfOy7p9X-p8o0_Zw&usqp=CAU)
+
+
+
+Artificial intelligence (AI) is wide-ranging branch of computer science concerned with building smart machines capable of performing tasks that typically require human intelligence. AI is an interdisciplinary science with multiple approaches, but advancements in machine learning and deep learning are creating a paradigm shift in virtually every sector of the tech industry. 
+
+------
+### Can machines think? — Alan Turing, 1950
+
+Less than a decade after breaking the Nazi encryption machine Enigma and helping the Allied Forces win World War II, mathematician Alan Turing changed history a second time with a simple question: "Can machines think?" 
+
+Turing's paper "Computing Machinery and Intelligence" (1950), and it's subsequent Turing Test, established the fundamental goal and vision of artificial intelligence.   
+
+what is artificial intelligenceAt it's core, AI is the branch of computer science that aims to answer Turing's question in the affirmative. It is the endeavor to replicate or simulate human intelligence in machines.
+
+The expansive goal of artificial intelligence has given rise to many questions and debates. So much so, that no singular definition of the field is universally accepted.  
+
+The major limitation in defining AI as simply "building machines that are intelligent" is that it doesn't actually explain what artificial intelligence is? What makes a machine intelligent?
+
+In their groundbreaking textbook Artificial Intelligence: A Modern Approach, authors Stuart Russell and Peter Norvig approach the question by unifying their work around the theme of intelligent agents in machines. With this in mind, AI is "the study of agents that receive percepts from the environment and perform actions." (Russel and Norvig viii)
+
+Norvig and Russell go on to explore four different approaches that have historically defined the field of AI: 
+
+---------
+#### Thinking humanly
+#### Thinking rationally
+#### Acting humanly 
+#### Acting rationally
+
+--------
+The first two ideas concern thought processes and reasoning, while the others deal with behavior. Norvig and Russell focus particularly on rational agents that act to achieve the best outcome, noting "all the skills needed for the Turing Test also allow an agent to act rationally." (Russel and Norvig 4).
+
+Patrick Winston, the Ford professor of artificial intelligence and computer science at MIT, defines AI as  "algorithms enabled by constraints, exposed by representations that support models targeted at loops that tie thinking, perception and action together
+
+While these definitions may seem abstract to the average person, they help focus the field as an area of computer science and provide a blueprint for infusing machines and programs with machine learning and other subsets of artificial intelligence. 
+
+While addressing a crowd at the Japan AI Experience in 2017,  DataRobot CEO Jeremy Achin began his speech by offering the following definition of how AI is used today:
+
+****"AI is a computer system**** able to perform tasks that ordinarily require human intelligence... Many of these artificial intelligence systems are powered by machine learning, some of them are powered by deep learning and some of them are powered by very boring things like rules." 
+
+-----------
