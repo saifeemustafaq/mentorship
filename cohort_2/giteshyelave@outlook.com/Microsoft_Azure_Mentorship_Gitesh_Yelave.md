@@ -131,3 +131,53 @@ The Azure Blockchain Service allows you to join a blockchain consortium or to cr
 Microsoft Intune can be used to enroll user devices, thereby making it possible to push security policies and mobile apps to those devices.
 
 _ _ _ _ _ _ _ _ _ _
+
+# Azure for DR and backup :
+
+- Some organizations use Azure for data backup and disaster recovery. Organizations can also use Azure as an alternative to their own data center.
+
+- Rather than invest in local servers and storage, these organizations choose to run some, or all, of their business applications in Azure.
+
+- To ensure availability, Microsoft has Azure data centers located around the world. As of January 2020, Microsoft Azure services are available in 55 regions, spread across 140 countries.
+
+- Unfortunately, not all services are available in all regions. Therefore, Azure users must ensure that workload and data storage locations comply with all prevailing compliance requirements or other legislation.
+
+_ _ _ _ _ _ _ _ _ _
+
+# Azure pricing and costs :
+
+- Similar to other public cloud providers, Azure primarily uses a pay-as-you-go pricing model that charges based on usage. However, if a single application uses multiple Azure services, each service might involve multiple pricing tiers.
+
+- In addition, if a user makes a long-term commitment to certain services, such as compute instances, Microsoft offers a discounted rate.
+
+- Given the many factors involved in cloud service pricing, an organization should review and manage its cloud usage to minimize costs. Azure-native tools, such as Azure Cost Management, can help monitor, visualize and optimize cloud spending.
+
+- It's also possible to use third-party tools, such as Cloudability or RightScale, to manage Azure resource usage and associated costs.
+
+_ _ _ _ _ _ _ _ _ _
+
+# Azure competition :
+
+- Microsoft Azure is one of several major public cloud service providers operating on a large global scale.
+
+- Other major providers include Google Cloud Platform (GCP), Amazon Web Services (AWS) and IBM.
+
+- Currently, there is a lack of standardization among cloud services and capabilities -- meaning no two cloud providers offer the same service in the exact same way, using the same APIs or integrations.
+
+- This makes it difficult for a business to use more than one public cloud provider when pursuing a multi-cloud strategy. 
+
+- Third-party cloud management tools can reduce some of these challenges.
+
+_ _ _ _ _ _ _ _ _ _
+
+# Azure history :
+
+- Microsoft first unveiled its plans to introduce a cloud computing service called Windows Azure in 2008.
+
+- Preview versions of the service became available and developed, leading to its commercial launch in early 2010.
+
+- Although early iterations of Azure cloud services fell behind more established offerings -- such as AWS -- the portfolio continued to evolve and support a larger base of programming languages, frameworks and operating systems.
+
+- By early 2014, Microsoft recognized that the implications of cloud computing stretched far beyond Windows, and the service was rebranded as Microsoft Azure.
+
+_ _ _ _ _ _ _ _ _ _
