@@ -8,8 +8,8 @@
 ##  Microsoft Azure is an ever-expanding set of cloud services to help your organisation meet your business challenges. It is the freedom to build, manage and deploy applications on a massive, global network using  our favorite tools and frameworks.
 
 
+![](https://lh3.googleusercontent.com/proxy/iVKViy1F8LgG3xIXw7et4d_G7y0tHuLTgxyGuyATIyEtXSnK43mjz8y5sellRCYMHIkGbwwaKUclrPKjMoyw2iJ9hv4usuMr-ZFdYkwvGIYs2fTcEPFz8XZCMUHT)
 
-![](https://lh3.googleusercontent.com/proxy/4dHbip17T4LMcY-pOcmlIGbgohaYNmMj4yrHw7CFQ5DSFBewNRFO97wwWpzsdK4yaW6Wf41a1JZLutBXGbUq9ZPMtl8q4_H53isR1tiHVN53Pv0)
 
 Microsoft Azure, formerly known as **Windows Azure**, is Microsoft's public cloud computing platform. It provides a range of cloud <br/>services, including compute, analytics, storage and networking. Users can pick and choose from these services to develop and <br/>scale new applications, or run existing applications in the public cloud.
 
@@ -189,8 +189,106 @@ Virtual hard drives: These are extensions of the virtual machines; they provide 
 
 #### Scalability also has some limitations. If you want a fully scalable system then you have a large task to handle. It requires planning, testing and again testing for your data storage. If you have the applications already then splitting up the system will require code changes, updates and monitoring. You have to be well prepared for the digital transformation of your infrastructure.
 
+----
 
 
+## Date: June 28, 2020
 
+
+> # AWS vs Azure vs Google Cloud 
+
+![](https://intellipaat.com/blog/wp-content/uploads/2017/12/differnce.jpg)
+
+
+   | AWS | Microsoft Azure	| Google Cloud Platform |
+   |:----|:----------------|:----------------------|
+   | 12 years old | 7 years old | 6 years old |
+   | Amazon S3 is mostly used for secondary backup | Backup is built into Azure | Does not provide any backup |
+   | Gives managed virtual tape infrastructure across hybrid environments | Enterprise-grade hybrid cloud  storage | It relies on partners like Egnyte |
+   | Dominant market position	| Second largest provider | Recently launched and new |
+   | Pricing is per hour | Pricing is per minute | Pricing is per minute |
+   
+
+> # Microsoft Azure Features :
+
+
+- ## Disaster Recovery : 
+
+Since data is not stored on a single physical computer and instead it is present in different geographical locations, it will be much safer in the time of disasters. Even if one location undergoes some natural calamity, other locations are not harmed, and hence your data is safe.
+
+- ## Security : 
+
+Azure is continuously updated and that makes it secure. Security Development Lifecycle makes sure that every development phase is safe and secure.
+
+- ## Flexibility : 
+
+With Azure, you can scale your storage capacity. Recently, Azure even gave updates on its increased flexibility in terms of virtual machine size. These reserved instances can decrease the Cloud Computing cost.
+
+- ## Cost : 
+
+Using physical hardware for the deployment of applications comes up with emptying your pockets. Training people on how to work with it requires a lot of time and money. In this fast-paced technological world, there is huge competition. And if you take time in delivering the final product, it is obvious that your business will foresee a huge loss. Azure is the solution to all those problems as it is cheap in terms of hardware and manpower.
+
+
+ # Azure Networking :
+ 
+
+- **Azure Virtual Network:** It performs network isolation and segmentation with filters which routes the traffic. It comprises of Azure Connect which allows easy setup of IP-       based and Azure Traffic Manager.
+
+- **Azure Load Balancer:** It balances a load of traffic going to virtual machines and isolates the external traffic to another virtual machine.
+
+- **Azure Traffic Manager:** It provides load balancing features.
+
+- **Azure Express Route:** It is a network that lets you extend the current network into Microsoft cloud over a private connection.
+
+- **Azure DNS:** It translates a website to the IP address.
+
+- **Content Delivery Network (CDN):** It helps in improving delivering the content and allows the streaming of content by using the location of 24 different locations that are distributed throughout the world.
+
+- **Azure VPN Gateway:** It sends encrypted traffic across a public connection.
+
+
+ **Azure is a fast, flexible, and affordable platform, and its pricing and capabilities make it the best public cloud offering on the market. Now let’s take a look at how to put    it to work for user.**
+
+
+## 1. . Enhance and Implement Backup and Disaster Recovery :
+
+- Azure is a backup and disaster recovery dream tool. Because of its **flexibility, advanced site recovery**, and **built-in integration.**
+
+- As a cloud-based solution, Azure is innately **flexible** – it can back up your data in almost any language, on any OS, and from any location. Plus, you define the frequency and extent of your backup schedule.
+
+- Tape backup has a time and place, but it has limited abilities as a stand-alone backup and disaster recovery solution. Azure **site recovery** can enhance your tape backup with offsite replication, minimal onsite maintenance, up to ninety-nine years of data retention, **minimal or no capital investment**, and **minimal operational costs.** Azure backup stores three copies of your data in three different locations in the data center, and then another three copies in a remote Azure data center, so you never have to worry about losing data.
+
+- If user in a Windows virtual environment, Azure’s **built-in integration** for additional backup will be a quick and painless solution. Azure site recovery integrates with System Center and HyperV architectures, creating a robust and seamless cohesion between Azure, System Center, and HyperV.
+
+
+## 2. Host and Develop Web and Mobile Apps :
+
+- Whether you’re looking for a platform for hosting, developing, or managing a web or mobile app, Azure makes those apps autonomous and adaptive with **patch management, AutoScale**, and **integration** for on-premise apps.
+
+- With **Automatic patch management** for your virtual machines, you can spend less time managing your infrastructure and focus on improving your apps. Azure also comes with continuous deployment support, which allows you to streamline ongoing code updates.
+
+- **AutoScale** is a feature built into Azure Web Apps that adjusts your resources automatically based on customer web traffic so you have the resources you need when traffic is high, and save money when you’re not in peak times.
+
+- Through Azure, you can seamlessly **link your web app to an on-premise app.** Connecting apps in both locations lets both employees and partners securely access resources inside your firewall—resources that would otherwise be difficult to access externally.
+
+## 3. Distribute and Supplement Active Directory :
+
+- Azure can integrate with your Active Directory to supplement your identity and access capabilities—this gives your DNS a **global reach, centralized management**, and **robust security.**
+
+- With Azure, you can **globally distribute** an Active Directory environment that is direct connect enabled. No other cloud provider has the ability to extend the reach of your domain controller and consolidate AD management like Azure.
+
+- If you have multiple locations or use on-premise apps or cloud apps like Microsoft 365, Active Directory integration with Azure will be the **central tool for managing and maintaining access to all of these tools.**
+
+- Azure also enables you to utilize multi-factor authentication, adding a new layer of **security** to your data and applications with zero hassle for your users. You can also easily implement single sign-on for Windows, Mac, Android, and iOS cloud apps.
+
+## 4.  Innovate with IoT Industry Solutions :
+
+- The scalability, flexibility, and security of Microsoft Azure makes it the perfect resource for companies moving toward IoT solutions. You can connect your devices to the cloud using solutions that integrate with your existing infrastructure and start collecting new data about your company.
+
+- Within the **Azure IoT Hub**, you can monitor and manage billions of devices and gain insights to help you make better business decisions, improve customer experiences, reduce complexity, lower costs, and speed up development.
+
+- The enhanced security of Azure is a huge asset for IoT solutions, which traditionally have security gaps that hackers can take advantage of. Other benefits include remote monitoring and predictive maintenance and analytics.
+
+- Getting started is easy with **Azure IoT solution accelerators**, preconfigured templates that are customizable to your needs.
 
 
