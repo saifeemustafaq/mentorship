@@ -13,6 +13,8 @@
 - Regions allow you to locate your cloud resources close to your customers, both internal or external. 
 - The closer your customers are to the region where your cloud resources are located, the faster and better their experience will be.
 
+ Datacenters are sometimes called availability zones. An availability zone, has its own independent power and networking. It is set up to be an isolation boundary. If one availability zone goes down, the other continues working. The availability zones are typically connected to each other through very fast, private fiber-optic networks.
+
 ### How to choose a *region*
 
 
@@ -79,11 +81,46 @@
 
 5. Sequential updates: To minimize the downtime, the paired regions are sequentially updated.
 
+### More about Availability Zones:
+
+Within the availability zone, the VMs are deployed on machines, that are organized in racks. Each rack has its own router. The virtual machines on one single physical machine may run multiple containers.
+
+When an incoming request comes to the endpoint, it is usually first delivered to a load balancer to route the traffic to an instance of a service.
+
+The goal is to run the code on different VMs that are not close to each other to reduce the chance of single point of failure. The unit of single point of failure is called a fault domain. With this hierarchy, when:
+
+- A region goes down, everything inside the region is down.
+- An availability zone goes down, everything inside the availability zone is lost.
+- A rack goes down, it is the PCs that are lost.
+- A PC goes down, it is the VMs on it that are lost.
+
+### Azure Availability Zones:
+
+#### Azure services that support Availability Zones fall into two categories:
+
+1. Zonal services – you pin the resource to a specific zone (for example, virtual machines, managed disks, IP addresses), or
+2. Zone-redundant services – platform replicates automatically across zones (for example, zone-redundant storage, SQL Database).
+
+To achieve comprehensive business continuity on Azure, build your application architecture using the combination of Availability Zones with Azure region pairs. You can synchronously replicate your applications and data using Availability Zones within an Azure region for high-availability and asynchronously replicate across Azure regions for disaster recovery protection.
+
+#### Understanding Azure Global Infrastructure
 
 
+**Geographies (Geos)**
+
+A geography is a separate market, typically containing two or more regions, that preserves data residency and compliance boundaries. Geographies allow customers with specific data-residency and compliance needs to keep their data and applications close. Geographies are fault-tolerant to withstand complete region failure through their connection to Microsoft dedicated high-capacity networking infrastructure. 
+- Geos examples: US, Europe, Asia Pacific, Japan, Brazil, Australia, China. 
+
+**Regions**
+
+A region is a set of datacenters deployed within a latency-defined perimeter and connected through a dedicated regional low-latency network. With more global regions than any other cloud provider, Azure gives customers the flexibility to deploy applications where they need to.
+- Azure is generally available in 40 regions around the world, with plans announced for 10 additional regions
+
+**Availability Zones**
+
+Availability Zones are physically separate locations within an Azure region. Each Availability Zone is made up of one or more datacenters equipped with independent power, cooling, and networking. Availability Zones allow customers to run mission-critical applications with high availability and low-latency replication.
 
 
+### [Microsoft Azure Cloud Datacentre](https://youtu.be/bqZrejosqWU)(Click Here)
 
-
-
-
+### [Discover World Class Security at Microsoft’s Datacenters](https://youtu.be/r1cyTL8JqRg)(Click Here)
