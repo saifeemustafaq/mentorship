@@ -128,5 +128,7 @@ Today I Learned:
 - Get registered in IIRS free training of IIRS Outreach Programme.
 - Attended webinar of AWS trainings and courses.
 - Registered for Google course of 9 months on Upcoming courses.
-
+## Date: June 30, 2020
+- Created my first free account on AWS Cloud.
+- Solved some C++ programs, with Algorithm and Flowchart.
 
