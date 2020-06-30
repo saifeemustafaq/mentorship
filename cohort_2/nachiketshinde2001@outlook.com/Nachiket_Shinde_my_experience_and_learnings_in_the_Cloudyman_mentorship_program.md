@@ -349,3 +349,8 @@ In that server we get many applications can work on that one server
 - Today i attend the webinar of Bootcamp with Cloud Services by amzaon
 In that they give a prical knowledge about virtual machine with linux
 
+## 30 June
+
+- Today i attend the webinar of BootCamp with Cloid platform
+ - I solve the hackrank problem in python
+
