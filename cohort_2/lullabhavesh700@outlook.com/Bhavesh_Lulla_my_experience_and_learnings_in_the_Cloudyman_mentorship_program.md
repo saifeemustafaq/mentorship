@@ -891,6 +891,30 @@ The speaker explained how to use github.
 
  - This makes it easier for the developers to manage the applications. 
 
+>## Serverless Computing
+
+ - Serverless computing means the servers executes code that developers write using only the exact amount of compute resources needed to complete the task, no more, no less. 
+
+ - You can execute your code without worrying about the infrastructure or management of the servers. That's serverless. 
+
+## Pros of Serverless Computing
+
+ - It allows you to pay the service providers to manage servers, databases and even application logic that you might otherwise manage yourself. 
+
+ - Serverless programs have architectures that are inherently scalable. 
+
+ - Serverless computing helps teams increase their productivity and bring products to market faster and it allows organizations to better optimiseb resources and stay focused on innovation. 
+
+## Note:-
+
+ - Amazon Web Services is largely credited with starting the serverless market hype in 2014 when the company introduced Lambda, its serverless computing product. 
+
+ - Note that although called serverless, physical servers are still used but developers do not need to be aware of them. 
+
+ - Serverless computing enables developers to build applications faster by eliminating the need for them to manage infrastructure. 
+
+ - With serverless applications the cloud service provider automatically provisions, scales and manages the infrastructure required to run the code. In understanding the definition of serverless computing, it is important to note that servers are still running the code. The serverless name comes from the fact that the tasks associated with infrastructure provisioning and management are invisible to the developer. This approach enables developers to increase their focus on the business logic and deliver more value to the core of the business. 
+
  
 
 
