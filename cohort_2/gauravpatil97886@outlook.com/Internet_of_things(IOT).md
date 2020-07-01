@@ -377,7 +377,32 @@ IoT iterates, improves and keeps building. Its networks don’t arrive pre-assem
 
 ---------
 
+## Advantages of IoT
 
+Internet of things facilitates the several advantages in day-to-day life in the business sector. Some of its benefits are given below:
 
+- ****Efficient resource utilization****: If we know the functionality and the way that how each device work we definitely increase the efficient resource utilization as well as monitor natural resources
 
+- ****Minimize human effort****: As the devices of IoT interact and communicate with each other and do lot of task for us, then they minimize the human effort.
+
+- ****Save time****: As it reduces the human effort then it definitely saves out time. Time is the primary factor which can save through IoT platform.
+
+- ****Enhance Data Collection:****
+Improve security: Now, if we have a system that all these things are interconnected then we can make the system more secure and efficient
+
+- ****Improve security***: Now, if we have a system that all these things are interconnected then we can make the system more secure and efficient
+
+-----------
+
+## Disadvantages of IoT..
+
+As the Internet of things facilitates a set of benefits, it also creates a significant set of challenges. Some of the IoT challenges are given below:
+
+- ****Security:**** As the IoT systems are interconnected and communicate over networks. The system offers little control despite any security measures, and it can be lead the various kinds of network attacks.
+
+***Privacy:**** Even without the active participation on the user, the IoT system provides substantial personal data in maximum detail
+.
+- ****Complexity:**** The designing, developing, and maintaining and enabling the large technology to IoT system is quite complicated.
+
+-----------
 
