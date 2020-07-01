@@ -268,3 +268,59 @@ The Optimize CPUs feature gives you greater control of your Amazon EC2 instances
 
 ------------
 
+# How AWS Shield works?
+
+
+
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCDrkSSSoMpEt1ATWDJ3jsuVKQYrPOeq_2NA&usqp=CAU)
+
+
+
+
+
+|PDF|Kindle|RSS|
+|--|---|----|
+
+
+****A distributed denial of service (DDoS)**** attack is an attack in which multiple compromised systems attempt to flood a target, such as a network or web application, with traffic. A DDoS attack can prevent legitimate users from accessing a service and can cause the system to crash due to the overwhelming traffic volume.
+
+AWS provides two levels of protection against DDoS attacks: AWS Shield Standard and AWS Shield Advanced.
+
+
+
+## AWS Shield Standard
+
+
+All AWS customers benef
+it from the automatic protections of AWS Shield Standard, at no additional charge. AWS Shield Standard defends against most common, frequently occurring network and transport layer DDoS attacks that target your website or applications. While AWS Shield Standard helps protect all AWS customers, you get particular benefit if you are using Amazon CloudFront and Amazon Route 53. These services receive comprehensive availability protection against all known infrastructure (Layer 3 and 4) attacks.
+
+### AWS Shield Advanced
+
+For higher levels of protection against attacks, you can subscribe to AWS Shield Advanced. When you subscribe to AWS Shield Advanced and add specific resources to be protected, AWS Shield Advanced provides expanded DDoS attack protection for web applications running on the resources.
+
+------------
+- You can add protection for any of the following resources:
+
+- Elastic Load Balancing (ELB) load balancers
+
+- Amazon Elastic Compute Cloud (Amazon EC2) Elastic IP addresses
+
+- Amazon CloudFront distributions
+
+- Amazon Route 53 hosted zones
+
+- AWS Global Accelerator accelerators
+
+
+---------
+
+For example, if you use Shield Advanced to protect an Elastic IP address, Shield Advanced automatically deploys your network ACLs to the border of the AWS network during an attack. When your network ACLs are at the border of the network, Shield Advanced can provide protection against larger DDoS events. Typically, network ACLs are applied near your Amazon EC2 instances within your Amazon VPC. The network ACL can mitigate attacks only as large as your Amazon VPC and instance can handle. If the network interface attached to your Amazon EC2 instance can process up to 10 Gbps, volumes over 10 Gbps slow down and possibly block traffic to that instance. During an attack, Shield Advanced promotes your network ACL to the AWS border, which can process multiple terabytes of traffic. Your network ACL is able to provide protection for your resource well beyond your network's typical capacity. For more information about network ACLs, see Network ACLs.
+
+The point at which Shield Advanced detects attacks and places mitigations depends on the architecture you use for your web applications. It varies based on characteristics like the type of instance you use, your instance size, and whether you use enhanced networking.
+
+As an AWS Shield Advanced customer, you can contact a 24x7 DDoS response team (DRT) for assistance during a DDoS attack. You also have exclusive access to advanced, real-time metrics and reports for extensive visibility into attacks on your AWS resources. With the assistance of the DRT, AWS Shield Advanced includes intelligent DDoS attack detection and mitigation for not only for ****network layer (layer 3) and transport layer (layer 4) attacks, but also for application layer (layer 7) attacks.****
+
+
+
+-------
