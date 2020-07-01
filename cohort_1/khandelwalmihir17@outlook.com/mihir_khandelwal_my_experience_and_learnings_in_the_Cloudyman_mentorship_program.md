@@ -137,3 +137,7 @@ Today I Learned:
 ## Date: June 30, 2020
 - Created my first free account on AWS Cloud.
 - Solved some C++ programs, with Algorithm and Flowchart.
+## Date: July 1, 2020
+- Got selected in LinkedIn Mega Give Away, and got many awesome rewards. Videos on how to get many followers on LinkedIn.
+- Got login info from IIRS Outreach Programme, starting from 14th July.
+- Started with Java programming, downloaded Ubuntu Operating System.
