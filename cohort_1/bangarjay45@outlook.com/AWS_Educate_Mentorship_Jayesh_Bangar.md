@@ -126,3 +126,54 @@ This includes:
 - A developer can also store code in Git repositories with AWS CodeCommit and evaluate the performance of microservices-based applications with AWS X-Ray.
 
 -------
+## Management and monitoring:
+
+- An admin can manage and track cloud resource configuration via AWS Config and AWS Config Rules. Those tools, along with AWS Trusted Advisor, can help an IT team avoid improperly configured and needlessly expensive cloud resource deployments.
+
+- AWS provides several automation tools in its portfolio. An admin can automate infrastructure provisioning via AWS CloudFormation templates, and also use AWS OpsWorks and Chef to automate infrastructure and system configurations.
+
+- An AWS customer can monitor resource and application health with Amazon CloudWatch and the AWS Personal Health Dashboard, as well as  use AWS CloudTrail to retain user activity and API calls for auditing.
+
+
+---------
+## Security and governance:
+
+AWS provides a range of services for cloud security, including AWS Identity and Access Management, which allows admins to define and manage user access to resources. An admin can also create a user directory with Amazon Cloud Directory, or connect cloud resources to an existing Microsoft Active Directory with the AWS Directory Service.
+- Additionally, the AWS Organizations service enables a business to establish and manage policies for multiple AWS accounts.
+
+- Amazon Web Services has also introduced tools that automatically assess potential security risks. Amazon Inspector analyzes an AWS environment for vulnerabilities that might impact security and compliance. Amazon Macie uses machine learning (ML) technology to protect sensitive cloud data.
+
+- AWS also includes tools and services that provide software- and hardware-based encryption, protect against DDoS attacks, provision Secure Sockets Layer (SSL) and Transport Layer Security (TLS) certificates and filter potentially harmful traffic to web applications.
+
+- The AWS Management Console is a browser-based graphical user interface (GUI) for AWS. The Management Console can be used to manage resources in cloud computing, cloud storage and security credentials. The AWS Console interfaces with all AWS resources.
+
+
+-----------
+## Big data management and analytics
+
+- AWS includes a variety of big data analytics and application services. This includes:
+
+- Amazon Elastic MapReduce, which offers a Hadoop framework to process large amounts of data.
+- Amazon Kinesis, which provides several tools to process and analyze streaming data.
+- AWS Glue, which is a service that handles extract, transform and load jobs.
+- Amazon Elasticsearch Serviceenables a team to perform application monitoring, log analysis and other tasks with the open source Elasticsearch tool.
+- Amazon Athena for S3, which allows analysts to query data.
+- Amazon QuickSight, which help analysts visualize data.
+
+
+---------
+## Artificial intelligence:
+
+AWS offers a range of AI model development and delivery platforms, as well as packaged AI-based applications.
+
+The Amazon AI suite of tools includes:
+- Amazon Lex for voice and text chatbot technology.
+- Amazon Polly for text-to-speech translation.
+- Amazon Rekognition for image and facial analysis.
+- AWS also provides technology for developers to build smart apps that rely on machine learning technology and complex algorithms.
+
+- With AWS Deep Learning Amazon Machine Images (AMIs), developers can create and train custom AI models with clusters of graphics processing units (GPUs) or compute-optimized instances. AWS also includes deep learning development frameworks for MXNet and TensorFlow.
+
+- On the consumer side, AWS technologies power the Alexa Voice Services, and a developer can use the Alexa Skills Kit to build voice-based apps for Echo devices.
+
+-----------
