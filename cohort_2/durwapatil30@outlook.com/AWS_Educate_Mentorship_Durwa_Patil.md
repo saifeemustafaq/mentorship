@@ -131,3 +131,91 @@ _ _ _ _ _ _ _ _ _ _
 7.) Data Pipeline — Allows you to move data from one place to another. For example from DynamoDB to S3.
 
 _ _ _ _ _ _ _ _ _ _
+
+# Applications of AWS services :
+
+Amazon Web services are widely used for various computing purposes like:
+
+- Web site hosting
+
+- Application hosting/SaaS hosting
+
+- Media Sharing (Image/ Video)
+
+- Mobile and Social Applications
+
+- Content delivery and Media Distribution
+
+- Storage, backup, and disaster recovery
+
+- Development and test environments
+
+- Academic Computing
+
+- Search Engines
+
+- Social Networking
+
+_ _ _ _ _ _ _ _ _ _
+
+# Companies using AWS
+
+- Instagram
+
+- Zoopla
+
+- Smugmug
+
+- Pinterest
+
+- Netflix
+
+- Dropbox
+
+- Etsy
+
+- Talkbox
+
+- Playfish
+
+- Ftopia
+
+_ _ _ _ _ _ _ _ _ _
+
+# Advantages of AWS :
+
+Following are the pros of using AWS services:
+
+- AWS allows organizations to use the already familiar programming models, operating systems, databases, and architectures.
+
+- It is a cost-effective service that allows you to pay only for what you use, without any up-front or long-term commitments.
+
+- You will not require to spend money on running and maintaining data centers.
+
+- Offers fast deployments
+
+- You can easily add or remove capacity.
+
+- You are allowed cloud access quickly with limitless capacity.
+
+- Total Cost of Ownership is very low compared to any private/dedicated servers.
+
+- Offers Centralized Billing and management
+
+- Offers Hybrid Capabilities
+
+- Allows you to deploy your application in multiple regions around the world with just a few clicks
+
+_ _ _ _ _ _ _ _ _ _
+
+# Disadvantages of AWS :
+
+- If you need more immediate or intensive assistance, you'll have to opt for paid support packages.
+
+- Amazon Web Services may have some common cloud computing issues when you move to a cloud. For example, downtime, limited control, and backup protection.
+
+- AWS sets default limits on resources which differ from region to region. These resources consist of images, volumes, and snapshots.
+
+- Hardware-level changes happen to your application which may not offer the best performance and usage of your applications.
+
+_ _ _ _ _ _ _ _ _ _
