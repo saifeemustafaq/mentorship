@@ -915,10 +915,29 @@ The speaker explained how to use github.
 
  - With serverless applications the cloud service provider automatically provisions, scales and manages the infrastructure required to run the code. In understanding the definition of serverless computing, it is important to note that servers are still running the code. The serverless name comes from the fact that the tasks associated with infrastructure provisioning and management are invisible to the developer. This approach enables developers to increase their focus on the business logic and deliver more value to the core of the business. 
 
+## Top benefits of Serverless Computing
+
+**1. No infrastructure management**:
+
+Using fully managed services enables developers to avoid administrative tasks and focus on core business logic. With a serverless platform, you simply deploy your code and it runs with high availability. 
+
+**2. Dynamic scalability**:
+
+With serverless computing, the infrastructure dynamically scale up and down within seconds to match the demands of any workload. 
+
+**3. Faster time to market**:
+
+Serverless applications reduce the operations dependencies on each development cycle, increasing development team's agility to deliver more functionality in less time. 
+
+**4. More efficient use of resources**:
+
+Shifting to serverless technologies helps organizations reduce TCO and reallocate resources to accelerate the pace of innovation. 
  
+## Why an end-to-end serverless platform is important? 
 
+ - A serverless approach offers developers, teams and organizations a level of abstraction that enables them to minimize the time and resources invested in infrastructure management. Every component of an application benefits from this approach, from computing and the database engine to messaging, analytics and artificial intelligence. 
 
-
+ - Using an end-to-end serverless platform that provides a comprehensive set of serverless technologies is the best way to ensure that the organization gains the maximum benefit from going serverless. 
    
  
 
