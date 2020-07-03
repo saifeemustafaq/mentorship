@@ -58,6 +58,7 @@
 - Cloud Spanner is a horizontal scalable RDBMS, and also managed by RDBMS.
 - Cloud Storage works with other GCP services such as BigQuery, Compute Engine, App Engine and Cloud SQL.
 - Cloud Datastore is a horizontally scalable NoSQL database, which is designed for application backends, supports transactions and includes a free daily quota.
+
 ![](https://img.favpng.com/11/10/13/google-cloud-platform-cloud-computing-google-search-google-storage-cloud-storage-png-favpng-4Dfdcj6VwLBdcGHcPAXxZY61T.jpg)
 
 # Containers in the Cloud.
