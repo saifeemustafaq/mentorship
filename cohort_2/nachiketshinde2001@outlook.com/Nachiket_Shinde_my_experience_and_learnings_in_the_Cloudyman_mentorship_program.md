@@ -358,3 +358,8 @@ In that they give a prical knowledge about virtual machine with linux
 
 - Today i attend the webinar of bootCamp with Cloud platform
 - register for the AWS educate
+
+## 4 July
+
+- I start learn voding at udemy Java programming
+- I start the hackerrank new challenge
