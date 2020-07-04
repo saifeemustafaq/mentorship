@@ -103,3 +103,57 @@ _ _ _ _ _ _ _ _ _ _
 - No data has been reported to have been lost due to the outage. The outage was caused by a human error made while debugging, that resulted in removing more server capacity than intended, which caused a domino effect of outages.
 
 _ _ _ _ _ _ _ _ _ _
+
+# Availability and topology :
+
+- As of 2019, AWS has distinct operations in 22 geographical "regions": 7 in North America, 1 in South America, 6 in Europe, 1 in the Middle-East, 1 in Africa and 8 in Asia Pacific.
+
+- AWS has announced 3 new regions that will be coming online.
+
+- Each region is wholly contained within a single country and all of its data and services stay within the designated region.
+
+- Each region has multiple "Availability Zones", which consist of one or more discrete data centers, each with redundant power, networking and connectivity, housed in separate facilities.
+
+- Availability Zones do not automatically provide additional scalability or redundancy within a region, since they are intentionally isolated from each other to prevent outages from spreading between Zones.
+
+- Several services can operate across Availability Zones (e.g., S3, DynamoDB) while others can be configured to replicate across Zones to spread demand and avoid downtime from failures.
+
+- As of December 2014, Amazon Web Services operated an estimated 1.4 million servers across 28 availability zones.
+
+- The global network of AWS Edge locations consists of 54 points of presence worldwide, including locations in the United States, Europe, Asia, Australia, and South America.
+
+- In 2014, AWS claimed its aim was to achieve 100% renewable energy usage in the future.
+
+- In the United States, AWS's partnerships with renewable energy providers include Community Energy of Virginia, to support the US East region; Pattern Development, in January 2015, to construct and operate Amazon Wind Farm Fowler Ridge; Iberdrola Renewables, LLC, in July 2015, to construct and operate Amazon Wind Farm US East; EDP Renewables North America, in November 2015, to construct and operate Amazon Wind Farm US Central; and Tesla Motors, to apply battery storage technology to address power needs in the US West (Northern California) region.
+
+_ _ _ _ _ _ _ _ _ _
+
+# Pop-up lofts :
+
+- AWS also has "pop-up lofts" in different locations around the world.
+
+- These market AWS to entrepreneurs and startups in different tech industries in a physical location.
+
+- Visitors can work or relax inside the loft, or learn more about what they can do with AWS.
+
+- In June 2014, AWS opened their first temporary pop-up loft in San Francisco.
+
+- In May 2015 they expanded to New York City, and in September 2015 expanded to Berlin.
+
+- AWS opened their fourth location, in Tel Aviv from March 1, 2016 to March 22, 2016.
+
+- A pop-up loft was open in London from September 10 to October 29, 2015.
+
+- The pop-up lofts in New York and San Francisco are indefinitely closed due to the COVID-19 pandemic while Tokyo has remained open in a limited capacity.
+
+_ _ _ _ _ _ _ _ _ _
+
+# Charitable work :
+
+- In 2017, AWS launched Amazon RE:Start in the United Kingdom to help young adults and military veterans retrain in technology-related skills.
+
+- In partnership with the Prince's Trust and the Ministry of Defence (MoD), AWS will help to provide re-training opportunities for young people from disadvantaged backgrounds and former military personnel.
+
+- AWS is working alongside a number of partner companies including Cloudreach, Sage Group, EDF Energy and Tesco Bank.
+
+_ _ _ _ _ _ _ _ _ _

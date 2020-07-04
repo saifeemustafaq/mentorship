@@ -336,3 +336,27 @@ The different disadvantages of client server computing are:
 - If the server fails for any reason, then none of the requests of the clients can be fulfilled. This leads of failure of the client-server network.
 The cost of setting and maintaining a client server model are quite high.
 
+----
+# Cloud Computing Trends To Watch In 2020
+
+### Introduction:
+
+Cloud computing was perhaps the most smoking point in innovation and business media all through 2019. This is nothing unexpected as the cloud segment has been developing quickly throughout the last few years. With every New year starting with its specific goals for the normal people, similarly, for the IT business also consistently accompanies a goal in Cloud Computing.
+- Cloud computing and cloud storage have created crucial exposure and interest around the globe. 
+
+Each organization needs cloud services in the two structures to keep up their everyday business activities. Organizations understand the most critical advantages to cloud innovation, and in any case, many are confused about its utilization.
+- Cloud is scalable, robust, and cost-productive. 
+
+Cloud innovation is useful for application development, utilizing the cloud for custom application development has demonstrated to be prevalent. We are simply starting to observe the development of this idea into a transformation. 
+
+Cloud computing changes the manner in which we consider data, the manner in which organizations consider their operations and the manner in which engineers consider building. 
+
+### Let’s look at some of the cloud computing trends that will take place in 2020.
+
+**1. Serverless Computing:**
+
+As a Part of Cloud computing advancement, serverless computing has seen an ascent in popularity. Serverless computing, with an alert, is an extensive improvement. Not every person is prepared for it. The paradigm of advancing and making conventional innovation needs to go serverless.
+- It redistributes the whole foundation.
+- It’s beginning and end apart from the application itself.
+
+The happening of the serverless model, which has a conventional structure that uses a “pay as you go” system. These programs are truly flexible and enable organizations to have more command over their expenses in cloud hosting.
