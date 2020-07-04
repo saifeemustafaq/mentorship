@@ -193,3 +193,21 @@ Sometimes the unthinkable becomes the very immediate reality. Another advantage 
 The combination of Microsoft’s vast infrastructure, constant application and services development, and powerful presence in the global IT marketplace has made Microsoft Azure solutions the choice of two-thirds of the world’s Fortune 500 companies. But the infinite scalability of Azure can make it just as right for your small personal business.
 
 ------
+
+
+## Is Your Future in the Cloud?
+
+
+![](https://www.simplilearn.com/ice9/free_resources_article_thumb/Emerging-Technologies-Enabled-by-the-Cloud.jpg)
+
+
+The above is only a quick rundown of a few of the ways cloud computing enables and even drives emerging technologies. For you as a prospective cloud professional, it’s obviously a fortuitous time to move into cloud computing…or to move up the ladder if you’re already there. The job demand is strong yet the pool of qualified candidates is small: 46 percent of firms see the skills gap growing primarily because 96 percent of workers lack advanced skills. And with these new technologies emerging, new jobs will be created every day: Cloud is the second biggest driver of demand for technology skills, and these cloud computing jobs pay very well: For proof, see this list of 12 cloud computing jobs that pay over $113,000 per year. The salary for a cloud architect averaged $142,000 in October 2018.
+
+
+## Conclusion
+If you’d like to move your future into the cloud, turn to Simplilearn Cloud Computing courses for a head start. We offer certifications and courses in AWS, Azure, blockchain, Google Cloud, Kubernetes and more—much more. Study to be a cloud architect, get to know blockchain or focus on one vendor like Azure. Courses are available for anywhere, anytime learning so you can set the pace and study while keeping up with your current job, while plenty of hands-on projects make the learning stick.
+
+We already have a disturbing lack of qualified cloud computing professionals, and the cloud’s role in enabling and driving emerging technologies will no doubt create even more jobs in the coming years. Make your career move into this field, and watch your career evolve right alongside the cloud
+
+
+-------------
