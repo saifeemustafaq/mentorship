@@ -130,6 +130,8 @@ _ _ _ _ _ _ _ _ _ _
 
 ##### Ans.
 
+![](https://www.whizlabs.com/blog/wp-content/uploads/2019/09/containers-in-cloud-computing.png)
+
 - A Container in cloud computing is an approach to operating system virtualization. By this, the user can work with a program and its dependencies using resource procedures that are isolated.
 
 - The code of the application can be bundled with configurations and dependencies in a systematic manner.

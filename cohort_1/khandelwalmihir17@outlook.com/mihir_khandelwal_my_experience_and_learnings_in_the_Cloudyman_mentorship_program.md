@@ -141,3 +141,12 @@ Today I Learned:
 - Got selected in LinkedIn Mega Give Away, and got many awesome rewards. Videos on how to get many followers on LinkedIn.
 - Got login info from IIRS Outreach Programme, starting from 14th July.
 - Started with Java programming, downloaded Ubuntu Operating System.
+
+## Date: July 3, 2020
+- Started to reedem the rewards given by LinkedIn Mega Giveaway.
+- Started a course on google cognitive class of IBM Cloud, about basic concepts.
+
+## Date: July 4,2020
+- Got an internship opportunity call from Newton School, about Social Media Marketting.
+- Registers for more internship on Internshala.
+- Completed one chapter reading of COA subject.

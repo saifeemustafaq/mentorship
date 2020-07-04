@@ -224,5 +224,42 @@ MICROSOFT AZURE STACK TECHNICAL PREVIEW (POC)
 
 --------
 
+# What technical skills should I develop to become a skillful Azure developer?
 
 
+#### >ans
+
+80% of Microsoft customers have already deployed or fully embraced the cloud. By 2020, the idea that a company has no cloud infrastructure may be as rare as a ‘no internet policy’ is today.
+
+Since its launch, Microsoft Azure has been widely adopted across businesses - with over 66% of Fortune 500 companies relying on the technology to operate – and more high profile adoptions in early 2017.
+
+As enterprises begin to invest heavily in cloud to scale resources, experts now agree that the public cloud market is entering a second wave.
+
+The continuous migration towards the cloud – bolstered by investment from enterprise – means significant opportunities for developers with Azure skills.
+
+****Cloud skills are in demand****
+
+Demand for professionals with Azure skills will increase as cloud adoption continues to rise and cloud-applications become more sophisticated.
+
+Right now, IT leaders struggle to implement cloud technology because of a , and a 2016 study of 120 Microsoft Partners found that Azure skills were the hardest to source.
+
+"There’s an incredible opportunity for businesses if they move to the cloud, but with a lack of skilled resources they are not able to realise those benefits as quickly" says Craig McQueen, director of Microsoft Practice at Softchoice.
+
+The growing need for Azure skills is fuelling a job market for Azure-skilled professionals. As cloud continues to be adopted by businesses across the UK, demand for jobs citing Microsoft Azure continues to rise and shows no signs of slowing.
+
+
+----
+
+![](https://qphs.fs.quoracdn.net/main-qimg-8b333ad03fc9d110095c0f147b2a4f87)
+
+-----
+
+Developers already familiar with Microsoft technologies, like the .NET framework and Visual Studio IDE, will find developing for Azure an easy transition.
+
+With solid infrastructure and service delivery guidelines behind Windows Azure, most developers won’t need more than their existing skills to get started building applications for Azure.
+
+Experienced developers will quickly start using the Visual Studio environment and the .NET framework to build apps. Ruby or Java developers can also develop on Azure with little additional knowledge needed by using the AppFabric Middleware framework.
+
+If you’re unsure whether you can make the transition to developing on Azure, don’t worry. Potential Azure developers can take advantage of the [free work](https://azure.microsoft.com/en-gb/offers/ms-azr-0044p/)
+
+But if you don’t feel prepared to immediately start developing apps in Azure, Microsoft are making it easier than ever to skill-up in 2017…
