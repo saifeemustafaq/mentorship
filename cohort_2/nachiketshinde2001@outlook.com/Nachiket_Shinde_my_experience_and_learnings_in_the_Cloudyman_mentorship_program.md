@@ -368,3 +368,8 @@ In that they give a prical knowledge about virtual machine with linux
 
 - Today i attend the webinar of cloud computing
 - i learn a basic things about java in collage lecture
+
+## 4 July
+
+- I start learn voding at udemy Java programming
+- I start the hackerrank new challenge
