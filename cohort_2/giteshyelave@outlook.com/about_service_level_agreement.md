@@ -62,6 +62,8 @@ _ _ _ _ _ _ _ _ _ _
 
 # What is a Container ?
 
+![](https://www.cloudcodes.com/blog/wp-content/uploads/2018/08/knowing-more-container-in-cloud-computing-e1582724059275.png)
+
 ##### Ans.
 
 - A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another.
