@@ -23,6 +23,7 @@
 1. Done an internship of Content writing at Internshala. 
 2. Website designing.
 3. Created awareness for Internshala trainings as an ISP.
+4. LinkedIn influencer.
 
 ## Languages I know:
 1. C
