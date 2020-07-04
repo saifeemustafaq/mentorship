@@ -73,13 +73,25 @@
 
 
 ## Benefits of paired regions
-1. Physical isolation: Each Azure region within a pair is located at least 300 miles apart. This helps in isolation of the pairs so that the regional disaster affects only one region within that pair.
+**1. Physical isolation:** 
 
-2. Platform-provided replication: There are some services within Microsoft Azure such as Geo-Redundant Storage that provides automatic replication to the paired region.
+Each Azure region within a pair is located at least 300 miles apart. This helps in isolation of the pairs so that the regional disaster affects only one region within that pair.
 
-3. Region recovery order: For maximum disaster recovery, one region out of every pair is prioritized for recovery Out of every pair, the recovery of one region is prioritized.
+**2. Platform-provided replication:**
 
-5. Sequential updates: To minimize the downtime, the paired regions are sequentially updated.
+There are some services within Microsoft Azure such as Geo-Redundant Storage that provides automatic replication to the paired region.
+
+**3. Region recovery order:**
+
+For maximum disaster recovery, one region out of every pair is prioritized for recovery Out of every pair, the recovery of one region is prioritized.
+
+**4. Sequential updates:**
+
+To minimize the downtime, the paired regions are sequentially updated.
+
+**5. Data residency**: 
+ 
+A region resides within the same geography as its pair (with the exception of Brazil South) to meet data residency requirements for tax and law enforcement jurisdiction purposes.
 
 ### More about Availability Zones:
 
@@ -98,8 +110,8 @@ The goal is to run the code on different VMs that are not close to each other to
 
 #### Azure services that support Availability Zones fall into two categories:
 
-1. Zonal services – you pin the resource to a specific zone (for example, virtual machines, managed disks, IP addresses), or
-2. Zone-redundant services – platform replicates automatically across zones (for example, zone-redundant storage, SQL Database).
+1. **Zonal services** – you pin the resource to a specific zone (for example, virtual machines, managed disks, IP addresses), or
+2. **Zone-redundant services** – platform replicates automatically across zones (for example, zone-redundant storage, SQL Database).
 
 To achieve comprehensive business continuity on Azure, build your application architecture using the combination of Availability Zones with Azure region pairs. You can synchronously replicate your applications and data using Availability Zones within an Azure region for high-availability and asynchronously replicate across Azure regions for disaster recovery protection.
 
@@ -124,3 +136,47 @@ Availability Zones are physically separate locations within an Azure region. Eac
 ### [Microsoft Azure Cloud Datacentre](https://youtu.be/bqZrejosqWU)(Click Here)
 
 ### [Discover World Class Security at Microsoft’s Datacenters](https://youtu.be/r1cyTL8JqRg)(Click Here)
+
+
+## Fault Domains
+
+ - As every coin has two sides, just like that technology too offers so many advantages and good things but also comes with a bitter truth that is a hardware requires maintenance and hardware failures. 
+
+ - Failover enables multiple servers to work together to provide high availability or put another way, to provide node fault tolerance. But now businesses demand ever greater availability from their infrastructure. To achieve cloud like uptime, even highly unlikely occurrences such as chassis failure, rack outages, or natural disasters must be protected against. Thus we need a system with chassis, rack, and site fault tolerance as well. 
+
+### A fault domain is a set of hardware components that share a single point of failure. 
+
+ - To be fault tolerant to a certain level, you need multiple fault domains at that level. 
+
+ - So to be rack fault tolerant, your servers and your data must be distributed across multiple racks. 
+
+ - Two events Unplanned Hardware Maintenance Event and Unexpected Downtime comes under the fault domain. 
+
+ - Suppose we put two VM into availability set, then it set up VMs to two different racks so that if the network, power, etc failed, then only one rack will be affected. 
+
+ - The fault domains define the group of virtual machines that share a common power source and network switch. 
+
+ - Each fault domain contains some racks and each rack contains virtual machine. 
+
+ - Each of these fault domain shares a power supply and a network switch. 
+
+ - For example, if there is a failure in the fault domain then all the resources in the fault domain become unavailable. Therefore, you should place your VMs such a way that each fault domain get one web server, one database server and like that. 
+
+## Levels of Fault Domains
+
+   There are four canonical levels of fault domains - site, rack, chassis, and node. Nodes are discovered automatically; each additional level is optional. For example, if your deployment does not use blade servers, the chassis level may not make sense for you. 
+
+## Benefits of Fault Domains
+
+### 1. Storage Spaces, including Storage Spaces Direct, uses fault domains to maximize data safety:
+
+   Resiliency in Storage Spaces is conceptually like distributed, software-defined RAID. Multiple copies of all data are kept in sync, and if hardware fails and one copy is lost, others are recopied to restore resiliency. To achieve the best possible resiliency, copies should be kept in seperate fault domains. 
+
+### 2. The Health Service uses fault domains to provide more helpful alerts:
+
+   Each fault domain can be associated with location metadata, which will automatically be included in any subsequent alerts. These descriptors can assist operations or maintenance personnel and reduce errors by disambiguating hardware. 
+
+### 3. Sketch clustering uses fault domains for storage affinity:
+
+   Sketch clustering allows faraway servers to join a common cluster. For the best performance, applications or virtual machines should be run on servers that are nearby to those providing their storage. Fault domain awareness enables this storage affinity. 
+
