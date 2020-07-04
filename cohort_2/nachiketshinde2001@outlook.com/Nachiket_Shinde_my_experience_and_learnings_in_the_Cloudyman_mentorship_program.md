@@ -358,3 +358,9 @@ In that they give a prical knowledge about virtual machine with linux
 
 - Today i attend the webinar of bootCamp with Cloud platform
 - register for the AWS educate
+
+## 2 July
+
+- Today I attend the webinar of bootcamp of Cloud technology
+- i started the aws first course
+
