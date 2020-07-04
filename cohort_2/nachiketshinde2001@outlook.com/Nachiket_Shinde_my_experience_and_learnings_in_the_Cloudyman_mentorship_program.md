@@ -364,3 +364,7 @@ In that they give a prical knowledge about virtual machine with linux
 - Today I attend the webinar of bootcamp of Cloud technology
 - i started the aws first course
 
+### 3 July 
+
+- Today i attend the webinar of cloud computing
+- i learn a basic things about java in collage lecture
