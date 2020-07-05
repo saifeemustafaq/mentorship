@@ -192,3 +192,29 @@ Subscription: VNet is scoped to a subscription. You can implement multiple virtu
 Best practices.
 
 4. ***Subscription:*** VNet is scoped to a subscription. You can implement multiple virtual networks within each Azure subscription and Azure region.
+
+## Date: July 5, 2020
+
+## What is VNet-to-VNet Connectivity?
+
+- VNet-to-VNet connectivity utilizes the Azure VPN gateways to connect two or more virtual networks together securely with IPsec/IKE S2S VPN tunnels. 
+- Together with the Multi-Site VPNs, you can connect your virtual networks and on-premises sites together in a topology that suits your business need. 
+
+The diagram below shows a simple example of a fully connected topology between virtual networks and on premises sites.
+
+![](https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/image11.png)
+
+### There are several scenarios this connectivity can enable. Below is just a partial list:
+
+- Cross region geo-redundancy and geo-presence; e.g., SQL AlwaysOn across different Azure regions
+ -Cross subscription, inter-organization communication in Azure
+- Regional multi-tier applications with strong isolation boundary; or connecting existing workloads in different VNets together to form new applications 
+  Considerations.
+
+### There are a number requirements and considerations on the VNet-to-VNet feature documented here. 
+Below is a short list of the key points:
+
+- You MUST create or use the Azure Dynamic Routing VPN gateways to connect your virtual networks. Static Routing VPN gateways are NOT supported for VNet-to-VNet.
+- For each virtual network, you can connect up to 10 “networks”; i.e., both virtual networks and on premises sites combined cannot exceed 10.
+- You need to ensure that the address prefixes don’t overlap among all the connected networks.
+- VNet-to-VNet feature works across regions and subscriptions – same or different regions, single or across subscriptions.
