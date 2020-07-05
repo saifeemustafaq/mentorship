@@ -58,7 +58,7 @@
  - That user can then, merge the changes in the original repository.
  
  
- 
+---- 
 ### Date: May 17, 2020
  
  > Today I learned:-
@@ -110,6 +110,7 @@ For example, if your service peaks one month, you can scale to demand and pay a 
 - In the earlier times, most of the companies used to depend on their private servers for storing their growing collection of data and online files; but today storing data online on cloud servers is the next big thing as it allows unlimited storage. 
 - The best thing about storing all the data in the cloud is that it ensures affordability and the data can be easily accessed from anywhere in the world.
 
+----
 ##  Benefits of online data storage in the cloud:
  
  
@@ -156,6 +157,7 @@ For example, if your service peaks one month, you can scale to demand and pay a 
 
 #### Hence, Online cloud storage and backup is beneficial for all types of businesses.
 
+----
 > ## Scaling in Cloud Computing:
 
 1. Scaling is the ability of a  company or organisation to handle increasing or decreasing demands in a capable manner, so that the coustomers or the company itself don't face any issue because of the fluctuating demands.
@@ -185,7 +187,7 @@ For example, if your service peaks one month, you can scale to demand and pay a 
 - Cloud computing uses a pay-as-you-go model. 
 - This on-demand nature is what makes the cloud so easy and intresting.
 
-
+----
 ## What is **Latency in Cloud Computing?**
 
 - Cloud service latency is the delay of time between a client request and a cloud service provider’s response.
@@ -221,7 +223,32 @@ Companies must carefully select the transmission media as it directly affects th
 
 Routers take time to process the information in the header of a packet. When a packet transfers from router to router, the latency time gets increased.
 
+### Cloud Latency Issues
 
+#### Given below five layers of complexity which affects on cloud latency:
+
+**1. Distributed computing**:- 
+
+Is is one component adding to cloud latency’s complexity. With enterprise data centers a thing of the past, the nature of applications has completely changed from being contained within a local infrastructure to being distributed all over the world.
+
+The problem lies in the fact that these applications, which are deployed all over the world, have varying degrees of latency with each of their Internet connections. -
+- Furthermore, latencies are entirely dependent on Internet traffic, which waxes and wanes to compete for the same bandwidth and infrastructure.
+
+**2. Virtualization**:- 
+
+Virtualization adds another layer of complexity to latency in the cloud. Gone are the days of rack-mounted servers; enterprises are building virtualized environments for consolidation and cost efficiency, and today’s data centers are now a complex web of hypervisors running dozens of virtual machines. Unfortunately, virtualized network infrastructure can introduce its own series of packet delays before the data even leaves the rack itself.
+
+**3. lack of measurement tools**:-
+
+For modern applications. While ping and traceroute can be used to test Internet connection, modern applications don’t have anything to do with ICMP, the protocol behind these tracing devices. Instead, modern applications and networks use other protocols such as HTTP and FTP and therefore need to try to measure their performances accordingly.
+
+**4. Evasive cloud providers**:-
+
+Evasive cloud providers who sometimes neglect to inform you about where their cloud data centers are located, can also complicate latency.
+
+While tools are of course helpful in providing insight on trends, the overarching solution to measuring and mitigating cloud latency is providing more consistent network connections.
+
+----
 ## Load balancing in Cloud Computing:
 
 - Cloud load balancing is defined as the method of splitting workloads and computing properties in a cloud computing.
@@ -257,7 +284,7 @@ Routers take time to process the information in the header of a packet. When a p
 - When the workload is distributed among a number of servers, even if one of them fails, the load could be shifted to another one.
 - This shows scalability, flexibility and the handling ability of traffic.
 
-
+----
 > # **Uptime and Downtime:**
 
 1. A growing challenge for applications is obtaining optimal availability at all times. 
@@ -284,6 +311,7 @@ Routers take time to process the information in the header of a packet. When a p
 
 Every business has different needs and requirements. Cloud computing is flexible and cost-efficient, which can be beneficial to every business, whether it's a small start-up or a large enterprise.
 
+----
 > ## **Client-Server Computing**
 
 In Client-Server Computing, the clients requests a resource and the server provides that resource.
@@ -335,6 +363,7 @@ The different disadvantages of client server computing are:
 - This may lead to congestion in the network or we call it as Latency.
 - If the server fails for any reason, then none of the requests of the clients can be fulfilled. This leads of failure of the client-server network.
 The cost of setting and maintaining a client server model are quite high.
+
 
 ----
 # Cloud Computing Trends To Watch In 2020
