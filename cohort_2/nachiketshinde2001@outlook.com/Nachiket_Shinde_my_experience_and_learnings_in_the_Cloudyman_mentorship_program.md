@@ -373,3 +373,8 @@ In that they give a prical knowledge about virtual machine with linux
 
 - I start learn voding at udemy Java programming
 - I start the hackerrank new challenge
+
+## 5 July
+
+- I start the Course from IBM for cloud data deployment
+- I start the next hackerank new challange
