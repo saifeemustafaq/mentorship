@@ -333,3 +333,31 @@ The comparative analysis of the best deployment models
 
 -------
 
+
+# What is diffrent abot cloud security............
+
+
+Cloud security is the protection of data, applications, and infrastructures involved in cloud computing. Many aspects of security for cloud environments (whether it’s a public, private, or hybrid cloud) are the same as for any on-premise IT architecture.
+
+High-level security concerns—like unauthorized data exposure and leaks, weak access controls, susceptibility to attacks, and availability disruptions—affect traditional IT and cloud systems alike. Like any computing environment, cloud security involves maintaining adequate preventative protections so you:
+
+Know that the data and systems are safe.
+Can see the current state of security.
+Know immediately if anything unusual happens.
+Can trace and respond to unexpected events.
+
+
+---------------
+## Why cloud security is different
+
+While many people understand the benefits of cloud computing, they’re equally deterred by the security threats. We get it. It’s hard to wrap your head around something that exists somewhere between amorphous resources sent through the internet and a physical server. It’s a dynamic environment where things are always changing—like security threats. The thing is that, for the most part, cloud security is IT security. And once you understand the specific differences, the word “cloud” doesn’t feel as insecure.
+
+--------
+
+## Dissolving perimeters
+
+Icon of rectangle going from solid stroke to dashed
+Security has a lot to do with access. Traditional environments usually control access using a perimeter security model. Cloud environments are highly connected, making it easier for traffic to bypass traditional perimeter defenses. Insecure application programming interfaces (APIs), weak identity and credentials management, account hijacks, and malicious insiders may pose threats to the system and data. Preventing unauthorized access in the cloud requires shifting to a data-centric approach. Encrypt the data. Strengthen the authorization process. Require strong passwords and 2 factor authentication. Build security into every level.
+
+
+-----
