@@ -15,3 +15,37 @@
    While the idea of IoT has been in existence for a long time, a collection of recent advances in a number of different technologies has made it practical. 
 
  - **Access to low-cost, low-power sensor technology.** Affordable and reliable sensors are making IoT technology possible for more manufacturers. 
+
+ - **Connectivity.** A host of network protocols for the internet has made it easy to connect sensors to the cloud and to other "things" for efficient data transfer. 
+
+ - **Cloud computing platforms.** The increase in the availability of cloud platform enables both businesses and consumers to access the infrastructure they need to scale up without actually having to manage it all. 
+
+ - **Machine learning and analytics.** With advances in machine learning and analytics, along with access to varied and vast amounts of data stored in the cloud, businesses can gather insights faster and more easily. The emergence of these allied technologies continues to push the boundaries of IoT and the data produced by IoT also feeds these technologies. 
+
+ - **Conversational artificial intelligence (AI).** Advances in neutral networks have brought natural-language processing (NLP) to IoT devices (such as digital personal assistants Alexa, Cortana, and Siri) and made them appealing, affordable, and viable for home use. 
+
+## What is Industrial IoT? 
+
+   Industrial IoT (IIoT) refers to the application of IoT technology in industrial settings, especially with respect to instrumentation and control of sensors and devices that engage cloud technologies. Recently, industries have used machine-to-machine communication (M2M) to achieve wireless automation and control. But with the emergence of cloud and allied technologies (such as analytics and machine learning), industries can achieve a new automation layer and with it create new revenue and business models. IIoT is sometimes called the fourth wave of the industrial revolution, or industry 4.0.The following are some common uses for IIoT:
+
+ - Smart manufacturing
+
+ - Preventive and predictive maintenance
+
+ - Smart power grids
+
+ - Smart cities
+
+ - Connected and smart logistics
+
+ - Smart digital supply chains
+
+## Unlock Business Value with IoT
+
+   An IoT becomes more widespread in the marketplace, companies are capitalizing on the tremendous business value it can offer. These benefits include:
+
+ - Deriving data-driven insights from IoT data to help better manage the business
+
+ - Increasing productivity and efficiency of business operations
+
+ - Creating new business models and revenue streams
