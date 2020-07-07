@@ -2,7 +2,7 @@
 
 # Disaster Recovery :-
 
-![](https://www.ironmountain.com/-/media/images/Iron-Mountain/Resources/Multimedia/i/iron-cloud-disaster-recovery-service-cloud-with-technology-symbols-dangling-from-it.jpg)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVXIVXtK7H0wRh-obZjRdLGcjtcR5e1Oqz1w&usqp=CAU)
 
 - Cloud disaster recovery (cloud DR) is a combination of strategies and services intended to back up data,applications and other resources to public cloud or dedicated service providers.
 
