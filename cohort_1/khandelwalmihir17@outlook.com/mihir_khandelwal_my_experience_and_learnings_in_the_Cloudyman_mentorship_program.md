@@ -151,3 +151,6 @@ Today I Learned:
 ## Date: July 5,2020
 - Started a python course, recommended by a friend.
 - Downloaded Eclipse for java practice of codes.
+## Dtae: July 7,2020
+- Earned an badge from cognitive cloud.
+- Giving exams of cloud on cognitive cloud.
