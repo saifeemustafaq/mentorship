@@ -378,3 +378,13 @@ In that they give a prical knowledge about virtual machine with linux
 
 - I start the Course from IBM for cloud data deployment
 - I start the next hackerank new challange
+
+## 6 July
+
+- Start learn with hackerrank new challenge
+- Learn the Computer Architecture knowledge
+
+## 7 July 
+
+- I completed the IBM CLOUD course
+- I got badge from IBM CLOUD course

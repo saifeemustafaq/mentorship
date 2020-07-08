@@ -39,6 +39,35 @@ Migration services used to transfer data physically between your datacenter and 
 
 **3.Snowball —** Snowball is a small application which allows you to transfer terabytes of data inside and outside of AWS environment.
 
+### Storage
+
+**1. Amazon Glacier-** It is an extremely low-cost storage service. It offers secure and fast storage for data archiving and backup.
+Amazon Elastic Block Store (EBS)- It provides block-level storage to use with Amazon EC2 instances. Amazon Elastic Block Store volumes are network-attached and remain independent from the life of an instance.
+
+**2. AWS Storage Gateway-** This AWS service is connecting on-premises software applications with cloud-based storage. It offers secure integration between the company's on-premises and AWS's storage infrastructure.
+
+### Security Services
+
+**1. IAM (Identity and Access Management) —**  IAM is a secure cloud security service which helps you to manage users, assign policies, form groups to manage multiple users.
+
+**2. Inspector —** It is an agent that you can install on your virtual machines, which reports any security vulnerabilities.
+
+**3. Certificate Manager —** The service offers free SSL certificates for your domains that are managed by Route53.
+
+**4. WAF (Web Application Firewall) —** WAF security service offers application-level protection and allows you to block SQL injection and helps you to block cross-site scripting attacks.
+
+**5. Cloud Directory —** This service allows you to create flexible, cloud-native directories for managing hierarchies of data along multiple dimensions.
+
+**6. KMS (Key Management Service) —** It is a managed service. This security service helps you to create and control the encryption keys which allows you to encrypt your data.
+
+**7. Organizations —** You can create groups of AWS accounts using this service to manages security and automation settings.
+
+**8. Shield —** Shield is managed DDoS (Distributed Denial of Service protection service). It offers safeguards against web applications running on AWS.
+
+**9. Macie —** It offers a data visibility security service which helps classify and protect your sensitive critical content.
+
+**10. GuardDuty —**It offers threat detection to protect your AWS accounts and workloads.
+
 ## Applications of AWS services
 
 Amazon Web services are widely used for various computing purposes like:
@@ -75,3 +104,4 @@ Following are the pros of using AWS services:
 - Amazon Web Services may have some common cloud computing issues when you move to a cloud. For example, downtime, limited control, and backup protection.
 - AWS sets default limits on resources which differ from region to region. These resources consist of images, volumes, and snapshots.
 Hardware-level changes happen to your application which may not offer the best performance and usage of your applications.
+

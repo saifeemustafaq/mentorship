@@ -106,6 +106,8 @@ _ _ _ _ _ _ _ _ _ _
 
 ##### Ans.
 
+![](https://vexxhost.com/wp-content/uploads/2017/08/load-balancer-blog.jpg)
+
 - Cloud load balancing is defined as the method of splitting workloads and computing properties in a cloud computing.
 
 - It enables enterprise to manage workload demands or application demands by distributing resources among numerous computers, networks or servers.

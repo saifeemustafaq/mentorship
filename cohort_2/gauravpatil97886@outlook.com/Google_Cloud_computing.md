@@ -235,3 +235,27 @@ These Cloud Computing researches topics, help you to can eliminate many issues a
 Green Cloud Computing is a broad topic, that makes virtualized data centres and servers to save energy. The IT services are utilizing so many resources and this leads to the shortage of resources. Green Cloud Computing provides many solutions, which makes IT resources more energy efficient and reduces the operational cost. It can also take care of power management, virtualization, sustainability, and recycling the environment.
 
 -----
+
+
+### ii. Edge Computing
+In Edge Computing, the data is processed at the edge of the network instead of the data warehouse. Here, the data is processed nearer to the source. Edge Computing is the new and emerging field, which also optimizes the resource usage in, cloud computing. Moreover, it improves the security of the system.
+
+### iii. Cloud Cryptography
+Cloud Computing helps clients with a virtual environment, on which they can store data and perform multiple tasks. It can convert the clear text into an unreadable form. With the help of Cryptography, we can transfer the content safely by limiting the view of the document.
+
+### iv. Load Balancing
+Load Balancing is the distribution of the load over the servers so that the work can be easily done. Due to this, the workload demands can be distributed and managed. There are several advantages of load balancing and they are-
+
+****Fewer chances of the server crash.
+Advanced security.
+Improvement in overall performance.
+The load balancing techniques are easy to implement and less expensive. Moreover, the problem of sudden outages is diminished****
+
+### v. Cloud Analytics
+Cloud analytics can become an interesting topic for researchers, as it has evolved from the diffusion of data analytics and cloud computing technologies. The Cloud analytics is beneficial for small as well as large organizations. It has been observed that there is tremendous growth in the cloud analytics market. Moreover, it can be delivered through various models such as
+
+- Public
+- Private
+- Hybrid
+-C ommunity model
+Analysis has a wide scope, as there are many segments to perform research. Some of the segments are business intelligence tools, enterprise information management, analytics solutions, governance, risk and compliance, enterprise performance management, and complex event processing

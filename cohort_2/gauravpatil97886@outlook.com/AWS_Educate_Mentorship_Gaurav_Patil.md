@@ -324,3 +324,21 @@ As an AWS Shield Advanced customer, you can contact a 24x7 DDoS response team (D
 
 
 -------
+AWS Shield is a managed Distributed Denial of Service (DDoS) protection service that safeguards applications running on AWS. AWS Shield provides always-on detection and automatic inline mitigations that minimize application downtime and latency, so there is no need to engage AWS Support to benefit from DDoS protection. There are two tiers of AWS Shield - Standard and Advanced.
+
+All AWS customers benefit from the automatic protections of AWS Shield Standard, at no additional charge. AWS Shield Standard defends against most common, frequently occurring network and transport layer DDoS attacks that target your web site or applications. When you use AWS Shield Standard with Amazon CloudFront and Amazon Route 53, you receive comprehensive availability protection against all known infrastructure (Layer 3 and 4) attacks.
+
+For higher levels of protection against attacks targeting your applications running on Amazon Elastic Compute Cloud (EC2), Elastic Load Balancing (ELB), Amazon CloudFront, AWS Global Accelerator and Amazon Route 53 resources, you can subscribe to AWS Shield Advanced. In addition to the network and transport layer protections that come with Standard, AWS Shield Advanced provides additional detection and mitigation against large and sophisticated DDoS attacks, near real-time visibility into attacks, and integration with AWS WAF, a web application firewall. AWS Shield Advanced also gives you 24x7 access to the AWS DDoS Response Team (DRT) and protection against DDoS related spikes in your Amazon Elastic Compute Cloud (EC2), Elastic Load Balancing (ELB), Amazon CloudFront, AWS Global Accelerator and Amazon Route 53 charges.
+
+AWS Shield Advanced is available globally on all Amazon CloudFront, AWS Global Accelerator, and Amazon Route 53 edge locations. You can protect your web applications hosted anywhere in the world by deploying Amazon CloudFront in front of your application. Your origin servers can be Amazon S3, Amazon Elastic Compute Cloud (EC2), Elastic Load Balancing (ELB), or a custom server outside of AWS. You can also enable AWS Shield Advanced directly on an Elastic IP or Elastic Load Balancing (ELB) in the following AWS Regions - Northern Virginia, Ohio, Oregon, Northern California, Montreal, São Paulo, Ireland, Frankfurt, London, Paris, Stockholm, Singapore, Tokyo, Sydney, Seoul, and Mumbai.
+
+----
+
+## Benefit
+sSeamless integration and deployment
+Your AWS resources automatically have AWS Shield Standard and are protected from common, most frequently occurring network and transport layer DDoS attacks. You can achieve a higher level of defense by simply enabling AWS Shield Advanced protection for Elastic IP, Elastic Load Balancing (ELB), Amazon CloudFront, AWS Global Accelerator, or Amazon Route 53 resources you want to protect using the management console or APIs. No routing changes are required for enabling these protections.
+
+
+-----
+## Customizable protection
+With AWS Shield Advanced, you have the flexibility to choose the resources to protect for infrastructure (Layer 3 and 4) protection. You can write customized rules with AWS WAF to mitigate sophisticated application layer attacks. These customizable rules can be deployed instantly, allowing you to quickly mitigate attacks. You can set up rules proactively to automatically block bad traffic, or respond to incidents as they occur. You also have 24x7 access to the AWS DDoS Response Team (DRT), who can write rules on your behalf to mitigate application layer DDoS attacks#

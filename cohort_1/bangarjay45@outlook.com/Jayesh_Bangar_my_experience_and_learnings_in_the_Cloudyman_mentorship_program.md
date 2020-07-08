@@ -366,6 +366,15 @@ The cost of setting and maintaining a client server model are quite high.
 
 
 ----
+### Cloud Analytics
+
+Cloud analytics can become an interesting topic for researchers, as it has evolved from the diffusion of data analytics and cloud computing technologies. The Cloud analytics is beneficial for small as well as large organizations. It has been observed that there is tremendous growth in the cloud analytics market. Moreover, it can be delivered through various models such as
+
+- Public
+- Private
+- Hybrid -C ommunity model Analysis has a wide scope, as there are many segments to perform research. Some of the segments are business intelligence tools, enterprise information management, analytics solutions, governance, risk and compliance, enterprise performance management, and complex event processing
+
+----
 # Cloud Computing Trends To Watch In 2020
 
 ### Introduction:
@@ -389,3 +398,16 @@ As a Part of Cloud computing advancement, serverless computing has seen an ascen
 - It’s beginning and end apart from the application itself.
 
 The happening of the serverless model, which has a conventional structure that uses a “pay as you go” system. These programs are truly flexible and enable organizations to have more command over their expenses in cloud hosting.
+
+![serverless-architecture](https://user-images.githubusercontent.com/65165798/86613405-29e17b80-bfcf-11ea-819e-149ee9945034.png)
+
+
+**2. Quantum Computing:**
+
+There is no uncertainty that in the coming years there will be an improvement in the performance of computers. This is only conceivable on account of hardware advancement through quantum computing.
+- As innovation progresses, so does the need to build effectiveness and computational capacity to fulfill future needs.
+
+Quantum computing will empower computers and servers to process data at a quick pace contrasted with current benchmarks. Since the foundation of cloud computing is based on fast network systems that do get multiplied, cloud computing will play a critical job in expanding computing force and performance. So, the destiny of cloud computing in 2020 is going to shock us.
+
+![quantum-computing](https://user-images.githubusercontent.com/65165798/86613401-28b04e80-bfcf-11ea-8864-fbe38e1474a3.jpg)
+
