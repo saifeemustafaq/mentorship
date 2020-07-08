@@ -49,3 +49,25 @@
  - Increasing productivity and efficiency of business operations
 
  - Creating new business models and revenue streams
+
+ - Easily and seamlessly connecting the physical business world to the digital world to drive quick time to value
+
+## What are IoT applications? 
+
+### Business-Ready, SaaS IoT Applications
+
+   IoT applications are prebuilt software-as-a-service (SaaS) applications that can analyze and present captured IoT sensor data to business users via dashboards. 
+
+   IoT applications use machine learning algorithms to analyze massive amounts of connected sensors data in the cloud. Using real-time IoT dashboards and alerts, you gain visibility into key performance indicators, statistics for means time between failures, and other information. Machine learning-based algorithms can identify equipment anomalies and send alerts to users and even trigger automated fixes or proactive counter measures. 
+
+   With cloud-based IoT applications, business users can quickly enhance existing processes for supply chains, customer service, human resources, and financial services. There's no need to recreate entire business processes. 
+
+## What are the IoT applications? 
+
+   The ability of IoT provide sensor information as well as enable device-to-device communication is driving a broad set of applications. The following are some of the most popular applications and what they do. 
+
+ - **Create new efficiencies in manufacturing through machine monitoring and product-quality monitoring.** Machines can be continuously monitored and analyzed to make sure they are performing within required tolerances. Products can also be monitored in real time to identify and address quality defects. 
+
+ - **Improve the tracking and "ring-fencing" of physical assets.** Tracking enables businesses to quickly determine asset location. Ring-fencing allows them to make sure that high-value assets are protected from theft and removal. 
+
+ - **Drive efficiencies and new possibilities in existing processes.** One example of this is the use of IoT to increase efficiency and safety in fleet management. Companies can use IoT fleet monitoring to direct trucks, in real time, to improve efficiency. 
