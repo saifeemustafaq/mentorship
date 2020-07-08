@@ -66,7 +66,35 @@ Amazon Elastic Block Store (EBS)- It provides block-level storage to use with Am
 
 **9. Macie —** It offers a data visibility security service which helps classify and protect your sensitive critical content.
 
-**10. GuardDuty —**It offers threat detection to protect your AWS accounts and workloads.
+**10. GuardDuty —** It offers threat detection to protect your AWS accounts and workloads.
+
+### Database Services
+
+**1. Amazon RDS-** This Database AWS service is easy to set up, operate, and scale a relational database in the cloud.
+
+**2. Amazon DynamoDB-** It is a fast, fully managed NoSQL database service. It is a simple service which allow cost-effective storage and retrieval of data. It also allows you to serve any level of request traffic.
+
+**3. Amazon ElastiCache-**  It is a web service which makes it easy to deploy, operate, and scale an in-memory cache in the cloud.
+
+**4. Neptune-** It is a fast, reliable and scalable graph database service.
+
+**5. Amazon RedShift -** It is Amazon's data warehousing solution which you can use to perform complex OLAP queries.
+
+### Analytics
+
+**1. Athena —** This analytics service allows perm SQL queries on your S3 bucket to find files.
+
+**2. loudSearch —** You should use this AWS service to create a fully managed search engine for your website.
+
+**3. ElasticSearch —** It is similar to CloudSearch. However, it offers more features like application monitoring.
+
+**4. Kinesis —**  This AWS analytics service helps you to stream and analyzing real-time data at massive scale.
+
+**5. QuickSight —** It is a business analytics tool. It helps you to create visualizations in a dashboard for data in Amazon Web Services. For example, S3, DynamoDB, etc.
+
+**6. EMR (Elastic Map Reduce) —** This AWS analytics service mainly used for big data processing like Spark, Splunk, Hadoop, etc.
+
+**7. Data Pipeline —** Allows you to move data from one place to another. For example from DynamoDB to S3.
 
 ## Applications of AWS services
 
