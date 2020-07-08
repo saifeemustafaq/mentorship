@@ -148,6 +148,9 @@ Today I Learned:
 - Got an internship opportunity call from Newton School, about Social Media Marketting.
 - Registers for more internship on Internshala.
 - Completed one chapter reading of COA subject.
-## Date: July 5,2020
+## Date: July 5, 2020
 - Started a python course, recommended by a friend.
 - Downloaded Eclipse for java practice of codes.
+## Date: July 8, 2020
+- Applied for certain internships on Internshala.
+- Going through the ongoing course of Google Cloud.
