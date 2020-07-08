@@ -4,6 +4,8 @@
 
 ##### Ans. 
 
+![](https://static.wixstatic.com/media/78c337_be67f90b267a44c0adab32b38820f13f~mv2.jpg/v1/fill/w_600,h_412,al_c,q_90/78c337_be67f90b267a44c0adab32b38820f13f~mv2.jpg)
+
 - A service-level agreement (SLA) is a commitment between a service provider and a client. Particular aspects of the service – quality, availability, responsibilities – are agreed between the service provider and the service user.
 
 - The most common component of an SLA is that the services should be provided to the customer as agreed upon in the contract.
