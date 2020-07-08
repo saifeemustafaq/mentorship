@@ -366,6 +366,15 @@ The cost of setting and maintaining a client server model are quite high.
 
 
 ----
+### Cloud Analytics
+
+Cloud analytics can become an interesting topic for researchers, as it has evolved from the diffusion of data analytics and cloud computing technologies. The Cloud analytics is beneficial for small as well as large organizations. It has been observed that there is tremendous growth in the cloud analytics market. Moreover, it can be delivered through various models such as
+
+- Public
+- Private
+- Hybrid -C ommunity model Analysis has a wide scope, as there are many segments to perform research. Some of the segments are business intelligence tools, enterprise information management, analytics solutions, governance, risk and compliance, enterprise performance management, and complex event processing
+
+----
 # Cloud Computing Trends To Watch In 2020
 
 ### Introduction:
