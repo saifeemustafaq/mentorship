@@ -658,3 +658,27 @@ While addressing a crowd at the Japan AI Experience in 2017,  DataRobot CEO Jere
 ****"AI is a computer system**** able to perform tasks that ordinarily require human intelligence... Many of these artificial intelligence systems are powered by machine learning, some of them are powered by deep learning and some of them are powered by very boring things like rules." 
 
 -----------
+
+
+# Microsoft Security Essentials
+
+
+
+
+![](https://upload.wikimedia.org/wikipedia/en/d/d7/Microsoft_Security_Essentials_icon.png)
+
+
+
+------
+
+(MSE) is an antivirus software (AV) that provides protection against different types of malicious software, such as computer viruses, spyware, rootkits, and trojan horses. Prior to version 4.5, MSE ran on Windows XP, Windows Vista, and Windows 7, but not on Windows 8 and later versions, which have built-in AV components known as Windows Defender. MSE 4.5 and later versions do not run on Windows XP. The license agreement allows home users and small businesses to install and use the product free-of-charge. It replaces Windows Live OneCare, a discontinued commercial subscription-based AV service, and the free Windows Defender, which only protected users from spyware until Windows 8
+
+
+Built upon the same scanning engine and virus definitions as other Microsoft antivirus products, it provides real-time protection, constantly monitoring activities on the computer, scanning new files as they are created or downloaded, and disabling detected threats. It lacks the OneCare personal firewall and the Forefront Endpoint Protection centralized management features.
+
+Microsoft's announcement of its own AV software on November 18, 2008, was met with mixed reactions from the AV industry. Symantec, McAfee and Kaspersky Lab—three competing independent software vendors—dismissed it as an unworthy competitor, but AVG Technologies and Avast Software appreciated its potential to expand the consumers' choice of AV software. AVG, McAfee, Sophos and Trend Micro claimed that the integration of the product into Microsoft Windows would be a violation of competition law.
+
+The product received generally positive reviews praising its user interface, low resource usage and freeware license. It secured AV-TEST certification in October 2009, having demonstrated its ability to eliminate all widely encountered malware. It lost that certification in October 2012; in June 2013, MSE achieved the lowest possible protection score, zero. However, Microsoft significantly improved this product during the couple of years preceding February 2018, when MSE achieved AV-TEST's "Top Product" award after detecting 80% of the samples used during its test. According to a March 2012 report by anti-malware specialist OPSWAT, MSE was the most popular AV product in North America and the second most popular in the world, which has resulted in the appearance of several rogue antivirus programs that try to impersonate it.
+
+
+------------
