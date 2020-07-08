@@ -1,5 +1,6 @@
 03 July 2020
 ## what is Microsoft Azure?
+![](https://www.cxotoday.com/wp-content/uploads/2020/01/MicrosoftAzure.png)
    Microsoft Azure is an ever-expanding set of cloud services to help your organisation meet your business challenges. It is the freedom to build, manage and deploy applications on a massive, global network using your favorite tools and frameworks
  
 ## Microsoft Azure why it is used?
