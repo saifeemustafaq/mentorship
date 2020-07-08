@@ -373,3 +373,14 @@ In that they give a prical knowledge about virtual machine with linux
 
 - I start learn voding at udemy Java programming
 - I start the hackerrank new challenge
+
+
+## 7 July 
+
+- I completed the IBM CLOUD course
+- I got badge from IBM CLOUD course
+
+## 6 July
+
+- Start learn with hackerrank new challenge
+- Learn the Computer Architecture knowledge

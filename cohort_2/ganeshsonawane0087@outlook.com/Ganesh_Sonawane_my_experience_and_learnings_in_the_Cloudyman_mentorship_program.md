@@ -3,6 +3,7 @@
 ## Date: June 8, 2020
 
 ## what is cloud computing ?
+![](https://aithority.com/wp-content/uploads/2020/03/Cloud-Computing-versus-Edge-Computing-staff-writeup.jpg)
   The technology of distributed dada processing  in which some scalable information resources and capabilities are provided as a service to multiple external  customers through internet  technology 
   Information and data  is stored  on physics or virtual  servers which are maintained and controlled by a cloud computing provider such as Amazon and their AWS provider 
 
@@ -83,7 +84,8 @@
  In AWS there are 16 regions The AWS global infrastructure is currently comprised of 16 AWS regions worldwide and 42 availability  zones AWS maintains multiple geographic regions including in North America, south America, Europe, China, Asia Pacific and the middle east 
    
 # Availability zones in azure 
- An availability zones is high availability offering that products your applinces and data from data centers failures Availability zones are unique  physics location within an azure region  Each zone is made up of one or more data centers equipped with with independent power, cooling and networking 
+![](https://docs.microsoft.com/en-us/azure/availability-zones/media/az-overview/az-graphic-two.png)
+      An availability zones is high availability offering that products your applinces and data from data centers failures Availability zones are unique  physics location within an azure region  Each zone is made up of one or more data centers equipped with with independent power, cooling and networking 
  
 # What is region pair?
   A region pair consists of two regions within the same geography Azure serialized platform updates across regional pairs ensuring that only one region in each pair updates at a time. Each Azure region is paired with another region within same geography, together making a regional pair

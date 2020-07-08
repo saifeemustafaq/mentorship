@@ -1,6 +1,7 @@
 ## 17 June 2020
 
-# Cloud deployment models 
+# Cloud deployment models
+![](https://img.over-blog-kiwi.com/2/08/77/63/20190530/ob_9828b7_imagec-php.png)
   There are four cloud deployment models: public, private, community, and hybrid. Each deployment model is defined according to where the infrastructure for the environment is located. There are three main cloud service models: Software as a Service, Platform as a Service, and Infrastructure as a Service.
   
 # what is deployment in cloud?

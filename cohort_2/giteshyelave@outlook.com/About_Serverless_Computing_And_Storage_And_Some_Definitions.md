@@ -104,6 +104,8 @@ _ _ _ _ _ _ _ _ _ _
 
 ##### Ans.
 
+![](https://www.resonatenetworks.com/wp-content/uploads/2020/06/the-role-load-balancing-plays-in-cloud-computing-920x500.jpg)
+
 - Cloud load balancing is a type of load balancing that is performed in cloud computing. Cloud load balancing is the process of distributing workloads across multiple computing resources.
 
 - Cloud load balancing reduces costs associated with document management systems and maximizes availability of resources.

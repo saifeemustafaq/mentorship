@@ -1,8 +1,8 @@
 ## Date: June 8, 2020
 
-# Disaster Recovery :-
+# Disaster Recovery :
 
-![](https://www.ironmountain.com/-/media/images/Iron-Mountain/Resources/Multimedia/i/iron-cloud-disaster-recovery-service-cloud-with-technology-symbols-dangling-from-it.jpg)
+![](https://cdn.meritalk.com/wp-content/uploads/2020/01/Disaster-recovery-min.jpg)
 
 - Cloud disaster recovery typically provides similar services as an on-premises or company-maintained off-premises disaster recovery plan (DRP) facility, but in an economical, efficient and provider-managed platform.
 

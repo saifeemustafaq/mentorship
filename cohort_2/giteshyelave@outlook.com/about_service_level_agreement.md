@@ -4,6 +4,8 @@
 
 ##### Ans. 
 
+![](https://www.solarwindsmsp.com/sites/solarwindsmsp/files/blog/2016/09/sla_template.jpg)
+
 - A service-level agreement (SLA) is a contract between a service provider and its customers that documents what services the provider will furnish and defines the service standards the provider is obligated to meet.
 
 - A service-level commitment (SLC) is a broader and more generalized form of an SLA. The two differ because an SLA is bidirectional and involves two teams.

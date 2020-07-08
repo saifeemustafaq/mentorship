@@ -361,3 +361,23 @@ Security has a lot to do with access. Traditional environments usually control a
 
 
 -----
+## Everything is now in software
+
+![](https://www.redhat.com/cms/managed-files/Icon_RH_Hardware_Datacenter-A-Virtual_RGB-_Flat500x216.png)
+
+Icon of datacenter wrapped in a dashed stroke representing virtualization 
+"Cloud" refers to the hosted resources delivered to a user via software. Cloud computing infrastructures—along with all the data being processed—are dynamic, scalable, and portable. Cloud security controls need to respond to environmental variables and accompany workloads and data while at rest and in transit, either as inherent parts of the workloads (e.g. encryption) or dynamically through a cloud management system and APIs. This helps to protect cloud environments from system corruption and data loss.
+
+
+-----
+
+## Sophisticated threat landscape
+
+![](https://www.redhat.com/cms/managed-files/Icon_RH_Signage_Alert_RGB_Flat-500x320.png)
+
+Icon with exclamation point inside triangle
+Sophisticated threats are anything that negatively impacts modern computing which—of course—includes the cloud. Increasingly sophisticated malware and other attacks like Advanced Persistent Threats (APTs) are designed to evade network defenses by targeting vulnerabilities in the computing stack. Data breaches can result in unauthorized information disclosure and data tampering. There’s no clear solution to these threats, except that it’s your responsibility to stay on top of the cloud security practices that are evolving to keep up with emerging threats.
+
+------
+
+
