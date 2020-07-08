@@ -3,6 +3,7 @@
 # virtual machine:
 
 ## what is virtual machine?
+![](https://blogs.sap.com/wp-content/uploads/2016/11/1-85.png)
   virtual machine is an emulation of a computer system. Virtual machines are based on computer architectures and provide functionality of a physical computer. Their implementations may involve specialized hardware, software, or a combination
    
   Virtual Machine Definition Virtual machines are software computers that provide the same functionality as physical computers. Like physical computers, they run applications and an operating system. However, virtual machines are computer files that run on a physical computer and behave like a physical computer. 
