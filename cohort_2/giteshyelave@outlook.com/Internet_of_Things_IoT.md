@@ -92,3 +92,41 @@ Some of the advantages of IoT include the following:
 - Since there's no international standard of compatibility for IoT, it's difficult for devices from different manufacturers to communicate with each other.
 
 _ _ _ _ _ _ _ _ _ _
+
+## Date: July 9, 2020
+
+# IoT standards and frameworks :
+
+There are several emerging IoT standards, including the following:
+
+- IPv6 over Low-Power Wireless Personal Area Networks (6LoWPAN) is an open standard defined by the Internet Engineering Task Force (IETF). The 6LoWPAN standard enables any low-power radio to communicate to the internet, including 804.15.4, Bluetooth Low Energy (BLE) and Z-Wave (for home automation).
+
+- ZigBee is a low-power, low-data rate wireless network used mainly in industrial settings. ZigBee is based on the Institute of Electrical and Electronics Engineers (IEEE) 802.15.4 standard. The ZigBee Alliance created Dotdot, the universal language for IoT that enables smart objects to work securely on any network and understand each other.
+
+- LiteOS is a Unix-like operating system (OS) for wireless sensor networks. LiteOS supports smartphones, wearables, intelligent manufacturing applications, smart homes and the internet of vehicles (IoV). The OS also serves as a smart device development platform.
+
+- OneM2M is a machine-to-machine service layer that can be embedded in software and hardware to connect devices. The global standardization body, OneM2M, was created to develop reusable standards to enable IoT applications across different verticals to communicate.
+
+- Data Distribution Service (DDS) was developed by the Object Management Group (OMG) and is an IoT standard for real-time, scalable and high-performance M2M communication.
+
+- Advanced Message Queuing Protocol (AMQP) is an open source published standard for asynchronous messaging by wire. AMQP enables encrypted and interoperable messaging between organizations and applications. The protocol is used in client-server messaging and in IoT device management.
+
+- Constrained Application Protocol (CoAP) is a protocol designed by the IETF that specifies how low-power, compute-constrained devices can operate in the internet of things.
+
+- Long Range Wide Area Network (LoRaWAN) is a protocol for WANs designed to support huge networks, such as smart cities, with millions of low-power devices.
+
+_ _ _ _ _ _ _ _ _ _
+
+##### IoT frameworks include the following :
+
+- Amazon Web Services (AWS) IoT is a cloud computing platform for IoT released by Amazon. This framework is designed to enable smart devices to easily connect and securely interact with the AWS cloud and other connected devices.
+
+- Arm Mbed IoT is a platform to develop apps for IoT based on Arm microcontrollers. The goal of the Arm Mbed IoT platform is to provide a scalable, connected and secure environment for IoT devices by integrating Mbed tools and services.
+
+- Microsoft's Azure IoT Suite is a platform that consists of a set of services that enables users to interact with and receive data from their IoT devices, as well as perform various operations over data, such as multidimensional analysis, transformation and aggregation, and visualize those operations in a way that's suitable for business.
+
+- Google's Brillo/Weave is a platform for the rapid implementation of IoT applications. The platform consists of two main backbones: Brillo, an Android-based OS for the development of embedded low-power devices, and Weave, an IoT-oriented communication protocol that serves as the communication language between the device and the cloud.
+
+- Calvin is an open source IoT platform released by Ericsson designed for building and managing distributed applications that enable devices to talk to each other. Calvin includes a development framework for application developers, as well as a runtime environment for handling the running application.
+
+_ _ _ _ _ _ _ _ _ _
