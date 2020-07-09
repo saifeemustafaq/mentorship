@@ -1,4 +1,4 @@
-## Date: July 3, 2020
+> ## Date: July 3, 2020
 
 # Internet of things :
 
@@ -92,3 +92,4 @@ Some of the advantages of IoT include the following:
 - Since there's no international standard of compatibility for IoT, it's difficult for devices from different manufacturers to communicate with each other.
 
 _ _ _ _ _ _ _ _ _ _
+ 
