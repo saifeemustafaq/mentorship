@@ -68,6 +68,18 @@ Amazon Elastic Block Store (EBS)- It provides block-level storage to use with Am
 
 **10. GuardDuty —**It offers threat detection to protect your AWS accounts and workloads.
 
+### Management Services
+
+**1. CloudWatch —** Cloud watch helps you to monitor AWS environments like EC2, RDS instances, and CPU utilization. It also triggers alarms depends on various metrics.
+
+**2. CloudFormation —** It is a way of turning infrastructure into the cloud. You can use templates for providing a whole production environment in minutes.
+
+**3. CloudTrail —** It offers an easy method of auditing AWS resources. It helps you to log all changes.
+
+**4. OpsWorks —** The service allows you to automated Chef/Puppet deployments on AWS environment.
+
+**5. Config —** This AWS service monitors your environment. The tool sends alerts about changes when you break certain defined configurations.
+
 ## Applications of AWS services
 
 Amazon Web services are widely used for various computing purposes like:
