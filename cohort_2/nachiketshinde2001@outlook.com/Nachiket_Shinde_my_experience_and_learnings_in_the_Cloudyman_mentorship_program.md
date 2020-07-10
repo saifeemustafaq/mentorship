@@ -388,3 +388,8 @@ In that they give a prical knowledge about virtual machine with linux
 
 - I completed the IBM CLOUD course
 - I got badge from IBM CLOUD course
+
+## 10 July
+
+- I complete one Assignment of Hackerrank
+- prepare for the Hacketon 
