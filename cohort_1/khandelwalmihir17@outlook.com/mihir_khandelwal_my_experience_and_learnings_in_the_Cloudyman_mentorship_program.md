@@ -159,3 +159,6 @@ Today I Learned:
 ## Date: July 8, 2020
 - Applied for certain internships on Internshala.
 - Going through the ongoing course of Google Cloud.
+## Date: July 10, 2020
+- Started with the basics of Java Programming, and practicing on Eclipse platform.
+- Doing other courses on Cognitive Cloud regarding Cloud Computing.
