@@ -159,3 +159,6 @@ Today I Learned:
 ## Date: July 8, 2020
 - Applied for certain internships on Internshala.
 - Going through the ongoing course of Google Cloud.
+## Date: July 11, 2020
+- Applied for Internships.
+- Learned about Flutter.
