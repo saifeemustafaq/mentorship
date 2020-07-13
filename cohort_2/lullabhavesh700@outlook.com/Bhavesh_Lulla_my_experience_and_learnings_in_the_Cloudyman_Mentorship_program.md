@@ -71,3 +71,11 @@
  - **Improve the tracking and "ring-fencing" of physical assets.** Tracking enables businesses to quickly determine asset location. Ring-fencing allows them to make sure that high-value assets are protected from theft and removal. 
 
  - **Drive efficiencies and new possibilities in existing processes.** One example of this is the use of IoT to increase efficiency and safety in fleet management. Companies can use IoT fleet monitoring to direct trucks, in real time, to improve efficiency. 
+
+>## Artificial Intelligence (AI) 
+
+### What is Artificial Intelligence (AI)? 
+
+**Artificial intelligence** (AI) refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. The term may also be applied to any machine that exhibits traits associated with a human mind such as learning and problem-solving. 
+
+The ideal characteristic of artificial intelligence is its ability to rationalize and take actions that have the best chance of achieving a specific goal. 
