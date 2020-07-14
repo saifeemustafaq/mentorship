@@ -71,3 +71,9 @@
  - **Improve the tracking and "ring-fencing" of physical assets.** Tracking enables businesses to quickly determine asset location. Ring-fencing allows them to make sure that high-value assets are protected from theft and removal. 
 
  - **Drive efficiencies and new possibilities in existing processes.** One example of this is the use of IoT to increase efficiency and safety in fleet management. Companies can use IoT fleet monitoring to direct trucks, in real time, to improve efficiency. 
+
+## Understanding Artificial Intelligence
+
+When most people hear the term artificial intelligence, the first thing they usually think of is robots. That's because big-budget films and novels weave stories about human-like machines that wreak havoc on Earth. But nothing could be further from the truth. 
+
+Artificial intelligence is based on the principle that human intelligence can be defined in a way that a machine can easily mimic it and execute tasks, from the most simple to those that are even more complex. The goals of artificial intelligence including learning, reasoning, and perception. 
