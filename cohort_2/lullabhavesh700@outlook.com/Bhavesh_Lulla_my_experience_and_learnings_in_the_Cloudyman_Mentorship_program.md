@@ -71,3 +71,7 @@
  - **Improve the tracking and "ring-fencing" of physical assets.** Tracking enables businesses to quickly determine asset location. Ring-fencing allows them to make sure that high-value assets are protected from theft and removal. 
 
  - **Drive efficiencies and new possibilities in existing processes.** One example of this is the use of IoT to increase efficiency and safety in fleet management. Companies can use IoT fleet monitoring to direct trucks, in real time, to improve efficiency. 
+
+## Applications of Artificial Intelligence
+
+The applications for artificial intelligence are endless. The technology can be applied to many different sectors and industries. AI is being tested and used in the healthcare industry for dosing drugs and different treatment in patients, and for surgical procedures in the operating room. 
