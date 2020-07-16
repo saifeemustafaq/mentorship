@@ -388,3 +388,8 @@ In that they give a prical knowledge about virtual machine with linux
 
 - I completed the IBM CLOUD course
 - I got badge from IBM CLOUD course
+
+## 15 July
+
+- I complete another c programming problem in hackerrank
+- I gathering information about Parrot Linux 
