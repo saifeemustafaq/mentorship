@@ -116,11 +116,9 @@ _ _ _ _ _ _ _ _ _ _
 
 - Load balancing solutions can be categorized into two types :
 
-#### 1.Software-based load balancers :
-Software-based load balancers run on standard hardware (desktop, PCs) and standard operating systems.
+**1.Software-based load balancers :** Software-based load balancers run on standard hardware (desktop, PCs) and standard operating systems.
 
-#### 2. Hardware-based load balancer :
-Hardware-based load balancers are dedicated boxes which include Application Specific Integrated Circuits (ASICs) adapted for a particular use.
+**2. Hardware-based load balancer :** Hardware-based load balancers are dedicated boxes which include Application Specific Integrated Circuits (ASICs) adapted for a particular use.
 
 _ _ _ _ _ _ _ _ _ _
 
@@ -136,16 +134,12 @@ _ _ _ _ _ _ _ _ _ _
 
 ## VNet concepts :
 
-#### 1. Address space :
-When creating a VNet, you must specify a custom private IP address space using public and private (RFC 1918) addresses. Azure assigns resources in a virtual network a private IP address from the address space that you assign.
+**1. Address space :** When creating a VNet, you must specify a custom private IP address space using public and private (RFC 1918) addresses. Azure assigns resources in a virtual network a private IP address from the address space that you assign.
 
-#### 2. Subnets :
-Subnets enable you to segment the virtual network into one or more sub-networks and allocate a portion of the virtual network's address space to each subnet. You can then deploy Azure resources in a specific subnet.
+**2. Subnets :** Subnets enable you to segment the virtual network into one or more sub-networks and allocate a portion of the virtual network's address space to each subnet. You can then deploy Azure resources in a specific subnet.
 
-#### 3. Regions :
-VNet is scoped to a single region/location; however, multiple virtual networks from different regions can be connected together using Virtual Network Peering.
+**3. Regions :** VNet is scoped to a single region/location; however, multiple virtual networks from different regions can be connected together using Virtual Network Peering.
 
-#### 4. Subscription :
-VNet is scoped to a subscription. You can implement multiple virtual networks within each Azure subscription and Azure region.
+**4. Subscription :** VNet is scoped to a subscription. You can implement multiple virtual networks within each Azure subscription and Azure region.
 
 _ _ _ _ _ _ _ _ _ _

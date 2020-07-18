@@ -236,3 +236,53 @@ multi-billion dollar online business that has been honed for over a decade.**
 - Hardware-level changes happen to your application which may not offer the best performance and usage of your applications.
 
 ---
+
+## Date: June 10, 2020
+
+# Cloud Computing and Virtualization :
+
+![](https://www.techiexpert.com/wp-content/uploads/2018/12/Figure1-Cloud-Architecture-and-its-layout-Pic-Credit.png)
+
+- The technology that lies at the core of all cloud operations is virtualization.Virtualization lets you divide the hardware resources of a single physical server into smaller units. That physical server could therefore host multiple virtual machines running their own complete operating systems, each with its own memory, storage, and network
+access.
+
+- Virtualization’s flexibility makes it possible to provision a virtual server in a matter of seconds, run it for exactly the time your project requires, and then shut it down. The resources released will become instantly available to other workloads. The usage density you can achieve lets you squeeze the greatest value from your hardware and makes it easy to generate experimental and sandboxed environments.
+
+---
+
+# Cloud Computing Architecture :
+
+- Major cloud providers like **AWS** have enormous server farms where hundreds of thousands of servers and data drives are maintained along with the network cabling necessary to connect them. A well-built virtualized environment could provide a virtual server using storage, memory, compute cycles, and network bandwidth collected from the most efficient mix of available sources it can find.
+
+- A cloud computing platform offers on-demand, self-service access to pooled compute resources where your usage is metered and billed according to the volume you consume.Cloud computing systems allow for precise billing models, sometimes involving fractions ofa penny for an hour of consumption .
+
+---
+
+# AWS Platform Architecture :
+
+AWS maintains data centers for its physical servers around the world. Because the centers are so widely distributed, you can reduce your own services’ network transfer latency by hosting your workloads geographically close to your users. It can also help you manage compliancewith regulations requiring you to keep data within a particular legal jurisdiction . 
+
+
+### A list of publicly accessible AWS regions 
+
+| Region Name | Region | Endpoint |
+|:------------|:-------|:---------|
+| US East (Ohio) | us-east-2 | us-east-2.amazonaws.com |
+| US East (N. Virginia) | us-east-1 | us-east-1.amazonaws.com |
+| US West (N. California) | us-west-1 | us-west-1.amazonaws.com |
+| US West (Oregon) | us-west-2 | us-west-2.amazonaws.com |
+| Asia Pacific (Mumbai) | ap-south-1 | ap-south-1.amazonaws.com |
+| Asia Pacific (Seoul) | ap-northeast-2 | ap-northeast-2.amazonaws.com |
+| Asia Pacific (Osaka-Local) | ap-northeast-3 | ap-northeast-3.amazonaws.com |
+| Asia Pacific (Singapore) | ap-southeast-1 | ap-southeast-1.amazonaws.com |
+| Asia Pacific (Sydney) | ap-southeast-2 | ap-southeast-2.amazonaws.com |
+| Asia Pacific (Tokyo)| ap-northeast-1 | ap-northeast-1.amazonaws.com |
+| Canada (Central) | ca-central-1 | ca-central-1.amazonaws.com |
+| China (Beijing) | cn-north-1 | cn-north-1.amazonaws.com.cn |
+| EU (Frankfurt) | eu-central-1 | eu-central-1.amazonaws.com|
+| EU (Ireland) | eu-west-1 | eu-west-1.amazonaws.com |
+| EU (London)  | eu-west-2 | eu-west-2.amazonaws.com |
+| EU (Paris) | eu-west-3 | eu-west-3.amazonaws.com |
+| South America (São Paulo) | sa-east-1 | sa-east-1.amazonaws.com |
+
+---

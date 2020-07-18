@@ -44,7 +44,7 @@ Migration services used to transfer data physically between your datacenter and 
 **1. Amazon Glacier-** It is an extremely low-cost storage service. It offers secure and fast storage for data archiving and backup.
 Amazon Elastic Block Store (EBS)- It provides block-level storage to use with Amazon EC2 instances. Amazon Elastic Block Store volumes are network-attached and remain independent from the life of an instance.
 
-**2. AWS Storage Gateway-** This AWS service is connecting on-premises software applications with cloud-based storage. It offers secure integration between the company's on-premises and AWS's storage infrastructure.
+**2. AWS Storage Gateway-** This AWS service is connecting on-premises software applications with cloud-based storage. It offers secure integration between the company's on- premises and AWS's storage infrastructure.
 
 ### Security Services
 
@@ -54,7 +54,7 @@ Amazon Elastic Block Store (EBS)- It provides block-level storage to use with Am
 
 **3. Certificate Manager —** The service offers free SSL certificates for your domains that are managed by Route53.
 
-**4. WAF (Web Application Firewall) —** WAF security service offers application-level protection and allows you to block SQL injection and helps you to block cross-site scripting attacks.
+**4. WAF (Web Application Firewall) —** WAF security service offers application-level protection and allows you to block SQL injection and helps you to block cross-site      scripting attacks.
 
 **5. Cloud Directory —** This service allows you to create flexible, cloud-native directories for managing hierarchies of data along multiple dimensions.
 
@@ -66,7 +66,83 @@ Amazon Elastic Block Store (EBS)- It provides block-level storage to use with Am
 
 **9. Macie —** It offers a data visibility security service which helps classify and protect your sensitive critical content.
 
-**10. GuardDuty —**It offers threat detection to protect your AWS accounts and workloads.
+**10. GuardDuty —** It offers threat detection to protect your AWS accounts and workloads.
+
+### Database Services
+
+**1. Amazon RDS-** This Database AWS service is easy to set up, operate, and scale a relational database in the cloud.
+
+**2. Amazon DynamoDB-** It is a fast, fully managed NoSQL database service. It is a simple service which allow cost-effective storage and retrieval of data. It also allows you to serve any level of request traffic.
+
+**3. Amazon ElastiCache-**  It is a web service which makes it easy to deploy, operate, and scale an in-memory cache in the cloud.
+
+**4. Neptune-** It is a fast, reliable and scalable graph database service.
+
+**5. Amazon RedShift -** It is Amazon's data warehousing solution which you can use to perform complex OLAP queries.
+
+### Analytics
+
+**1. Athena —** This analytics service allows perm SQL queries on your S3 bucket to find files.
+
+**2. loudSearch —** You should use this AWS service to create a fully managed search engine for your website.
+
+**3. ElasticSearch —** It is similar to CloudSearch. However, it offers more features like application monitoring.
+
+**4. Kinesis —**  This AWS analytics service helps you to stream and analyzing real-time data at massive scale.
+
+**5. QuickSight —** It is a business analytics tool. It helps you to create visualizations in a dashboard for data in Amazon Web Services. For example, S3, DynamoDB, etc.
+
+**6. EMR (Elastic Map Reduce) —** This AWS analytics service mainly used for big data processing like Spark, Splunk, Hadoop, etc.
+
+**7. Data Pipeline —** Allows you to move data from one place to another. For example from DynamoDB to S3.
+
+### Management Services
+
+**1. CloudWatch —** Cloud watch helps you to monitor AWS environments like EC2, RDS instances, and CPU utilization. It also triggers alarms depends on various metrics.
+
+**2. CloudFormation —** It is a way of turning infrastructure into the cloud. You can use templates for providing a whole production environment in minutes.
+
+**3. CloudTrail —** It offers an easy method of auditing AWS resources. It helps you to log all changes.
+
+**4. OpsWorks —** The service allows you to automated Chef/Puppet deployments on AWS environment.
+
+**5. Config —** This AWS service monitors your environment. The tool sends alerts about changes when you break certain defined configurations.
+
+### Artificial Intelligence
+
+**1. Lex —** Lex tool helps you to build chatbots quickly.
+
+**2. Polly —**  It is AWS's text-to-speech service allows you to create audio versions of your notes.
+
+**3. Rekognition  —** It is AWS's face recognition service. This AWS service helps you to recognize faces and object in images and videos.
+
+**4. SageMaker —** Sagemaker allows you to build, train, and deploy machine learning models at any scale.
+
+**5. Transcribe —**  It is AWS's speech-to-text service that offers high-quality and affordable transcriptions.
+
+**6. Translate —** It is a very similar tool to Google Translate which allows you to translate text in one language to another.
+
+### Artificial Intelligence
+
+**1. Lex —** Lex tool helps you to build chatbots quickly.
+
+**2. Polly —**  It is AWS's text-to-speech service allows you to create audio versions of your notes.
+
+**3. Rekognition  —** It is AWS's face recognition service. This AWS service helps you to recognize faces and object in images and videos.
+
+**4. SageMaker —** Sagemaker allows you to build, train, and deploy machine learning models at any scale.
+
+**5. Transcribe —**  It is AWS's speech-to-text service that offers high-quality and affordable transcriptions.
+
+**6. Translate —** It is a very similar tool to Google Translate which allows you to translate text in one language to another.
+
+### Deployment and Management
+
+**1. AWS CloudTrail-** The services records AWS API calls and send backlog files to you.
+
+**2. Amazon CloudWatch-** The tools monitor AWS resources like Amazon EC2 and Amazon RDS DB Instances. It also allows you to monitor custom metrics created by user's applications and services.
+
+**3. AWS CloudHSM-** This AWS service helps you meet corporate, regulatory, and contractual, compliance requirements for maintaining data security by using the Hardware Security Module(HSM) appliances inside the AWS environment.
 
 ## Applications of AWS services
 
@@ -103,5 +179,4 @@ Following are the pros of using AWS services:
 - If you need more immediate or intensive assistance, you'll have to opt for paid support packages.
 - Amazon Web Services may have some common cloud computing issues when you move to a cloud. For example, downtime, limited control, and backup protection.
 - AWS sets default limits on resources which differ from region to region. These resources consist of images, volumes, and snapshots.
-Hardware-level changes happen to your application which may not offer the best performance and usage of your applications.
-
+  Hardware-level changes happen to your application which may not offer the best performance and usage of your applications.
