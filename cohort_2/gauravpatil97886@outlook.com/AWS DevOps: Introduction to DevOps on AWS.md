@@ -226,5 +226,55 @@ One effect of a shift towards DevOps culture is that it becomes easier to put ne
 
 --------+
 
+# The best DevOps tools 
+
+
+
+### 1. Gradle
+
+![](https://raygun.com/blog/images/best-devops-tools/gradle.png)
+
+Your DevOps tool stack will need a reliable build tool. Apache Ant and Maven dominated the automated build tools market for many years, but Gradle showed up on the scene in 2009, and its popularity has steadily grown since then. Gradle is an incredibly versatile tool which allows you to write your code in Java, C++, Python, or other languages. Gradle is also supported by popular IDEs such as Netbeans, Eclipse, and IntelliJ IDEA. If that doesn’t convince you, it might help to know that Google also chose it as the official build tool for Android Studio.
+
+While Maven and Ant use XML for configuration, Gradle introduces a Groovy-based DSL for describing builds. In 2016, the Gradle team also released a Kotlin-based DSL, so now you can write your build scripts in Kotlin as well. This means that Gradle does have some learning curves, so it can help a lot if you have used Groovy, Kotlin or another JVM language before. Besides, Gradle uses Maven’s repository format, so dependency management will be familiar if you have prior experience with Maven. You can also import your Ant builds into Gradle.
+
+The best thing about Gradle is incremental builds, as they save a nice amount of compile time. According to Gradle’s performance measurements, it’s up to 100 times faster than Maven. This is in part because of incrementality, but also due to Gradle’s build cache and daemon. The build cache reuses task outputs, while the Gradle Daemon keeps build information hot in memory in-between builds.
+
+All in all, Gradle allows faster shipping and comes with a lot of configuration possibilities.
+
+------------
+
+
+### 2. Git
+
+![](https://raygun.com/blog/images/best-devops-tools/git.png)
+
+Git is one of the most popular DevOps tools, widely used across the software industry. It’s a distributed SCM (source code management) tool, loved by remote teams and open source contributors. Git allows you to track the progress of your development work. You can save different versions of your source code and return to a previous version when necessary. It’s also great for experimenting, as you can create separate branches and merge new features only when they’re ready to go.
+
+To integrate Git with your DevOps workflow, you also need to host repositories where your team members can push their work. Currently, the two best online Git repo hosting services are GitHub and Bitbucket. GitHub is more well-known, but Bitbucket comes with free unlimited private repos for small teams (up to five team members). With GitHub, you get access only to public repos for free—which is still a great solution for many projects.
+
+Both GitHub and Bitbucket have fantastic integrations. For example, you can integrate them with Slack, so everyone on your team gets notified whenever someone makes a new commit.
+
+---------
+
+### 3. Jenkins
+
+![](https://raygun.com/blog/images/best-devops-tools/jenkins.png)
+
+Jenkins is the go-to DevOps automation tool for many software development teams. It’s an open source CI/CD server that allows you to automate the different stages of your delivery pipeline. The main reason for Jenkins’ popularity is its huge plugin ecosystem. Currently, it offers more than 1,000 plugins, so it integrates with almost all DevOps tools, from Docker to Puppet.
+
+With Jenkins, you can set up and customize your CI/CD pipeline according to your own needs. I found the following example in the Jenkins Docs. And, this is just one of the possibilities. Nice, isn’t it?
+![](https://raygun.com/blog/images/best-devops-tools/jenkins-pipeline.png)
+
+****Jenkins: DevOps tool****
+
+It’s easy to get started with Jenkins, as it runs out-of-the-box on Windows, Mac OS X, and Linux. You can also easily install it with Docker. You can set up and configure your Jenkins server through a web interface. If you are a first-time user, you can choose to install it with frequently used plugins. However, you can create your own custom config as well.
+
+With Jenkins, you can iterate and deploy new code as quickly as possible. It also allows you to measure the success of each step of your pipeline. I’ve heard people complaining about Jenkins’ “ugly” and non-intuitive UI. However, I could still find everything I wanted without any problem.
+
+-----------
+
+
+
 
 

@@ -211,3 +211,17 @@ We already have a disturbing lack of qualified cloud computing professionals, an
 
 
 -------------
+A cloud allows users to access application, information, and data of all sorts on an online level rather than by use of actual hardware or devices. A company offering reliable cloud technology allows for computing to be done in a much more shared way, as a cloud provides a service rather than a product. Users get and share their information in a way that can allow them to access and give access to the whole world or any groups of people within their cloud.
+
+## WHAT THE FUTURE OF CLOUD COMPUTING HOLDS
+With cloud computing and the technology behind it there are many potential opportunities and capabilities. Cloud computing can open a whole new world of jobs, services, platforms, applications, and much more. There are thousands of possibilities beginning to form as the future of cloud computing starts to really take off.
+
+For instance, vendors and service providers can get on board to develop new and different ways of selling their goods and services to the cloud users through the cloud technology. It opens up a whole new platform for designers and web developers. Businesses and organizations can organize themselves and conduct business much more affordable and professionally. Social networking and keeping in touch with friends gets a great deal easier as well.
+
+## WHY CLOUDS ARE SO BENEFICIAL TO THE DATA SHARING WORLD
+The main reason that the future of cloud computing will be as powerful and expansive as it portends to be is that cloud technology is extremely beneficial. For one thing, the extreme agility and accessibility of a cloud is far superior to the use of current technology. No matter where in the world someone happens to be, or what device they are using, they can access their cloud and continue to do their work or share their information.
+
+Not only that, but cloud technology is extremely cost effective, and a company could end up saving thousands by choosing this option. For the reliability a cloud offers, the security it provides, and the performance it boasts of, the cost of a cloud makes it an incredible option for individuals and corporations alike. The future of cloud computing is bright, and wise people of any kind should begin to get on board with trusted cloud computing providers like Apprenda.
+
+
+------++
