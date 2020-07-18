@@ -340,5 +340,19 @@ Your AWS resources automatically have AWS Shield Standard and are protected from
 
 
 -----
-## Customizable protection
-With AWS Shield Advanced, you have the flexibility to choose the resources to protect for infrastructure (Layer 3 and 4) protection. You can write customized rules with AWS WAF to mitigate sophisticated application layer attacks. These customizable rules can be deployed instantly, allowing you to quickly mitigate attacks. You can set up rules proactively to automatically block bad traffic, or respond to incidents as they occur. You also have 24x7 access to the AWS DDoS Response Team (DRT), who can write rules on your behalf to mitigate application layer DDoS attacks#
+
+
+Cloud use is growing and with that cloud architects are increasingly in demand with no end in sight. Pursue a career with job security, growth opportunities, and new problems to solve. Download SDxCentral's career guide today
+
+DOWNLOAD
+By clicking the link, I consent to share my contact information with the sponsor(s) of this content, who may reach out to you as part of their marketing campaigns, and register for SDxCentral email communications. See how we use your data: Privacy Policy.
+
+Plan and Strategize for Security Events
+Organizations should document how they respond to security events before those events occur and how they will recover afterward. This should be completed before an organization subscribes to any cloud security service. Microsoft Azure recommends organizations adopt a business continuity and disaster recovery (BCDR) strategy. Microsoft Azure has services and suggested practices that keep the cloud environment secure and help in the recovery process.
+
+Password policy enforcement is the practice of requiring a certain level of complexity and specific lifespans for passwords. With Microsoft Azure’s SQL Servers, organizations can mandate that users’ passwords fit these preset requirements. This makes it more difficult for hackers to gain or use credentials.
+
+Azure Backup is a service that allows organizations to back up entire virtual machines (VMs), Azure Files shares, SQL Server databases, and SAP HANA databases. In the event data is lost from one data center due to an environmental force or to an attack, the data still exists elsewhere for recovery.
+
+Azure Site Recovery is a major contributor to a BCDR strategy. When an outage occurs due to a DDoS attack or problems within the data center, Site Recovery keeps apps and workloads running at a secondary location that has not been affected. Once the primary location begins functioning again, it will receive workloads again. When an attack is occurring, having Site Recovery as an option means an organization’s customers do not see a disruption in service.
+
