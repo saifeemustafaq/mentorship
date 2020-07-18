@@ -158,6 +158,11 @@ Today I Learned:
 - Applied for certain internships on Internshala.
 - Going through the ongoing course of Google Cloud.
 
+## Date: July 12, 2020
+- Completed learning of basics of Java by the notes.
+- Have prepared for the IIRS course, starting from tomorrow.
+
+
 ## Date: July 13, 2020
 -  Maked group for KPIT competition.
 - Started with thw IIRC lectures.
@@ -180,3 +185,4 @@ Today I Learned:
 ## Date: July 9, 2020
 - Attended an online webinar at teams on Cloud Technologies from WinAble.
 - Learned the differnece between C and C++, from Javatpoint website.
+
