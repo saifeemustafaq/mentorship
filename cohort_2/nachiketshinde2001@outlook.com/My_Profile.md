@@ -18,7 +18,7 @@
 > Leading any task or any responsibilities.
 > known knowledge about Computer hardware and software also
 > learn Java core, Python , c programming and c++
-
+> learn about Cloud core concepts with  IBM batches
 
 
 > My achievements 
@@ -26,7 +26,7 @@
 1. Done baiscs of ML and AI, IoT, Cloud Computing, Digital Marketting on Coursera with certificates.
 2. Recently Completed CloudyMan Mentorship Program by Microsoft
 3. Python programming with Data science on Udemy 
-
+4. Cloud core course completed with IBM batch
 
 > Language I know
 
