@@ -1,11 +1,21 @@
 > # This blog is part of the **[Cloudyman Mentorship Program](https://t.co/78sRvCvYiO?amp=1)** under the mentorship of *[Mustafa Saifee](https://www.linkedin.com/in/saifeemustafaq/)*
 
+
+## Date: May 27, 2020
+
+Today i learned how to use github
+=======
 > ## Date: May 27, 2020
 today i learned how to use github
 
+
 > ## Date: May 29, 2020
 
- today the speaker explained us the purpose of learning cloud computing  
+Today the speaker explained us the purpose of learning cloud computing  
+
+# Cloud Computing :
+
+#### Ans.
 
 ##### cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet (“the cloud”) to offer faster innovation, flexible resources, and economies of scale. You typically pay only for cloud services you use, helping lower your operating costs, run your infrastructure more efficiently and scale as your business needs change.
 
