@@ -158,6 +158,11 @@ Today I Learned:
 - Applied for certain internships on Internshala.
 - Going through the ongoing course of Google Cloud.
 
+## Date: July 13, 2020
+-  Maked group for KPIT competition.
+- Started with thw IIRC lectures.
+=======
+
 ## Date: July 14, 2020
 - Learned the C++ advantages over C, with the help of the site JavaTpoint.
 - In the IIRS lecture, learned about the animal species and the factors for it's decreasing rate. 
