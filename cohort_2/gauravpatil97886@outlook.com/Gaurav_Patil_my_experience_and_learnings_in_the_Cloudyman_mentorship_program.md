@@ -686,12 +686,25 @@ The product received generally positive reviews praising its user interface, low
 
 
 
+# What are Malware Threats on Computer?
+
+
+## What are Malware Threats
+Malware is a malicious software that is dangerous to the computer. Once installed, malware can harm the computer in different ways. To have a better understanding of malware threats. Let’s find out first how does one get malware on the computer.
+
+
 ## Where Malware Threats come from
 Malware is spread on different websites on the Internet. Hackers are clever these days; they don’t just insert malware in non-secure websites but also on legitimate websites. How do they do this?
+
 
 ### Hackers use different techniques to lure in victims.
 
 #### 1. Social Engineering
+=======
+****Hackers**** use different techniques to lure in victims.
+
+##### 1. Social Engineering
+
 
 Social engineering is a technique that makes a user want to give away personal information. Think of it this way; a present is ready to be shipped, you just have to provide your address.
 
@@ -699,7 +712,11 @@ Who would refuse a present? If you are unaware of how malware works, you will fa
 
 By presenting malware in an engaging way, it is easy to convince users into installing malware on their computer. What are the examples of social engineering?
 
+
 #### Email
+=======
+##### Email
+
 
 One example of a social engineering email is a fake email from a friend or family. It may contain a message saying that there’s a funny picture of you, click here to view the image.
 
@@ -707,11 +724,16 @@ This may trigger curiosity. Who doesn’t want to see his own funny photo, right
 
 So how to prevent malware from fake emails? Send your contact a separate email to confirm if the email is legit.
 
+
 #### Fake Downloads
+
+##### Fake Downloads
+
 
 Social engineering can use a threat to convince their victim. You could just be browsing the Internet, suddenly a message flashes on the screen saying that there’s a threat detected, click here to download an antivirus.
 
 Don’t fall for this trick. Threats can be resolved by downloading a trustworthy antivirus software.
+
 
 #### Phishing Link
 
@@ -759,3 +781,4 @@ So now that we know what are malware threats, how can we prevent them from enter
 Click here to learn what are malware threats prevention techniques.
 
 Want to protect your endpoints from malware using a single security manager? Comodo offers Advanced Endpoint Protection that secures the endpoint devices against malware.
+
