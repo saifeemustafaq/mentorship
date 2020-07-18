@@ -406,3 +406,36 @@ As the Internet of things facilitates a set of benefits, it also creates a signi
 
 -----------
 
+# Hardware security in the IoT
+
+
+
+According to a McKinsey study, security and privacy are seen as the critical challenges to IoT growth in the future[1]. A key focus area is the security of IoT devices that are accessible by end users. These devices can be found in applications ranging from commercial networked HVAC systems and wireless base stations to industrial power-line communications (PLC), avionics networking, and network gateway systems, as well as critical energy infrastructure at power stations.
+
+Threat vectors are both real and hypothetical. Software security, alone, has proven inadequate to protect against known threats, but now today’s FPGA SoCs can be used to implement a scalable security scheme that extends all the way down to the IC level. They help deliver the full range of scalable security while maintaining low power system operation in a small footprint.
+
+Virtually any device that is connected to other devices and accessible to end users presents a danger.
+
+For instance, in the automotive space, a fake advanced driver assistance system (ADAS) message sent to an interconnected vehicle-to-vehicle or vehicle-to-infrastructure (together known as V2X) system could cause accidents by providing false data about the speed and direction of oncoming traffic. Or, malicious data manipulation might cause traffic outages and associated chaos throughout the city.
+
+In the industrial environment, the user-accessible equipment most likely to provide an open door to malicious attacks includes smart grid field controllers and utility flow monitors. A growing number of these remote products are becoming networked and, given their normally remote proximity, these are attractive to malicious hacking. An attack vector in the healthcare industry is user-accessible devices associated with patient monitoring. In the communications infrastructure, wireless small cell systems for 4G/LTE networks are similarly vulnerable, as they are generally installed at street level in outdoor deployments, and often via third-party access provider networks with less stringent security than the larger carriers. These devices are easy prey for hackers and vandals, who can use them to access networks that are extremely vulnerable to GPS jamming, spoofing, and other timing security breaches.
+
+One of the most recent, high-profile examples of threats associated with user-accessible networked devices is when a hacker allegedly took control of a commercial airline flight[2]. According to court documents, the FBI is investigating whether a passenger gained access to the in-flight entertainment (IFE) systems by plugging his laptop into the electronic box mounted under his seat, and then accessing other systems including the jet’s thrust management computer, which is responsible for providing power to the plane’s engines.
+
+In addition to the aforementioned threats, any user-accessible device is also vulnerable to intellectual property (IP) theft and reverse-engineering of the product. Protecting these devices from IP theft, reverse-engineering, tampering, and cloning, while also preventing their exploitation for network attacks, requires end-to-end, layered security beginning at the device level. Today’s FPGAs support this strategy through a combination of design security (chip level protection including anti-tamper measures), hardware security (board-level and the supply chain), and data security (spanning all communications to/from devices).
+
+When a networked device without sufficient hardware security is hacked by an end-user, IP theft of the design can occur. Protecting IP is one example of design security. Design security also includes the ability to prevent someone from reverse engineering a product. Without hardware-based security, a user-accessible product can have its IP stolen. In 2012, the American Superconductor Corp.’s (AMSC)’s value experienced a drop of 40 percent in a single day, and 84 percent in a period of five months, due mainly to the company’s lack of security around their wind turbines’ algorithms[3].
+
+To secure a design, configuration bit streams should be encrypted and protected. Devices that have tamper protection, zeroization, and secure key storage can significantly reduce the chances of a successful attack. The hardware should be able to identify unauthorized access and tampering, and zeroize when tampering is detected. Even better, the hardware security device should be resistant against differential power analysis (DPA) attacks. DPA is a technique by which with an inexpensive electromagnetic probe and a simple oscilloscope the encryption keys can be detected. Look to use hardware devices that have DPA licensed countermeasures to ensure you have adequate design security.
+
+Another reason to secure an accessible product is because of hardware security. Examples of hardware security include ensuring the code the board is running is authentic and the supply chain that built the product is secured. A root of trust is the starting point for hardware security. A root of trust is a hardware device that you build from. It should have all the features of design security that were previously mentioned. With an established hardware root of trust, then higher-level security functions can really be used safely. For example, a hardware root of trust device could be used to store keys and encrypt the data that a processor would boot from. Secure boot is important for protecting the start-up code from attacks. If hackers were to access such a product they would not be able to over-write the boot code, nor could they install any malware for the processor to run. Figure 1 shows an example of how a processor can be secured using this approach.
+
+-----
+
+![](http://share.opsy.st/55ae95b33bf89-microsemi-figure1.jpg)
+
+
+------
+
+
+
