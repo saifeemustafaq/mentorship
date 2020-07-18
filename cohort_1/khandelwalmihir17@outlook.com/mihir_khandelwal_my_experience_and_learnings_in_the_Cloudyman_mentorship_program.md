@@ -157,6 +157,13 @@ Today I Learned:
 ## Date: July 8, 2020
 - Applied for certain internships on Internshala.
 - Going through the ongoing course of Google Cloud.
+
+## Date: July 17, 2020
+- Got an certificate from Hamari Pehchan(NGO), by Internshala.
+- Project topic changed of KPIT Sparkle 2020.
+- Watched certain lectures of IIRS.
+
 ## Date: July 9, 2020
 - Attended an online webinar at teams on Cloud Technologies from WinAble.
 - Learned the differnece between C and C++, from Javatpoint website.
+
