@@ -91,12 +91,12 @@ _ _ _ _ _ _ _ _ _ _
 
 - Two examples of latency are network latency and disk latency, which are explained below.
 
-#### 1. Network latency :
-Network latency describes a delay that takes place during communication over a network (including the Internet).  
+**1. Network latency :** Network latency describes a delay that takes place during communication over a network (including the Internet).  
 The "ping" response time is a good indicator of the latency in this situation.
 
-#### 2. Disk latency :
-Disk latency is the delay between the time data is requested from a storage device and when the data starts being returned. Factors that effect disk latency include the rotational latency (of a hard drive) and the seek time.
+
+**2. Disk latency :** Disk latency is the delay between the time data is requested from a storage device and when the data starts being returned. Factors that effect disk latency include the rotational latency (of a hard drive) and the seek time.
+
 
 _ _ _ _ _ _ _ _ _ _
 
@@ -114,11 +114,11 @@ _ _ _ _ _ _ _ _ _ _
 
 - Load balancing solutions can be categorized into two types :
 
-#### 1. Hardware-based load balancer :
-Hardware-based load balancers are dedicated boxes which include Application Specific Integrated Circuits (ASICs) adapted for a particular use.
+**1. Hardware-based load balancer :** Hardware-based load balancers are dedicated boxes which include Application Specific Integrated Circuits (ASICs) adapted for a particular use.
 
-#### 2.Software-based load balancers :
-Software-based load balancers run on standard hardware (desktop, PCs) and standard operating systems.
+
+**2.Software-based load balancers :** Software-based load balancers run on standard hardware (desktop, PCs) and standard operating systems.
+
 
 _ _ _ _ _ _ _ _ _ _
 
@@ -143,3 +143,5 @@ _ _ _ _ _ _ _ _ _ _
 - An Azure VNet is a representation of a network in the cloud and is logical isolation of the Azure cloud dedicated to a subscription.
 
 _ _ _ _ _ _ _ _ _ _
+
+

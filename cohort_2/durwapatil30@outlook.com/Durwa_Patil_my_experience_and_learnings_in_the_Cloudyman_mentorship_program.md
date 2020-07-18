@@ -1,13 +1,25 @@
 > # This blog is part of the **[Cloudyman Mentorship Program](https://t.co/78sRvCvYiO?amp=1)** under the mentorship of *[Mustafa Saifee](https://www.linkedin.com/in/saifeemustafaq/)*
 
+
 ## Date: May 27, 2020
+
+Today i learned how to use github
+=======
+> ## Date: May 27, 2020
 today i learned how to use github
 
-## Date: May 29, 2020
 
- today the speaker explained us the purpose of learning cloud computing  
+> ## Date: May 29, 2020
+
+Today the speaker explained us the purpose of learning cloud computing  
+
+# Cloud Computing :
+
+#### Ans.
 
 ##### cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet (“the cloud”) to offer faster innovation, flexible resources, and economies of scale. You typically pay only for cloud services you use, helping lower your operating costs, run your infrastructure more efficiently and scale as your business needs change.
+
+![](https://www.witsdigital.com/wits_assets/blog/1577433743_cloud-computing.png)
 
 Cloud computing is a big shift from the traditional way businesses think about IT resources. 
 
@@ -26,17 +38,7 @@ Not all clouds are the same and not ontype of cloud computing is right for every
 
 First, you need to determine the type of cloud deployment or cloud computing architecture, that your cloud services will be implemented on. There are three different ways to deploy cloud services: on a public cloud, private cloud or hybrid cloud.
 
-## Date: May 31, 2020
-
-# What does a virtual machine mean ?
-
-##### Ans.
-
-- A virtual machine (VM) is a software program or operating system that not only exhibits the behavior of a separate computer, but is also capable of performing tasks such as running applications and programs like a separate computer.
-
-- In other words, a VM is a software application that performs most functions of a physical computer, actually behaving as a separate computer system.
-
-- A virtual machine, usually known as a guest, is created within another computing environment referred as a "host." Multiple virtual machines can exist within a single host at one time.
+> ## Date: May 31, 2020
 
 # Benefits of cloud computing
 
@@ -61,7 +63,20 @@ Moving to cloud computing may reduce the cost of managing and maintaining your I
 - your energy consumption costs may be reduced
 - there are fewer time delays.
 
+# What does a virtual machine mean ?
+
+##### Ans.
+
+- A virtual machine (VM) is a software program or operating system that not only exhibits the behavior of a separate computer, but is also capable of performing tasks such as running applications and programs like a separate computer.
+
+- In other words, a VM is a software application that performs most functions of a physical computer, actually behaving as a separate computer system.
+
+- A virtual machine, usually known as a guest, is created within another computing environment referred as a "host." Multiple virtual machines can exist within a single host at one time.
+
 ## Date: June 4, 2020
+=======
+> ## Date: June 4, 2020
+
 
 # What is Microsoft Azure?
 

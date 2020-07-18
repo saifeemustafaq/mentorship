@@ -263,3 +263,45 @@ Experienced developers will quickly start using the Visual Studio environment an
 If you’re unsure whether you can make the transition to developing on Azure, don’t worry. Potential Azure developers can take advantage of the [free work](https://azure.microsoft.com/en-gb/offers/ms-azr-0044p/)
 
 But if you don’t feel prepared to immediately start developing apps in Azure, Microsoft are making it easier than ever to skill-up in 2017…
+
+
+----
+### Why is Upskilling a requirement?
+
+
+
+Perhaps you have previous experience and are skilled in working with the platforms of cloud computing, and you just need to refine and focus on one specific platform, in this case, Azure. That’s why upskilling is the best idea. The term “upskilling” is just a fancy way of saying “teaching an already present employee additional skills”. Most of the time, businesses invest in training programs for their employees because some new products or tech are arriving, and they want in-house people who can handle the new acquisitions. If your company already uses a cloud computing platform but is considering a move to MS Azure, upskilling will make sure that you are ready to adopt the change and still the right candidate for the job so there is no need of your employer to seek an outside candidate to help run things. The situation isn’t too far-fetched, as Azure is an increasingly attractive option for developers.
+
+--------
+
+### What Skill Sets Do You Need?
+
+
+
+There are some skills and areas of knowledge that you should have locked down if you want to become an Azure developer. For beginners, three key fundamental skills should serve as a good foundation, a solid launching point. First of all, since you’re working with a Microsoft product, you should have information about MS products such as Powershell and Office 365, since apps like these integrate with AZ 203 training. Secondly, you require experience in programming, especially in languages like JavaScript, SQL Server, and HTML5, if you intend on developing any apps in Azure. Finally, knowledge of cloud computing is a complete must! If you haven’t used Azure in the past but have knowledge in AWS or Google Cloud, then that will help. You should know about how databases, servers, networks, and networking all work in a cloud environment.
+
+Along with those three basic skills, you need to move on to more specialized skills that are of unusual value when designing software on the cloud, particularly in case of using Azure.
+
+Developing with an eye on cost:- A great developer holds a watch on how many resources they’re using, especially considering that various of the better, cost-effective cloud plans charge based on usage.
+Scaling applications and data:– Both your data and applications need to be resilient, scalable to provide usage, processing demand, storage, and other variables.
+Scripting your environments:– Environments require to be scripted to have them available as code. This makes it simple to recreate the environment should a disaster strike, or if the infrastructure needs to be updated quickly and easily.
+Planning for unpredictability:- Yes, we’re speaking about trying to predict the unpredictable! That sounds different, but small so if you look at it this way: While you can’t predict the unpredictable, you can anticipate the most likely problems and have solutions in place that will be ready to be implemented no matter what strangeness comes down the pipe.
+Choosing the right services:– Are you conscious that Azure has more than 90 chief services for securing and running your app, as well as saving your data? Which one is best for you and your business, especially in the face of so many choices? You need to develop the skill of being a savvy consumer, so to speak, and being able to determine what’s best for the company.
+The Profits of Certification:-
+
+Azure certification places you apart from the large crowd of IT professionals. Certification shows a prospective employer that you possess the necessary skill sets to function specifically in the Azure cloud environment.
+Though there might open a lot of job vacancies in the field of cloud many companies might express the need for certified developers, as opposed to candidates who have vaguely mentioned experience in developing on cloud platforms. businesses can and will be choosy as to whom they bring on board.
+Azure Certification offers solid proof of your mastery of Azure development skills. It’s your foot in the door.
+
+
+### How Do You Get These Specific Azure-related Skills?
+
+So now we’ve learned that Azure developer skills are important in this day and age, specifically if you want to make yourself more marketable and ready to tackle the challenges and opportunities that the cloud brings. We’ve also established that certification is key. 
+
+The azure developer certification enhances your learning in the Microsoft Azure development environment so that you can go for an existing ASP.NET MVC application and develop its functionality to Azure. You will acquire comprehensive knowledge of Azure platform features so that you can build and deploy cloud apps, configure and deploy web applications, create and configure Azure virtual machines.
+
+This corporate training solution consists of 11 modules, delivered by the instructor-led method. Once the course is done and the exam is cleared, you will gain the valuable knowledge needed to succeed at Azure development, and the certification to show for it.
+
+
+
+-------
