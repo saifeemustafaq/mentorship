@@ -93,6 +93,9 @@ Some of the advantages of IoT include the following:
 
 _ _ _ _ _ _ _ _ _ _
 
+ 
+=======
+
 ## Date: July 9, 2020
 
 # IoT standards and frameworks :
@@ -130,3 +133,4 @@ _ _ _ _ _ _ _ _ _ _
 - Calvin is an open source IoT platform released by Ericsson designed for building and managing distributed applications that enable devices to talk to each other. Calvin includes a development framework for application developers, as well as a runtime environment for handling the running application.
 
 _ _ _ _ _ _ _ _ _ _
+
