@@ -158,6 +158,11 @@ Today I Learned:
 - Applied for certain internships on Internshala.
 - Going through the ongoing course of Google Cloud.
 
+## Date: July 14, 2020
+- Learned the C++ advantages over C, with the help of the site JavaTpoint.
+- In the IIRS lecture, learned about the animal species and the factors for it's decreasing rate. 
+=======
+
 ## Date: July 16, 2020
 - Taken an meeting on Corona Pandemic, through zoom, and discuss the topic to be selected for KPIT Sparkle 2020.
 - Started an online course of App Development through Coursera.
@@ -170,4 +175,3 @@ Today I Learned:
 ## Date: July 9, 2020
 - Attended an online webinar at teams on Cloud Technologies from WinAble.
 - Learned the differnece between C and C++, from Javatpoint website.
-
