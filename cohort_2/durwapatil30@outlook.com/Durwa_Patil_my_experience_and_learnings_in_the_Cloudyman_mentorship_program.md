@@ -26,7 +26,7 @@ Not all clouds are the same and not ontype of cloud computing is right for every
 
 First, you need to determine the type of cloud deployment or cloud computing architecture, that your cloud services will be implemented on. There are three different ways to deploy cloud services: on a public cloud, private cloud or hybrid cloud.
 
-## Date: May 31, 2020
+> ## Date: May 31, 2020
 
 # What does a virtual machine mean ?
 
@@ -61,7 +61,7 @@ Moving to cloud computing may reduce the cost of managing and maintaining your I
 - your energy consumption costs may be reduced
 - there are fewer time delays.
 
-## Date: June 4, 2020
+> ## Date: June 4, 2020
 
 # What is Microsoft Azure?
 
