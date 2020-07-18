@@ -44,7 +44,7 @@ Migration services used to transfer data physically between your datacenter and 
 **1. Amazon Glacier-** It is an extremely low-cost storage service. It offers secure and fast storage for data archiving and backup.
 Amazon Elastic Block Store (EBS)- It provides block-level storage to use with Amazon EC2 instances. Amazon Elastic Block Store volumes are network-attached and remain independent from the life of an instance.
 
-**2. AWS Storage Gateway-** This AWS service is connecting on-premises software applications with cloud-based storage. It offers secure integration between the company's on-premises and AWS's storage infrastructure.
+**2. AWS Storage Gateway-** This AWS service is connecting on-premises software applications with cloud-based storage. It offers secure integration between the company's on- premises and AWS's storage infrastructure.
 
 ### Security Services
 
@@ -54,7 +54,7 @@ Amazon Elastic Block Store (EBS)- It provides block-level storage to use with Am
 
 **3. Certificate Manager —** The service offers free SSL certificates for your domains that are managed by Route53.
 
-**4. WAF (Web Application Firewall) —** WAF security service offers application-level protection and allows you to block SQL injection and helps you to block cross-site scripting attacks.
+**4. WAF (Web Application Firewall) —** WAF security service offers application-level protection and allows you to block SQL injection and helps you to block cross-site      scripting attacks.
 
 **5. Cloud Directory —** This service allows you to create flexible, cloud-native directories for managing hierarchies of data along multiple dimensions.
 
@@ -122,6 +122,20 @@ Amazon Elastic Block Store (EBS)- It provides block-level storage to use with Am
 
 **6. Translate —** It is a very similar tool to Google Translate which allows you to translate text in one language to another.
 
+### Artificial Intelligence
+
+**1. Lex —** Lex tool helps you to build chatbots quickly.
+
+**2. Polly —**  It is AWS's text-to-speech service allows you to create audio versions of your notes.
+
+**3. Rekognition  —** It is AWS's face recognition service. This AWS service helps you to recognize faces and object in images and videos.
+
+**4. SageMaker —** Sagemaker allows you to build, train, and deploy machine learning models at any scale.
+
+**5. Transcribe —**  It is AWS's speech-to-text service that offers high-quality and affordable transcriptions.
+
+**6. Translate —** It is a very similar tool to Google Translate which allows you to translate text in one language to another.
+
 ## Applications of AWS services
 
 Amazon Web services are widely used for various computing purposes like:
@@ -157,5 +171,4 @@ Following are the pros of using AWS services:
 - If you need more immediate or intensive assistance, you'll have to opt for paid support packages.
 - Amazon Web Services may have some common cloud computing issues when you move to a cloud. For example, downtime, limited control, and backup protection.
 - AWS sets default limits on resources which differ from region to region. These resources consist of images, volumes, and snapshots.
-Hardware-level changes happen to your application which may not offer the best performance and usage of your applications.
-
+  Hardware-level changes happen to your application which may not offer the best performance and usage of your applications.
