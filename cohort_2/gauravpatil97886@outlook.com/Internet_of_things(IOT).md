@@ -406,6 +406,22 @@ As the Internet of things facilitates a set of benefits, it also creates a signi
 
 -----------
 
+## IoT technology and service
+
+- Sensors play a critical role in the internet of things (IoT). Sensors collect data on the Internet by smart devices, which are then used to upload information to the cloud. To achieve this, sensors are embedded in physical devices or exist in the form of external devices. Sensing technology is utilized to acquire a broad range of information, such as position, motion, images, etc. They can also collect surrounding environmental data, including temperature, humidity, heat, atmosphere composition, light, and sound. The IoT is also used to remotely control air conditioning, heating, and lighting. It is important to note that many physical sensors are also evolving into smart sensors with built-in standard interfaces for improving information-processing capabilities and applicable functions. Sensors can also include virtual sensing functions that extract specific information from the sensed and accumulated data. Moreover, virtual sensing technology can be implemented in the actual IoT service interface. Using multidisciplinary sensor technology, which is one-dimensional higher than existing independent sensors, it is also possible to extract more intelligent and high-dimensional information.
+
+For the connection of sensors, the network interface plays the role of connecting physical network devices. For wired and wireless IoT networks, physical devices include wireless personal area networks (WPAN), Wi-Fi, 3G, 4G, LTE, Bluetooth, Ethernet, broadband convergence network (BcN), satellite communication, microwaves, serial communication, and PLC. These and other advanced communications systems enable the possibility for people, things, and services to become closely and rapidly connected.
+
+The devices, such as sensors and network modules, are fixed on terminal devices for the collection of data. In other words, the development of sensor technology is essential to collect and extract data from objects. In addition, it is obviously necessary for network modules to communicate with these sensors, constituting an interworking of Internet communication, an application system, and an embedded system for providing user interfaces (UI). For activating the IoT, optimization and evolution of network technology are very important. The IoT can be connected to a network in a variety of ways. For example, things can be directly connected to a wireless network or connected to a smartphone through communication systems, such as Bluetooth. In the case of non-portable products, it can be connected to a protocol such as Wi-Fi, which is fixed in a certain place, such as a smart home or Industry 4.0.
+
+It is important to note that the IoT service interface differs from traditional network interfaces. The primary aim of the IoT service interface is to offer value-added services through transformation, processing, extraction, and accumulation of sensed data. Additionally, it must make it possible to judge, contextualize, recognize, protect privacy, ensure security, authenticate, allow, discover, shape, etc., for the creation of services. The IoT service interface interlocks three major components: people, things, and services. For the application services to perform specific functions, the IoT must provide some interfaces for accumulating, processing, and transforming data for services, such as ontology-based semantics, open-sensor APIs, augmentation, virtualization, location identification, process management, open platform technology, etc.
+
+The new types of value chains can be created based on the sensor devices, networks, and services in the IoT environment. This means that it can create new types of services that are based on different types of value chains on a data platform that is based on the particular device’s sensing technology. The IoT contributes greatly to the derivation and creation of services based on connections between devices, things, and people. Ultimately, the created services, operations, and products will be based on convergence between data and services using data collected through sensors.
+
+The processed data can also be accumulated in a cloud computing environment as big data. It is obviously critical to integrate data collected from distributed things through the IoT for the creation of advanced services. To achieve this, a data platform that can integrate distributed, collected, and aggregated data is requisite. This platform enables the creation of services that can generate value from different types of data. Service applications on such a data platform are introduced in the next section.
+
+-----
+=======
 # Hardware security in the IoT
 
 
@@ -436,6 +452,5 @@ Another reason to secure an accessible product is because of hardware security. 
 
 
 ------
-
 
 
