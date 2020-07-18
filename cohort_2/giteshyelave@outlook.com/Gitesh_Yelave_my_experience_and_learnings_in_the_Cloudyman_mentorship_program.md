@@ -7,6 +7,12 @@ Today I learned how to use Github
 
 Today the speaker has explained us the purpose of learning cloud computing.
 
+# Cloud Computing
+
+##### Ans.
+
+![](https://www.vizteams.com/wp-content/uploads/2014/04/cloud-computing.jpg)
+
 ##### cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet (“the cloud”) to offer faster innovation, flexible resources, and economies of scale. You typically pay only for cloud services you use, helping lower your operating costs, run your infrastructure more efficiently and scale as your business needs change.
 
 Cloud computing is a big shift from the traditional way businesses think about IT resources.
@@ -27,18 +33,6 @@ Not all clouds are the same and not ontype of cloud computing is right for every
 First, you need to determine the type of cloud deployment or cloud computing architecture, that your cloud services will be implemented on. There are three different ways to deploy cloud services: on a public cloud, private cloud or hybrid cloud.
 
 ## Date: May 31, 2020
-
-# Virtual machine definition
-
-##### Ans.
-
-Virtual machines are software computers that provide the same functionality as physical computers. Like physical computers, they run applications and an operating system. However, virtual machines are computer files that run on a physical computer and behave like a physical computer. In other words, virtual machines behave as separate computer systems.
-
-# Why Virtual Machines?
-
-##### Ans.
-
-Virtual machines are created to perform specific tasks that are risky to perform in a host environment, such as accessing virus-infected data and testing operating systems. Since the virtual machine is sandboxed from the rest of the system, the software inside the virtual machine cannot tamper with the host computer. Virtual machines can also be used for other purposes such as server virtualization.
 
 # Benefits of cloud computing
 
@@ -62,6 +56,18 @@ Collaboration in a cloud environment gives your business the ability to communic
 ### Automatic software updates
 
 Access to automatic updates for your IT requirements may be included in your service fee. Depending on your cloud computing service provider, your system will regularly be updated with the latest technology. This could include up-to-date versions of software, as well as upgrades to servers and computer processing power.
+
+# Virtual machine definition
+
+##### Ans.
+
+Virtual machines are software computers that provide the same functionality as physical computers. Like physical computers, they run applications and an operating system. However, virtual machines are computer files that run on a physical computer and behave like a physical computer. In other words, virtual machines behave as separate computer systems.
+
+# Why Virtual Machines?
+
+##### Ans.
+
+Virtual machines are created to perform specific tasks that are risky to perform in a host environment, such as accessing virus-infected data and testing operating systems. Since the virtual machine is sandboxed from the rest of the system, the software inside the virtual machine cannot tamper with the host computer. Virtual machines can also be used for other purposes such as server virtualization.
 
 ## Date: June 5, 2020
 
