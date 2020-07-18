@@ -390,6 +390,12 @@ In that they give a prical knowledge about virtual machine with linux
 - I got badge from IBM CLOUD course
 
 
+## 13 July
+
+- I learn about the Social media marketing
+- I completed another hackerrank problem
+=======
+
 ## 14 July
 
 - Today i attend the webinar of Career opportunities in  project management
@@ -415,4 +421,5 @@ In that they give a prical knowledge about virtual machine with linux
 
 - I complete one Assignment of Hackerrank
 - prepare for the Hacketon 
+
 
