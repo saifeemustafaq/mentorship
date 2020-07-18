@@ -136,6 +136,14 @@ Amazon Elastic Block Store (EBS)- It provides block-level storage to use with Am
 
 **6. Translate —** It is a very similar tool to Google Translate which allows you to translate text in one language to another.
 
+### Deployment and Management
+
+**1. AWS CloudTrail-** The services records AWS API calls and send backlog files to you.
+
+**2. Amazon CloudWatch-** The tools monitor AWS resources like Amazon EC2 and Amazon RDS DB Instances. It also allows you to monitor custom metrics created by user's applications and services.
+
+**3. AWS CloudHSM-** This AWS service helps you meet corporate, regulatory, and contractual, compliance requirements for maintaining data security by using the Hardware Security Module(HSM) appliances inside the AWS environment.
+
 ## Applications of AWS services
 
 Amazon Web services are widely used for various computing purposes like:
