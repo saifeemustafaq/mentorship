@@ -291,6 +291,7 @@ Using physical hardware for the deployment of applications comes up with emptyin
 
 - Getting started is easy with **Azure IoT solution accelerators**, preconfigured templates that are customizable to your needs.
 
+
 ## Date: July 15, 2020
 
 # Why it is best!
@@ -385,3 +386,56 @@ Roles such as business stakeholders, business analysts, and business intelligenc
 - Each data-technology role is distinct, and each contributes an important part to digital transformation projects.
 
 ----
+=======
+### Date: July 09, 2020
+
+## Sandboxing  :
+
+Sandboxing is a softwere managment strategy that isolates application from critical system resourses and other programs . It provides an extra layer of security that prevents malware or harmful applications from negatively affecting your system . 
+
+##  Difference Between Cloud Computing and Fog Computing :
+
+## cloud Computing: 
+
+- The delivery of on-demand computing services is known as cloud computing. We can use applications to storage and processing power over the internet. It is a pay as you go service. Without owning any computing infrastructure or any data centers, anyone can rent access to anything from applications to storage from a cloud service provider.
+
+- We can avoid the complexity of owning and maintaining infrastructure by using cloud computing services and pay for what we use.
+
+- In turn, cloud computing services providers can benefit from significant economies of scale by delivering the same services to a wide range of customers.
+
+## Fog Computing: 
+
+- Fog computing is a decentralized computing infrastructure or process in which computing resources are located between the data source and the cloud or any other data center. Fog computing is a paradigm that provides services to user requests at the edge networks. 
+
+- The devices at the fog layer usually perform operations related to networking such as routers, gateways, bridges, and hubs. Researchers envision these devices to be capable of performing both computational and networking operations, simultaneously. 
+
+- Although these devices are resource-constrained compared to the cloud servers, the geological spread and the decentralized nature help in offering reliable services with coverage over a wide area. Fog computing is the physical location of the devices, which are much closer to the users than the cloud servers.
+
+---
+
+# Difference between Cloud Computing and Grid Computing :
+
+## Cloud Computing:
+
+Cloud Computing is a Client-server computing architecture. In cloud computing, resources are used in centralized pattern and cloud computing is a high accessible service. It is a pay and use business means, in cloud computing, the users pay for the use
+
+![](https://media.geeksforgeeks.org/wp-content/uploads/20190529121547/Untitled-Diagram-77.png)
+
+## Grid Computing:
+
+Grid Computing is a Distributed computing architecture. In grid computing, resources are used in collaborative pattern and also in grid computing, the users do not pay for use.
+
+![](https://media.geeksforgeeks.org/wp-content/uploads/20190529121606/Untitled-Diagram-76.png)
+
+
+   | S.NO | CLOUD COMPUTING	| GRID COMPUTING |
+   |:----|:----------------|:----------------|
+   | 1   | Cloud computing is a Client-server computing architecture. | While it is a Distributed computing architecture. |
+   | 2   | Cloud computing is a centralized executive. | While grid computing is a decentralized executive. |
+   | 3   | In cloud computing, resources are used in centralized pattern. | While in grid computing, resources are used in collaborative pattern. |
+   | 4   | It is more flexible than grid computing. | While it is less flexible than cloud computing. | 
+   | 5   | In cloud computing, the users pay for the use. | While in grid computing, the users do not pay for use. |
+   | 6   | Cloud computing is a high accessible service. | While grid computing is a low accessible service. |
+   
+   
+   ---
