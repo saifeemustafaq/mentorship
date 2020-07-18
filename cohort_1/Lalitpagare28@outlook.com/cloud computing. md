@@ -1,0 +1,565 @@
+Accessibility View
+
+Share
+
+
+AWS Cloud
+Computing
+Cloud computing is the on-
+demand delivery of compute
+power, database storage,
+applications, and other IT
+resources through a cloud
+services platform via the Internet
+with pay-as-you-go pricing.
+Whether you are running
+applications that share photos to
+millions of mobile users or you’re
+supporting the critical operations
+of your business, a cloud services
+platform provides rapid access to
+flexible and low-cost IT resources.
+With cloud computing, you don’t
+need to make large upfront
+investments in hardware and
+spend a lot of time on the heavy
+lifting of managing that hardware.
+Instead, you can provision exactly
+the right type and size of
+computing resources you need to
+power your newest bright idea or
+operate your IT department. You
+can access as many resources as
+you need, almost instantly, and
+only pay for what you use.
+Cloud computing provides a
+simple way to access servers,
+storage, databases and a broad
+set of application services over
+the Internet. A cloud services
+platform such as Amazon Web
+Services owns and maintains the
+network-connected hardware
+required for these application
+services, while you provision and
+use what you need via a web
+application. [1]
+What is Cloud Computing?
+History
+In 2006, Amazon Web Services
+(AWS) began offering IT
+infrastructure services to
+businesses as web services—now
+commonly known as cloud
+computing. One of the key
+benefits of cloud computing is the
+opportunity to replace upfront
+capital infrastructure expenses
+with low variable costs that scale
+with your business. With the cloud,
+businesses no longer need to plan
+for and procure servers and other
+IT infrastructure weeks or months
+in advance. Instead, they can
+instantly spin up hundreds or
+thousands of servers in minutes
+and deliver results faster.
+Today, AWS provides a highly
+reliable, scalable, low-cost
+infrastructure platform in the cloud
+that powers hundreds of
+thousands of businesses in 190
+countries around the world. [3]
+What is AWS?
+Cloud benefits
+Trade capital expense for
+variable expense – Instead of
+having to invest heavily in data
+centers and servers before you
+know how you’re going to use
+them, you can pay only when
+you consume computing
+resources, and pay only for how
+much you consume.
+Benefit from massive
+economies of scale – By using
+cloud computing, you can
+achieve a lower variable cost
+than you can get on your own.
+Because usage from hundreds
+of thousands of customers is
+aggregated in the cloud,
+providers such as AWS can
+achieve higher economies of
+scale, which translates into
+lower pay as-you-go prices.
+Stop guessing about capacity
+– Eliminate guessing on your
+infrastructure capacity needs.
+When you make a capacity
+decision prior to deploying an
+application, you often end up
+either sitting on expensive idle
+resources or dealing with
+limited capacity. With cloud
+computing, these problems go
+away. You can access as much
+or as little capacity as you need,
+and scale up and down as
+required with only a few
+minutes’ notice.
+Increase speed and agility – In
+a cloud computing environment,
+new IT resources are only a
+click away, which means that
+you reduce the time to make
+those resources available to
+your developers from weeks to
+just minutes. This results in a
+dramatic increase in agility for
+the organization, since the cost
+and time it takes to experiment
+and develop is significantly
+lower.
+Stop spending money running
+and maintaining data centers
+– Focus on projects that
+differentiate your business, not
+the infrastructure. Cloud
+computing lets you focus on
+your own customers, rather
+than on the heavy lifting of
+racking, stacking, and powering
+servers.
+Go global in minutes – Easily
+deploy your application in
+multiple regions around the
+world with just a few clicks. This
+means you can provide lower
+latency and a better experience
+for your customers at minimal
+cost. [4]
+Total Cost of
+Ownership
+AWS helps you reduce Total Cost
+of Ownership (TCO) by reducing
+the need to invest in large capital
+expenditures and providing a pay-
+as-you-go model that empowers
+you to invest in the capacity you
+need and use it only when the
+business requires it. Our TCO
+calculators allow you to estimate
+the cost savings when using AWS
+and provide a detailed set of
+reports that can be used in
+executive presentations. The
+calculators also give you the
+option to modify assumptions that
+best meet your business needs.
+Get an instant summary…
+The TCO Calculator provides
+directional guidance on possible
+realized savings when deploying
+AWS. This tool is built on an
+underlying calculation model, that
+generates a fair assessment of
+value that a customer may achieve
+given the data provided by the
+user. This tool is for approximation
+purposes only. [8]
+Types of cloud
+computing
+Cloud computing is providing
+developers and IT departments
+with the ability to focus on what
+matters most and avoid
+undifferentiated work like
+procurement, maintenance, and
+capacity planning. As cloud
+computing has grown in
+popularity, several different
+models and deployment strategies
+have emerged to help meet
+specific needs of different users.
+Each type of cloud service, and
+deployment method, provides you
+with different levels of control,
+flexibility, and management.
+Understanding the differences
+between Infrastructure as a
+Service, Platform as a Service,
+and Software as a Service, as well
+as what deployment strategies you
+can use, can help you decide what
+set of services is right for your
+needs. [5]
+IaaS
+Infrastructure as a Service
+(IaaS):
+Infrastructure as a Service,
+sometimes abbreviated as IaaS,
+contains the basic building blocks
+for cloud IT and typically provide
+access to networking features,
+computers (virtual or on dedicated
+hardware), and data storage
+space. Infrastructure as a Service
+provides you with the highest level
+of flexibility and management
+control over your IT resources and
+is most similar to existing IT
+resources that many IT
+departments and developers are
+familiar with today.
+PaaS
+Platform as a Service (PaaS):
+Platforms as a service remove the
+need for organizations to manage
+the underlying infrastructure
+(usually hardware and operating
+systems) and allow you to focus
+on the deployment and
+management of your applications.
+This helps you be more efficient
+as you don’t need to worry about
+resource procurement, capacity
+planning, software maintenance,
+patching, or any of the other
+undifferentiated heavy lifting
+involved in running your
+application.
+SaaS
+Software as a Service (SaaS):
+Software as a Service provides
+you with a completed product that
+is run and managed by the service
+provider. In most cases, people
+referring to Software as a Service
+are referring to end-user
+applications. With a SaaS offering
+you do not have to think about
+how the service is maintained or
+how the underlying infrastructure
+is managed; you only need to
+think about how you will use that
+particular piece software. A
+common example of a SaaS
+application is web-based email
+where you can send and receive
+email without having to manage
+feature additions to the email
+product or maintaining the servers
+and operating systems that the
+email program is running on.
+Deployment
+models
+Learn about the key benefits of…
+
+Cloud
+A cloud-based application is fully
+deployed in the cloud and all parts
+of the application run in the cloud.
+Applications in the cloud have
+either been created in the cloud or
+have been migrated from an
+existing infrastructure to take
+advantage of the benefits of cloud
+computing. Cloud-based
+applications can be built on low-
+level infrastructure pieces or can
+use higher level services that
+provide abstraction from the
+management, architecting, and
+scaling requirements of core
+infrastructure.
+Hybrid
+A hybrid deployment is a way to
+connect infrastructure and
+applications between cloud-based
+resources and existing resources
+that are not located in the cloud.
+The most common method of
+hybrid deployment is between the
+cloud and existing on-premises
+infrastructure to extend, and grow,
+an organization's infrastructure
+into the cloud while connecting
+cloud resources to the internal
+system. For more information on
+how AWS can help you with your
+hybrid deployment, please visit
+our hybrid page.
+On-premises
+The deployment of resources on-
+premises, using virtualization and
+resource management tools, is
+sometimes called the “private
+cloud.” On-premises deployment
+doesn’t provide many of the
+benefits of cloud computing but is
+sometimes sought for its ability to
+provide dedicated resources. In
+most cases this deployment model
+is the same as legacy IT
+infrastructure while using
+application management and
+virtualization technologies to try
+and increase resource utilization.
+[5]
+Global
+infrastructure
+AWS serves over a million active
+customers in more than 190
+countries. We are steadily
+expanding global infrastructure to
+help our customers achieve lower
+latency and higher throughput,
+and to ensure that their data
+resides only in the AWS Region
+they specify. As our customers
+grow their businesses, AWS will
+continue to provide infrastructure
+that meets their global
+requirements.
+The AWS Cloud infrastructure is
+built around AWS Regions and
+Availability Zones. An AWS Region
+is a physical location in the world
+where we have multiple
+Availability Zones. Availability
+Zones consist of one or more
+discrete data centers, each with
+redundant power, networking, and
+connectivity, housed in separate
+facilities. These Availability Zones
+offer you the ability to operate
+production applications and
+databases that are more highly
+available, fault tolerant, and
+scalable than would be possible
+from a single data center. The
+AWS Cloud operates 42
+Availability Zones within 16
+geographic Regions around the
+world, with five more Availability
+Zones and two more Regions
+coming online in 2017.
+Each Amazon Region is designed
+to be completely isolated from the
+other Amazon Regions. This
+achieves the greatest possible
+fault tolerance and stability. Each
+Availability Zone is isolated, but
+the Availability Zones in a Region
+are connected through low-
+latency links. AWS provides you
+with the flexibility to place
+instances and store data within
+multiple geographic regions as
+well as across multiple Availability
+Zones within each AWS Region.
+Each Availability Zone is designed
+as an independent failure zone.
+This means that Availability Zones
+are physically separated within a
+typical metropolitan region and
+are located in lower risk flood
+plains (specific flood zone
+categorization varies by AWS
+Region). In addition to discrete
+uninterruptable power supply
+(UPS) and onsite backup
+generation facilities, they are each
+fed via different grids from
+independent utilities to further
+reduce single points of failure.
+Availability Zones are all
+redundantly connected to multiple
+tier-1 transit providers. [6]
+2018-08-01_10-33-24.png
+Security and
+Compliance
+Cloud security at AWS is the
+highest priority. As an AWS
+customer, you will benefit from a
+data center and network
+architecture built to meet the
+requirements of the most security-
+sensitive organizations. Security in
+the cloud is much like security in
+your on-premises data centers—
+only without the costs of
+maintaining facilities and
+hardware. In the cloud, you don’t
+have to manage physical servers
+or storage devices. Instead, you
+use software-based security tools
+to monitor and protect the flow of
+information into and of out of your
+cloud resources.
+An advantage of the AWS Cloud is
+that it allows you to scale and
+innovate, while maintaining a
+secure environment and paying
+only for the services you use. This
+means that you can have the
+security you need at a lower cost
+than in an on-premises
+environment.
+As an AWS customer you inherit
+all the best practices of AWS
+policies, architecture, and
+operational processes built to
+satisfy the requirements of our
+most security-sensitive customers.
+Get the flexibility and agility you
+need in security controls.
+The AWS Cloud enables a shared
+responsibility model. While AWS
+manages security of the cloud,
+you are responsible for security in
+the cloud. This means that you
+retain control of the security you
+choose to implement to protect
+your own content, platform,
+applications, systems, and
+networks no differently than you
+would in an on-site data center.
+AWS provides you with guidance
+and expertise through online
+resources, personnel, and
+partners. AWS provides you with
+advisories for current issues, plus
+you have the opportunity to work
+with AWS when you encounter
+security issues.
+You get access to hundreds of
+tools and features to help you to
+meet your security objectives.
+AWS provides security-specific
+tools and features across network
+security, configuration
+management, access control, and
+data encryption.
+Finally, AWS environments are
+continuously audited, with
+certifications from accreditation
+bodies across geographies and
+verticals. In the AWS environment,
+you can take advantage of
+automated tools for asset
+inventory and privileged access
+reporting.
+Benefits of AWS Security
+Keep Your Data Safe: The AWS
+infrastructure puts strong
+safeguards in place to help
+protect your privacy. All data is
+stored in highly secure AWS
+data centers.
+Meet Compliance
+Requirements: AWS manages
+dozens of compliance programs
+in its infrastructure. This means
+that segments of your
+compliance have already been
+completed.
+Save Money: Cut costs by
+using AWS data centers.
+Maintain the highest standard of
+security without having to
+manage your own facility
+Scale Quickly: Security scales
+with your AWS Cloud usage. No
+matter the size of your business,
+the AWS infrastructure is
+designed to keep your data
+safe. [7]
+AWS Cloud Compliance enables
+you to understand the robust
+controls in place at AWS to
+maintain security and data
+protection in the cloud. As
+systems are built on top of AWS
+Cloud infrastructure, compliance
+responsibilities will be shared. By
+tying together governance-
+focused, audit-friendly service
+features with applicable
+compliance or audit standards,
+AWS Compliance enablers build
+on traditional programs. This helps
+customers to establish and
+operate in an AWS security
+control environment.
+The IT infrastructure that AWS
+provides to its customers is
+designed and managed in
+alignment with best security
+practices and a variety of IT
+security standards. The following
+is a partial list of assurance
+programs with which AWS
+complies:
+SOC 1/ISAE 3402, SOC 2, SOC
+3
+FISMA, DIACAP, and FedRAMP
+PCI DSS Level 1
+ISO 9001, ISO 27001, ISO
+27018
+AWS provides customers a wide
+range of information on its IT
+control environment in
+whitepapers, reports,
+certifications, accreditations, and
+other third-party attestations.
+More information is available in
+the Risk and Compliance
+whitepaper and the AWS Security
+Center. [7]
+Careers
+Through the AWS Educate
+program, we are driving…
+Cloud Support Associate
+Cloud Support Engineer
+Data Scientist
+Data Integration Specialist
+Software Engineer
+Application Developer
+DevOps Engineer
+Web Development
+Engineer
+Cybersecurity Specialist
+Machine Learning
+Specialist
+References
+https://docs.aws.amazon.com/
+aws-technical-content/latest/
+aws-overview/what-is-cloud-
+computing.html
+https://
+commons.wikimedia.org/wiki/
+File:Cloud_computing_layers.p
+ng
+https://docs.aws.amazon.com/
+aws-technical-content/latest/
+aws-overview/introduction.html
+https://docs.aws.amazon.com/
+aws-technical-content/latest/
+aws-overview/six-advantages-
+of-cloud-computing.html
+https://docs.aws.amazon.com/
+aws-technical-content/latest/
+aws-overview/types-of-cloud-
+computing.html
+https://docs.aws.amazon.com/
+aws-technical-content/latest/
+aws-overview/global-
+infrastructure.html
+https://docs.aws.amazon.com/
+aws-technical-content/latest/
+aws-overview/security-and-
+compliance.html
+https://aws.amazon.com/tco-
+calculator/
