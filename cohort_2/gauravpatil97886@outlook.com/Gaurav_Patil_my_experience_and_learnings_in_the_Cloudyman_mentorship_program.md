@@ -685,18 +685,26 @@ The product received generally positive reviews praising its user interface, low
 
 
 
+
 # What are Malware Threats on Computer?
 
 
 ## What are Malware Threats
 Malware is a malicious software that is dangerous to the computer. Once installed, malware can harm the computer in different ways. To have a better understanding of malware threats. Let’s find out first how does one get malware on the computer.
 
+
 ## Where Malware Threats come from
 Malware is spread on different websites on the Internet. Hackers are clever these days; they don’t just insert malware in non-secure websites but also on legitimate websites. How do they do this?
 
+
+### Hackers use different techniques to lure in victims.
+
+#### 1. Social Engineering
+=======
 ****Hackers**** use different techniques to lure in victims.
 
 ##### 1. Social Engineering
+
 
 Social engineering is a technique that makes a user want to give away personal information. Think of it this way; a present is ready to be shipped, you just have to provide your address.
 
@@ -704,7 +712,11 @@ Who would refuse a present? If you are unaware of how malware works, you will fa
 
 By presenting malware in an engaging way, it is easy to convince users into installing malware on their computer. What are the examples of social engineering?
 
+
+#### Email
+=======
 ##### Email
+
 
 One example of a social engineering email is a fake email from a friend or family. It may contain a message saying that there’s a funny picture of you, click here to view the image.
 
@@ -712,9 +724,61 @@ This may trigger curiosity. Who doesn’t want to see his own funny photo, right
 
 So how to prevent malware from fake emails? Send your contact a separate email to confirm if the email is legit.
 
+
+#### Fake Downloads
+
 ##### Fake Downloads
+
 
 Social engineering can use a threat to convince their victim. You could just be browsing the Internet, suddenly a message flashes on the screen saying that there’s a threat detected, click here to download an antivirus.
 
 Don’t fall for this trick. Threats can be resolved by downloading a trustworthy antivirus software.
+
+
+#### Phishing Link
+
+Do you know that a phishing link generates a fake login page to collect information and install malware? This is most common in-game cheats and hacks. A hacker can easily add a link that redirects the user to a fake website that contains dangerous malware.
+
+So how to avoid phishing links? Use the free website scanner on the Internet to verify if the link is safe. You may use Website Inspector by Comodo or other third party websites.
+
+## 2. Website Cookie Exploitation
+
+Cookies are sent from a browser to a server over a secure HTTPS connection. However, hackers have found a way to inject fake cookies that can bypass HTTPS security.
+
+These malicious cookies can be used to install malware such as Trojan and to redirect the user to a fake website.
+
+Now that we know where malware threats come from, what are malware threats exactly?
+
+Malware is an application that is designed to steal personal information and destroy computer data without being exposed. Hackers use different types of malware to invade the computer.
+
+## What are the types of Malware
+***Virus
+
+A virus is a self-replicating malware that infects the computer through an executable file. It is attached to a file that the user must run first for the virus to spread. Note that it cannot activate itself without a human help.
+
+***Worm
+
+A worm is the opposite of virus. If a virus needs a human action to self-replicate, a worm can spread independently. Once installed, worm replicates fast and consumes the computer memory that leads in low disk space and reduced computer performance.
+
+****Trojan
+
+Is a type of malware that is used to gain control over the computer. Trojan installs other types of malware used to manipulate the computer without the user’s knowledge. This allows hackers to use the computer for delivering cybercrimes.
+
+****Spyware
+
+Spyware is used to monitor computer activities to gather personal information. Spyware allows hackers to view emails, listen to phone calls, and watch the victim through the webcam.
+
+Keylogger
+
+Keylogger exposes the passwords by recording each key pressed on the keyboard. It is used to steal account information.
+
+Rootkit
+
+Targets the operating system, making it hard to detect. A rootkit is invisible in Task Manager since it’s built in the operating system of the computer. It is used to conceal malware activities on the computer. It’s often bundled with another malware to steal bank account information.
+
+So now that we know what are malware threats, how can we prevent them from entering our computer?
+
+Click here to learn what are malware threats prevention techniques.
+
+Want to protect your endpoints from malware using a single security manager? Comodo offers Advanced Endpoint Protection that secures the endpoint devices against malware.
 
