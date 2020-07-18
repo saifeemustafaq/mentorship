@@ -158,6 +158,11 @@ Today I Learned:
 - Applied for certain internships on Internshala.
 - Going through the ongoing course of Google Cloud.
 
+## Date: July 10, 2020
+- Started with the basics of Java Programming, and practicing on Eclipse platform.
+- Doing other courses on Cognitive Cloud regarding Cloud Computing.
+=======
+
 ## Date: July 11, 2020
 - Applied for Internships.
 - Learned about Flutter.
@@ -190,4 +195,3 @@ Today I Learned:
 ## Date: July 9, 2020
 - Attended an online webinar at teams on Cloud Technologies from WinAble.
 - Learned the differnece between C and C++, from Javatpoint website.
-
