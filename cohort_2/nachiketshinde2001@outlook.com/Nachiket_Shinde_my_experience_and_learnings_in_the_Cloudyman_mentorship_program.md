@@ -390,6 +390,12 @@ In that they give a prical knowledge about virtual machine with linux
 - I got badge from IBM CLOUD course
 
 
+## 15 July
+
+- I complete another c programming problem in hackerrank
+- I gathering information about Parrot Linux 
+
+
 ## 17 July
 
 - i complete the another problem of hackerank
@@ -399,3 +405,4 @@ In that they give a prical knowledge about virtual machine with linux
 
 - I complete one Assignment of Hackerrank
 - prepare for the Hacketon 
+
