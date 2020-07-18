@@ -158,6 +158,11 @@ Today I Learned:
 - Applied for certain internships on Internshala.
 - Going through the ongoing course of Google Cloud.
 
+## Date: July 11, 2020
+- Applied for Internships.
+- Learned about Flutter.
+=======
+
 ## Date: July 12, 2020
 - Completed learning of basics of Java by the notes.
 - Have prepared for the IIRS course, starting from tomorrow.
