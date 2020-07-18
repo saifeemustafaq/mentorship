@@ -158,6 +158,10 @@ Today I Learned:
 - Applied for certain internships on Internshala.
 - Going through the ongoing course of Google Cloud.
 
+## Date: July 16, 2020
+- Taken an meeting on Corona Pandemic, through zoom, and discuss the topic to be selected for KPIT Sparkle 2020.
+- Started an online course of App Development through Coursera.
+
 ## Date: July 17, 2020
 - Got an certificate from Hamari Pehchan(NGO), by Internshala.
 - Project topic changed of KPIT Sparkle 2020.
