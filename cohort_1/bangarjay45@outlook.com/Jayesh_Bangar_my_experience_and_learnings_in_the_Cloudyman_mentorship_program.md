@@ -411,3 +411,15 @@ Quantum computing will empower computers and servers to process data at a quick 
 
 ![quantum-computing](https://user-images.githubusercontent.com/65165798/86613401-28b04e80-bfcf-11ea-8864-fbe38e1474a3.jpg)
 
+**3. Omni Cloud Computing: Bright future ahead for Cloud Computing:**
+
+Many say that the cloud computing market is all dried up and saturated. But do they realize that there are so many more dimensions into cloud computing to explore before coming up to any conclusion? Cloud computing is a pool of opportunities so before we it’s too late we have to gear up to utilize every single of its characteristic. 
+
+While exploring the wide pool of cloud computing, developers have found the Omni-cloud computing feature.When most of the companies were withdrawing their services from multi-cloud, Omni-cloud computing proved to be the last resort. Already IaaS (Infrastructure as a Service) providers were gaining popularity. But companies realized that they deserve faster-moving applications for a better future. Making applications more robust and portable was everyone’s priority.
+
+![Omni cloud](https://user-images.githubusercontent.com/65165798/86988053-fceebd80-c1b4-11ea-8422-78b31d07def5.jpg)
+
+
+Omni-cloud computing brought all these qualities into the applications along with top-notch connectivity. This world-class connectivity allows multiple platforms to streamline their data and integrate them in the most efficient way possible.
+
+Hence, the best way to describe Omni-cloud is when barriers between the different platforms shrink then any multi-cloud converts into an Omni-cloud system. The data deployment system is more accessible and organized with the Omni-cloud system.
