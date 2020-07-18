@@ -389,6 +389,11 @@ In that they give a prical knowledge about virtual machine with linux
 - I completed the IBM CLOUD course
 - I got badge from IBM CLOUD course
 
+## 11 July
+
+- I learn about google cloud services
+- Search for new Course about programming
+=======
 
 ## 12 July
 
@@ -426,5 +431,3 @@ In that they give a prical knowledge about virtual machine with linux
 
 - I complete one Assignment of Hackerrank
 - prepare for the Hacketon 
-
-
