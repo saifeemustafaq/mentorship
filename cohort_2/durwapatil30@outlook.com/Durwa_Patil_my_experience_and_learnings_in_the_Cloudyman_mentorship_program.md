@@ -1,9 +1,9 @@
 > # This blog is part of the **[Cloudyman Mentorship Program](https://t.co/78sRvCvYiO?amp=1)** under the mentorship of *[Mustafa Saifee](https://www.linkedin.com/in/saifeemustafaq/)*
 
-## Date: May 27, 2020
+> ## Date: May 27, 2020
 today i learned how to use github
 
-## Date: May 29, 2020
+> ## Date: May 29, 2020
 
  today the speaker explained us the purpose of learning cloud computing  
 
