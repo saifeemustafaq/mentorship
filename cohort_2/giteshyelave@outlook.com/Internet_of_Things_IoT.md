@@ -134,3 +134,64 @@ _ _ _ _ _ _ _ _ _ _
 
 _ _ _ _ _ _ _ _ _ _
 
+> ## Date: July 19,2020
+
+# Consumer and enterprise IoT applications :
+
+- There are numerous real-world applications of the internet of things, ranging from consumer IoT and enterprise IoT to manufacturing and industrial IoT (IIoT). IoT applications span numerous verticals, including automotive, telecom and energy.
+
+- In the consumer segment, for example, smart homes that are equipped with smart thermostats, smart appliances and connected heating, lighting and electronic devices can be controlled remotely via computers and smartphones.
+
+- Wearable devices with sensors and software can collect and analyze user data, sending messages to other technologies about the users with the aim of making users' lives easier and more comfortable. Wearable devices are also used for public safety -- for example, improving first responders' response times during emergencies by providing optimized routes to a location or by tracking construction workers' or firefighters' vital signs at life-threatening sites.
+
+- In healthcare, IoT offers many benefits, including the ability to monitor patients more closely using an analysis of the data that's generated. Hospitals often use IoT systems to complete tasks such as inventory management for both pharmaceuticals and medical instruments.
+
+- Smart buildings can, for instance, reduce energy costs using sensors that detect how many occupants are in a room. The temperature can adjust automatically -- for example, turning the air conditioner on if sensors detect a conference room is full or turning the heat down if everyone in the office has gone home.
+
+- In agriculture, IoT-based smart farming systems can help monitor, for instance, light, temperature, humidity and soil moisture of crop fields using connected sensors. IoT is also instrumental in automating irrigation systems.
+
+- In a smart city, IoT sensors and deployments, such as smart streetlights and smart meters, can help alleviate traffic, conserve energy, monitor and address environmental concerns, and improve sanitation.
+
+_ _ _ _ _ _ _ _ _ _
+
+# IoT security and privacy issues :
+
+- The internet of things connects billions of devices to the internet and involves the use of billions of data points, all of which need to be secured. Due to its expanded attack surface, IoT security and IoT privacy are cited as major concerns.
+
+- In 2016, one of the most notorious recent IoT attacks was Mirai, a botnet that infiltrated domain name server provider Dyn and took down many websites for an extended period of time in one of the biggest distributed denial-of-service (DDoS) attacks ever seen. Attackers gained access to the network by exploiting poorly secured IoT devices.
+
+- Because IoT devices are closely connected, all a hacker has to do is exploit one vulnerability to manipulate all the data, rendering it unusable. Manufacturers that don't update their devices regularly -- or at all -- leave them vulnerable to cybercriminals.
+
+- Additionally, connected devices often ask users to input their personal information, including names, ages, addresses, phone numbers and even social media accounts -- information that's invaluable to hackers.
+
+- Hackers aren't the only threat to the internet of things; privacy is another major concern for IoT users. For instance, companies that make and distribute consumer IoT devices could use those devices to obtain and sell users' personal data.
+
+- Beyond leaking personal data, IoT poses a risk to critical infrastructure, including electricity, transportation and financial services.
+
+_ _ _ _ _ _ _ _ _ _
+
+# History of IoT :
+
+- Kevin Ashton, co-founder of the Auto-ID Center at the Massachusetts Institute of Technology (MIT), first mentioned the internet of things in a presentation he made to Procter & Gamble (P&G) in 1999.
+
+- Wanting to bring radio frequency ID (RFID) to the attention of P&G's senior management, Ashton called his presentation "Internet of Things" to incorporate the cool new trend of 1999: the internet.
+
+- MIT professor Neil Gershenfeld's book, When Things Start to Think, also appeared in 1999.
+
+- It didn't use the exact term but provided a clear vision of where IoT was headed.
+
+- IoT has evolved from the convergence of wireless technologies, microelectromechanical systems (MEMSes), microservices and the internet. The convergence has helped tear down the silos between operational technology (OT) and information technology (IT), enabling unstructured machine-generated data to be analyzed for insights to drive improvements.
+
+- Although Ashton's was the first mention of the internet of things, the idea of connected devices has been around since the 1970s, under the monikers embedded internet and pervasive computing.
+
+- The first internet appliance, for example, was a Coke machine at Carnegie Mellon University in the early 1980s. Using the web, programmers could check the status of the machine and determine whether there would be a cold drink awaiting them, should they decide to make the trip to the machine.
+
+- IoT evolved from M2M communication, i.e., machines connecting to each other via a network without human interaction. M2M refers to connecting a device to the cloud, managing it and collecting data.
+
+- Taking M2M to the next level, IoT is a sensor network of billions of smart devices that connect people, systems and other applications to collect and share data. As its foundation, M2M offers the connectivity that enables IoT.
+
+- The internet of things is also a natural extension of supervisory control and data acquisition (SCADA), a category of software application programs for process control, the gathering of data in real time from remote locations to control equipment and conditions. SCADA systems include hardware and software components. The hardware gathers and feeds data into a computer that has SCADA software installed, where it is then processed and presented in a timely manner. The evolution of SCADA is such that late-generation SCADA systems developed into first-generation IoT systems.
+
+- The concept of the IoT ecosystem, however, didn't really come into its own until the middle of 2010 when, in part, the government of China said it would make IoT a strategic priority in its five-year plan.
+
+_ _ _ _ _ _ _ _ _ _
