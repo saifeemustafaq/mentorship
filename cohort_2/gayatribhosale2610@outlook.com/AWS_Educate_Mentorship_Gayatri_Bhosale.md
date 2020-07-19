@@ -144,6 +144,16 @@ Amazon Elastic Block Store (EBS)- It provides block-level storage to use with Am
 
 **3. AWS CloudHSM-** This AWS service helps you meet corporate, regulatory, and contractual, compliance requirements for maintaining data security by using the Hardware Security Module(HSM) appliances inside the AWS environment.
 
+### Mobile Services
+
+**1. Mobile Hub —** Allows you to add, configure and design features for mobile apps.
+
+**2. Cognito —** Allows users to signup using his or her social identity.
+
+**3. Device Farm —** Device farm helps you to improve the quality of apps by quickly testing hundreds of mobile devices.
+
+**4. AWS AppSync —** It is a fully managed GraphQL service that offers real-time data synchronization and offline programming features.
+
 ## Applications of AWS services
 
 Amazon Web services are widely used for various computing purposes like:
