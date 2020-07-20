@@ -103,6 +103,16 @@ The applications for artificial intelligence are endless. The technology can be 
 
 Other examples of machines with artificial intelligence include computers that play chess and self-driving cars. Each of these machines must weigh the consequences of any action they take, as each action will impact the end result. In chess, the end result is winning the game. For self-driving cars, the computer system must account for all external data and compute it to act in a way that prevents a collision. 
 
+>## Key Takeaways
+
+ - Artificial intelligence refers to the simulation of human intelligence in machines. 
+
+ - The goals of artificial intelligence include learning, reasoning, and perception. 
+
+ - AI is being used across different industries including finance and healthcare. 
+
+ - Weak AI tends to be simple and single-task oriented, while strong AI carries on tasks that are more complex and human-like. 
+
  - **Enable business process changes.** An example of this is the use of IoT devices to monitor the health of remote machines and trigger service calls for preventive maintenance. The ability to remotely monitor machines is also enabling new product-as-a-service business models, where customers no longer need to buy a product but instead pay for its usage. 
 
 ## What industries can benefit from IoT? 
