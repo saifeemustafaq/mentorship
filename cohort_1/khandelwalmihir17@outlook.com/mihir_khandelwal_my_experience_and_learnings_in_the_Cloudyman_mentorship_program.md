@@ -195,3 +195,6 @@ Today I Learned:
 ## Date: July 9, 2020
 - Attended an online webinar at teams on Cloud Technologies from WinAble.
 - Learned the differnece between C and C++, from Javatpoint website.
+## Date: July 20, 2020
+- Created Statistics file, and writing notes on it.
+- Learned about Instruction Set and read about it in William Stalings Book.
