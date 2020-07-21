@@ -195,3 +195,6 @@ Today I Learned:
 ## Date: July 9, 2020
 - Attended an online webinar at teams on Cloud Technologies from WinAble.
 - Learned the differnece between C and C++, from Javatpoint website.
+## Date: July 21, 2020
+- Received an offer from The Brandiverse, an social media marketing Internship from Internshala.
+- Practiced C++ new codes on Code Blocks. 
