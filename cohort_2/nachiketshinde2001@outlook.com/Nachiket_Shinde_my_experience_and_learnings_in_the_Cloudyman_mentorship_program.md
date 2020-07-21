@@ -431,3 +431,8 @@ In that they give a prical knowledge about virtual machine with linux
 
 - I complete one Assignment of Hackerrank
 - prepare for the Hacketon 
+
+## 21 July
+
+- i start the Data visualization with python course
+
