@@ -144,6 +144,10 @@ Amazon Elastic Block Store (EBS)- It provides block-level storage to use with Am
 
 **3. AWS CloudHSM-** This AWS service helps you meet corporate, regulatory, and contractual, compliance requirements for maintaining data security by using the Hardware Security Module(HSM) appliances inside the AWS environment.
 
+### Game Development
+
+**GameLift-** It is a service which is managed by AWS. You can use this service to host dedicated game servers. It allows you to scale seamlessly without taking your game offline.
+
 ## Applications of AWS services
 
 Amazon Web services are widely used for various computing purposes like:
