@@ -1,4 +1,4 @@
-## Date: June 8, 2020
+> ## Date: June 8, 2020
 
 # Disaster Recovery :-
 
@@ -60,7 +60,7 @@ _ _ _ _ _ _ _ _ _ _
 
 _ _ _ _ _ _ _ _ _ _
 
-## Date: June 9, 2020
+> ## Date: June 9, 2020
 
 # What is Capital expenditure (CapEx) ?
 
@@ -131,7 +131,7 @@ _ _ _ _ _ _ _ _ _ _
 
 _ _ _ _ _ _ _ _ _ _
 
-## Date: June 10, 2020
+> ## Date: June 10, 2020
 
 # What are the Cloud deployment models ?
 
@@ -273,7 +273,7 @@ _ _ _ _ _ _ _ _ _ _
 
 _ _ _ _ _ _ _ _ _ _
 
-## Date: June 11, 2020
+> ## Date: June 11, 2020
 
 # What are the Types of cloud services ?
 
