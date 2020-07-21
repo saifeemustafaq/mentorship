@@ -1,6 +1,6 @@
 > # This blog is part of the **[Cloudyman Mentorship Program](https://t.co/78sRvCvYiO?amp=1)** under the mentorship of *[Mustafa Saifee](https://www.linkedin.com/in/saifeemustafaq/)*
 
-## Date: June 23, 2020
+> ## Date: June 23, 2020
 
 # What is Microsoft Azure ?
 
