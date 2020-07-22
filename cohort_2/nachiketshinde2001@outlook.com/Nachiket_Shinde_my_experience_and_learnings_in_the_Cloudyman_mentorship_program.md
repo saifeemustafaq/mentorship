@@ -431,3 +431,8 @@ In that they give a prical knowledge about virtual machine with linux
 
 - I complete one Assignment of Hackerrank
 - prepare for the Hacketon 
+
+## 22 July
+
+- I complete another assignment of hackerrank
+- Learn about 
