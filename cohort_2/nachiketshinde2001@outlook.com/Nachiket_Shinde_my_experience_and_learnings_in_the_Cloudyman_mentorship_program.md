@@ -431,3 +431,8 @@ In that they give a prical knowledge about virtual machine with linux
 
 - I complete one Assignment of Hackerrank
 - prepare for the Hacketon 
+
+
+## 23 July
+
+- I completed week one of python course with Coursera
