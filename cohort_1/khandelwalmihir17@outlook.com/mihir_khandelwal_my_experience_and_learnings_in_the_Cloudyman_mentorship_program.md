@@ -195,3 +195,6 @@ Today I Learned:
 ## Date: July 9, 2020
 - Attended an online webinar at teams on Cloud Technologies from WinAble.
 - Learned the differnece between C and C++, from Javatpoint website.
+## Date: July 25, 2020
+- Attended the webinar for resume writing and preparation of the CV.
+- Learning Java for android, on Coursera.
