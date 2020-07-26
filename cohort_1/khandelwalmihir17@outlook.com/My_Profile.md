@@ -22,13 +22,13 @@
 ## My experiences:
 1. Done an internship of Content writing at Internshala. 
 2. Website designing.
-3. Created awareness for Internshala trainings as an ISP.
-4. LinkedIn influencer.
+3. LinkedIn influencer.
+4. Social Media Marketter.
 
 ## Languages I know:
 1. C
 2. C++
-3. HTML and CSS
+3. HTML and CSS.
 4. Java.
 5. Phyton(basics)
 
