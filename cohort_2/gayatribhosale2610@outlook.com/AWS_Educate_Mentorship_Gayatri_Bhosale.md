@@ -122,20 +122,6 @@ Amazon Elastic Block Store (EBS)- It provides block-level storage to use with Am
 
 **6. Translate —** It is a very similar tool to Google Translate which allows you to translate text in one language to another.
 
-### Artificial Intelligence
-
-**1. Lex —** Lex tool helps you to build chatbots quickly.
-
-**2. Polly —**  It is AWS's text-to-speech service allows you to create audio versions of your notes.
-
-**3. Rekognition  —** It is AWS's face recognition service. This AWS service helps you to recognize faces and object in images and videos.
-
-**4. SageMaker —** Sagemaker allows you to build, train, and deploy machine learning models at any scale.
-
-**5. Transcribe —**  It is AWS's speech-to-text service that offers high-quality and affordable transcriptions.
-
-**6. Translate —** It is a very similar tool to Google Translate which allows you to translate text in one language to another.
-
 ### Deployment and Management
 
 **1. AWS CloudTrail-** The services records AWS API calls and send backlog files to you.
