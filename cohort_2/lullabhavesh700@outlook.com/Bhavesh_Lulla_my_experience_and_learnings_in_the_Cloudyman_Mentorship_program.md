@@ -129,7 +129,14 @@ Self-driving cars have been fairly controversial as their machines tend to be de
 Another is that machines can hack into people's privacy and even be weaponized. Other arguments debate the ethics of artificial intelligence and whether intelligent systems such as **robots** should be treated with the same rights as humans. 
  
 
+
+## Categorization of Artificial Intelligence
+
+Artificial intelligence can be divided into two different categories: weak and strong. **Weak artificial intelligence** embodies a system designed to carry out one particular job. Weak AI systems include video games such as the chess example from above and personal assistants such as Amazon's Alexa and Apple's Siri. You ask the assistant a question, it answers it for you. 
+
+=======
 **Strong artificial intelligence** systems are systems that carry on the tasks considered to be human-like. These tend to be more programmed to handle situations in which they may be required to problem solve without having a person intervene. These kind of systems can be found in applications like self-driving cars or in hospital operating rooms. 
+
  - **Enable business process changes.** An example of this is the use of IoT devices to monitor the health of remote machines and trigger service calls for preventive maintenance. The ability to remotely monitor machines is also enabling new product-as-a-service business models, where customers no longer need to buy a product but instead pay for its usage. 
 =======
 ## Artificial Intelligence (AI) 
