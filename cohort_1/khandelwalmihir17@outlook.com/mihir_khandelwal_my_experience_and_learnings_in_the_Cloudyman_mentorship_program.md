@@ -191,6 +191,11 @@ Today I Learned:
 - Attended an online webinar at teams on Cloud Technologies from WinAble.
 - Learned the differnece between C and C++, from Javatpoint website.
 
+## Date: July 25, 2020
+- Attended the webinar for resume writing and preparation of the CV.
+- Learning Java for android, on Coursera.
+=======
+
 ## Date: July 20, 2020
 - Created Statistics file, and writing notes on it.
 - Learned about Instruction Set and read about it in William Stalings Book.
@@ -198,3 +203,4 @@ Today I Learned:
 ## Date: July 19, 2020
 - Attended an online meeting of Computer Netrworks with Fly High group.
 - Got an certificate from Hamari Pehchan Internship, as I was selected for it.
+
