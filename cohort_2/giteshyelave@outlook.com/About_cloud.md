@@ -1,4 +1,4 @@
-## Date: June 8, 2020
+> ## Date: June 8, 2020
 
 # Disaster Recovery :
 
@@ -66,7 +66,7 @@ Disaster recovery in cloud computing can effectively deal with most issues of tr
 2. Easy testing and fast recovery :-)  
           Cloud workloads routinely operate with VMs, making it easy to copy VM image files to in-house test servers to validate workload availability without affecting production workloads
 
-## Date: June 9, 2020
+> ## Date: June 9, 2020
 
 _ _ _ _ _ _ _ _ _ _
 
@@ -149,7 +149,7 @@ _ _ _ _ _ _ _ _ _ _
 - Raw materials and supplies
 - Office overheads
 
-## Date: June 10, 2020
+> ## Date: June 10, 2020
 
 # What are the Cloud deployment models ?
 
@@ -262,7 +262,7 @@ _ _ _ _ _ _ _ _ _ _
 
 _ _ _ _ _ _ _ _ _ _
 
-## Date: June 11, 2020
+> ## Date: June 11, 2020
 
 # What are the Types of cloud services ?
 
