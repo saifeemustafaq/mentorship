@@ -39,3 +39,65 @@ Another benefit of Cloud Computing for the IoT is that Cloud Computing enables b
 
 Finally by storing data in the Cloud, this enables IoT companies to change directly quickly and allocate resources in different areas. Big Data has emerged in the past couple of years and with such emergence the cloud has become the architecture of choice. Most companies find it feasible to access the massive quantities of Big Data via the cloud. 
 
+
+## Date: July 24,2020.
+
+# What is IOT(Internet of Things)?
+
+- The internet of things, or IoT, is a system of interrelated computing devices, mechanical and digital machines, objects, animals or people that are provided with unique identifiers (UIDs) and the ability to transfer data over a network without requiring human-to-human or human-to-computer interaction.
+
+- A thing in the internet of things can be a person with a heart monitor implant, a farm animal with a biochip transponder, an automobile that has built-in sensors to alert the driver when tire pressure is low or any other natural or man-made object that can be assigned an Internet Protocol (IP) address and is able to transfer data over a network.
+
+- Increasingly, organizations in a variety of industries are using IoT to operate more efficiently, better understand customers to deliver enhanced customer service, improve decision-making and increase the value of the business.
+
+# How IOT Works?
+> An IoT ecosystem consists of web-enabled smart devices that use embedded systems, such as processors, sensors and communication hardware, to collect, send and act on data they acquire from their environments. IoT devices share the sensor data they collect by connecting to an IoT gateway or other edge device where data is either sent to the cloud to be analyzed or analyzed locally. Sometimes, these devices communicate with other related devices and act on the information they get from one another. The devices do most of the work without human intervention, although people can interact with the devices -- for instance, to set them up, give them instructions or access the data.
+The connectivity, networking and communication protocols used with these web-enabled devices largely depend on the specific IoT applications deployed.
+IoT can also make use of artificial intelligence (AI) and machine learning to aid in making data collecting processes easier and more dynamic.
+
+![alt.iot](https://cdn.ttgtmedia.com/rms/onlineimages/iota-iot_system_desktop.png)
+
+# How IOT is important?
+- The internet of things helps people live and work smarter, as well as gain complete control over their lives. In addition to offering smart devices to automate homes, IoT is essential to business. IoT provides businesses with a real-time look into how their systems really work, delivering insights into everything from the performance of machines to supply chain and logistics operations.
+
+- IoT enables companies to automate processes and reduce labor costs. It also cuts down on waste and improves service delivery, making it less expensive to manufacture and deliver goods, as well as offering transparency into customer transactions.
+
+- As such, IoT is one of the most important technologies of everyday life, and it will continue to pick up steam as more businesses realize the potential of connected devices to keep them competitive.
+
+# IOT Benefits to organization:
+> The internet of things offers several benefits to organizations. Some benefits are industry-specific, and some are applicable across multiple industries. Some of the common benefits of IoT enable businesses to:
+
+- monitor their overall business processes;
+- improve the customer experience (CX);
+- save time and money;
+- enhance employee productivity;
+- integrate and adapt business models;
+- make better business decisions; and
+- generate more revenue.
+> IoT encourages companies to rethink the ways they approach their businesses and gives them the tools to improve their business strategies.
+Generally, IoT is most abundant in manufacturing, transportation and utility organizations, making use of sensors and other IoT devices; however, it has also found use cases for organizations within the agriculture, infrastructure and home automation industries, leading some organizations toward digital transformation.
+
+> IoT can benefit farmers in agriculture by making their job easier. Sensors can collect data on rainfall, humidity, temperature and soil content, as well as other factors, that would help automate farming techniques.
+
+> The ability to monitor operations surrounding infrastructure is also a factor that IoT can help with. Sensors, for example, could be used to monitor events or changes within structural buildings, bridges and other infrastructure. This brings benefits with it, such as cost saving, saved time, quality-of-life workflow changes and paperless workflow.
+
+> A home automation business can utilize IoT to monitor and manipulate mechanical and electrical systems in a building. On a broader scale, smart cities can help citizens reduce waste and energy consumption.
+
+> IoT touches every industry, including businesses within healthcare, finance, retail and manufacturing.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -423,3 +423,22 @@ While exploring the wide pool of cloud computing, developers have found the Omni
 Omni-cloud computing brought all these qualities into the applications along with top-notch connectivity. This world-class connectivity allows multiple platforms to streamline their data and integrate them in the most efficient way possible.
 
 Hence, the best way to describe Omni-cloud is when barriers between the different platforms shrink then any multi-cloud converts into an Omni-cloud system. The data deployment system is more accessible and organized with the Omni-cloud system.
+
+
+**4. Kubernetes:**
+
+The cloud infrastructure software vendor progressively being decoupled from the provider that possesses the buildings that house the server racks is leading to a few contributions that would have been incomprehensible a couple of years back.
+
+The primary advantage of using Kubernetes in your environment, especially if you are optimizing app dev for the cloud, is that it gives you the platform to schedule and run containers on clusters of physical or virtual machines (VMs).
+
+More broadly, it helps you fully implement and rely on a container-based infrastructure in production environments. And because Kubernetes is all about automation of operational tasks, you can do many of the same things other application platforms or management systems let you do—but for your containers.
+
+Developers can also create cloud-native apps with Kubernetes as a runtime platform by using Kubernetes patterns. Patterns are the tools a Kubernetes developer needs to build container-based applications and services.
+
+#### With Kubernetes you can:
+
+1. Orchestrate containers across multiple hosts.
+2. Make better use of hardware to maximize resources needed to run your enterprise apps.
+3. Control and automate application deployments and updates.
+4. Mount and add storage to run stateful apps.
+5. Scale containerized applications and their resources on the fly.

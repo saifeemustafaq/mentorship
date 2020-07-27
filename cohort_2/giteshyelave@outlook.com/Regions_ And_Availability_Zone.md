@@ -1,4 +1,4 @@
-## Date: June 12, 2020
+> ## Date: June 12, 2020
 
 # What is a region ?
 
@@ -136,7 +136,7 @@ _ _ _ _ _ _ _ _ _ _
 
 _ _ _ _ _ _ _ _ _ _
 
-## Date: June 16,2020
+> ## Date: June 16,2020
 
 #  What is a region pair ?
 
@@ -175,7 +175,7 @@ A region resides within the same geography for the data residency requirements f
 ### 5. Sequential updates :
 To minimize the downtime, the paired regions are sequentially updated.
 
-= = = = = = = = = =
+----------
 
 # What are fault domains ?
 
@@ -218,4 +218,4 @@ Each fault domain can be associated with location metadata, which will automatic
 ### Storage Spaces, including Storage Spaces Direct, uses fault domains to maximize data safety :
 Resiliency in Storage Spaces is conceptually like distributed, software-defined RAID. Multiple copies of all data are kept in sync, and if hardware fails and one copy is lost, others are recopied to restore resiliency. To achieve the best possible resiliency, copies should be kept in separate fault domains.
 
-= = = = = = = = = =
+----------

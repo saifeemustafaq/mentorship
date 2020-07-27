@@ -136,6 +136,16 @@ Amazon Elastic Block Store (EBS)- It provides block-level storage to use with Am
 
 **6. Translate —** It is a very similar tool to Google Translate which allows you to translate text in one language to another.
 
+### Internet of Things
+
+**1. IoT Core—** It is a managed cloud AWS service. The service allows connected devices like cars, light bulbs, sensor grids, to securely interact with cloud applications and other devices.
+
+**2. IoT Device Management —** It allows you to manage your IoT devices at any scale.
+
+**3. IoT Analytics —** This AWS IOT service is helpful to perform analysis on data collected by your IoT devices.
+
+**4. Amazon FreeRTOS —** This real-time operating system for microcontrollers helps you to connect IoT devices in the local server or into the cloud.
+
 ### Deployment and Management
 
 **1. AWS CloudTrail-** The services records AWS API calls and send backlog files to you.
@@ -143,6 +153,21 @@ Amazon Elastic Block Store (EBS)- It provides block-level storage to use with Am
 **2. Amazon CloudWatch-** The tools monitor AWS resources like Amazon EC2 and Amazon RDS DB Instances. It also allows you to monitor custom metrics created by user's applications and services.
 
 **3. AWS CloudHSM-** This AWS service helps you meet corporate, regulatory, and contractual, compliance requirements for maintaining data security by using the Hardware Security Module(HSM) appliances inside the AWS environment.
+
+### Game Development
+
+**GameLift-** It is a service which is managed by AWS. You can use this service to host dedicated game servers. It allows you to scale seamlessly without taking your game offline.
+=======
+### Mobile Services
+
+**1. Mobile Hub —** Allows you to add, configure and design features for mobile apps.
+
+**2. Cognito —** Allows users to signup using his or her social identity.
+
+**3. Device Farm —** Device farm helps you to improve the quality of apps by quickly testing hundreds of mobile devices.
+
+**4. AWS AppSync —** It is a fully managed GraphQL service that offers real-time data synchronization and offline programming features.
+
 
 ## Applications of AWS services
 
