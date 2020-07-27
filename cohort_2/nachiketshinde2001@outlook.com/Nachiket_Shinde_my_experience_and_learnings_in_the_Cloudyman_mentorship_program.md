@@ -416,7 +416,7 @@ In that they give a prical knowledge about virtual machine with linux
 - I complete the another hackerank problem
 =======
 
-## 15 July
+## 16 July
 
 - I complete another c programming problem in hackerrank
 - I gathering information about Parrot Linux 
@@ -427,13 +427,16 @@ In that they give a prical knowledge about virtual machine with linux
 - i complete the another problem of hackerank
 - I attend the webinar of Winjit Technology
 
-## 10 July
+## 18 July
+
 
 - I complete one Assignment of Hackerrank
 - prepare for the Hacketon 
 
+
 ## 19 July
 
-- I complete another havkerrank program
+- I complete another hackerrank program
 - I searching for a project with AI And IOT
 - 
+
