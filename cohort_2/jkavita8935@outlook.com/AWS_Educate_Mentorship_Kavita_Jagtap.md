@@ -114,35 +114,178 @@ multi-billion dollar online business that has been honed for over a decade.**
 ![](https://camo.githubusercontent.com/d0bbd3c6080947094f02d087ed002fb20738b277/68747470733a2f2f342e62702e626c6f6773706f742e636f6d2f2d5a5175573033596d7158342f58455736333377555936492f41414141414141414147772f7435316e676d3466372d63624b724d5741325f31443563474e66794d35346a3367434c63424741732f733634302f53637265656e73686f745f322e706e67)
 
 
+## Compute :
 
+- **EC2 (Elastic Compute Cloud) :** 
 
-## **More than 100 services comprise the Amazon Web Services portfolio, including those for compute, databases, infrastructure management, application development and security. These services, by category, include:**
+These are just the virtual machines in the cloud on which you have the OS level control. You can run whatever you want in them.
 
--  ## **Compute**
+- **LightSail :** 
 
--  ## **Storage databases**
+If you don’t have any prior experience with AWS this is for you. It automatically deploys and manages compute, storage and networking capabilities required to run your applications.
 
-- ## **Data management**
+- **ECS (Elastic Container Service) :** 
 
-- ## **Migration**
+It is a highly scalable container service to allows you to run Docker containers in the cloud.
 
-- ## **Network and Content Delivery**
+- **EKS (Elastic Container Service for Kubernetes) :** 
 
-- ## **Management Tools**
+Allows you to use Kubernetes on AWS without installing and managing your own Kubernetes control plane. It is a relatively new service.
 
-- ## **Security & Identity Compliance**
+- **Lambda :** 
 
-- ## **Messaging**
+AWS’s serverless technology that allows you to run functions in the cloud. It’s a huge cost saver as you pay only when your functions execute.
 
-> # To learn above concepts following path is very useful for me : 
+- **Batch :** 
 
+It enables you to easily and efficiently run batch computing workloads of any scale on AWS using Amazon EC2 and EC2 spot fleet.
 
+- **Elastic Beanstalk :** 
 
-## **[https://blog.usejournal.com/what-is-aws-and-what-can-you-do-with-it-395b585b03c](https://blog.usejournal.com/what-is-aws-and-what-can-you-do-with-it-395b585b03c)**
+Allows automated deployment and provisioning of resources like a highly scalable production website.
 
+## Management Tools :
+
+- **CloudWatch :** It can be used to monitor AWS environments like CPU utilization of EC2 and RDS instances and trigger alarms based on different metrics.
+
+- **CloudFormation :** It is a way of turning infrastructure into the cloud. You can use templates to provision a whole production environment in minutes.
+
+- **CloudTrail :** A way of auditing AWS resources. It logs all changes and API calls made to AWS.
+
+- **OpsWorks :** It helps in automating Chef deployments on AWS.
+
+- **Config :** It monitors your environment and notifies you when you break certain configurations.
+
+- **Service Catalog :** For larger enterprises, helps to authorize which services will be used and which won’t be.
+
+- **Trusted Advisor :** Gives you recommendations on how to do cost optimizations, and secure your environment.
+
+- **AWS Auto Scaling :** Allows you to automatically scale your resources up and down based on CloudWatch metrics.
+
+- **Systems Manager :** Allows you to group your resources, so you can quickly gain insights, identify issues and act on them.
+
+- **Managed Services:** It provides ongoing management of your AWS infrastructure so you can focus on your applications.
+
+## Application Services :
+
+- **Step Functions :** A way of visualizing what’s going inside your application and what different microservices it is using.
+
+- **SWF (Simple Workflow Service) :** A way of coordinating both automated tasks and human-led tasks.
+
+- **SNS (Simple Notification Service) :** Can be used to send you notifications in the form of email and SMS regarding your AWS services. It is a push-based service.
+
+- **SQS (Simple Queue Service)  :** The first service offered by AWS. It can be used to decouple your applications. It is a pull-based service.
+
+- **Elastic Transcoder :** Changes a video’s format and resolution to support different devices like tablets, smartphones, and laptops of different resolutions.
+
+## Storage :
+
+- **S3 (Simple Storage Service) :** 
+
+Storage service of AWS in which we can store objects like files, folders, images, documents, songs, etc. It cannot be used to install software, games or Operating System.
+
+- **EFS (Elastic File System) :** 
+
+Provides file storage for use with your EC2 instances. It uses NFSv4 protocol and can beused concurrently by thousands of instances.
+
+- **Glacier :** 
+
+It is an extremely low-cost archival service to store files for a long time like a few years or even decades.
+
+- **Storage Gateway :** 
+
+It is a virtual machine that you install on your on-premise servers. Your on-premise data can be backed up to AWS providing more durability.
+
+## Databases:
+
+- **RDS (Relational Database Service) :** 
+
+Allows you to run relational databases like MySQL, MariaDB, PostgreSQL, Oracle or SQL Server. These databases are fully managed by AWS like installing antivirus and patches.
+
+- **DynamoDB :** 
+
+It is a highly scalable, high-performance NoSQL database. It provides single-digit millisecond latency at any scale.
+
+- **Elasticache :** 
+
+It is a way of caching data inside the cloud. It can be used to take load off of your database by caching most frequent queries.
+
+- **Neptune :** 
+
+It has been launched recently. It is a fast, reliable and scalable graph database service.
+
+- **RedShift :** 
+
+It is AWS’s data warehousing solution that can be used to run complex OLAP queries.
+
+## Migration :
+
+- **DMS (Database Migration Service) :**
+
+It can be used to migrate on-site databases to AWS. It also allows you to migrate from one type of database to another. Eg -from Oracle to MySQL.
+
+- **SMS (Server Migration Service) :** 
+
+It allows you to migrate on-site servers to AWS easily and quickly.
+
+- **Snowball :**
+
+It is a briefcase sized appliance that can be used to send terabytes of data inside and outside of AWS.
+
+## Networking & Content Delivery :
+
+- **VPC (Virtual Private Cloud) :** It is simply a data center in the cloud in which you deploy all your resources. It allows you to better isolate your resources and secure them.
+
+- **CloudFront :** It is AWS’s Content Delivery Network (CDN) that consists of Edge locations that cache resources.
+
+- **Route53 :** It is AWS’s highly available DNS (Domain Name System) service. You can register domain names through it.
+
+- **Direct Connect :** Using it you can connect your data center to an Availability zone using a high speed dedicated line.
+
+- **API Gateway :** Allows you to create, store and manage APIs at scale.
 
 ![](https://www.sam-solutions.com/blog/wp-content/uploads/2018/08/AWS-1-copy@2x.png)
 
+## Mobile Services :
+
+- **Mobile Hub :** Allows you to add, configure and design features for mobile apps. It is a console for mobile app development.
+
+- **Cognito :** Allows your users to signup using social identity providers.
+
+- **Device Farm :** Enables you to improve quality of apps by quickly testing on hundreds of mobile devices.
+
+- **AWS AppSync :** It is an enterprise level, fully managed GraphQL service with real-time data synchronization and offline programming features.
+
+- **Mobile Analytics :** Allows to simply and cost effectively analyze mobile data.
+
+## Business Productivity :
+
+- **Alexa for Business :** It lets you empower your organization with voice, using Alexa. Allows you to build custom voice skills for your organization.
+
+- **Chime  :** Can be used for online meeting and video conferencing.
+
+- **WorkDocs :** Helps to store documents in the cloud
+
+- **WorkMail :** Allows you to send and receive business emails.
+
+## Artificial Intelligence :
+
+- **Lex :** Allows you to quickly build chatbots.
+
+- **Polly :** AWS’s text-to-speech service. You can create audio versions of your notes using it.
+
+- **Machine learning :** You just have to give your dataset and target variable and AWS will take care of training your model.
+
+- **Rekognition :** AWS’s face recognition service. Allows you to recognize faces and object in images and videos.
+
+- **SageMaker :** Helps you to build, train and deploy machine learning models at any scale.
+
+- **Comprehend :** It is a Natural Language Processing (NLP) service that uses machine learning to find insights and relationships in text. It can be used for sentiment analysis.
+
+- **Transcribe  :** It is the opposite of Polly. It is AWS’s speech-to-text service that provides that provides high-quality and affordable transcriptions.
+
+- **Translate :** It is like Google Translate and allows you to translate text in one language to another.
+AR & VR (Augmente
 
 > # ***Companies using AWS***
 
