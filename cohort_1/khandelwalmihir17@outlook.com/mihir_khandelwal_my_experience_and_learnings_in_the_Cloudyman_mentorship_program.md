@@ -191,6 +191,11 @@ Today I Learned:
 - Attended an online webinar at teams on Cloud Technologies from WinAble.
 - Learned the differnece between C and C++, from Javatpoint website.
 
+## Date: July 22, 2020
+- Registered for an WinAble webinar as well as an Resume Builder webinar.
+- Started learning Java in depth.
+=======
+
 ## Date: July 25, 2020
 - Attended the webinar for resume writing and preparation of the CV.
 - Learning Java for android, on Coursera.
@@ -203,4 +208,3 @@ Today I Learned:
 ## Date: July 19, 2020
 - Attended an online meeting of Computer Netrworks with Fly High group.
 - Got an certificate from Hamari Pehchan Internship, as I was selected for it.
-
