@@ -112,6 +112,12 @@ Artificial intelligence also has applications in financial industry, where it is
 
  - The goals of artificial intelligence include learning, reasoning, and perception. 
 
+
+## Special Considerations
+
+Since its beginning, artificial intelligence has come under scrutiny from scientists and the public alike. One common theme is the idea that machines will become so highly developed that humans will not be able to keep up and they will take off on their own, redesigning themselves at an exponential rate. 
+
+=======
  - AI is being used across different industries including finance and healthcare. 
 
  - Weak AI tends to be simple and single-task oriented, while strong AI carries on tasks that are more complex and human-like. 
@@ -122,6 +128,7 @@ Self-driving cars have been fairly controversial as their machines tend to be de
 
 Another is that machines can hack into people's privacy and even be weaponized. Other arguments debate the ethics of artificial intelligence and whether intelligent systems such as **robots** should be treated with the same rights as humans. 
  
+
  - **Enable business process changes.** An example of this is the use of IoT devices to monitor the health of remote machines and trigger service calls for preventive maintenance. The ability to remotely monitor machines is also enabling new product-as-a-service business models, where customers no longer need to buy a product but instead pay for its usage. 
 =======
 ## Artificial Intelligence (AI) 
