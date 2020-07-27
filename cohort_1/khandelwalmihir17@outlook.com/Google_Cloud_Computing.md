@@ -117,3 +117,5 @@
 
 # Cloud Vision API.
 - It helps to analyze logo detection, label detection and other images with a simple REST API. Cloud Natural Language API can return text in real time, highly accurate, and can be access from any device. Uses Machine Learning models meaning and structure of text, can also be used to extract data from news, articles, and blog post. It also have the facility of Video Intellingence API. 
+
+![](https://cloud.google.com/images/products/vision/image-search.svg)
