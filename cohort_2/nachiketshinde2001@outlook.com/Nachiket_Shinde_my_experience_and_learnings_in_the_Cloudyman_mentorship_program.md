@@ -434,9 +434,16 @@ In that they give a prical knowledge about virtual machine with linux
 - prepare for the Hacketon 
 
 
+
 ## 19 July
 
 - I complete another hackerrank program
 - I searching for a project with AI And IOT
 - 
+=======
+## 20 July
+
+- I solve the another Hackerrank assignment
+- Searching for new course about cloud base
+
 
