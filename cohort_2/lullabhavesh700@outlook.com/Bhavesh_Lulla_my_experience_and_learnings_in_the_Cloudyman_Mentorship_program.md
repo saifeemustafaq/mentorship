@@ -116,6 +116,8 @@ Artificial intelligence also has applications in financial industry, where it is
 
  - Weak AI tends to be simple and single-task oriented, while strong AI carries on tasks that are more complex and human-like. 
 
+Another contentious issue many people have with artificial intelligence is how it may affect human employment. With many industries looking to automate certain jobs through the use of intelligent machinery, there is a concern that people would be pushed out of the workforce. Self-driving cars may remove the need for taxis and car-share problems, while manufacturers may easily replace human labour with machines, making people's skills more obsolete. 
+
  - **Enable business process changes.** An example of this is the use of IoT devices to monitor the health of remote machines and trigger service calls for preventive maintenance. The ability to remotely monitor machines is also enabling new product-as-a-service business models, where customers no longer need to buy a product but instead pay for its usage. 
 =======
 ## Artificial Intelligence (AI) 
