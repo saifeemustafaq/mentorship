@@ -481,3 +481,8 @@ In that they give a prical knowledge about virtual machine with linux
 - I solve the another Hackerrank assignment
 - Searching for new course about cloud base
 
+## 27 July
+ 
+ - i start the week 2 in cousera python course
+ -  searching for project for sparkle competition
+
