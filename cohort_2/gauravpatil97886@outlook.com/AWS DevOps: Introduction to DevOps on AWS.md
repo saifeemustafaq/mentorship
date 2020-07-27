@@ -268,13 +268,3 @@ With Jenkins, you can set up and customize your CI/CD pipeline according to your
 
 ****Jenkins: DevOps tool****
 
-It’s easy to get started with Jenkins, as it runs out-of-the-box on Windows, Mac OS X, and Linux. You can also easily install it with Docker. You can set up and configure your Jenkins server through a web interface. If you are a first-time user, you can choose to install it with frequently used plugins. However, you can create your own custom config as well.
-
-With Jenkins, you can iterate and deploy new code as quickly as possible. It also allows you to measure the success of each step of your pipeline. I’ve heard people complaining about Jenkins’ “ugly” and non-intuitive UI. However, I could still find everything I wanted without any problem.
-
------------
-
-
-
-
-
