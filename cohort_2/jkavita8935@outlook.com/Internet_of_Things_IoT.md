@@ -64,6 +64,42 @@ However, it's not always one-way communication. Depending on the IoT application
 
 ---
 
+# IoT Applications :
+
+| Application type | Description | 
+|:-----------------|:------------|
+| Smart Thermostats | Helps you to save resource on heating bills by knowing your usage patterns. |
+| Connected Cars | IOT helps automobile companies handle billing, parking, insurance, and other related stuff automatically. |
+| Activity Trackers | Helps you to capture heart rate pattern, calorie expenditure, activity levels, and skin temperature on your wrist. |
+| Smart Outlets | Remotely turn any device on or off. It also allows you to track a device's energy level and get custom notifications directly into your smartphone. |
+| Parking Sensors | IOT technology helps users to identify the real-time availability of parking spaces on their phone. |
+| Connect Health | The concept of a connected health care system facilitates real-time health monitoring and patient care. It helps in improved medical decision-making based on patient data. |
+| Smart City | Smart city offers all types of use cases which include traffic management to water distribution, waste management, etc. |
+| Smart home | Smart home encapsulates the connectivity inside your homes. It includes smoke detectors, home appliances, light bulbs, windows, door locks, etc. |
+| Smart supply chain | Helps you in real time tracking of goods while they are on the road, or getting suppliers to exchange inventory information. |     
+
+---
+
+# IoT protocols :
+
+- XMPP
+
+- AMQP
+
+- Very Simple Control Protocol (VSCP)
+
+- Data Distribution Service (DDS)
+
+- MQTT protocol
+
+- WiFi
+
+- Simple Text Oriented Messaging Protocol(STOMP)
+
+- Zigbee
+
+---
+
 # Challenges of IoT
 
 **At present IoT is faced with many challenges, such as:**
@@ -87,10 +123,10 @@ However, it's not always one-way communication. Depending on the IoT application
 
 # Advantages of IoT :
 
-- **Technical Optimization:**IoT technology helps a lot in improving technologies and making them better. Example, with IoT, a manufacturer is able to collect data from various car sensors. The manufacturer analyzes them to improve its design and make them more efficient.
+- **Technical Optimization:** IoT technology helps a lot in improving technologies and making them better. Example, with IoT, a manufacturer is able to collect data from various car sensors. The manufacturer analyzes them to improve its design and make them more efficient.
 - **Improved Data Collection:** Traditional data collection has its limitations and its design for passive use. IoT facilitates immediate action on data.
 
-- **Reduced Waste:**IoT offers real-time information leading to effective decision making & management of resources. For example, if a manufacturer finds an issue in multiple car engines, he can track the manufacturing plan of those engines and solves this issue with the manufacturing belt.
+- **Reduced Waste:** IoT offers real-time information leading to effective decision making & management of resources. For example, if a manufacturer finds an issue in multiple car engines, he can track the manufacturing plan of those engines and solves this issue with the manufacturing belt.
 
 - **Improved Customer Engagement:** IoT allows you to improve customer experience by detecting problems and improving the process.
 
