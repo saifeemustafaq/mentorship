@@ -435,6 +435,11 @@ In that they give a prical knowledge about virtual machine with linux
 - I complete one Assignment of Hackerrank
 - prepare for the Hacketon 
 
+## 24 July
+
+- I complete another Assignment of python course
+- complete the another problem of hackkerrank
+=======
 
 ## 25 July
 
