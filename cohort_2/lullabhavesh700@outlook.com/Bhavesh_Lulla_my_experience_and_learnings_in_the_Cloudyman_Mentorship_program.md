@@ -120,6 +120,8 @@ Another contentious issue many people have with artificial intelligence is how i
 
 Self-driving cars have been fairly controversial as their machines tend to be designed for the lowest possible risk and the least casualties. If presented with a scenario of colliding with one person or another at the same time, these cars would calculate the option that would cause the least amount of damage. 
 
+Another is that machines can hack into people's privacy and even be weaponized. Other arguments debate the ethics of artificial intelligence and whether intelligent systems such as **robots** should be treated with the same rights as humans. 
+ 
  - **Enable business process changes.** An example of this is the use of IoT devices to monitor the health of remote machines and trigger service calls for preventive maintenance. The ability to remotely monitor machines is also enabling new product-as-a-service business models, where customers no longer need to buy a product but instead pay for its usage. 
 =======
 ## Artificial Intelligence (AI) 
