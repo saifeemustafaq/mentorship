@@ -144,6 +144,39 @@ It enables you to easily and efficiently run batch computing workloads of any sc
 
 Allows automated deployment and provisioning of resources like a highly scalable production website.
 
+## Management Tools :
+
+- **CloudWatch :** It can be used to monitor AWS environments like CPU utilization of EC2 and RDS instances and trigger alarms based on different metrics.
+
+- **CloudFormation :** It is a way of turning infrastructure into the cloud. You can use templates to provision a whole production environment in minutes.
+
+- **CloudTrail :** A way of auditing AWS resources. It logs all changes and API calls made to AWS.
+
+- **OpsWorks :** It helps in automating Chef deployments on AWS.
+
+- **Config :** It monitors your environment and notifies you when you break certain configurations.
+
+- **Service Catalog :** For larger enterprises, helps to authorize which services will be used and which won’t be.
+
+- **Trusted Advisor :** Gives you recommendations on how to do cost optimizations, and secure your environment.
+
+- **AWS Auto Scaling :** Allows you to automatically scale your resources up and down based on CloudWatch metrics.
+
+- **Systems Manager :** Allows you to group your resources, so you can quickly gain insights, identify issues and act on them.
+
+- **Managed Services:** It provides ongoing management of your AWS infrastructure so you can focus on your applications.
+
+## Application Services :
+
+- **Step Functions :** A way of visualizing what’s going inside your application and what different microservices it is using.
+
+- **SWF (Simple Workflow Service) :** A way of coordinating both automated tasks and human-led tasks.
+
+- **SNS (Simple Notification Service) :** Can be used to send you notifications in the form of email and SMS regarding your AWS services. It is a push-based service.
+
+- **SQS (Simple Queue Service)  :** The first service offered by AWS. It can be used to decouple your applications. It is a pull-based service.
+
+- **Elastic Transcoder :** Changes a video’s format and resolution to support different devices like tablets, smartphones, and laptops of different resolutions.
 
 ## Storage :
 
@@ -213,6 +246,46 @@ It is a briefcase sized appliance that can be used to send terabytes of data ins
 
 ![](https://www.sam-solutions.com/blog/wp-content/uploads/2018/08/AWS-1-copy@2x.png)
 
+## Mobile Services :
+
+- **Mobile Hub :** Allows you to add, configure and design features for mobile apps. It is a console for mobile app development.
+
+- **Cognito :** Allows your users to signup using social identity providers.
+
+- **Device Farm :** Enables you to improve quality of apps by quickly testing on hundreds of mobile devices.
+
+- **AWS AppSync :** It is an enterprise level, fully managed GraphQL service with real-time data synchronization and offline programming features.
+
+- **Mobile Analytics :** Allows to simply and cost effectively analyze mobile data.
+
+## Business Productivity :
+
+- **Alexa for Business :** It lets you empower your organization with voice, using Alexa. Allows you to build custom voice skills for your organization.
+
+- **Chime  :** Can be used for online meeting and video conferencing.
+
+- **WorkDocs :** Helps to store documents in the cloud
+
+- **WorkMail :** Allows you to send and receive business emails.
+
+## Artificial Intelligence :
+
+- **Lex :** Allows you to quickly build chatbots.
+
+- **Polly :** AWS’s text-to-speech service. You can create audio versions of your notes using it.
+
+- **Machine learning :** You just have to give your dataset and target variable and AWS will take care of training your model.
+
+- **Rekognition :** AWS’s face recognition service. Allows you to recognize faces and object in images and videos.
+
+- **SageMaker :** Helps you to build, train and deploy machine learning models at any scale.
+
+- **Comprehend :** It is a Natural Language Processing (NLP) service that uses machine learning to find insights and relationships in text. It can be used for sentiment analysis.
+
+- **Transcribe  :** It is the opposite of Polly. It is AWS’s speech-to-text service that provides that provides high-quality and affordable transcriptions.
+
+- **Translate :** It is like Google Translate and allows you to translate text in one language to another.
+AR & VR (Augmente
 
 > # ***Companies using AWS***
 
