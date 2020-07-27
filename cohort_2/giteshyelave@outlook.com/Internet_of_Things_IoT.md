@@ -94,9 +94,8 @@ Some of the advantages of IoT include the following:
 _ _ _ _ _ _ _ _ _ _
 
  
-=======
 
-## Date: July 9, 2020
+> ## Date: July 9, 2020
 
 # IoT standards and frameworks :
 
