@@ -33,6 +33,8 @@ I first time use GitHub
 Virtual machines are provided by many companies like Microsofts , Amazon and much more .
 this virtual machines are very benifical for us 
 
+
+
 >### cost saving 
   In pc or laptops much of the software are not run by the system requirement by using this machines work requirement are complete by at low cost and we can stop or start at any time
 
@@ -434,6 +436,12 @@ In that they give a prical knowledge about virtual machine with linux
 - prepare for the Hacketon 
 
 
+## 25 July
+
+- I attend the webinar of resume writing session by conducted by our institute
+- I solve the week one Assignment of Python Course
+=======
+
 
 ## 19 July
 
@@ -445,5 +453,4 @@ In that they give a prical knowledge about virtual machine with linux
 
 - I solve the another Hackerrank assignment
 - Searching for new course about cloud base
-
 
