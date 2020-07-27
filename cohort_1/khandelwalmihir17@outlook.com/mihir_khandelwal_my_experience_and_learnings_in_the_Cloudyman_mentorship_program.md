@@ -157,40 +157,35 @@ Today I Learned:
 ## Date: July 8, 2020
 - Applied for certain internships on Internshala.
 - Going through the ongoing course of Google Cloud.
-
+## Date: July 9, 2020
+- Attended an online webinar at teams on Cloud Technologies from WinAble.
+- Learned the differnece between C and C++, from Javatpoint website.
 ## Date: July 10, 2020
 - Started with the basics of Java Programming, and practicing on Eclipse platform.
 - Doing other courses on Cognitive Cloud regarding Cloud Computing.
-=======
-
 ## Date: July 11, 2020
 - Applied for Internships.
 - Learned about Flutter.
-=======
-
 ## Date: July 12, 2020
 - Completed learning of basics of Java by the notes.
 - Have prepared for the IIRS course, starting from tomorrow.
-
-
 ## Date: July 13, 2020
 -  Maked group for KPIT competition.
 - Started with thw IIRC lectures.
-=======
-
 ## Date: July 14, 2020
 - Learned the C++ advantages over C, with the help of the site JavaTpoint.
 - In the IIRS lecture, learned about the animal species and the factors for it's decreasing rate. 
-=======
-
 ## Date: July 16, 2020
 - Taken an meeting on Corona Pandemic, through zoom, and discuss the topic to be selected for KPIT Sparkle 2020.
 - Started an online course of App Development through Coursera.
-
 ## Date: July 17, 2020
 - Got an certificate from Hamari Pehchan(NGO), by Internshala.
 - Project topic changed of KPIT Sparkle 2020.
 - Watched certain lectures of IIRS.
+## Date: July 18, 2020
+- Attended an online guest lecture on Career Opportunities in Project Management.
+- Updated my LinkedIn profile, with the latest achievements.
+- Started to learn about Arduino through YouTube.
 
 ## Date: July 9, 2020
 - Attended an online webinar at teams on Cloud Technologies from WinAble.
