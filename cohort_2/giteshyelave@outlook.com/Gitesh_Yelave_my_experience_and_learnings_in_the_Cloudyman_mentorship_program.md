@@ -1,9 +1,9 @@
 > # This blog is part of the **[Cloudyman Mentorship Program](https://t.co/78sRvCvYiO?amp=1)** under the mentorship of *[Mustafa Saifee](https://www.linkedin.com/in/saifeemustafaq/)*
 
-## Date: May 27, 2020
+> ## Date: May 27, 2020
 Today I learned how to use Github
 
-## Date: May 29, 2020
+> ## Date: May 29, 2020
 
 Today the speaker has explained us the purpose of learning cloud computing.
 
@@ -32,7 +32,7 @@ Not all clouds are the same and not ontype of cloud computing is right for every
 
 First, you need to determine the type of cloud deployment or cloud computing architecture, that your cloud services will be implemented on. There are three different ways to deploy cloud services: on a public cloud, private cloud or hybrid cloud.
 
-## Date: May 31, 2020
+> ## Date: May 31, 2020
 
 # Benefits of cloud computing
 
@@ -69,7 +69,9 @@ Virtual machines are software computers that provide the same functionality as p
 
 Virtual machines are created to perform specific tasks that are risky to perform in a host environment, such as accessing virus-infected data and testing operating systems. Since the virtual machine is sandboxed from the rest of the system, the software inside the virtual machine cannot tamper with the host computer. Virtual machines can also be used for other purposes such as server virtualization.
 
-## Date: June 5, 2020
+----------
+
+> ## Date: June 5, 2020
 
 # What is Microsoft Azure? 
 

@@ -1,17 +1,18 @@
 > # This blog is part of the **[Cloudyman Mentorship Program](https://t.co/78sRvCvYiO?amp=1)** under the mentorship of *[Mustafa Saifee](https://www.linkedin.com/in/saifeemustafaq/)*
 
 
-## Date: May 27, 2020
-
+> ## Date: May 27, 2020
 Today i learned how to use github
-=======
+
 > ## Date: May 27, 2020
 today i learned how to use github
 
-
 > ## Date: May 29, 2020
-
 Today the speaker explained us the purpose of learning cloud computing  
+
+_ _ _ _ _ _ _ _ _ _
+
+> ## Date: May 30, 2020
 
 # Cloud Computing :
 
@@ -73,10 +74,9 @@ Moving to cloud computing may reduce the cost of managing and maintaining your I
 
 - A virtual machine, usually known as a guest, is created within another computing environment referred as a "host." Multiple virtual machines can exist within a single host at one time.
 
-## Date: June 4, 2020
-=======
-> ## Date: June 4, 2020
+_ _ _ _ _ _ _ _ _ _
 
+> ## Date: June 4, 2020
 
 # What is Microsoft Azure?
 
@@ -126,3 +126,5 @@ Users can also leverage IoT services through the Azure platform. Azure applicati
 - Encode, Protect, Stream and Ingesting facility for applications
 
 Above listed benefits are not limited even there are many organizational benefits offered by Azure. The organizations can leverage the benefits and optimize their performance.
+
+_ _ _ _ _ _ _ _ _ _
