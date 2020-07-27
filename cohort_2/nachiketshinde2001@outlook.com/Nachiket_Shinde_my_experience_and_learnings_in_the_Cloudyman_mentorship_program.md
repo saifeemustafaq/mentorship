@@ -436,6 +436,12 @@ In that they give a prical knowledge about virtual machine with linux
 - prepare for the Hacketon 
 
 
+## 22 July
+
+- I complete another assignment of hackerrank
+- Learn about 
+=======
+
 ## 23 July
 
 - I completed week one of python course with Coursera
@@ -469,4 +475,3 @@ In that they give a prical knowledge about virtual machine with linux
 
 - I solve the another Hackerrank assignment
 - Searching for new course about cloud base
-
