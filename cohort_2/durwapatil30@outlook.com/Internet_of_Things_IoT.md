@@ -151,3 +151,67 @@ _ _ _ _ _ _ _ _ _ _
 - In order to program and control the flow of information in the Internet of things, a predicted architectural direction is being called BPM Everywhere which is a blending of traditional process management with process mining and special capabilities to automate the control of large numbers of coordinated devices.
 
 _ _ _ _ _ _ _ _ _ _
+
+> ## Date: July 19, 2020
+
+## Network architecture :
+
+- The Internet of things requires huge scalability in the network space to handle the surge of devices. IETF 6LoWPAN would be used to connect devices to IP networks.
+
+- With billions of devices being added to the Internet space, IPv6 will play a major role in handling the network layer scalability. IETF's Constrained Application Protocol, ZeroMQ, and MQTT would provide lightweight data transport.
+
+- Fog computing is a viable alternative to prevent such large burst of data flow through Internet. The edge devices' computation power to analyse and process data is extremely limited. Limited processing power is a key attribute of IoT devices as their purpose is to supply data about physical objects while remaining autonomous.
+
+- Heavy processing requirements use more battery power harming IoT's ability to operate. Scalability is easy because IoT devices simply supply data through the internet to a server with sufficient processing power.
+
+_ _ _ _ _ _ _ _ _ _
+
+## Complexity :
+
+- In semi-open or closed loops (i.e. value chains, whenever a global finality can be settled) the IoT will often be considered and studied as a complex system due to the huge number of different links, interactions between autonomous actors, and its capacity to integrate new actors. At the overall stage (full open loop) it will likely be seen as a chaotic environment (since systems always have finality).
+
+- As a practical approach, not all elements in the Internet of things run in a global, public space. Subsystems are often implemented to mitigate the risks of privacy, control and reliability. For example, domestic robotics (domotics) running inside a smart home might only share data within and be available via a local network.
+
+- Managing and controlling a high dynamic ad hoc IoT things/devices network is a tough task with the traditional networks architecture, Software Defined Networking (SDN) provides the agile dynamic solution that can cope with the special requirements of the diversity of innovative IoT applications.
+
+_ _ _ _ _ _ _ _ _ _
+
+## Size considerations :
+
+- The Internet of things would encode 50 to 100 trillion objects, and be able to follow the movement of those objects. Human beings in surveyed urban environments are each surrounded by 1000 to 5000 trackable objects.
+
+- In 2015 there were already 83 million smart devices in people's homes. This number is expected to grow to 193 million devices by 2020.
+
+- The figure of online capable devices grew 31% from 2016 to 2017 to reach 8.4 billion.
+
+_ _ _ _ _ _ _ _ _ _
+
+## Space considerations :
+
+- In the Internet of Things, the precise geographic location of a thing—and also the precise geographic dimensions of a thing—will be critical.
+
+- Therefore, facts about a thing, such as its location in time and space, have been less critical to track because the person processing the information can decide whether or not that information was important to the action being taken, and if so, add the missing information (or decide to not take the action). (Note that some things in the Internet of Things will be sensors, and sensor location is usually important.)
+
+- The GeoWeb and Digital Earth are promising applications that become possible when things can become organized and connected by location.
+
+- However, the challenges that remain include the constraints of variable spatial scales, the need to handle massive amounts of data, and an indexing for fast search and neighbor operations.
+
+- In the Internet of Things, if things are able to take actions on their own initiative, this human-centric mediation role is eliminated.
+
+- Thus, the time-space context that we as humans take for granted must be given a central role in this information ecosystem.
+
+- Just as standards play a key role in the Internet and the Web, geospatial standards will play a key role in the Internet of things.
+
+_ _ _ _ _ _ _ _ _ _
+
+## A solution to "basket of remotes" :
+
+- Many IoT devices have a potential to take a piece of this market.
+
+- Jean-Louis Gassée (Apple initial alumni team, and BeOS co-founder) has addressed this topic in an article on Monday Note, where he predicts that the most likely problem will be what he calls the "basket of remotes" problem, where we'll have hundreds of applications to interface with hundreds of devices that don't share protocols for speaking with one another.
+
+- For improved user interaction, some technology leaders are joining forces to create standards for communication between devices to solve this problem.
+
+- Others are turning to the concept of predictive interaction of devices, "where collected data is used to predict and trigger actions on the specific devices" while making them work together.
+
+_ _ _ _ _ _ _ _ _ _
