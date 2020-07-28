@@ -121,6 +121,21 @@ However, it's not always one-way communication. Depending on the IoT application
 
 ---
 
+
+## The difference between IoT and IIoT :
+
+| IoT              | IIoT        | 
+|:-----------------|:------------|
+| The full form of IoT is the **Internet of Things**. | The full form of IIoT is the **Industrial Internet of Things**. |
+| A service model is human-centric. | A service model is machine-centric. |
+| It supports customer-oriented applications. | It supports industry-oriented applications. |
+| Communication transportation is done through wireless devices. | Communication transportation is done through both wired and wireless devices. |
+|The quality of data is medium to high. | The quality of data is high to very high. |
+| Criticality is not severe. | Criticality is severe. |
+
+---
+
+
 # Advantages of IoT :
 
 - **Technical Optimization:** IoT technology helps a lot in improving technologies and making them better. Example, with IoT, a manufacturer is able to collect data from various car sensors. The manufacturer analyzes them to improve its design and make them more efficient.
