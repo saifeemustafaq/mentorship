@@ -10,7 +10,7 @@
 
    By means of low-cost computing, the cloud, big data, analytics, and mobile technologies, physical things can share and collect data with minimal human intervention. In this hyperconnected world, digital systems can record monitor, and adjust each interaction between connected things. The physical world meets the digital world--and they cooperate. 
 
-## What technologies have made IoT possible? 
+## What Technologies Have Made IoT Possible? 
 
    While the idea of IoT has been in existence for a long time, a collection of recent advances in a number of different technologies has made it practical. 
 
@@ -52,7 +52,7 @@
 
  - Easily and seamlessly connecting the physical business world to the digital world to drive quick time to value
 
-## What are IoT applications? 
+## What Are IoT Applications? 
 
 ### Business-Ready, SaaS IoT Applications
 
@@ -62,7 +62,7 @@
 
    With cloud-based IoT applications, business users can quickly enhance existing processes for supply chains, customer service, human resources, and financial services. There's no need to recreate entire business processes. 
 
-## What are the IoT applications? 
+## What Are the Top IoT Applications? 
 
    The ability of IoT provide sensor information as well as enable device-to-device communication is driving a broad set of applications. The following are some of the most popular applications and what they do. 
 
@@ -76,7 +76,7 @@
 
  - **Enable business process changes.** An example of this is the use of IoT devices to monitor the health of remote machines and trigger service calls for preventive maintenance. The ability to remotely monitor machines is also enabling new product-as-a-service business models, where customers no longer need to buy a product but instead pay for its usage. 
 
-## What industries can benefit from IoT? 
+## What Industries Can Benefit from IoT? 
 
    Organizations best suited for IoT are those that would benefit from using sensor devices in their business processes. 
 
@@ -103,6 +103,10 @@
    **Healthcare**
 
    IoT asset monitoring provides multiple benefits to the healthcare industry. Doctors, nurses, and orderlies often need to know the exact location of patient-assistance assets such as wheelchairs. When a hospital's wheelchairs are equipped with IoT sensors, they can be tracked from the IoT asset-monitoring application so that anyone looking for one can quickly find the nearest available wheelchair. Many hospital assets can be tracked this way to ensure proper usage as well as financial accounting for the physical assets in each department. 
+
+### General Safety Across All Industries
+
+In addition to tracking physical assets, IoT can be used to improve worker safety. Employees in hazardous environments such as mines, oil and gas fields, and chemical and power plants, for example, need to know about the occurrence of a hazardous event that might affect them. When they are connected to IoT sensor-based applications, they can be notified of accidents or rescued from them as swiftly as possible. 
 
 Artificial intelligence also has applications in financial industry, where it is used to detect and flag activity in banking and finance such as unusual debit card usage and large amount deposits, all of which help a bank's fraud department. Applications for AI are also being used to help streamline and make trading easier. This is done by making supply, denand, and pricing of securities easier to estimate. 
 
