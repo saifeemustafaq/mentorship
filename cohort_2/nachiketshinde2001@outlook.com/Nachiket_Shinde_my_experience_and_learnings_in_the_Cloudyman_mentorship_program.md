@@ -481,3 +481,8 @@ In that they give a prical knowledge about virtual machine with linux
 - I solve the another Hackerrank assignment
 - Searching for new course about cloud base
 
+## 28 July
+
+- Today i got message from intership 
+- I also complete another video of coursera week 2 video
+
