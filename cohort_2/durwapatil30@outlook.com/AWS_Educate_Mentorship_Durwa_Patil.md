@@ -182,6 +182,20 @@ _ _ _ _ _ _ _ _ _ _
 
 _ _ _ _ _ _ _ _ _ _
 
+# Availability and topology :
+
+- As of 2019, AWS has distinct operations in 22 geographical "regions": 7 in North America, 1 in South America, 6 in Europe, 1 in the Middle-East, 1 in Africa and 8 in Asia Pacific.
+
+- AWS has announced 3 new regions that will be coming online.
+
+- Each region is wholly contained within a single country and all of its data and services stay within the designated region.
+
+- Each region has multiple "Availability Zones", which consist of one or more discrete data centers, each with redundant power, networking and connectivity, housed in separate facilities.
+
+- Availability Zones do not automatically provide additional scalability or redundancy within a region, since they are intentionally isolated from each other to prevent outages from spreading between Zones.
+
+_ _ _ _ _ _ _ _ _ _
+
 # Advantages of AWS :
 
 Following are the pros of using AWS services:
