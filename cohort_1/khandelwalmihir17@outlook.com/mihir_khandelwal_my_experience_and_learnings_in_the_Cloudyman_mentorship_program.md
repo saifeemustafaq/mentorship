@@ -213,4 +213,6 @@ Today I Learned:
 ## Date: July 19, 2020
 - Attended an online meeting of Computer Netrworks with Fly High group.
 - Got an certificate from Hamari Pehchan Internship, as I was selected for it.
-
+## Date: July 31, 2020
+- Received an Certificate of Internship from 'The Brandiverse'.
+- Also received an LOR from the same.
