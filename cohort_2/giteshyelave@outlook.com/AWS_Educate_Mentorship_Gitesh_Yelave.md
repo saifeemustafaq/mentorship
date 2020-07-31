@@ -148,6 +148,24 @@ _ _ _ _ _ _ _ _ _ _
 
 _ _ _ _ _ _ _ _ _ _
 
+# Advantages of AWS :
+
+Following are the pros of using AWS services:
+
+- AWS allows organizations to use the already familiar programming models, operating systems, databases, and architectures.
+
+- It is a cost-effective service that allows you to pay only for what you use, without any up-front or long-term commitments.
+
+- You are allowed cloud access quickly with limitless capacity.
+
+- Offers fast deployments
+
+- You will not require to spend money on running and maintaining data centers.
+
+- You can easily add or remove capacity.
+
+_ _ _ _ _ _ _ _ _ _
+
 # Charitable work :
 
 - In 2017, AWS launched Amazon RE:Start in the United Kingdom to help young adults and military veterans retrain in technology-related skills.
