@@ -219,3 +219,13 @@ _ _ _ _ _ _ _ _ _ _
 - Hardware-level changes happen to your application which may not offer the best performance and usage of your applications.
 
 _ _ _ _ _ _ _ _ _ _
+
+# Charitable work :
+
+- In 2017, AWS launched Amazon RE:Start in the United Kingdom to help young adults and military veterans retrain in technology-related skills.
+
+- In partnership with the Prince's Trust and the Ministry of Defence (MoD), AWS will help to provide re-training opportunities for young people from disadvantaged backgrounds and former military personnel.
+
+- AWS is working alongside a number of partner companies including Cloudreach, Sage Group, EDF Energy and Tesco Bank.
+
+_ _ _ _ _ _ _ _ _ _
