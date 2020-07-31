@@ -182,6 +182,16 @@ _ _ _ _ _ _ _ _ _ _
 
 _ _ _ _ _ _ _ _ _ _
 
+# Pop-up lofts :
+
+- AWS also has "pop-up lofts" in different locations around the world.
+
+- These market AWS to entrepreneurs and startups in different tech industries in a physical location.
+
+- Visitors can work or relax inside the loft, or learn more about what they can do with AWS.
+
+_ _ _ _ _ _ _ _ _ _
+
 # Advantages of AWS :
 
 Following are the pros of using AWS services:
