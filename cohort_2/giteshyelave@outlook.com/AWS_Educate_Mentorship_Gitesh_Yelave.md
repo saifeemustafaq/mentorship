@@ -148,6 +148,16 @@ _ _ _ _ _ _ _ _ _ _
 
 _ _ _ _ _ _ _ _ _ _
 
+# Disadvantages of AWS :
+
+- If you need more immediate or intensive assistance, you'll have to opt for paid support packages.
+
+- AWS sets default limits on resources which differ from region to region. These resources consist of images, volumes, and snapshots.
+
+- Amazon Web Services may have some common cloud computing issues when you move to a cloud. For example, downtime, limited control, and backup protection.
+
+- Hardware-level changes happen to your application which may not offer the best performance and usage of your applications.
+
 # Charitable work :
 
 - In 2017, AWS launched Amazon RE:Start in the United Kingdom to help young adults and military veterans retrain in technology-related skills.
