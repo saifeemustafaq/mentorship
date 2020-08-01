@@ -481,3 +481,7 @@ In that they give a prical knowledge about virtual machine with linux
 - I solve the another Hackerrank assignment
 - Searching for new course about cloud base
 
+## 1 August
+
+- Today i solve the problem og hackkerank
+
