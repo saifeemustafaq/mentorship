@@ -144,6 +144,8 @@ It enables you to easily and efficiently run batch computing workloads of any sc
 
 Allows automated deployment and provisioning of resources like a highly scalable production website.
 
+----
+
 ## Management Tools :
 
 - **CloudWatch :** It can be used to monitor AWS environments like CPU utilization of EC2 and RDS instances and trigger alarms based on different metrics.
@@ -166,6 +168,8 @@ Allows automated deployment and provisioning of resources like a highly scalable
 
 - **Managed Services:** It provides ongoing management of your AWS infrastructure so you can focus on your applications.
 
+----
+
 ## Application Services :
 
 - **Step Functions :** A way of visualizing what’s going inside your application and what different microservices it is using.
@@ -178,59 +182,43 @@ Allows automated deployment and provisioning of resources like a highly scalable
 
 - **Elastic Transcoder :** Changes a video’s format and resolution to support different devices like tablets, smartphones, and laptops of different resolutions.
 
+----
+
 ## Storage :
 
-- **S3 (Simple Storage Service) :** 
+- **S3 (Simple Storage Service) :** Storage service of AWS in which we can store objects like files, folders, images, documents, songs, etc. It cannot be used to install software, games or Operating System.
 
-Storage service of AWS in which we can store objects like files, folders, images, documents, songs, etc. It cannot be used to install software, games or Operating System.
+- **EFS (Elastic File System) :** Provides file storage for use with your EC2 instances. It uses NFSv4 protocol and can beused concurrently by thousands of instances.
 
-- **EFS (Elastic File System) :** 
+- **Glacier :** It is an extremely low-cost archival service to store files for a long time like a few years or even decades.
 
-Provides file storage for use with your EC2 instances. It uses NFSv4 protocol and can beused concurrently by thousands of instances.
+- **Storage Gateway :** It is a virtual machine that you install on your on-premise servers. Your on-premise data can be backed up to AWS providing more durability.
 
-- **Glacier :** 
-
-It is an extremely low-cost archival service to store files for a long time like a few years or even decades.
-
-- **Storage Gateway :** 
-
-It is a virtual machine that you install on your on-premise servers. Your on-premise data can be backed up to AWS providing more durability.
+----
 
 ## Databases:
 
-- **RDS (Relational Database Service) :** 
+- **RDS (Relational Database Service) :** Allows you to run relational databases like MySQL, MariaDB, PostgreSQL, Oracle or SQL Server. These databases are fully managed by AWS like installing antivirus and patches.
 
-Allows you to run relational databases like MySQL, MariaDB, PostgreSQL, Oracle or SQL Server. These databases are fully managed by AWS like installing antivirus and patches.
+- **DynamoDB :** It is a highly scalable, high-performance NoSQL database. It provides single-digit millisecond latency at any scale.
 
-- **DynamoDB :** 
+- **Elasticache :** It is a way of caching data inside the cloud. It can be used to take load off of your database by caching most frequent queries.
 
-It is a highly scalable, high-performance NoSQL database. It provides single-digit millisecond latency at any scale.
+- **Neptune :** It has been launched recently. It is a fast, reliable and scalable graph database service.
 
-- **Elasticache :** 
+- **RedShift :** It is AWS’s data warehousing solution that can be used to run complex OLAP queries.
 
-It is a way of caching data inside the cloud. It can be used to take load off of your database by caching most frequent queries.
-
-- **Neptune :** 
-
-It has been launched recently. It is a fast, reliable and scalable graph database service.
-
-- **RedShift :** 
-
-It is AWS’s data warehousing solution that can be used to run complex OLAP queries.
+----
 
 ## Migration :
 
-- **DMS (Database Migration Service) :**
+- **DMS (Database Migration Service) :** It can be used to migrate on-site databases to AWS. It also allows you to migrate from one type of database to another. Eg -from Oracle to MySQL.
 
-It can be used to migrate on-site databases to AWS. It also allows you to migrate from one type of database to another. Eg -from Oracle to MySQL.
+- **SMS (Server Migration Service) :** It allows you to migrate on-site servers to AWS easily and quickly.
 
-- **SMS (Server Migration Service) :** 
+- **Snowball :** It is a briefcase sized appliance that can be used to send terabytes of data inside and outside of AWS.
 
-It allows you to migrate on-site servers to AWS easily and quickly.
-
-- **Snowball :**
-
-It is a briefcase sized appliance that can be used to send terabytes of data inside and outside of AWS.
+----
 
 ## Networking & Content Delivery :
 
@@ -244,7 +232,7 @@ It is a briefcase sized appliance that can be used to send terabytes of data ins
 
 - **API Gateway :** Allows you to create, store and manage APIs at scale.
 
-![](https://www.sam-solutions.com/blog/wp-content/uploads/2018/08/AWS-1-copy@2x.png)
+----
 
 ## Mobile Services :
 
@@ -258,6 +246,8 @@ It is a briefcase sized appliance that can be used to send terabytes of data ins
 
 - **Mobile Analytics :** Allows to simply and cost effectively analyze mobile data.
 
+----
+
 ## Business Productivity :
 
 - **Alexa for Business :** It lets you empower your organization with voice, using Alexa. Allows you to build custom voice skills for your organization.
@@ -267,6 +257,8 @@ It is a briefcase sized appliance that can be used to send terabytes of data ins
 - **WorkDocs :** Helps to store documents in the cloud
 
 - **WorkMail :** Allows you to send and receive business emails.
+
+----
 
 ## Artificial Intelligence :
 
@@ -280,16 +272,46 @@ It is a briefcase sized appliance that can be used to send terabytes of data ins
 
 - **SageMaker :** Helps you to build, train and deploy machine learning models at any scale.
 
-- **Comprehend :** It is a Natural Language Processing (NLP) service that uses machine learning to find insights and relationships in text. It can be used for sentiment analysis.
+- **Comprehend :** It is a Natural Language Processing (NLP) service that uses machine learning to find insights and relationships in text. It can be used for sentiment             analysis.
 
 - **Transcribe  :** It is the opposite of Polly. It is AWS’s speech-to-text service that provides that provides high-quality and affordable transcriptions.
 
 - **Translate :** It is like Google Translate and allows you to translate text in one language to another.
-AR & VR (Augmente
+
+----
+
+## Internet of Things :
+
+- **IoT Core :** It is a managed cloud AWS service. The service allows connected devices like cars, light bulbs, sensor grids, to securely interact with cloud applications and other devices.
+
+- **IoT Device Management :** It allows you to manage your IoT devices at any scale.
+
+- **IoT Analytics :** This AWS IOT service is helpful to perform analysis on data collected by your IoT devices.
+
+- **Amazon FreeRTOS :** This real-time operating system for microcontrollers helps you to connect IoT devices in the local server or into the cloud.
+
+---
+
+## Deployment and Management :
+
+- **AWS CloudTrail :** The services records AWS API calls and send backlog files to you.
+
+- **Amazon CloudWatch :** The tools monitor AWS resources like Amazon EC2 and Amazon RDS DB Instances. It also allows you to monitor custom metrics created by user's applications and services.
+
+- **AWS CloudHSM :** This AWS service helps you meet corporate, regulatory, and contractual, compliance requirements for maintaining data security by using the Hardware Security Module(HSM) appliances inside the AWS environment.
+
+----
+
+## Game Development :
+
+- **GameLift :** It is a service which is managed by AWS. You can use this service to host dedicated game servers. It allows you to scale seamlessly without taking your game offline.
+
+![](https://www.sam-solutions.com/blog/wp-content/uploads/2018/08/AWS-1-copy@2x.png)
+
 
 > # ***Companies using AWS***
 
-### **1.Instagram**
+### **1.Instagram** 
 
 ### **2. Zoopla** 
 
