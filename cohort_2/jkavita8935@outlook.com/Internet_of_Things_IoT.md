@@ -80,6 +80,33 @@ However, it's not always one-way communication. Depending on the IoT application
 
 ---
 
+# IoT Devices :
+
+![](https://www.pxosys.com/wp-content/uploads/2019/08/iot-cybersecurity.jpg)
+
+## 1.Amazon Echo :
+
+This is the voice controller it is a smart speaker that can respond to the voice commands (said by a human being) in IoT devices. This is done by using Alexa (it is an artificial intelligence personal assistant). We need to say things like play song, change the song, change room lights, research the internet, turn on the lights or adjust the doors, etc. We need to connect this device to Wi-Fi to use.
+
+## 2. Goggle Home (Voice Controller) :
+
+It will help us to make our day and life better. It is a Hi-Fi sound feature and a Mute option for security purposes. Suppose we want to know traffic on our route to office or market, we can add food lists, get reminders of our daily tasks or can ask what time meeting is scheduled, want to watch movies or tv shows, etc. All these questions are answered by the IoT devices. This device will manage our life and provide hand-free entertainment.
+
+## 3. Nest Cam Indoor :
+
+Everyone wants to secure home from this is the approach for it. Suppose if you go on a business trip for some days and want to observe your home from any location you can do that with this device. We will get the alert message over the phone if something bad happens like window breaks or sound. We can not watch the video every second. The device will record it and if we miss alert then it will send notification and photos of the activity. Have security at home for a home away. We can install it anywhere in the home-like wall, windows.
+
+## 4.Nest Thermostat :
+
+It will adjust the home temperature as per your like and build it around it will save energy and alert user if the temperature is dangerous to belongings. This will help the user to save heating and cooling bills. Suppose if you are at the office then the thermostat will sense it by using sensors and will check phone location if you are not at home and will set itself, save energy. The device will automatically adapt user life and season, just keep for one week and will program itself.
+
+## 5. Smart Band (Activity Tracker) :
+
+User needs to connect the band to the phone via it will track the number of steps you’ve walked, calories burned, measure heart rate, count sleeping hours, fitness tracking. We can see messages on the band and control it. Change music via the band.
+
+---
+
+
 # IoT protocols :
 
 - XMPP
