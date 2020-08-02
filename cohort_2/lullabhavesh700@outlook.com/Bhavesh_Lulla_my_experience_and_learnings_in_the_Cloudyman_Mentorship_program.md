@@ -104,6 +104,8 @@
 
    IoT asset monitoring provides multiple benefits to the healthcare industry. Doctors, nurses, and orderlies often need to know the exact location of patient-assistance assets such as wheelchairs. When a hospital's wheelchairs are equipped with IoT sensors, they can be tracked from the IoT asset-monitoring application so that anyone looking for one can quickly find the nearest available wheelchair. Many hospital assets can be tracked this way to ensure proper usage as well as financial accounting for the physical assets in each department. 
 
+Instead of selling cars, they can charge drivers usage fees, offering a "transportation-as-a-service" using autonomous cars. IoT allows manufacturers to upgrade their cars continuously with new software,
+
 Artificial intelligence also has applications in financial industry, where it is used to detect and flag activity in banking and finance such as unusual debit card usage and large amount deposits, all of which help a bank's fraud department. Applications for AI are also being used to help streamline and make trading easier. This is done by making supply, denand, and pricing of securities easier to estimate. 
 
 >## Key Takeaways
