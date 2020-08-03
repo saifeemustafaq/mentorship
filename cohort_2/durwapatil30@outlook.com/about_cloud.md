@@ -8,6 +8,12 @@
 
 - When disaster occurs, the affected data, applications and other resources can be restored to the local data center -- or a cloud provider -- and resume normal operation for the enterprise.
 
+- Users have the ability to add, edit and delete systems and storage capacity, without having to consider the back-end supported infrastructure.
+
+- A cloud-based disaster recovery solution enables the user to scale up the entire cloud DRP solution from some-to-many. The user is normally billed on a monthly basis only for the storage and client software licenses.
+
+- Most Cloud DR also provisions backup and recovery for critical server machines that host enterprise-level applications like MS-SQL, Oracle, etc.
+
 _ _ _ _ _ _ _ _ _ _
 
 ## Selecting a cloud DR provider :-
@@ -82,7 +88,7 @@ _ _ _ _ _ _ _ _ _ _
 
 _ _ _ _ _ _ _ _ _ _
 
-# What is Operational expenditure (OpeEx)?
+# What is Operational expenditure (OpeEx) ?
 
 ##### Ans. 
 
@@ -96,15 +102,7 @@ _ _ _ _ _ _ _ _ _ _
 
 _ _ _ _ _ _ _ _ _ _
 
-## Capex vs Opex Infographics
-
-Let’s see the top differences between Capex vs Opex.
-
-![](https://cdn.wallstreetmojo.com/wp-content/uploads/2018/11/Capex-vs-Opex.jpg)
-
-_ _ _ _ _ _ _ _ _ _
-
-## Key Differences
+## Key Differences :
 
 - As capital expenses involve the purchase of assets that have a useful life beyond the current accounting year, these expenses cannot be recovered in the year in which capital expenses are purchased.  
   Instead, the assets are capitalized and either amortized or depreciated over the life of the assets depending on whether it is tangible or intangible assets.  
