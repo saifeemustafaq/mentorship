@@ -224,6 +224,12 @@ _ _ _ _ _ _ _ _ _ _
 
 - If the organizations have uniform security, privacy and performance requirements, this multi-tenant data center architecture helps companies achieve their business-specific objectives. That is why a community model is particularly suited for organizations that work on joint projects. In that case, a centralized cloud facilitates project development, management and implementation. Also, the costs are shared across all users.
 
+- Community members generally share similar issues of privacy, performance, and security. This type of deployment model of cloud computing is managed and hosted internally or by a third-party vendor.
+
+- Access to a community cloud environment is typically restricted to the members of the community.
+
+- For joint business organizations, ventures, research organizations and tenders community cloud is the appropriate solution. Selection of the right type of cloud hosting is essential in this case. Thus, community-based cloud users need to know and analyze the business demand first.
+
 ![](https://www.sam-solutions.com/blog/wp-content/uploads/2017/08/community-cloud@2x.png)
 
 ### Strengths :
@@ -250,6 +256,10 @@ _ _ _ _ _ _ _ _ _ _
 
 - As an example, a company can balance its load by locating mission-critical workloads on a secure private cloud and deploying less sensitive ones to a public one. Hybrid cloud deployment model not only safeguards and controls strategically important assets but does so in the most cost- and resource-effective way possible for each specific case. Also, this approach facilitates data and application portability.
 
+- Non-critical tasks such as development and test workloads can be done using public cloud whereas critical tasks that are sensitive such as organization data handling are done using a private cloud.
+
+- A perfect example of this scenario would be that of an organization who uses the private cloud to secure their data and interacts with its customers using the public cloud.
+
 ![](https://www.sam-solutions.com/blog/wp-content/uploads/2017/08/hybrid-cloud@2x.png)
 
 ### Benefits :
@@ -259,6 +269,12 @@ _ _ _ _ _ _ _ _ _ _
 - Enhanced scalability and flexibility
 
 - Reasonable price
+
+### Drawbacks :
+
+- Complex networking problem
+
+- Organization's security Compliance
 
 _ _ _ _ _ _ _ _ _ _
 
