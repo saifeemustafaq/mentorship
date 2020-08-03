@@ -94,6 +94,12 @@ _ _ _ _ _ _ _ _ _ _
 
 ![](https://blog.comindware.com/wp-content/uploads/2018/12/opex-650x421.png)
 
+- Operating expenses include a wide range of expense types, from office supplies and travel and distribution expenses to licensing fees, utilities, property insurance, and property taxes.
+
+- If equipment is leased instead of purchased, it is typically considered an operating expense. General repairs and maintenance of existing fixed assets such as buildings and equipment are also considered operating expenses unless the improvements will increase the useful life of the asset.
+
+- This can be a financially attractive option for the company if the company has limited cash flow.
+
 _ _ _ _ _ _ _ _ _ _
 
 ## Capex vs Opex Infographics
@@ -277,13 +283,11 @@ _ _ _ _ _ _ _ _ _ _
 
 # What are the Types of cloud services ?
 
-![](https://blog.dwwtc.com/wp-content/uploads/2016/07/blogchart.jpg)
-
 ##### Ans. 
 
 Cloud computing services fall into 3 categories: Infrastructure as a service (IaaS), Platform as a service (PaaS) and Software as a service (SaaS). These are sometimes called the cloud computing stack, because they build on top of one another.
 
-![](https://whatiscloudcomputingwordpresscom.files.wordpress.com/2016/01/types-of-cloud.png?w=640)
+![](https://blog.dwwtc.com/wp-content/uploads/2016/07/blogchart.jpg)
 
 ### 1.) Infrastructure-as-a-service (IaaS) :
 
