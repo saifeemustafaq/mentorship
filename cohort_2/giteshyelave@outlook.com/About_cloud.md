@@ -14,6 +14,8 @@
 
 - Most Cloud DR also provisions backup and recovery for critical server machines that host enterprise-level applications like MS-SQL, Oracle, etc
 
+- When disaster occurs, the affected data, applications and other resources can be restored to the local data center -- or a cloud provider -- and resume normal operation for the enterprise.
+
 _ _ _ _ _ _ _ _ _ _ 
 
 ### How does disaster recovery in cloud computing differ from traditional disaster recovery ?
@@ -60,11 +62,15 @@ Disaster recovery in cloud computing can effectively deal with most issues of tr
 
 ## Benefits of cloud DR :-
 
-1. High-reliability and geo-redundancy :-)  
-          One essential hallmark of a cloud provider is a global footprint, ensuring multiple data centers to support users across major global geopolitical regions. Cloud providers use this to improve service reliability and ensure redundancy.
+**1. High-reliability and geo-redundancy :-)** One essential hallmark of a cloud provider is a global footprint, ensuring multiple data centers to support users across major global geopolitical regions. Cloud providers use this to improve service reliability and ensure redundancy.
+ 
+**2. Easy testing and fast recovery :-)** Cloud workloads routinely operate with VMs, making it easy to copy VM image files to in-house test servers to validate workload availability without affecting production workloads  
+                   
+**3.Pay-as-you-go options :-)** Organizations that deployed do-it-yourself (DIY) DR facilities faced significant capital costs, while engaging managed colocation providers for off-site DR services often locked organizations into long-term service agreements.
 
-2. Easy testing and fast recovery :-)  
-          Cloud workloads routinely operate with VMs, making it easy to copy VM image files to in-house test servers to validate workload availability without affecting production workloads
+**4.Flexibility and scalability :-)** Traditional DR approaches, usually implemented in local or remote data centers, often imposed limitations in flexibility and scalability.
+
+_ _ _ _ _ _ _ _ _ _ 
 
 > ## Date: June 9, 2020
 
