@@ -165,6 +165,10 @@ A cloud deployment model is a specific configuration of environment parameters s
 
 - The public cloud deployment model is the first choice for businesses that operate within the industries with low privacy concerns. When it comes to popular public cloud deployment models, examples are Amazon Elastic Compute Cloud (Amazon EC2) — the top service provider, Microsoft Azure, Google App Engine, IBM Cloud, Salesforce Heroku and others.
 
+- Public Cloud model offers high scalability, automated maintenance but more vulnerable to attacks due to high levels of accessibility.
+
+- Public cloud is better suited for business purposes for managing the load. This type of cloud is economical due to the decrease in capital overheads.
+
 ![](https://www.sam-solutions.com/blog/wp-content/uploads/2017/08/a-cloud-provider@2x.png)
 
 ### Advantages:
@@ -203,6 +207,12 @@ _ _ _ _ _ _ _ _ _ _
 - If compared to a public cloud, a private one provides wider opportunities for customizing the infrastructure to the company’s requirements. A private model is especially suitable for companies that seek to safeguard their mission-critical operations or for businesses with changing requirements.
 
 - Multiple public cloud service providers — including Amazon, IBM, Cisco, Dell and Red Hat — also provide private solutions along with public ones.
+
+- The Private Cloud model offers great levels of security and control, though cost benefits ought to be sacrificed to some extent.
+
+- Business organizations that have dynamic, critical, secured, management demand based requirement should adopt Private Cloud.
+
+- Common Private Cloud providers include VMware and Openstack.
 
 ![](https://www.sam-solutions.com/blog/wp-content/uploads/2017/08/a-private-cloud@2x.png)
 
