@@ -481,3 +481,7 @@ In that they give a prical knowledge about virtual machine with linux
 - I solve the another Hackerrank assignment
 - Searching for new course about cloud base
 
+
+## 3 August
+
+- Today i complete week 2 of coursera python course
