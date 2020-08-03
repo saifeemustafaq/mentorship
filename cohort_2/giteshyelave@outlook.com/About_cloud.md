@@ -149,6 +149,8 @@ _ _ _ _ _ _ _ _ _ _
 - Raw materials and supplies
 - Office overheads
 
+_ _ _ _ _ _ _ _ _ _      
+
 > ## Date: June 10, 2020
 
 # What are the Cloud deployment models ?
@@ -169,29 +171,22 @@ A cloud deployment model is a specific configuration of environment parameters s
 
 ### Advantages:
 
-#### Hassle-free infrastructure management.
-     Having a third party running your cloud infrastructure is convenient: you do not need to develop and maintain your software as the service provider does it for you.
-
-#### High scalability.
-     You can easily extend the available capacity as your company requirements increase.
-
-#### Reduced costs.
-     You pay only for the service you use, no need to invest in hardware or software.
-
-#### 24/7 uptime.
-     An extensive network of the provider’s servers ensures the constant availability of your infrastructure and its improved operation time.
+**Hassle-free infrastructure management :** Having a third party running your cloud infrastructure is convenient: you do not need to develop and maintain your software as the service provider does it for you.
+     
+**High scalability:** You can easily extend the available capacity as your company requirements increase.
+     
+**Reduced costs :** You pay only for the service you use, no need to invest in hardware or software.
+    
+**24/7 uptime :** An extensive network of the provider’s servers ensures the constant availability of your infrastructure and its improved operation time.
 
 ### Disadvantages
 
-#### Compromised reliability.
-     That same server network is also meant to ensure against failures.
-
-#### Data security and privacy give rise to concern.
-     Although access to data is easy, a public deployment model deprives users of knowing where their information is kept and who has access to it.
-
-#### The lack of a bespoke service.
-     Service providers have only standardized service options, which is why they will probably fail to satisfy their requirements if they are unusual.
-
+**Compromised reliability :**   That same server network is also meant to ensure against failures.
+   
+**Data security and privacy give rise to concern :**  Although access to data is easy, a public deployment model deprives users of knowing where their information is kept and who has access to it.
+    
+**The lack of a bespoke service :** Service providers have only standardized service options, which is why they will probably fail to satisfy their requirements if they are unusual.
+     
 _ _ _ _ _ _ _ _ _ _
 
 # 2.) Private Cloud :
@@ -272,7 +267,7 @@ _ _ _ _ _ _ _ _ _ _
 
 Cloud computing has evolved over the time it has been majorly divided into three broad service categories: Infrastructure as a Service(IAAS), Platform as a Service (PAAS) and Software as a Service (SAAS) which are broadly discussed below:
 
-![](https://www.uniprint.net/wp-content/uploads/2017/05/Cloud-service-models-diagram.png)
+
 
 ### 1. Infrastructure As A Service (IAAS) :
 
@@ -321,5 +316,7 @@ _ _ _ _ _ _ _ _ _ _
 - PAAS providers then charge for that access on a per-user basis or on a monthly basis.
 
 - Some key players offering PaaS are Bluemix, CloudBees, Salesforce.com, Google App Engine, Heroku, AWS, Microsoft Azure, OpenShift, Oracle Cloud, SAP and OpenShift.
+
+![](https://www.uniprint.net/wp-content/uploads/2017/05/Cloud-service-models-diagram.png)
 
 _ _ _ _ _ _ _ _ _ _
