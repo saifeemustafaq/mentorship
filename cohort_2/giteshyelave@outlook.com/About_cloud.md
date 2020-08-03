@@ -84,6 +84,10 @@ _ _ _ _ _ _ _ _ _ _
 
 - Examples of capital expenses include the purchase of fixed assets, such as new buildings or business equipment, upgrades to existing facilities, and the acquisition of intangible assets, such as patents.
 
+- Capex or expenses are depreciated or amortized over a span of years. For example, it can buy equipment/ buildings or add value to an existing asset to upgrade beyond the current financial year.
+
+- Most often capital expenses are mostly depreciated over a five to ten years period, but sometimes may be depreciated over twenty years in the case of real estate properties.
+
 _ _ _ _ _ _ _ _ _ _
 
 # What is Operational expenditure (OpeEx)?
@@ -100,13 +104,9 @@ _ _ _ _ _ _ _ _ _ _
 
 -  If equipment is leased instead of purchased, it is typically considered an operating expense. General repairs and maintenance of existing fixed assets such as buildings and equipment are also considered operating expenses unless the improvements will increase the useful life of the asset.
 
-_ _ _ _ _ _ _ _ _ _
-
 - This can be a financially attractive option for the company if the company has limited cash flow.
 
-
-
-![](https://cdn.wallstreetmojo.com/wp-content/uploads/2018/11/capex-vs-opex-1.jpg)
+- Operating expenses are completely tax-deductible. Therefore it is more attractive for a company to lease an item and assign its cost to operating expenses rather than purchase it.
 
 _ _ _ _ _ _ _ _ _ _
 
