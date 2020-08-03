@@ -193,23 +193,21 @@ _ _ _ _ _ _ _ _ _ _
 
 ### Advantages :
 
-* #### Highly private and secured :
-  Private cloud resource sharing is highly secured.
-* #### Control Oriented :
-  Private clouds provide more control over its resources than public cloud as it can be accessed within the organization's boundary.
+**Highly private and secured :** Private cloud resource sharing is highly secured.
 
-* Bespoke and flexible development and high scalability, which allows companies to customize their infrastructures in accordance with their requirements
+**Control Oriented :** Private clouds provide more control over its resources than public cloud as it can be accessed within the organization's boundary.
+
+Bespoke and flexible development and high scalability, which allows companies to customize their infrastructures in accordance with their requirements
 
 ### Disadvantages :
 
-* #### Poor scalability :
-  Private type of clouds is scaled within internal limited hosted resources.
-* #### Costly :
-  As it provides secured and more features, so it's more expensive than a public cloud.
-* #### Pricing :
-  Is inflexible; i.e., purchasing new hardware for up-gradation is more costly.
-* #### Restriction :
-  It can be accessed locally within an organization and is difficult to expose globally.
+**Poor scalability :** Private type of clouds is scaled within internal limited hosted resources.
+
+**Costly :** As it provides secured and more features, so it's more expensive than a public cloud.
+
+**Pricing :** Is inflexible; i.e., purchasing new hardware for up-gradation is more costly.
+
+**Restriction :** It can be accessed locally within an organization and is difficult to expose globally.
 
 _ _ _ _ _ _ _ _ _ _
 
