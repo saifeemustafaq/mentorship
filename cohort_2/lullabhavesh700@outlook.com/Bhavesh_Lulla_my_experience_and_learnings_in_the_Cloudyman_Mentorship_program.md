@@ -2,6 +2,8 @@
 
 ## Internet of Things (IoT) 
 
+![](https://camo.githubusercontent.com/5da7a51f5eeacdad3b94496919bc946e21e59d89/68747470733a2f2f656e7465727072697365727370726f6a6563742e636f6d2f73697465732f64656661756c742f66696c65732f7374796c65732f363230783335302f7075626c69632f696d616765732f43494f5f496f545f312e706e673f69746f6b3d5953367967373848) 
+
    The Internet of Things (IoT) describes the network of physical objects--"things"-- that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the internet. These devices range from ordinary household objects to sophisticated industrial tools. With more than 7 billion connected IoT devices today, experts are expecting this number to grow to 10 billion by 2020 and 22 billion by 2025.
 
 ## Why is IoT so important? 
