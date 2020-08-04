@@ -252,10 +252,27 @@ Improvement in overall performance.
 The load balancing techniques are easy to implement and less expensive. Moreover, the problem of sudden outages is diminished****
 
 ### v. Cloud Analytics
-Cloud analytics can become an interesting topic for researchers, as it has evolved from the diffusion of data analytics and cloud computing technologies. The Cloud analytics is beneficial for small as well as large organizations. It has been observed that there is tremendous growth in the cloud analytics market. Moreover, it can be delivered through various models such as
+Cloud analytics can become an interesting topic for researchers, as it has evolved from the diffusion of data analytics and cloud computing technologies. The Cloud analytics is beneficial for small as well as large organizations. It has been observed that there is tremendous growth in the cloud analytics market. Moreover, it can be delivered through various models such as#
 
 - Public
 - Private
 - Hybrid
 -C ommunity model
 Analysis has a wide scope, as there are many segments to perform research. Some of the segments are business intelligence tools, enterprise information management, analytics solutions, governance, risk and compliance, enterprise performance management, and complex event processing
+/---------
+
+### What is cloud analytics?
+
+
+Cloud analytics is the use of remote public or private computing resources—known as the cloud—to analyze data on demand. Cloud computing analytics helps streamline the business intelligence process of gathering, integrating, analyzing, and presenting insights to enhance business decision making.
+
+#### How cloud analytics works
+Cloud analytics works by allowing a business to use the advanced data analytics tools available on cloud analytics platforms to analyze vast quantities of data. Businesses can then report and store those findings for repeat use. Cloud analytics offerings are typically offered as a subscription or pay on a volume of data or query basis. Cloud analytics has proven to be a faster way to gain business-critical insight for decision making.
+
+Advantages of cloud analytics
+Advantages of cloud analytics include helping businesses more efficiently process and report data findings, enhance collaboration, and provide decision-makers faster access to business intelligence.
+
+### Scalability & agility
+Scalability, in volume of users and data, is one of the advantages of cloud analytics. Another is the increased agility to ask new questions on demand. Cloud computing can enable the abilities to add data storage and data analysis capacity as needed. In this way, businesses can most efficiently scale the storing, processing, and leveraging of data through insights that reflect changing market conditions.
+
+--------
