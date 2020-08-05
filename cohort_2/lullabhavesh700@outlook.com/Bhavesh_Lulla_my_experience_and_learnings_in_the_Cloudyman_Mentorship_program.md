@@ -163,3 +163,9 @@ AI is continuously evolving to benefit many different industries. Machines are w
 The applications for artificial intelligence are endless. The technology can be applied to many different sectors and industries. AI is being tested and used in the healthcare industry for dosing drugs and different treatment in patients, and for surgical procedures in the operating room. 
 
 Other examples of machines with artificial intelligence include computers that play chess and self-driving cars. Each of these machines must weigh the consequences of any action they take, as each action will impact the end result. In chess, the end result is winning the game. For self-driving cars, the computer system must account for all external data and compute it to act in a way that prevents a collision. 
+
+## Artificial Intelligence Vs Cloud Computing
+
+![](https://camo.githubusercontent.com/2da708d23eda45bbc17bcc1a97a5f8279919da4c/68747470733a2f2f69322e77702e636f6d2f7777772e77656275746572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30352f41492d56732d436c6f75642e706e673f773d313230302673736c3d31)
+
+Cloud computing has already influenced the technology market to a bigger extent. However, recent developments in artificial intelligence (AI) and increasing challenges faced by programmers in the cloud computing age will bring in more changes. Everyone knows the potential of cloud technology and its impact on the business market.
