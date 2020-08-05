@@ -481,3 +481,6 @@ In that they give a prical knowledge about virtual machine with linux
 - I solve the another Hackerrank assignment
 - Searching for new course about cloud base
 
+## 5 August
+
+- Today i attend the webinar on the codevita 
