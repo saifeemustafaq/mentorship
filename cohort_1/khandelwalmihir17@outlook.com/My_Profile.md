@@ -10,7 +10,7 @@
 - Contnet writing.(Also done an Internship on it).
 - Leading any task or any responsibilities.
 - Likes to surf on internet about any technical updates.
-- Coding lover.
+- Does each online competitions.
 
 ## My achievements:
 1. Learned certified App Development and Data Science training at Internshala.
