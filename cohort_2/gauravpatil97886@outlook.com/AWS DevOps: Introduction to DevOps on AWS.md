@@ -267,4 +267,34 @@ With Jenkins, you can set up and customize your CI/CD pipeline according to your
 ![](https://raygun.com/blog/images/best-devops-tools/jenkins-pipeline.png)
 
 ****Jenkins: DevOps tool****
+-----
 
+
+## What is DevOps?
+
+DevOps is a software development strategy which bridges the gap between the developers and the IT staff. With DevOps, organizations can release small features very quickly and incorporate the feedback which they receive, very quickly. Following are some other benefits:
+
+### Fewer Software Failure
+Shortened lead time between fixes
+It overcomes all the limitations of the traditional waterfall model. DevOps process involves a lot of development, testing and deployment technologies for developing automated CI/ CD pipelines. Following are some of the famous DevOps tools:
+Git and GitHub — Source code management (Version Control System)
+Jenkins — Automation server, with plugins built for developing CI/ CD pipelines
+Selenium — Automation testing
+Docker — Software Containerization Platform
+Kubernetes — Container Orchestration tool
+Puppet — Configuration Management and Deployment
+Chef — Configuration Management and Deployment
+Ansible — Configuration Management and Deployment
+Nagios — Continuous Monitoring
+Now, let us understand who is a DevOps Engineer?
+
+
+-----
+
+
+## Who is a DevOps Engineer?
+DevOps Engineer is somebody who understands the Software Development Lifecycle and has the outright understanding of various automation tools for developing digital pipelines (CI/ CD pipelines).
+But the question still endures “ Who is a DevOps Engineer? “
+DevOps Engineer works with developers and the IT staff to oversee the code releases. They are either developers who get interested in deployment and network operations or sysadmins who have a passion for scripting and coding and move into the development side where they can improve the planning of test and deployment.
+
+------
