@@ -259,3 +259,20 @@ Cloud analytics can become an interesting topic for researchers, as it has evolv
 - Hybrid
 -C ommunity model
 Analysis has a wide scope, as there are many segments to perform research. Some of the segments are business intelligence tools, enterprise information management, analytics solutions, governance, risk and compliance, enterprise performance management, and complex event processing
+
+
+## Google Cloud Storage 
+
+sa RESTful online file storage web service for storing and accessing data on Google Cloud Platform infrastructure. The service combines the performance and scalability of Google's cloud with advanced security and sharing capabilities. It is an Infrastructure as a Service (IaaS), comparable to Amazon S3 online storage service. Contrary to Google Drive and according to different service specifications, Google Cloud Storage appears to be more suitable for enterprises.[1]
+
+### Feasibility	Edit
+
+
+#### User activation is resourced through the API Developer Console. Google Account holders must first access the service by logging in and then agreeing to the Terms of Service, followed by enabling a billing structure.
+
+#### Google Storage offers four storage classes, identical in throughput, latency and durability. The four classes, Multi-Regional Storage, Regional Storage, Nearline Storage, and Coldline Storage, differ in their pricing, minimum storage durations, and availability.[2]
+
+#### Interoperability - Google Storage is interoperable with other cloud storage tools and libraries that work with services such as Amazon S3 and Eucalyptus Systems.[3]
+Consistency - Upload operations to Google Storage are atomic, providing strong read-after-write consistency for all upload operations.
+Access Control - Google Storage uses access control lists (ACLs) to manage object and bucket access. An ACL consists of one or more entries, each granting a specific permission to a scope. Permissions define what someone can do with an object or bucket (for example, READ or WRITE). Scopes define who the permission applies to. For example, a specific user or a group of users (such as Google account email addresses, Google Apps domain, public access, etc.)
+
