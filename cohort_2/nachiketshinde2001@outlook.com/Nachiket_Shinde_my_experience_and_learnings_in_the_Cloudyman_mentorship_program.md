@@ -481,3 +481,8 @@ In that they give a prical knowledge about virtual machine with linux
 - I solve the another Hackerrank assignment
 - Searching for new course about cloud base
 
+
+## 10 August
+
+- today i complete week 3 for courersa course
+- i got batch from IBM
