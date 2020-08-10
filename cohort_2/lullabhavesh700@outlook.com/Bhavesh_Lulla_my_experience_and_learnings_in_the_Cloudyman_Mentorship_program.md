@@ -163,3 +163,7 @@ AI is continuously evolving to benefit many different industries. Machines are w
 The applications for artificial intelligence are endless. The technology can be applied to many different sectors and industries. AI is being tested and used in the healthcare industry for dosing drugs and different treatment in patients, and for surgical procedures in the operating room. 
 
 Other examples of machines with artificial intelligence include computers that play chess and self-driving cars. Each of these machines must weigh the consequences of any action they take, as each action will impact the end result. In chess, the end result is winning the game. For self-driving cars, the computer system must account for all external data and compute it to act in a way that prevents a collision. 
+
+From the perspective of the growing cloud technology, IoT and mobile capabilities come out as an addition to the present cloud capabilities. 
+
+Conflicting with the IoT and mobile model, applications-based on Artificial Intelligence need specific run-time optimized for GPU intensive AI solutions, along with the refined backend services.
