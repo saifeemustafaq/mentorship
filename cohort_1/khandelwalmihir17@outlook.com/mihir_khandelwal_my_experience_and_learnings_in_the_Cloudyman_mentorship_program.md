@@ -213,4 +213,6 @@ Today I Learned:
 ## Date: July 19, 2020
 - Attended an online meeting of Computer Netrworks with Fly High group.
 - Got an certificate from Hamari Pehchan Internship, as I was selected for it.
-
+## Date: August 10, 2020
+- Attended and webinar of mind control and concentration.
+- Done Data Science Statistics completely.
