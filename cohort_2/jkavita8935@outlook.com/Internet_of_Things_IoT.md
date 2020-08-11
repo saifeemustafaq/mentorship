@@ -79,6 +79,29 @@ However, it's not always one-way communication. Depending on the IoT application
 | Smart supply chain | Helps you in real time tracking of goods while they are on the road, or getting suppliers to exchange inventory information. |     
 
 ---
+#  IoT gateways :
+
+- Gateways connect IoT devices to the cloud. Data collected from IoT devices moves through a gateway, gets preprocessed at the edge and then gets sent to the cloud.
+
+- Using IoT gateways prolongs battery life, lowers latency and reduces transmission sizes. Gateways also let you connect devices without direct internet access and provide an additional layer of security by protecting data moving in both directions.
+
+# connect IoT devices to the network :
+
+The type of connectivity you need depends on the device, its function and its users. Typically, the distance that the data must travel—either short-range or long-range—determines the type of IoT connectivity needed.
+
+# Properties of IoT Devices :
+
+Some of the essential properties of IoT devices are mention below:
+
+**1. Sense:** The devices that sense its surrounding environment in the form of temperature, movement, and appearance of things, etc.
+
+**2. Send and receive data:** IoT devices are able to send and receive the data over the network connection.
+
+**3. Analyze:** The devices can able to analyze the data that received from the other device over the internet networks.
+
+**4. Controlled:** IoT devices may control from some endpoint also. Otherwise, the IoT devices are themselves communicate with each other endlessly leads to the system failure.
+
+---
 
 # IoT protocols :
 
