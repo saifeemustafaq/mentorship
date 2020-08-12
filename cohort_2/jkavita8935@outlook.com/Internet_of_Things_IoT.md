@@ -82,21 +82,56 @@ However, it's not always one-way communication. Depending on the IoT application
 
 # IoT protocols :
 
-- XMPP
+- IoT communication protocols are modes of communication that protect and ensure optimum security to the data being exchanged between connected devices. 
 
-- AMQP
+- The IoT devices are typically connected to the Internet via an IP (Internet Protocol) network. However, devices such as Bluetooth and RFID allow IoT devices to connect locally. In these cases, there’s a difference in power, range, and memory used. Connection through IP networks are comparatively complex, requires increased memory and power from the IoT devices while the range is not a problem. On the other hand, non-IP networks demand comparatively less power and memory but have a range limitation. 
 
-- Very Simple Control Protocol (VSCP)
+- **Messaging and Presence Protocol (XMPP) :**
 
-- Data Distribution Service (DDS)
+The XMPP is uniquely designed. It uses a push mechanism to exchange messages in real-time. XMPP is flexible and can integrate with the changes seamlessly. Developed using open XML (Extensible Markup Language), XMPP works as a presence indicator showing the availability status of the servers or devices transmitting or receiving messages.   
 
-- MQTT protocol
+Other than the instant messaging apps such as Google Talk and WhatsApp, XMPP is also used in online gaming, news websites, and Voice over Internet Protocol (VoIP). 
 
-- WiFi
+- **Advanced Message Queuing Protocol (AMQP) :**
 
-- Simple Text Oriented Messaging Protocol(STOMP)
+AMQP is a software layer protocol for message-oriented middleware environment that provides routing and queuing. It is used for reliable point-to-point connection and supports the seamless and secure exchange of data between the connected devices and the cloud. AMQP consists of three separate components namely Exchange, Message Queue, and Binding. All these three components ensure a secure and successful exchange and storage of messages. It also helps in establishing the relationship of one message with the other. 
 
-- Zigbee
+AMQP protocol is mainly used in the banking industry. Whenever a message is sent by a server, the protocol tracks the message until each message is delivered to the intended users/destinations without failure. 
+
+
+-  **Bluetooth:**
+
+Bluetooth is one of the most widely used protocols for short-range communication. It is a standard IoT protocol for wireless data transmission. This communication protocol is secure and perfect for short-range, low-power, low-cost, and wireless transmission between electronic devices. BLE (Bluetooth Low Energy) is a low-energy version of Bluetooth protocol that reduces the power consumption and plays an important role in connecting IoT devices. 
+
+Bluetooth protocol is mostly used in smart wearables, smartphones, and other mobile devices, where small fragments of data can be exchanged without high power and memory. Offering ease of usage, Bluetooth tops the list of IoT device connectivity protocols.
+
+-  **IoT Data Protocols :**
+
+IoT data protocols are used to connect low power IoT devices. These protocols provide point-to-point communication with the hardware at the user side without any Internet connection. Connectivity in IoT data protocols is through a wired or a cellular network. Some of the IoT data protocols are:
+
+- **Machine-to-Machine (M2M) Communication Protocol :**
+
+It is an open industry protocol built to provide remote application management of IoT devices. M2M communication protocols are cost-effective and use public networks. It creates an environment where two machines communicate and exchange data. This protocol supports the self-monitoring of machines and allows the systems to adapt according to the changing environment.  
+
+M2M communication protocols are used for smart homes, automated vehicle authentication, vending machines, and ATM machines. 
+
+- **WiFi**
+
+For IoT integration, WiFi is a favored choice according to many electronic designers. It is because of the infrastructure it bears. It has quick data transfer rates along with the aptitude to control a large quantity of data.
+
+The widespread WiFi standard 802.11 presents you the ability to transfer hundreds of megabits in only one second. The only own drawback of this IoT protocol is it can consume excessive power for some of the IoT Application. It ranges approximately 50 m, and along with working on internet protocol standards, it includes IoT Cloud infrastructure access. The frequencies are 2.4GHz and 5GHz bands.
+
+- **HTTP (HyperText Transfer Protocol):**
+
+HyperText Transfer Protocol is the best example of IoT network protocol. This protocol has formed the foundation of data communication over the web. It is the most common protocol that is used for IoT devices when there is a lot of data to be published. However, the HTTP protocol is not preferred because of its cost, battery-life, energy saving, and more constraints.
+
+Additive manufacturing/3D printing is one of the use cases of the HTTP protocol. It enables computers to connect 3D printers in the network and print three-dimensional objects and pre-determined process prototypes.
+
+- **ZigBee**
+
+ZigBee is an IoT protocol that allows smart objects to work together. It is commonly used in home automation. More famous for industrial settings, ZigBee is used with apps that support low-rate data transfer between short distances. 
+
+Street lighting and electric meters in urban areas, which provides low power consumption, use the ZigBee communication protocol.  It is also used with security systems and in smart homes.
 
 ---
 
