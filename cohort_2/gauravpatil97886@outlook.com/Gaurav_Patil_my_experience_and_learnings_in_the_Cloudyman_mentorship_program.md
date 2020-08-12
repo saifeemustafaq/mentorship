@@ -782,3 +782,29 @@ Click here to learn what are malware threats prevention techniques.
 
 Want to protect your endpoints from malware using a single security manager? Comodo offers Advanced Endpoint Protection that secures the endpoint devices against malware.
 
+-----
+
+## Date 12 august,2020
+
+ 
+## DevOps Tools
+
+Home > Solutions > DevOps Services > DevOps Tools
+
+## DevOps Automation Tools
+
+![](https://www.veritis.com/wp-content/uploads/2018/03/DevOps-Tools-768x465.jpg)
+
+
+
+
+
+
+
+------
+Configuration Tools for Continuous Deployment
+DevOps is one technology trend that has really changed the way IT firms operate. DevOps model appeared as a boon to those firms facing challenges with regard to faster deployment and in-time product release. More than as a technology, DevOps brought-in a new culture in functioning by bridging gaps between development and operations teams, which are key to any IT organization. DevOps ToolsAs the firms started realizing DevOps potential, the immediate challenge they had is with the implementation. Though they have multiple strategies, there still existed gaps in a
+full-fledged DevOps implementation. And, DevOps tools appeared as a solution! However, no single tool can be a one-stop solution to a full-fledged DevOps adoption and so, there are a wide variety of DevOps tools for every specific DevOps requirement. DevOps tools facilitate ways for effective sharing and exchange of resources, information and technical know-how of the tasks between the development, operations and security teams for an effective product output.
+
+
+------
