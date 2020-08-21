@@ -20,6 +20,8 @@
 >### Languages I know:
 
  - C 
+ 
+ - C++
 
  - Python
 
