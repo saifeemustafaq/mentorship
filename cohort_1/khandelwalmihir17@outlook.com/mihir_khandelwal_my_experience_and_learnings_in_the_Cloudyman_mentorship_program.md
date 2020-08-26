@@ -213,4 +213,6 @@ Today I Learned:
 ## Date: July 19, 2020
 - Attended an online meeting of Computer Netrworks with Fly High group.
 - Got an certificate from Hamari Pehchan Internship, as I was selected for it.
-
+## Date: 26 August, 2020
+- Joined a class of Java.
+- Started an 9 week course of google.
