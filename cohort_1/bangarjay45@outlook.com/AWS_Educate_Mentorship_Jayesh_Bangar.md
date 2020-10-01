@@ -157,7 +157,6 @@ AWS provides a range of services for cloud security, including AWS Identity and 
 - Amazon Kinesis, which provides several tools to process and analyze streaming data.
 - AWS Glue, which is a service that handles extract, transform and load jobs.
 - Amazon Elasticsearch Serviceenables a team to perform application monitoring, log analysis and other tasks with the open source Elasticsearch tool.
-- Amazon Athena for S3, which allows analysts to query data.
 - Amazon QuickSight, which help analysts visualize data.
 
 
