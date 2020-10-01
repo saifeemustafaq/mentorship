@@ -59,7 +59,7 @@ AWS is made up of so many different cloud computing products and services. The h
 - As of February 2020, one independent analyst reports AWS has over a third of the market.
 
 AWS has 76 availability zones in which its servers are located. These serviced regions are divided in order to allow users to set geographical limits on their services (if they so choose), but also to provide security by diversifying the physical locations in which data is held. 
-- Overall, AWS spans 245 countries and territories.
+- Overall, AWS spans 245 countries.
 
 
 ## Cost Savings:
