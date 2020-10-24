@@ -225,3 +225,11 @@ Not only that, but cloud technology is extremely cost effective, and a company c
 
 
 ------++
+
+
+### What's under the hood of Azure Cloud Shell?
+The Azure Cloud Shell is something that I've took for granted since it launched at Build 2017. I always knew that I could use it to run CLI 2.0 commands and didn't really stop to think what is "Under the hood"... until now.
+
+When you first open the Cloud Shell, you will find that it requires you to create a Storage account. The reason for that Storage Account is to persist the scripts, keys, etc that you'll use over and over as you interact with your resources.
+
+You can find it once you go to your Resource Group and look for cloud-shell* as shown below.
