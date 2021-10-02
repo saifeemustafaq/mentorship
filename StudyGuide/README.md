@@ -1,1 +1,1 @@
-Study guides and other PDFs
+# Study guides and other relavent PDFs.
